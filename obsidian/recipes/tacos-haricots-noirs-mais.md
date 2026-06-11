@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: tacos-haricots-noirs-mais
-title: Tacos aux haricots noirs et maïs
+title: "Tacos aux haricots noirs et maïs"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 15
 cook_time_minutes: 12
 total_time_minutes: 27
 difficulty: facile
-tags: ["vegetarien", "tacos", "rapide", "haricots"]
+tags: ["vegetarien","tacos","rapide","haricots"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 2050
+  calories_per_serving: 512
+  protein_g: 66
+  carbs_g: 276
+  fat_g: 68
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: chili-sin-carne-riz
-title: Chili sin carne et riz
+title: "Chili sin carne et riz"
 servings: "2 adultes + 2 jeunes enfants + restes"
 vegetarian: true
 meal_types: ["diner", "dejeuner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 15
 cook_time_minutes: 30
 total_time_minutes: 45
 difficulty: facile
-tags: ["vegetarien", "chili", "haricots", "restes"]
+tags: ["vegetarien","chili","haricots","restes"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 2320
+  calories_per_serving: 464
+  protein_g: 88
+  carbs_g: 356
+  fat_g: 54
+used_in_weeks: ["2026-W24"]
 status: active
 ---
 

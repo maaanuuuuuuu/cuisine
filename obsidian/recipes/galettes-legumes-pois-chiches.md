@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: galettes-legumes-pois-chiches
-title: Galettes de légumes et pois chiches
+title: "Galettes de légumes et pois chiches"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["dejeuner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 20
 cook_time_minutes: 18
 total_time_minutes: 38
 difficulty: facile
-tags: ["vegetarien", "dejeuner", "pois chiches", "galettes"]
+tags: ["vegetarien","dejeuner","pois chiches","galettes"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 1540
+  calories_per_serving: 385
+  protein_g: 58
+  carbs_g: 176
+  fat_g: 54
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 

@@ -37,6 +37,10 @@ function frontmatterValue(frontmatter, key) {
   return match ? match[1].trim().replace(/^["']|["']$/g, "") : null;
 }
 
+function frontmatterHasKey(frontmatter, key) {
+  return new RegExp(`^${key}:`, "m").test(frontmatter);
+}
+
 function countMeals(week, type) {
   return week.days.reduce((count, day) => count + day.meals.filter((meal) => meal.type === type).length, 0);
 }
@@ -114,6 +118,39 @@ async function validateRecipeNotes(recipes) {
     }
     if (!frontmatterValue(frontmatter, "title")) {
       fail(`obsidian/recipes/${recipe.slug}.md: title manquant`);
+    }
+    for (const key of [
+      "servings",
+      "vegetarian",
+      "meal_types",
+      "prep_time_minutes",
+      "cook_time_minutes",
+      "total_time_minutes",
+      "difficulty",
+      "tags",
+      "raw_alliums",
+      "nutrition",
+      "used_in_weeks",
+      "status"
+    ]) {
+      if (!frontmatterHasKey(frontmatter, key)) {
+        fail(`obsidian/recipes/${recipe.slug}.md: champ frontmatter ${key} manquant`);
+      }
+    }
+    for (const key of ["garlic", "onion", "shallot"]) {
+      if (!new RegExp(`^\\s+${key}:\\s+(true|false)`, "m").test(frontmatter)) {
+        fail(`obsidian/recipes/${recipe.slug}.md: raw_alliums.${key} manquant ou invalide`);
+      }
+    }
+    for (const key of ["calories_total", "calories_per_serving", "protein_g", "carbs_g", "fat_g"]) {
+      if (!new RegExp(`^\\s+${key}:\\s+`, "m").test(frontmatter)) {
+        fail(`obsidian/recipes/${recipe.slug}.md: nutrition.${key} manquant`);
+      }
+    }
+    for (const heading of ["## Résumé", "## Alertes", "## Nutrition estimée", "## Étapes", "## Utilisation"]) {
+      if (!content.includes(heading)) {
+        fail(`obsidian/recipes/${recipe.slug}.md: section ${heading} manquante`);
+      }
     }
   }
 }
@@ -217,4 +254,3 @@ if (errors.length > 0) {
 }
 
 console.log("Validation passed.");
-

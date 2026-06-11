@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: quiche-sans-pate-poireaux-comte
-title: Quiche sans pâte poireaux comté
+title: "Quiche sans pâte poireaux comté"
 servings: "2 adultes + 2 jeunes enfants + restes"
 vegetarian: true
 meal_types: ["diner", "dejeuner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 15
 cook_time_minutes: 35
 total_time_minutes: 50
 difficulty: facile
-tags: ["vegetarien", "quiche", "poireaux", "restes"]
+tags: ["vegetarien","quiche","poireaux","restes"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 1760
+  calories_per_serving: 440
+  protein_g: 96
+  carbs_g: 92
+  fat_g: 104
+used_in_weeks: ["2026-W24"]
 status: active
 ---
 

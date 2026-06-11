@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: nouilles-tofu-brocoli-cacahuetes
-title: Nouilles sautées tofu, brocoli et cacahuètes
+title: "Nouilles sautées tofu, brocoli et cacahuètes"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 15
 cook_time_minutes: 15
 total_time_minutes: 30
 difficulty: facile
-tags: ["vegetarien", "tofu", "nouilles", "rapide"]
+tags: ["vegetarien","tofu","nouilles","rapide"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 2140
+  calories_per_serving: 535
+  protein_g: 86
+  carbs_g: 224
+  fat_g: 86
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 

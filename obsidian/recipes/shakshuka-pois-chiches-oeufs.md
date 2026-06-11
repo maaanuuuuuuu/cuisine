@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: shakshuka-pois-chiches-oeufs
-title: Shakshuka douce pois chiches et œufs
+title: "Shakshuka douce pois chiches et œufs"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 10
 cook_time_minutes: 25
 total_time_minutes: 35
 difficulty: facile
-tags: ["vegetarien", "oeufs", "pois chiches", "tomate"]
+tags: ["vegetarien","oeufs","pois chiches","tomate"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 1660
+  calories_per_serving: 415
+  protein_g: 72
+  carbs_g: 142
+  fat_g: 82
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 

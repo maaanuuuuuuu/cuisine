@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: omelette-roulee-legumes
-title: Omelette roulée aux légumes
+title: "Omelette roulée aux légumes"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 10
 cook_time_minutes: 15
 total_time_minutes: 25
 difficulty: facile
-tags: ["vegetarien", "oeufs", "rapide", "legumes"]
+tags: ["vegetarien","oeufs","rapide","legumes"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 1280
+  calories_per_serving: 320
+  protein_g: 72
+  carbs_g: 82
+  fat_g: 72
+used_in_weeks: ["2026-W24"]
 status: active
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: risotto-champignons-petits-pois
-title: Risotto champignons et petits pois
+title: "Risotto champignons et petits pois"
 servings: "2 adultes + 2 jeunes enfants + restes"
 vegetarian: true
 meal_types: ["diner", "dejeuner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 15
 cook_time_minutes: 30
 total_time_minutes: 45
 difficulty: moyen
-tags: ["vegetarien", "risotto", "restes", "champignons"]
+tags: ["vegetarien","risotto","restes","champignons"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 2420
+  calories_per_serving: 484
+  protein_g: 76
+  carbs_g: 330
+  fat_g: 78
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 

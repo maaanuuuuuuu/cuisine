@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: lasagnes-epinards-ricotta
-title: Lasagnes épinards ricotta
+title: "Lasagnes épinards ricotta"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 20
 cook_time_minutes: 40
 total_time_minutes: 60
 difficulty: moyen
-tags: ["vegetarien", "lasagnes", "epinards", "famille"]
+tags: ["vegetarien","lasagnes","epinards","famille"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 2380
+  calories_per_serving: 595
+  protein_g: 104
+  carbs_g: 218
+  fat_g: 112
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 

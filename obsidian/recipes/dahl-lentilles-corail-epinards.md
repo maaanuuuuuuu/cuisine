@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: dahl-lentilles-corail-epinards
-title: Dahl de lentilles corail aux épinards
+title: "Dahl de lentilles corail aux épinards"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 10
 cook_time_minutes: 25
 total_time_minutes: 35
 difficulty: facile
-tags: ["vegetarien", "rapide", "lentilles", "famille"]
+tags: ["vegetarien","rapide","lentilles","famille"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 1880
+  calories_per_serving: 470
+  protein_g: 70
+  carbs_g: 286
+  fat_g: 44
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 

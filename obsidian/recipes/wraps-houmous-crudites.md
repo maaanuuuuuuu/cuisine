@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: wraps-houmous-crudites
-title: Wraps houmous crudités
+title: "Wraps houmous crudités"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["dejeuner", "diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 15
 cook_time_minutes: 0
 total_time_minutes: 15
 difficulty: facile
-tags: ["vegetarien", "wraps", "rapide", "dejeuner"]
+tags: ["vegetarien","wraps","rapide","dejeuner"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 1580
+  calories_per_serving: 395
+  protein_g: 48
+  carbs_g: 198
+  fat_g: 62
+used_in_weeks: ["2026-W24"]
 status: active
 ---
 

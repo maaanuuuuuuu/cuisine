@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: gratin-courgettes-chevre-pommes-de-terre
-title: Gratin courgettes, chèvre et pommes de terre précuites
+title: "Gratin courgettes, chèvre et pommes de terre précuites"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 20
 cook_time_minutes: 35
 total_time_minutes: 55
 difficulty: facile
-tags: ["vegetarien", "gratin", "courgette", "famille"]
+tags: ["vegetarien","gratin","courgette","famille"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 1720
+  calories_per_serving: 430
+  protein_g: 62
+  carbs_g: 168
+  fat_g: 86
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: curry-pois-chiches-patate-douce
-title: Curry pois chiches et patate douce
+title: "Curry pois chiches et patate douce"
 servings: "2 adultes + 2 jeunes enfants + restes"
 vegetarian: true
 meal_types: ["diner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 15
 cook_time_minutes: 30
 total_time_minutes: 45
 difficulty: facile
-tags: ["vegetarien", "curry", "pois chiches", "restes"]
+tags: ["vegetarien","curry","pois chiches","restes"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 2260
+  calories_per_serving: 452
+  protein_g: 72
+  carbs_g: 310
+  fat_g: 74
+used_in_weeks: ["2026-W24"]
 status: active
 ---
 

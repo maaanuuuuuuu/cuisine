@@ -529,7 +529,7 @@ Avant chaque commit :
 4. Lancer `npm run site:build`.
 5. Commit seulement si les validations passent.
 
-Note actuelle : le dossier local n'est pas encore initialisé comme repo Git. Il faudra soit initialiser Git, soit connecter ce dossier à un repo existant quand l'URL GitHub sera connue.
+État actuel : le dossier local est initialisé comme repo Git sur la branche `main`. Il reste à connecter le remote GitHub quand l'URL du repo sera connue, puis à pousser la branche.
 
 ## 16. Risques et limites
 
@@ -584,9 +584,9 @@ Questions restantes avant implémentation complète :
 1. Quelle sera l'URL du repo GitHub ?
 2. Le repo GitHub sera-t-il public ou privé ?
 3. GitHub Pages publiera-t-il depuis GitHub Actions ou depuis une branche dédiée ?
-4. Faut-il initialiser ce dossier local comme repo Git ou cloner un repo existant ?
+4. Faut-il conserver le repo local actuel comme source initiale ou le raccorder à un repo GitHub déjà existant ?
 
-Ces questions ne bloquent pas la conception, mais elles seront nécessaires pour finaliser le déploiement.
+Ces questions ne bloquent pas l'implémentation locale, mais elles seront nécessaires pour finaliser le push et vérifier la publication GitHub Pages réelle.
 
 ## 18. Plan d'implémentation progressif
 

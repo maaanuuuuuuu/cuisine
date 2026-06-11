@@ -1,7 +1,7 @@
 ---
 type: recipe
 slug: salade-pates-pesto-petits-pois-feta
-title: Salade de pâtes au pesto, petits pois et feta
+title: "Salade de pâtes au pesto, petits pois et feta"
 servings: "2 adultes + 2 jeunes enfants"
 vegetarian: true
 meal_types: ["dejeuner"]
@@ -9,7 +9,18 @@ prep_time_minutes: 10
 cook_time_minutes: 12
 total_time_minutes: 22
 difficulty: facile
-tags: ["vegetarien", "dejeuner", "pates", "froid"]
+tags: ["vegetarien","dejeuner","pates","froid"]
+raw_alliums:
+  garlic: false
+  onion: false
+  shallot: false
+nutrition:
+  calories_total: 1960
+  calories_per_serving: 490
+  protein_g: 62
+  carbs_g: 226
+  fat_g: 82
+used_in_weeks: ["2026-W25"]
 status: active
 ---
 
