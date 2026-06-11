@@ -1,0 +1,386 @@
+{
+  "updated_at": "2026-06-11",
+  "recipes": [
+    {
+      "slug": "dahl-lentilles-corail-epinards",
+      "title": "Dahl de lentilles corail aux épinards",
+      "summary": "Un dahl doux, familial et nourrissant avec riz basmati.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "rapide", "lentilles", "famille"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 1880, "calories_per_serving": 470, "protein_g": 70, "carbs_g": 286, "fat_g": 44 },
+      "ingredients": [
+        { "name": "Lentilles corail", "quantity": "300 g", "section": "Épicerie salée", "calories": 1050 },
+        { "name": "Riz basmati", "quantity": "300 g cru", "section": "Épicerie salée", "calories": 1080 },
+        { "name": "Épinards frais", "quantity": "300 g", "section": "Fruits et légumes", "calories": 70 },
+        { "name": "Tomates concassées", "quantity": "400 g", "section": "Épicerie salée", "calories": 120 },
+        { "name": "Lait de coco léger", "quantity": "200 ml", "section": "Épicerie salée", "calories": 260 },
+        { "name": "Huile d'olive", "quantity": "1 c. à soupe", "section": "Basiques et épices", "calories": 120 },
+        { "name": "Curry doux", "quantity": "2 c. à café", "section": "Basiques et épices", "calories": 20 }
+      ],
+      "steps": [
+        { "title": "Cuire le riz", "text": "Cuire 300 g de riz basmati dans une casserole d'eau salée, puis égoutter." },
+        { "title": "Démarrer le dahl", "text": "Faire chauffer 1 c. à soupe d'huile d'olive avec 2 c. à café de curry doux, ajouter 300 g de lentilles corail rincées et 400 g de tomates concassées." },
+        { "title": "Mijoter", "text": "Ajouter 200 ml de lait de coco léger et 500 ml d'eau, puis mijoter 18 à 20 min jusqu'à ce que les 300 g de lentilles soient tendres." },
+        { "title": "Finir", "text": "Ajouter 300 g d'épinards frais dans le dahl chaud, laisser tomber 2 min et servir avec les 300 g de riz cuit." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "tacos-haricots-noirs-mais",
+      "title": "Tacos aux haricots noirs et maïs",
+      "summary": "Tacos végétariens rapides, à garnir à table selon les goûts.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 12,
+      "total_time_minutes": 27,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "tacos", "rapide", "haricots"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 2050, "calories_per_serving": 512, "protein_g": 66, "carbs_g": 276, "fat_g": 68 },
+      "ingredients": [
+        { "name": "Tortillas", "quantity": "8", "section": "Épicerie salée", "calories": 960 },
+        { "name": "Haricots noirs", "quantity": "2 boîtes égouttées", "section": "Épicerie salée", "calories": 620 },
+        { "name": "Maïs", "quantity": "1 boîte égouttée", "section": "Épicerie salée", "calories": 220 },
+        { "name": "Poivrons", "quantity": "2", "section": "Fruits et légumes", "calories": 80 },
+        { "name": "Avocats", "quantity": "2", "section": "Fruits et légumes", "calories": 480 },
+        { "name": "Yaourt nature", "quantity": "150 g", "section": "Frais", "calories": 95 },
+        { "name": "Cumin", "quantity": "2 c. à café", "section": "Basiques et épices", "calories": 16 }
+      ],
+      "steps": [
+        { "title": "Cuire les légumes", "text": "Faire revenir 2 poivrons émincés avec 1 c. à soupe d'huile et 2 c. à café de cumin pendant 6 min." },
+        { "title": "Ajouter les légumineuses", "text": "Ajouter 2 boîtes de haricots noirs égouttés et 1 boîte de maïs égouttée, puis chauffer 6 min." },
+        { "title": "Préparer la sauce", "text": "Écraser 2 avocats avec 150 g de yaourt nature, du sel et un filet de citron." },
+        { "title": "Servir", "text": "Réchauffer 8 tortillas et garnir chaque tortilla avec haricots, maïs, poivrons et sauce avocat-yaourt." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "salade-pates-pesto-petits-pois-feta",
+      "title": "Salade de pâtes au pesto, petits pois et feta",
+      "summary": "Déjeuner froid ou tiède, facile à préparer en avance.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 12,
+      "total_time_minutes": 22,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "dejeuner", "pates", "froid"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 1960, "calories_per_serving": 490, "protein_g": 62, "carbs_g": 226, "fat_g": 82 },
+      "ingredients": [
+        { "name": "Pâtes", "quantity": "350 g", "section": "Épicerie salée", "calories": 1260 },
+        { "name": "Petits pois", "quantity": "250 g", "section": "Surgelé", "calories": 200 },
+        { "name": "Feta", "quantity": "200 g", "section": "Frais", "calories": 530 },
+        { "name": "Pesto", "quantity": "80 g", "section": "Basiques et épices", "calories": 360 },
+        { "name": "Citron", "quantity": "1", "section": "Fruits et légumes", "calories": 15 },
+        { "name": "Salade verte", "quantity": "1/2", "section": "Fruits et légumes", "calories": 20 }
+      ],
+      "steps": [
+        { "title": "Cuire", "text": "Cuire 350 g de pâtes dans l'eau salée, ajouter 250 g de petits pois pendant les 3 dernières minutes, puis égoutter." },
+        { "title": "Assaisonner", "text": "Mélanger les 350 g de pâtes et les 250 g de petits pois avec 80 g de pesto et le jus d'1 citron." },
+        { "title": "Finir", "text": "Ajouter 200 g de feta émiettée et 1/2 salade verte lavée, puis servir tiède ou froid." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "gratin-courgettes-chevre-pommes-de-terre",
+      "title": "Gratin courgettes, chèvre et pommes de terre précuites",
+      "summary": "Gratin familial où les pommes de terre sont précuites pour rester fondantes.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "total_time_minutes": 55,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "gratin", "courgette", "famille"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 1720, "calories_per_serving": 430, "protein_g": 62, "carbs_g": 168, "fat_g": 86 },
+      "ingredients": [
+        { "name": "Courgettes", "quantity": "1,2 kg", "section": "Fruits et légumes", "calories": 200 },
+        { "name": "Pommes de terre", "quantity": "900 g", "section": "Fruits et légumes", "calories": 690 },
+        { "name": "Chèvre", "quantity": "180 g", "section": "Frais", "calories": 520 },
+        { "name": "Crème", "quantity": "200 ml", "section": "Frais", "calories": 390 },
+        { "name": "Chapelure", "quantity": "60 g", "section": "Épicerie salée", "calories": 220 }
+      ],
+      "steps": [
+        { "title": "Précuire", "text": "Couper 900 g de pommes de terre en rondelles fines et les précuire 10 min dans l'eau salée." },
+        { "title": "Préparer", "text": "Couper 1,2 kg de courgettes en demi-rondelles et les faire revenir 8 min pour retirer l'eau." },
+        { "title": "Monter", "text": "Alterner 900 g de pommes de terre précuites, 1,2 kg de courgettes, 180 g de chèvre et 200 ml de crème dans un plat." },
+        { "title": "Gratiner", "text": "Parsemer 60 g de chapelure et cuire le gratin 30 à 35 min à 190 °C." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "nouilles-tofu-brocoli-cacahuetes",
+      "title": "Nouilles sautées tofu, brocoli et cacahuètes",
+      "summary": "Plat complet au wok, avec sauce soja et cacahuète douce.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 30,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "tofu", "nouilles", "rapide"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 2140, "calories_per_serving": 535, "protein_g": 86, "carbs_g": 224, "fat_g": 86 },
+      "ingredients": [
+        { "name": "Nouilles", "quantity": "300 g", "section": "Épicerie salée", "calories": 1050 },
+        { "name": "Tofu ferme", "quantity": "400 g", "section": "Frais", "calories": 520 },
+        { "name": "Brocoli", "quantity": "600 g", "section": "Fruits et légumes", "calories": 210 },
+        { "name": "Beurre de cacahuète", "quantity": "60 g", "section": "Basiques et épices", "calories": 360 },
+        { "name": "Sauce soja", "quantity": "4 c. à soupe", "section": "Basiques et épices", "calories": 40 },
+        { "name": "Citron", "quantity": "1", "section": "Fruits et légumes", "calories": 15 }
+      ],
+      "steps": [
+        { "title": "Cuire les nouilles", "text": "Cuire 300 g de nouilles selon le paquet, puis égoutter." },
+        { "title": "Dorer le tofu", "text": "Couper 400 g de tofu en dés et le faire dorer 8 min avec 1 c. à soupe d'huile." },
+        { "title": "Ajouter le brocoli", "text": "Ajouter 600 g de brocoli en fleurettes avec 3 c. à soupe d'eau et cuire 6 min." },
+        { "title": "Saucer", "text": "Mélanger 60 g de beurre de cacahuète, 4 c. à soupe de sauce soja et le jus d'1 citron, puis enrober les 300 g de nouilles, 400 g de tofu et 600 g de brocoli." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "shakshuka-pois-chiches-oeufs",
+      "title": "Shakshuka douce pois chiches et œufs",
+      "summary": "Poêlée tomate-pois chiches avec œufs, sans piment fort.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "oeufs", "pois chiches", "tomate"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 1660, "calories_per_serving": 415, "protein_g": 72, "carbs_g": 142, "fat_g": 82 },
+      "ingredients": [
+        { "name": "Tomates concassées", "quantity": "800 g", "section": "Épicerie salée", "calories": 240 },
+        { "name": "Pois chiches", "quantity": "1 boîte égouttée", "section": "Épicerie salée", "calories": 420 },
+        { "name": "Œufs", "quantity": "6", "section": "Frais", "calories": 420 },
+        { "name": "Poivrons", "quantity": "2", "section": "Fruits et légumes", "calories": 80 },
+        { "name": "Pain ou riz", "quantity": "250 g", "section": "Boulangerie", "calories": 650 },
+        { "name": "Paprika fumé", "quantity": "1 c. à café", "section": "Basiques et épices", "calories": 6 }
+      ],
+      "steps": [
+        { "title": "Préparer la sauce", "text": "Faire revenir 2 poivrons en dés avec 1 c. à soupe d'huile et 1 c. à café de paprika fumé pendant 8 min." },
+        { "title": "Mijoter", "text": "Ajouter 800 g de tomates concassées et 1 boîte de pois chiches égouttés, puis mijoter 12 min." },
+        { "title": "Cuire les œufs", "text": "Creuser 6 petits nids dans la sauce tomate-pois chiches et casser 6 œufs dedans, puis couvrir 6 à 8 min." },
+        { "title": "Servir", "text": "Servir la shakshuka avec 250 g de pain ou de riz." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "galettes-legumes-pois-chiches",
+      "title": "Galettes de légumes et pois chiches",
+      "summary": "Galettes dorées à la poêle avec sauce yaourt citron.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 18,
+      "total_time_minutes": 38,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "dejeuner", "pois chiches", "galettes"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 1540, "calories_per_serving": 385, "protein_g": 58, "carbs_g": 176, "fat_g": 54 },
+      "ingredients": [
+        { "name": "Pois chiches", "quantity": "2 boîtes égouttées", "section": "Épicerie salée", "calories": 840 },
+        { "name": "Carottes", "quantity": "300 g", "section": "Fruits et légumes", "calories": 120 },
+        { "name": "Farine", "quantity": "80 g", "section": "Basiques et épices", "calories": 290 },
+        { "name": "Œufs", "quantity": "2", "section": "Frais", "calories": 140 },
+        { "name": "Yaourt nature", "quantity": "100 g", "section": "Frais", "calories": 65 },
+        { "name": "Citron", "quantity": "1", "section": "Fruits et légumes", "calories": 15 }
+      ],
+      "steps": [
+        { "title": "Écraser", "text": "Écraser 2 boîtes de pois chiches égouttés avec 300 g de carottes râpées." },
+        { "title": "Lier", "text": "Ajouter 80 g de farine, 2 œufs, du sel et du poivre aux pois chiches et carottes." },
+        { "title": "Cuire", "text": "Former 10 petites galettes et les cuire 4 min par face avec 1 c. à soupe d'huile." },
+        { "title": "Servir", "text": "Mélanger 100 g de yaourt nature avec le jus d'1 citron et servir avec les galettes." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "risotto-champignons-petits-pois",
+      "title": "Risotto champignons et petits pois",
+      "summary": "Risotto crémeux prévu en quantité suffisante pour un reste le lendemain.",
+      "servings": "2 adultes + 2 jeunes enfants + restes",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty": "moyen",
+      "tags": ["vegetarien", "risotto", "restes", "champignons"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 2420, "calories_per_serving": 484, "protein_g": 76, "carbs_g": 330, "fat_g": 78 },
+      "ingredients": [
+        { "name": "Riz arborio", "quantity": "400 g", "section": "Épicerie salée", "calories": 1440 },
+        { "name": "Champignons", "quantity": "500 g", "section": "Fruits et légumes", "calories": 110 },
+        { "name": "Petits pois", "quantity": "350 g", "section": "Surgelé", "calories": 280 },
+        { "name": "Parmesan", "quantity": "80 g", "section": "Frais", "calories": 340 },
+        { "name": "Bouillon de légumes", "quantity": "1,2 L", "section": "Épicerie salée", "calories": 60 },
+        { "name": "Huile d'olive", "quantity": "1 c. à soupe", "section": "Basiques et épices", "calories": 120 }
+      ],
+      "steps": [
+        { "title": "Poêler", "text": "Faire revenir 500 g de champignons émincés avec 1 c. à soupe d'huile pendant 8 min." },
+        { "title": "Nacrer", "text": "Ajouter 400 g de riz arborio aux 500 g de champignons et remuer 2 min." },
+        { "title": "Mouiller", "text": "Ajouter 1,2 L de bouillon chaud louche par louche pendant environ 20 min." },
+        { "title": "Finir", "text": "Ajouter 350 g de petits pois et 80 g de parmesan, cuire encore 3 min et garder un reste pour dimanche midi." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "lasagnes-epinards-ricotta",
+      "title": "Lasagnes épinards ricotta",
+      "summary": "Lasagnes végétariennes douces avec épinards, ricotta et mozzarella.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "total_time_minutes": 60,
+      "difficulty": "moyen",
+      "tags": ["vegetarien", "lasagnes", "epinards", "famille"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 2380, "calories_per_serving": 595, "protein_g": 104, "carbs_g": 218, "fat_g": 112 },
+      "ingredients": [
+        { "name": "Feuilles de lasagne", "quantity": "250 g", "section": "Épicerie salée", "calories": 875 },
+        { "name": "Épinards frais", "quantity": "300 g", "section": "Fruits et légumes", "calories": 70 },
+        { "name": "Ricotta", "quantity": "500 g", "section": "Frais", "calories": 870 },
+        { "name": "Mozzarella", "quantity": "250 g", "section": "Frais", "calories": 700 },
+        { "name": "Tomates concassées", "quantity": "400 g", "section": "Épicerie salée", "calories": 120 }
+      ],
+      "steps": [
+        { "title": "Préparer les épinards", "text": "Faire tomber 300 g d'épinards frais 3 min à la poêle, puis les mélanger avec 500 g de ricotta." },
+        { "title": "Monter", "text": "Alterner 250 g de feuilles de lasagne, 400 g de tomates concassées et le mélange 300 g d'épinards-500 g de ricotta." },
+        { "title": "Gratiner", "text": "Ajouter 250 g de mozzarella sur le dessus et cuire 40 min à 180 °C." }
+      ],
+      "used_in_weeks": ["2026-W25"]
+    },
+    {
+      "slug": "curry-pois-chiches-patate-douce",
+      "title": "Curry pois chiches et patate douce",
+      "summary": "Curry doux, rassasiant et facile à réchauffer.",
+      "servings": "2 adultes + 2 jeunes enfants + restes",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "curry", "pois chiches", "restes"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 2260, "calories_per_serving": 452, "protein_g": 72, "carbs_g": 310, "fat_g": 74 },
+      "ingredients": [
+        { "name": "Pois chiches", "quantity": "2 boîtes égouttées", "section": "Épicerie salée", "calories": 840 },
+        { "name": "Patates douces", "quantity": "800 g", "section": "Fruits et légumes", "calories": 680 },
+        { "name": "Lait de coco léger", "quantity": "300 ml", "section": "Épicerie salée", "calories": 390 },
+        { "name": "Riz", "quantity": "300 g cru", "section": "Épicerie salée", "calories": 1080 },
+        { "name": "Curry doux", "quantity": "2 c. à café", "section": "Basiques et épices", "calories": 20 }
+      ],
+      "steps": [
+        { "title": "Cuire le riz", "text": "Cuire 300 g de riz dans l'eau salée, puis égoutter." },
+        { "title": "Mijoter", "text": "Mijoter 800 g de patates douces en cubes avec 2 boîtes de pois chiches, 300 ml de lait de coco et 2 c. à café de curry pendant 25 min." },
+        { "title": "Servir", "text": "Servir le curry de 800 g de patates douces et 2 boîtes de pois chiches avec les 300 g de riz cuit." }
+      ],
+      "used_in_weeks": ["2026-W24"]
+    },
+    {
+      "slug": "quiche-sans-pate-poireaux-comte",
+      "title": "Quiche sans pâte poireaux comté",
+      "summary": "Quiche familiale rapide, bonne chaude ou froide.",
+      "servings": "2 adultes + 2 jeunes enfants + restes",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 35,
+      "total_time_minutes": 50,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "quiche", "poireaux", "restes"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 1760, "calories_per_serving": 440, "protein_g": 96, "carbs_g": 92, "fat_g": 104 },
+      "ingredients": [
+        { "name": "Poireaux", "quantity": "600 g", "section": "Fruits et légumes", "calories": 180 },
+        { "name": "Œufs", "quantity": "6", "section": "Frais", "calories": 420 },
+        { "name": "Lait", "quantity": "300 ml", "section": "Frais", "calories": 150 },
+        { "name": "Farine", "quantity": "80 g", "section": "Basiques et épices", "calories": 290 },
+        { "name": "Comté", "quantity": "160 g", "section": "Frais", "calories": 650 }
+      ],
+      "steps": [
+        { "title": "Cuire les poireaux", "text": "Faire revenir 600 g de poireaux émincés 12 min avec 1 c. à soupe d'huile." },
+        { "title": "Mélanger", "text": "Battre 6 œufs avec 300 ml de lait, 80 g de farine et 160 g de comté râpé." },
+        { "title": "Cuire", "text": "Ajouter les 600 g de poireaux à l'appareil et cuire 35 min à 180 °C." }
+      ],
+      "used_in_weeks": ["2026-W24"]
+    },
+    {
+      "slug": "chili-sin-carne-riz",
+      "title": "Chili sin carne et riz",
+      "summary": "Chili doux aux haricots rouges, prévu pour faire des restes.",
+      "servings": "2 adultes + 2 jeunes enfants + restes",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "chili", "haricots", "restes"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 2320, "calories_per_serving": 464, "protein_g": 88, "carbs_g": 356, "fat_g": 54 },
+      "ingredients": [
+        { "name": "Haricots rouges", "quantity": "2 boîtes égouttées", "section": "Épicerie salée", "calories": 780 },
+        { "name": "Tomates concassées", "quantity": "800 g", "section": "Épicerie salée", "calories": 240 },
+        { "name": "Maïs", "quantity": "1 boîte", "section": "Épicerie salée", "calories": 220 },
+        { "name": "Riz", "quantity": "350 g cru", "section": "Épicerie salée", "calories": 1260 },
+        { "name": "Paprika fumé", "quantity": "1 c. à café", "section": "Basiques et épices", "calories": 6 }
+      ],
+      "steps": [
+        { "title": "Cuire le riz", "text": "Cuire 350 g de riz dans l'eau salée et égoutter." },
+        { "title": "Mijoter le chili", "text": "Mijoter 2 boîtes de haricots rouges, 800 g de tomates concassées, 1 boîte de maïs et 1 c. à café de paprika pendant 25 min." },
+        { "title": "Servir", "text": "Servir le chili avec les 350 g de riz cuit et garder les restes pour dimanche midi." }
+      ],
+      "used_in_weeks": ["2026-W24"]
+    },
+    {
+      "slug": "wraps-houmous-crudites",
+      "title": "Wraps houmous crudités",
+      "summary": "Wraps frais et assemblés rapidement, sans oignon cru.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 15,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "wraps", "rapide", "dejeuner"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 1580, "calories_per_serving": 395, "protein_g": 48, "carbs_g": 198, "fat_g": 62 },
+      "ingredients": [
+        { "name": "Tortillas", "quantity": "6", "section": "Épicerie salée", "calories": 720 },
+        { "name": "Houmous", "quantity": "250 g", "section": "Frais", "calories": 600 },
+        { "name": "Carottes", "quantity": "250 g", "section": "Fruits et légumes", "calories": 100 },
+        { "name": "Concombre", "quantity": "1", "section": "Fruits et légumes", "calories": 45 },
+        { "name": "Salade verte", "quantity": "1/2", "section": "Fruits et légumes", "calories": 20 }
+      ],
+      "steps": [
+        { "title": "Préparer", "text": "Râper 250 g de carottes, couper 1 concombre en bâtonnets et laver 1/2 salade." },
+        { "title": "Garnir", "text": "Étaler 250 g de houmous sur 6 tortillas." },
+        { "title": "Rouler", "text": "Répartir 250 g de carottes, 1 concombre et 1/2 salade sur les 6 tortillas, puis rouler." }
+      ],
+      "used_in_weeks": ["2026-W24"]
+    },
+    {
+      "slug": "omelette-roulee-legumes",
+      "title": "Omelette roulée aux légumes",
+      "summary": "Omelette familiale aux légumes cuits, rapide pour un soir.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty": "facile",
+      "tags": ["vegetarien", "oeufs", "rapide", "legumes"],
+      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
+      "nutrition": { "calories_total": 1280, "calories_per_serving": 320, "protein_g": 72, "carbs_g": 82, "fat_g": 72 },
+      "ingredients": [
+        { "name": "Œufs", "quantity": "8", "section": "Frais", "calories": 560 },
+        { "name": "Courgette", "quantity": "1", "section": "Fruits et légumes", "calories": 35 },
+        { "name": "Carottes", "quantity": "200 g", "section": "Fruits et légumes", "calories": 80 },
+        { "name": "Fromage râpé", "quantity": "100 g", "section": "Frais", "calories": 380 },
+        { "name": "Pain", "quantity": "200 g", "section": "Boulangerie", "calories": 520 }
+      ],
+      "steps": [
+        { "title": "Cuire les légumes", "text": "Faire revenir 1 courgette râpée et 200 g de carottes râpées 6 min." },
+        { "title": "Ajouter les œufs", "text": "Battre 8 œufs, les verser sur les légumes et cuire doucement 6 à 8 min." },
+        { "title": "Rouler", "text": "Parsemer 100 g de fromage râpé, rouler l'omelette et servir avec 200 g de pain." }
+      ],
+      "used_in_weeks": ["2026-W24"]
+    }
+  ]
+}
+

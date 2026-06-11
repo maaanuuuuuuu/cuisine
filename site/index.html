@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cuisine - Planning</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body data-page="home">
+    <header class="topbar">
+      <a class="brand" href="index.html">Cuisine</a>
+      <nav class="nav">
+        <a href="index.html" aria-current="page">Planning</a>
+        <a href="recipes.html">Recettes</a>
+      </nav>
+    </header>
+
+    <main class="shell">
+      <section class="section-header">
+        <p class="eyebrow">Semaine</p>
+        <h1>Planning repas</h1>
+      </section>
+
+      <section class="tabs" aria-label="Choix du planning">
+        <button class="tab-button is-active" data-week-tab="current" type="button">Semaine courante</button>
+        <button class="tab-button" data-week-tab="previous" type="button">Semaine précédente</button>
+      </section>
+
+      <section id="week-view" class="week-grid" aria-live="polite"></section>
+
+      <section class="section-header compact">
+        <p class="eyebrow">Courses</p>
+        <h2>Liste consolidée</h2>
+      </section>
+      <section id="shopping-list" class="shopping-grid" aria-live="polite"></section>
+    </main>
+
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>
+

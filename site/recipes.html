@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cuisine - Recettes</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body data-page="recipes">
+    <header class="topbar">
+      <a class="brand" href="index.html">Cuisine</a>
+      <nav class="nav">
+        <a href="index.html">Planning</a>
+        <a href="recipes.html" aria-current="page">Recettes</a>
+      </nav>
+    </header>
+
+    <main class="shell">
+      <section class="section-header">
+        <p class="eyebrow">Catalogue</p>
+        <h1>Recettes générées</h1>
+      </section>
+
+      <label class="search">
+        <span>Recherche</span>
+        <input id="recipe-search" type="search" placeholder="Titre, ingrédient, tag..." autocomplete="off">
+      </label>
+
+      <section id="recipe-results" class="recipe-list" aria-live="polite"></section>
+    </main>
+
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>
+

@@ -1,0 +1,115 @@
+{
+  "week": "2026-W24",
+  "title": "Semaine du 8 au 14 juin 2026",
+  "start_date": "2026-06-08",
+  "end_date": "2026-06-14",
+  "status": "previous",
+  "days": [
+    {
+      "label": "Lundi",
+      "date": "2026-06-08",
+      "meals": [
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "curry-pois-chiches-patate-douce",
+          "recipe_title": "Curry pois chiches et patate douce"
+        }
+      ]
+    },
+    {
+      "label": "Mardi",
+      "date": "2026-06-09",
+      "meals": [
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "quiche-sans-pate-poireaux-comte",
+          "recipe_title": "Quiche sans pâte poireaux comté"
+        }
+      ]
+    },
+    {
+      "label": "Mercredi",
+      "date": "2026-06-10",
+      "meals": [
+        {
+          "type": "lunch",
+          "type_label": "Déjeuner",
+          "recipe_slug": "wraps-houmous-crudites",
+          "recipe_title": "Wraps houmous crudités"
+        },
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "chili-sin-carne-riz",
+          "recipe_title": "Chili sin carne et riz"
+        }
+      ]
+    },
+    {
+      "label": "Jeudi",
+      "date": "2026-06-11",
+      "meals": [
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "omelette-roulee-legumes",
+          "recipe_title": "Omelette roulée aux légumes"
+        }
+      ]
+    },
+    {
+      "label": "Vendredi",
+      "date": "2026-06-12",
+      "meals": [
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "curry-pois-chiches-patate-douce",
+          "recipe_title": "Curry pois chiches et patate douce",
+          "note": "Restes réchauffés avec un peu d'eau."
+        }
+      ]
+    },
+    {
+      "label": "Samedi",
+      "date": "2026-06-13",
+      "meals": [
+        {
+          "type": "lunch",
+          "type_label": "Déjeuner",
+          "recipe_slug": "quiche-sans-pate-poireaux-comte",
+          "recipe_title": "Quiche sans pâte poireaux comté",
+          "note": "Restes froids ou tièdes."
+        },
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "wraps-houmous-crudites",
+          "recipe_title": "Wraps houmous crudités"
+        }
+      ]
+    },
+    {
+      "label": "Dimanche",
+      "date": "2026-06-14",
+      "meals": [
+        {
+          "type": "lunch",
+          "type_label": "Déjeuner",
+          "recipe_slug": "chili-sin-carne-riz",
+          "recipe_title": "Chili sin carne et riz",
+          "note": "Restes avec riz frais si besoin."
+        },
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "omelette-roulee-legumes",
+          "recipe_title": "Omelette roulée aux légumes"
+        }
+      ]
+    }
+  ]
+}
+

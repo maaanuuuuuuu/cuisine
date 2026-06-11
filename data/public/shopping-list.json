@@ -1,0 +1,75 @@
+{
+  "week": "2026-W25",
+  "title": "Liste de courses 2026-W25",
+  "sections": [
+    {
+      "name": "Fruits et légumes",
+      "items": [
+        { "name": "Épinards frais", "quantity": "600 g" },
+        { "name": "Courgettes", "quantity": "1,2 kg" },
+        { "name": "Pommes de terre", "quantity": "900 g" },
+        { "name": "Brocoli", "quantity": "600 g" },
+        { "name": "Champignons", "quantity": "500 g" },
+        { "name": "Carottes", "quantity": "500 g" },
+        { "name": "Poivrons", "quantity": "4" },
+        { "name": "Tomates concassées ou tomates fraîches", "quantity": "1,6 kg" },
+        { "name": "Salade verte", "quantity": "1" },
+        { "name": "Citrons", "quantity": "3" },
+        { "name": "Avocats", "quantity": "2" }
+      ]
+    },
+    {
+      "name": "Épicerie salée",
+      "items": [
+        { "name": "Lentilles corail", "quantity": "300 g" },
+        { "name": "Riz basmati ou arborio", "quantity": "900 g" },
+        { "name": "Haricots noirs", "quantity": "2 boîtes" },
+        { "name": "Pois chiches", "quantity": "3 boîtes" },
+        { "name": "Maïs", "quantity": "1 boîte" },
+        { "name": "Pâtes", "quantity": "650 g" },
+        { "name": "Nouilles de blé ou soba", "quantity": "300 g" },
+        { "name": "Feuilles de lasagne", "quantity": "250 g" },
+        { "name": "Tortillas", "quantity": "8" },
+        { "name": "Chapelure", "quantity": "80 g" },
+        { "name": "Bouillon de légumes", "quantity": "2 L" }
+      ]
+    },
+    {
+      "name": "Frais",
+      "items": [
+        { "name": "Tofu ferme", "quantity": "400 g" },
+        { "name": "Feta", "quantity": "200 g" },
+        { "name": "Chèvre", "quantity": "180 g" },
+        { "name": "Ricotta", "quantity": "500 g" },
+        { "name": "Mozzarella", "quantity": "250 g" },
+        { "name": "Parmesan", "quantity": "120 g" },
+        { "name": "Œufs", "quantity": "10" },
+        { "name": "Yaourt nature", "quantity": "250 g" },
+        { "name": "Crème ou alternative", "quantity": "300 ml" }
+      ]
+    },
+    {
+      "name": "Surgelé",
+      "items": [
+        { "name": "Petits pois", "quantity": "600 g" }
+      ]
+    },
+    {
+      "name": "Basiques et épices",
+      "items": [
+        { "name": "Huile d'olive", "quantity": "1 bouteille" },
+        { "name": "Huile neutre", "quantity": "1 bouteille" },
+        { "name": "Sel", "quantity": "1 paquet" },
+        { "name": "Poivre", "quantity": "1 moulin ou recharge" },
+        { "name": "Curry doux", "quantity": "1 pot" },
+        { "name": "Cumin", "quantity": "1 pot" },
+        { "name": "Paprika fumé", "quantity": "1 pot" },
+        { "name": "Sauce soja", "quantity": "1 bouteille" },
+        { "name": "Beurre de cacahuète", "quantity": "1 pot" },
+        { "name": "Pesto", "quantity": "1 pot" },
+        { "name": "Farine", "quantity": "1 paquet" }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,12 @@
+{
+  "name": "codex-cuisine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "site:build": "node scripts/build-site.js",
+    "site:dev": "node scripts/dev-server.js"
+  }
+}
+

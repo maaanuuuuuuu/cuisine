@@ -1,0 +1,113 @@
+{
+  "week": "2026-W25",
+  "title": "Semaine du 15 au 21 juin 2026",
+  "start_date": "2026-06-15",
+  "end_date": "2026-06-21",
+  "status": "current",
+  "days": [
+    {
+      "label": "Lundi",
+      "date": "2026-06-15",
+      "meals": [
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "dahl-lentilles-corail-epinards",
+          "recipe_title": "Dahl de lentilles corail aux épinards"
+        }
+      ]
+    },
+    {
+      "label": "Mardi",
+      "date": "2026-06-16",
+      "meals": [
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "tacos-haricots-noirs-mais",
+          "recipe_title": "Tacos aux haricots noirs et maïs"
+        }
+      ]
+    },
+    {
+      "label": "Mercredi",
+      "date": "2026-06-17",
+      "meals": [
+        {
+          "type": "lunch",
+          "type_label": "Déjeuner",
+          "recipe_slug": "salade-pates-pesto-petits-pois-feta",
+          "recipe_title": "Salade de pâtes au pesto, petits pois et feta"
+        },
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "gratin-courgettes-chevre-pommes-de-terre",
+          "recipe_title": "Gratin courgettes, chèvre et pommes de terre précuites"
+        }
+      ]
+    },
+    {
+      "label": "Jeudi",
+      "date": "2026-06-18",
+      "meals": [
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "nouilles-tofu-brocoli-cacahuetes",
+          "recipe_title": "Nouilles sautées tofu, brocoli et cacahuètes"
+        }
+      ]
+    },
+    {
+      "label": "Vendredi",
+      "date": "2026-06-19",
+      "meals": [
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "shakshuka-pois-chiches-oeufs",
+          "recipe_title": "Shakshuka douce pois chiches et œufs"
+        }
+      ]
+    },
+    {
+      "label": "Samedi",
+      "date": "2026-06-20",
+      "meals": [
+        {
+          "type": "lunch",
+          "type_label": "Déjeuner",
+          "recipe_slug": "galettes-legumes-pois-chiches",
+          "recipe_title": "Galettes de légumes et pois chiches"
+        },
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "risotto-champignons-petits-pois",
+          "recipe_title": "Risotto champignons et petits pois"
+        }
+      ]
+    },
+    {
+      "label": "Dimanche",
+      "date": "2026-06-21",
+      "meals": [
+        {
+          "type": "lunch",
+          "type_label": "Déjeuner",
+          "recipe_slug": "risotto-champignons-petits-pois",
+          "recipe_title": "Risotto champignons et petits pois",
+          "note": "Prévoir une portion supplémentaire le samedi soir pour un déjeuner très rapide."
+        },
+        {
+          "type": "dinner",
+          "type_label": "Dîner",
+          "recipe_slug": "lasagnes-epinards-ricotta",
+          "recipe_title": "Lasagnes épinards ricotta"
+        }
+      ]
+    }
+  ]
+}
+
