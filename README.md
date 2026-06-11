@@ -90,7 +90,7 @@ Il publie :
 
 - le planning de la semaine courante ;
 - le planning de la semaine précédente ;
-- la liste de courses de la semaine courante ;
+- la liste de courses de la semaine courante, aussi disponible sur `shopping.html` ;
 - toutes les recettes générées publiables, avec recherche par mots clés.
 
 ## État Git

@@ -83,6 +83,10 @@ function renderShopping(container, shopping) {
     .join("");
 }
 
+function countShoppingItems(shopping) {
+  return (shopping?.sections || []).reduce((total, section) => total + (section.items || []).length, 0);
+}
+
 async function initHome() {
   const [currentWeek, previousWeek, recipesData, shopping] = await Promise.all([
     getJson("current-week.json"),
@@ -106,6 +110,22 @@ async function initHome() {
       renderWeek(weekView, selected, recipeMap);
     });
   });
+}
+
+async function initShopping() {
+  const [currentWeek, shopping] = await Promise.all([
+    getJson("current-week.json"),
+    getJson("shopping-list.json")
+  ]);
+
+  const summary = document.querySelector("#shopping-page-summary");
+  const count = countShoppingItems(shopping);
+  summary.innerHTML = `
+    <strong>${escapeHtml(shopping.title || "Liste de courses")}</strong><br>
+    <span class="small">${escapeHtml(currentWeek.title)} · ${count} articles · basiques du placard inclus</span>
+  `;
+
+  renderShopping(document.querySelector("#shopping-page-list"), shopping);
 }
 
 function recipeSearchText(recipe) {
@@ -239,10 +259,10 @@ async function main() {
     if (page === "home") await initHome();
     if (page === "recipes") await initRecipes();
     if (page === "recipe") await initRecipeDetail();
+    if (page === "shopping") await initShopping();
   } catch (error) {
     document.querySelector("main").innerHTML = `<div class="notice warn">${escapeHtml(error.message)}</div>`;
   }
 }
 
 main();
-

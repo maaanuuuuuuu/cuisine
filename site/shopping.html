@@ -3,21 +3,30 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cuisine - Recette</title>
+    <title>Cuisine - Courses</title>
     <link rel="stylesheet" href="assets/styles.css">
   </head>
-  <body data-page="recipe">
+  <body data-page="shopping">
     <header class="topbar">
       <a class="brand" href="index.html">Cuisine</a>
       <nav class="nav">
         <a href="index.html">Planning</a>
         <a href="recipes.html">Recettes</a>
-        <a href="shopping.html">Courses</a>
+        <a href="shopping.html" aria-current="page">Courses</a>
       </nav>
     </header>
 
-    <main id="recipe-detail" class="shell" aria-live="polite"></main>
+    <main class="shell">
+      <section class="section-header">
+        <p class="eyebrow">Liste</p>
+        <h1>Courses</h1>
+      </section>
+
+      <section id="shopping-page-summary" class="notice" aria-live="polite"></section>
+      <section id="shopping-page-list" class="shopping-grid shopping-page" aria-live="polite"></section>
+    </main>
 
     <script src="assets/app.js" type="module"></script>
   </body>
 </html>
+

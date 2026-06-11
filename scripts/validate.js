@@ -82,6 +82,7 @@ async function validateRequiredFiles() {
     "site/index.html",
     "site/recipes.html",
     "site/recipe.html",
+    "site/shopping.html",
     "site/app.js",
     "site/styles.css"
   ];

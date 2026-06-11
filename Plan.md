@@ -398,6 +398,7 @@ Le site peut fonctionner avec :
 - `dist/index.html` pour la semaine courante et l'accès au planning de la semaine précédente ;
 - `dist/recipes.html` pour rechercher dans toutes les recettes générées ;
 - `dist/recipe.html?slug=...` pour le détail d'une recette ;
+- `dist/shopping.html` pour la liste de courses consolidée en plein écran ;
 - `dist/assets/app.js` ;
 - `dist/assets/styles.css` ;
 - `dist/data/*.json`.
@@ -453,6 +454,7 @@ Pages minimales :
    - groupée par rayon ;
    - quantités consolidées ;
    - basiques inclus.
+   - accessible depuis une page dédiée `shopping.html` et depuis l'accueil.
 
 Design :
 
@@ -645,6 +647,8 @@ Créer :
 
 - `site/index.html` ;
 - `site/recipe.html` ;
+- `site/recipes.html` ;
+- `site/shopping.html` ;
 - `site/app.js` ;
 - `site/styles.css` ;
 - `scripts/build-site.js`.
