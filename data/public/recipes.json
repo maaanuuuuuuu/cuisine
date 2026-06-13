@@ -1,386 +1,1195 @@
 {
-  "updated_at": "2026-06-11",
+  "updated_at": "2026-06-13",
   "recipes": [
     {
-      "slug": "dahl-lentilles-corail-epinards",
-      "title": "Dahl de lentilles corail aux épinards",
-      "summary": "Un dahl doux, familial et nourrissant avec riz basmati.",
+      "slug": "frittata-petits-pois-pommes-de-terre-tomates",
+      "title": "Frittata petits pois, pommes de terre et tomates",
+      "summary": "Le plat de vendredi, c'est une frittata complète aux œufs, petits pois, pommes de terre précuites, tomates et fromage doux. Elle se prépare en 35 minutes avec des légumes familiers, une texture moelleuse et une cuisson simple qui convient bien à un dîner familial.",
       "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
       "prep_time_minutes": 10,
       "cook_time_minutes": 25,
       "total_time_minutes": 35,
       "difficulty": "facile",
-      "tags": ["vegetarien", "rapide", "lentilles", "famille"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 1880, "calories_per_serving": 470, "protein_g": 70, "carbs_g": 286, "fat_g": 44 },
+      "tags": [
+        "famille",
+        "vegetarien",
+        "oeufs",
+        "legumes"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1750,
+        "calories_per_serving": 440,
+        "protein_g": 106,
+        "carbs_g": 141,
+        "fat_g": 87
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
       "ingredients": [
-        { "name": "Lentilles corail", "quantity": "300 g", "section": "Épicerie salée", "calories": 1050 },
-        { "name": "Riz basmati", "quantity": "300 g cru", "section": "Épicerie salée", "calories": 1080 },
-        { "name": "Épinards frais", "quantity": "300 g", "section": "Fruits et légumes", "calories": 70 },
-        { "name": "Tomates concassées", "quantity": "400 g", "section": "Épicerie salée", "calories": 120 },
-        { "name": "Lait de coco léger", "quantity": "200 ml", "section": "Épicerie salée", "calories": 260 },
-        { "name": "Huile d'olive", "quantity": "1 c. à soupe", "section": "Basiques et épices", "calories": 120 },
-        { "name": "Curry doux", "quantity": "2 c. à café", "section": "Basiques et épices", "calories": 20 }
+        {
+          "name": "Œufs",
+          "quantity": "8 moyens",
+          "calories": 576,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pommes de terre précuites",
+          "quantity": "500 g",
+          "calories": 385,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Petits pois surgelés ou frais",
+          "quantity": "250 g",
+          "calories": 200,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "300 g",
+          "calories": 54,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Fromage doux râpé",
+          "quantity": "100 g",
+          "calories": 380,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "80 ml",
+          "calories": 38,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml",
+          "calories": 119,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin, poivre doux, herbes",
+          "quantity": "Selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
       ],
       "steps": [
-        { "title": "Cuire le riz", "text": "Cuire 300 g de riz basmati dans une casserole d'eau salée, puis égoutter." },
-        { "title": "Démarrer le dahl", "text": "Faire chauffer 1 c. à soupe d'huile d'olive avec 2 c. à café de curry doux, ajouter 300 g de lentilles corail rincées et 400 g de tomates concassées." },
-        { "title": "Mijoter", "text": "Ajouter 200 ml de lait de coco léger et 500 ml d'eau, puis mijoter 18 à 20 min jusqu'à ce que les 300 g de lentilles soient tendres." },
-        { "title": "Finir", "text": "Ajouter 300 g d'épinards frais dans le dahl chaud, laisser tomber 2 min et servir avec les 300 g de riz cuit." }
-      ],
-      "used_in_weeks": ["2026-W25"]
+        {
+          "title": "Prépare le four et les légumes",
+          "text": "Préchauffe le four à 190 °C. Coupe 500 g de pommes de terre précuites en cubes d'environ 2 cm, coupe 300 g de tomates en petits quartiers et mesure 250 g de petits pois."
+        },
+        {
+          "title": "Dore les pommes de terre et les petits pois",
+          "text": "Dans une grande poêle allant au four, chauffe 15 ml d'huile d'olive, puis ajoute 500 g de pommes de terre précuites, 250 g de petits pois et 1 pincée de sel fin. Fais revenir 6 à 7 minutes, jusqu'à ce que les pommes de terre soient chaudes et légèrement dorées."
+        },
+        {
+          "title": "Ajoute les tomates",
+          "text": "Ajoute 300 g de tomates dans la poêle avec 500 g de pommes de terre précuites et 250 g de petits pois. Laisse cuire 3 minutes pour que les tomates rendent un peu de jus sans détremper la frittata."
+        },
+        {
+          "title": "Prépare l'appareil aux œufs",
+          "text": "Dans un saladier, fouette 8 œufs avec 80 ml de lait demi-écrémé, 100 g de fromage doux râpé, 1 petite pincée de sel fin, un peu de poivre doux et, si tu en as, 1 cuillère à soupe d'herbes ciselées."
+        },
+        {
+          "title": "Lance la cuisson douce",
+          "text": "Verse le mélange de 8 œufs, 80 ml de lait demi-écrémé et 100 g de fromage doux râpé sur les 500 g de pommes de terre précuites, les 250 g de petits pois et les 300 g de tomates. Baisse le feu et cuis 5 minutes, jusqu'à ce que les bords commencent à prendre."
+        },
+        {
+          "title": "Termine au four",
+          "text": "Enfourne la poêle avec la frittata aux 8 œufs, 500 g de pommes de terre précuites, 250 g de petits pois, 300 g de tomates et 100 g de fromage doux râpé pendant 10 à 12 minutes. Le centre doit être juste pris, encore souple mais non liquide."
+        },
+        {
+          "title": "Laisse reposer et sers",
+          "text": "Laisse reposer la frittata de 8 œufs pendant 5 minutes avant de la couper. Si le centre semble encore trop tremblotant, remets la frittata 2 à 3 minutes au four plutôt que d'augmenter fortement la chaleur."
+        }
+      ]
     },
     {
-      "slug": "tacos-haricots-noirs-mais",
-      "title": "Tacos aux haricots noirs et maïs",
-      "summary": "Tacos végétariens rapides, à garnir à table selon les goûts.",
+      "slug": "gratin-pommes-de-terre-courgettes-chevre",
+      "title": "Gratin de pommes de terre fines, courgettes et chèvre",
+      "summary": "Le plat de jeudi, c'était un gratin familial doux : des pommes de terre coupées très finement puis précuites, des courgettes bien épongées, une crème légère, du chèvre doux et une couche d'emmental gratiné. Le résultat est fondant sans être trop fort pour les enfants.",
       "servings": "2 adultes + 2 jeunes enfants",
-      "prep_time_minutes": 15,
-      "cook_time_minutes": 12,
-      "total_time_minutes": 27,
-      "difficulty": "facile",
-      "tags": ["vegetarien", "tacos", "rapide", "haricots"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 2050, "calories_per_serving": 512, "protein_g": 66, "carbs_g": 276, "fat_g": 68 },
-      "ingredients": [
-        { "name": "Tortillas", "quantity": "8", "section": "Épicerie salée", "calories": 960 },
-        { "name": "Haricots noirs", "quantity": "2 boîtes égouttées", "section": "Épicerie salée", "calories": 620 },
-        { "name": "Maïs", "quantity": "1 boîte égouttée", "section": "Épicerie salée", "calories": 220 },
-        { "name": "Poivrons", "quantity": "2", "section": "Fruits et légumes", "calories": 80 },
-        { "name": "Avocats", "quantity": "2", "section": "Fruits et légumes", "calories": 480 },
-        { "name": "Yaourt nature", "quantity": "150 g", "section": "Frais", "calories": 95 },
-        { "name": "Cumin", "quantity": "2 c. à café", "section": "Basiques et épices", "calories": 16 }
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
       ],
-      "steps": [
-        { "title": "Cuire les légumes", "text": "Faire revenir 2 poivrons émincés avec 1 c. à soupe d'huile et 2 c. à café de cumin pendant 6 min." },
-        { "title": "Ajouter les légumineuses", "text": "Ajouter 2 boîtes de haricots noirs égouttés et 1 boîte de maïs égouttée, puis chauffer 6 min." },
-        { "title": "Préparer la sauce", "text": "Écraser 2 avocats avec 150 g de yaourt nature, du sel et un filet de citron." },
-        { "title": "Servir", "text": "Réchauffer 8 tortillas et garnir chaque tortilla avec haricots, maïs, poivrons et sauce avocat-yaourt." }
-      ],
-      "used_in_weeks": ["2026-W25"]
-    },
-    {
-      "slug": "salade-pates-pesto-petits-pois-feta",
-      "title": "Salade de pâtes au pesto, petits pois et feta",
-      "summary": "Déjeuner froid ou tiède, facile à préparer en avance.",
-      "servings": "2 adultes + 2 jeunes enfants",
-      "prep_time_minutes": 10,
-      "cook_time_minutes": 12,
-      "total_time_minutes": 22,
-      "difficulty": "facile",
-      "tags": ["vegetarien", "dejeuner", "pates", "froid"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 1960, "calories_per_serving": 490, "protein_g": 62, "carbs_g": 226, "fat_g": 82 },
-      "ingredients": [
-        { "name": "Pâtes", "quantity": "350 g", "section": "Épicerie salée", "calories": 1260 },
-        { "name": "Petits pois", "quantity": "250 g", "section": "Surgelé", "calories": 200 },
-        { "name": "Feta", "quantity": "200 g", "section": "Frais", "calories": 530 },
-        { "name": "Pesto", "quantity": "80 g", "section": "Basiques et épices", "calories": 360 },
-        { "name": "Citron", "quantity": "1", "section": "Fruits et légumes", "calories": 15 },
-        { "name": "Salade verte", "quantity": "1/2", "section": "Fruits et légumes", "calories": 20 }
-      ],
-      "steps": [
-        { "title": "Cuire", "text": "Cuire 350 g de pâtes dans l'eau salée, ajouter 250 g de petits pois pendant les 3 dernières minutes, puis égoutter." },
-        { "title": "Assaisonner", "text": "Mélanger les 350 g de pâtes et les 250 g de petits pois avec 80 g de pesto et le jus d'1 citron." },
-        { "title": "Finir", "text": "Ajouter 200 g de feta émiettée et 1/2 salade verte lavée, puis servir tiède ou froid." }
-      ],
-      "used_in_weeks": ["2026-W25"]
-    },
-    {
-      "slug": "gratin-courgettes-chevre-pommes-de-terre",
-      "title": "Gratin courgettes, chèvre et pommes de terre précuites",
-      "summary": "Gratin familial où les pommes de terre sont précuites pour rester fondantes.",
-      "servings": "2 adultes + 2 jeunes enfants",
-      "prep_time_minutes": 20,
-      "cook_time_minutes": 35,
+      "prep_time_minutes": 18,
+      "cook_time_minutes": 37,
       "total_time_minutes": 55,
       "difficulty": "facile",
-      "tags": ["vegetarien", "gratin", "courgette", "famille"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 1720, "calories_per_serving": 430, "protein_g": 62, "carbs_g": 168, "fat_g": 86 },
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gratin",
+        "four"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1930,
+        "calories_per_serving": 480,
+        "protein_g": 76,
+        "carbs_g": 192,
+        "fat_g": 96
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
       "ingredients": [
-        { "name": "Courgettes", "quantity": "1,2 kg", "section": "Fruits et légumes", "calories": 200 },
-        { "name": "Pommes de terre", "quantity": "900 g", "section": "Fruits et légumes", "calories": 690 },
-        { "name": "Chèvre", "quantity": "180 g", "section": "Frais", "calories": 520 },
-        { "name": "Crème", "quantity": "200 ml", "section": "Frais", "calories": 390 },
-        { "name": "Chapelure", "quantity": "60 g", "section": "Épicerie salée", "calories": 220 }
+        {
+          "name": "Pommes de terre",
+          "quantity": "900 g",
+          "calories": 690,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "600 g",
+          "calories": 100,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Chèvre doux",
+          "quantity": "120 g",
+          "calories": 335,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "20 cl",
+          "calories": 340,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "10 cl",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Emmental râpé",
+          "quantity": "80 g",
+          "calories": 305,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Fécule de maïs",
+          "quantity": "5 g",
+          "calories": 20,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Noix de muscade, sel fin, poivre doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
       ],
       "steps": [
-        { "title": "Précuire", "text": "Couper 900 g de pommes de terre en rondelles fines et les précuire 10 min dans l'eau salée." },
-        { "title": "Préparer", "text": "Couper 1,2 kg de courgettes en demi-rondelles et les faire revenir 8 min pour retirer l'eau." },
-        { "title": "Monter", "text": "Alterner 900 g de pommes de terre précuites, 1,2 kg de courgettes, 180 g de chèvre et 200 ml de crème dans un plat." },
-        { "title": "Gratiner", "text": "Parsemer 60 g de chapelure et cuire le gratin 30 à 35 min à 190 °C." }
-      ],
-      "used_in_weeks": ["2026-W25"]
+        {
+          "title": "Préchauffer et couper",
+          "text": "Préchauffe le four à 190 °C. Épluche 900 g de pommes de terre et coupe les 900 g de pommes de terre en rondelles de 2 à 3 mm ; coupe aussi 600 g de courgettes en demi-rondelles fines."
+        },
+        {
+          "title": "Précuire les pommes de terre",
+          "text": "Mets les 900 g de pommes de terre dans une grande casserole d'eau frémissante salée pendant 8 minutes, juste pour les attendrir ; les 900 g de pommes de terre doivent se plier un peu sans s'écraser. Égoutte soigneusement les 900 g de pommes de terre."
+        },
+        {
+          "title": "Éponger les courgettes",
+          "text": "Pendant la précuisson, étale les 600 g de courgettes sur un torchon propre et éponge les 600 g de courgettes pour retirer l'excès d'eau ; cela évite un gratin trop liquide."
+        },
+        {
+          "title": "Préparer la crème",
+          "text": "Dans un bol, mélange 20 cl de crème légère 15 %, 10 cl de lait demi-écrémé, 5 g de fécule de maïs, 1 pincée de noix de muscade, 1/2 cuillère à café de sel fin et un peu de poivre doux."
+        },
+        {
+          "title": "Monter le gratin",
+          "text": "Huile un plat à gratin avec 10 g d'huile d'olive, puis alterne les 900 g de pommes de terre précuites, les 600 g de courgettes épongées et 120 g de chèvre doux émietté. Verse par-dessus le mélange avec 20 cl de crème légère 15 %, 10 cl de lait demi-écrémé et 5 g de fécule de maïs, puis termine avec 80 g d'emmental râpé."
+        },
+        {
+          "title": "Cuire au four",
+          "text": "Enfourne le gratin de 900 g de pommes de terre, 600 g de courgettes, 120 g de chèvre doux et 80 g d'emmental râpé pendant 29 minutes à 190 °C, jusqu'à ce que le dessus soit doré et que la pointe d'un couteau traverse facilement les pommes de terre. Si les 80 g d'emmental râpé dorent trop vite, couvre le plat avec une feuille de papier cuisson."
+        },
+        {
+          "title": "Laisser poser",
+          "text": "Laisse reposer 5 minutes le gratin de 900 g de pommes de terre, 600 g de courgettes, 120 g de chèvre doux, 20 cl de crème légère 15 % et 80 g d'emmental râpé avant de servir, pour que les parts se tiennent mieux."
+        }
+      ]
     },
     {
-      "slug": "nouilles-tofu-brocoli-cacahuetes",
-      "title": "Nouilles sautées tofu, brocoli et cacahuètes",
-      "summary": "Plat complet au wok, avec sauce soja et cacahuète douce.",
+      "slug": "pates-cremeuses-courgettes-petits-pois-ricotta",
+      "title": "Pâtes crémeuses courgettes, petits pois et ricotta",
+      "summary": "Le plat de lundi soir : des pâtes courtes bien crémeuses, avec courgettes fondantes, petits pois doux, ricotta et une petite touche de parmesan ou de comté. C'est un dîner végétarien simple, familial et prêt en environ 35 minutes.",
       "servings": "2 adultes + 2 jeunes enfants",
-      "prep_time_minutes": 15,
-      "cook_time_minutes": 15,
-      "total_time_minutes": 30,
-      "difficulty": "facile",
-      "tags": ["vegetarien", "tofu", "nouilles", "rapide"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 2140, "calories_per_serving": 535, "protein_g": 86, "carbs_g": 224, "fat_g": 86 },
-      "ingredients": [
-        { "name": "Nouilles", "quantity": "300 g", "section": "Épicerie salée", "calories": 1050 },
-        { "name": "Tofu ferme", "quantity": "400 g", "section": "Frais", "calories": 520 },
-        { "name": "Brocoli", "quantity": "600 g", "section": "Fruits et légumes", "calories": 210 },
-        { "name": "Beurre de cacahuète", "quantity": "60 g", "section": "Basiques et épices", "calories": 360 },
-        { "name": "Sauce soja", "quantity": "4 c. à soupe", "section": "Basiques et épices", "calories": 40 },
-        { "name": "Citron", "quantity": "1", "section": "Fruits et légumes", "calories": 15 }
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
       ],
-      "steps": [
-        { "title": "Cuire les nouilles", "text": "Cuire 300 g de nouilles selon le paquet, puis égoutter." },
-        { "title": "Dorer le tofu", "text": "Couper 400 g de tofu en dés et le faire dorer 8 min avec 1 c. à soupe d'huile." },
-        { "title": "Ajouter le brocoli", "text": "Ajouter 600 g de brocoli en fleurettes avec 3 c. à soupe d'eau et cuire 6 min." },
-        { "title": "Saucer", "text": "Mélanger 60 g de beurre de cacahuète, 4 c. à soupe de sauce soja et le jus d'1 citron, puis enrober les 300 g de nouilles, 400 g de tofu et 600 g de brocoli." }
-      ],
-      "used_in_weeks": ["2026-W25"]
-    },
-    {
-      "slug": "shakshuka-pois-chiches-oeufs",
-      "title": "Shakshuka douce pois chiches et œufs",
-      "summary": "Poêlée tomate-pois chiches avec œufs, sans piment fort.",
-      "servings": "2 adultes + 2 jeunes enfants",
       "prep_time_minutes": 10,
       "cook_time_minutes": 25,
       "total_time_minutes": 35,
       "difficulty": "facile",
-      "tags": ["vegetarien", "oeufs", "pois chiches", "tomate"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 1660, "calories_per_serving": 415, "protein_g": 72, "carbs_g": 142, "fat_g": 82 },
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pates",
+        "courgettes",
+        "petits-pois",
+        "ricotta"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2200,
+        "calories_per_serving": 550,
+        "protein_g": 103,
+        "carbs_g": 297,
+        "fat_g": 68
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
       "ingredients": [
-        { "name": "Tomates concassées", "quantity": "800 g", "section": "Épicerie salée", "calories": 240 },
-        { "name": "Pois chiches", "quantity": "1 boîte égouttée", "section": "Épicerie salée", "calories": 420 },
-        { "name": "Œufs", "quantity": "6", "section": "Frais", "calories": 420 },
-        { "name": "Poivrons", "quantity": "2", "section": "Fruits et légumes", "calories": 80 },
-        { "name": "Pain ou riz", "quantity": "250 g", "section": "Boulangerie", "calories": 650 },
-        { "name": "Paprika fumé", "quantity": "1 c. à café", "section": "Basiques et épices", "calories": 6 }
+        {
+          "name": "Pâtes courtes",
+          "quantity": "340 g",
+          "calories": 1190,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "500 g",
+          "calories": 85,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Petits pois surgelés",
+          "quantity": "200 g",
+          "calories": 160,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 435,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Parmesan ou comté râpé",
+          "quantity": "50 g",
+          "calories": 200,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml",
+          "calories": 120,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Citron",
+          "quantity": "1/2",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin, poivre doux, muscade",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
       ],
       "steps": [
-        { "title": "Préparer la sauce", "text": "Faire revenir 2 poivrons en dés avec 1 c. à soupe d'huile et 1 c. à café de paprika fumé pendant 8 min." },
-        { "title": "Mijoter", "text": "Ajouter 800 g de tomates concassées et 1 boîte de pois chiches égouttés, puis mijoter 12 min." },
-        { "title": "Cuire les œufs", "text": "Creuser 6 petits nids dans la sauce tomate-pois chiches et casser 6 œufs dedans, puis couvrir 6 à 8 min." },
-        { "title": "Servir", "text": "Servir la shakshuka avec 250 g de pain ou de riz." }
-      ],
-      "used_in_weeks": ["2026-W25"]
+        {
+          "title": "Préparer les courgettes",
+          "text": "Rince 500 g de courgettes, retire les extrémités, puis coupe les 500 g de courgettes en petits dés ou en fines demi-rondelles pour qu'elles cuisent vite et deviennent fondantes."
+        },
+        {
+          "title": "Faire cuire les légumes verts",
+          "text": "Dans une grande sauteuse, chauffe 1 cuillère à soupe d'huile d'olive, environ 15 ml, à feu moyen. Ajoute les 500 g de courgettes avec 1 petite pincée de sel fin, puis fais cuire 8 à 10 minutes en remuant, jusqu'à ce que les 500 g de courgettes soient tendres. Ajoute ensuite 200 g de petits pois surgelés et poursuis la cuisson 3 à 4 minutes, juste pour réchauffer les 200 g de petits pois."
+        },
+        {
+          "title": "Cuire les pâtes",
+          "text": "Pendant que les légumes cuisent, plonge 340 g de pâtes courtes dans une grande casserole d'eau bouillante salée. Fais cuire les 340 g de pâtes courtes jusqu'à ce qu'elles soient al dente, puis garde environ 180 ml d'eau de cuisson avant d'égoutter les 340 g de pâtes."
+        },
+        {
+          "title": "Former la sauce crémeuse",
+          "text": "Baisse le feu sous la sauteuse. Ajoute 250 g de ricotta, 40 g de parmesan ou de comté râpé, le zeste finement râpé de 1/2 citron, 1 petite cuillère à café de jus de citron, 1 pincée de muscade et environ 120 ml d'eau de cuisson réservée. Mélange doucement jusqu'à obtenir une sauce souple autour des 500 g de courgettes et des 200 g de petits pois."
+        },
+        {
+          "title": "Enrober les pâtes",
+          "text": "Ajoute les 340 g de pâtes égouttées dans la sauteuse avec les 500 g de courgettes, les 200 g de petits pois et la sauce aux 250 g de ricotta. Mélange 1 à 2 minutes à feu doux. Si la sauce épaissit trop, ajoute petit à petit les 60 ml d'eau de cuisson restants, jusqu'à ce que les 340 g de pâtes soient bien nappées."
+        },
+        {
+          "title": "Servir doux et crémeux",
+          "text": "Goûte, puis ajuste avec un peu de sel fin et de poivre doux si besoin. Sers les pâtes avec les 10 g restants de parmesan ou de comté râpé à part, pour que chacun dose son assiette."
+        }
+      ]
     },
     {
-      "slug": "galettes-legumes-pois-chiches",
-      "title": "Galettes de légumes et pois chiches",
-      "summary": "Galettes dorées à la poêle avec sauce yaourt citron.",
+      "slug": "pilaf-boulgour-champignons-courgettes-feta",
+      "title": "Pilaf de boulgour aux champignons, courgettes et feta",
+      "summary": "Le plat de mardi, c'est un pilaf doux de boulgour avec des champignons fondants, des courgettes et de la feta ajoutée hors du feu. Le résultat est moelleux, familial, prêt en environ 35 minutes, et assez simple pour un dîner de semaine.",
       "servings": "2 adultes + 2 jeunes enfants",
-      "prep_time_minutes": 20,
-      "cook_time_minutes": 18,
-      "total_time_minutes": 38,
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 23,
+      "total_time_minutes": 35,
       "difficulty": "facile",
-      "tags": ["vegetarien", "dejeuner", "pois chiches", "galettes"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 1540, "calories_per_serving": 385, "protein_g": 58, "carbs_g": 176, "fat_g": 54 },
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pilaf",
+        "boulgour"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1670,
+        "calories_per_serving": 418,
+        "protein_g": 67,
+        "carbs_g": 223,
+        "fat_g": 65
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
       "ingredients": [
-        { "name": "Pois chiches", "quantity": "2 boîtes égouttées", "section": "Épicerie salée", "calories": 840 },
-        { "name": "Carottes", "quantity": "300 g", "section": "Fruits et légumes", "calories": 120 },
-        { "name": "Farine", "quantity": "80 g", "section": "Basiques et épices", "calories": 290 },
-        { "name": "Œufs", "quantity": "2", "section": "Frais", "calories": 140 },
-        { "name": "Yaourt nature", "quantity": "100 g", "section": "Frais", "calories": 65 },
-        { "name": "Citron", "quantity": "1", "section": "Fruits et légumes", "calories": 15 }
+        {
+          "name": "Boulgour sec",
+          "quantity": "250 g",
+          "calories": 850,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "350 g",
+          "calories": 77,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "450 g",
+          "calories": 77,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Feta",
+          "quantity": "150 g",
+          "calories": 396,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Bouillon de légumes doux",
+          "quantity": "650 ml",
+          "calories": 20,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "2 c. à soupe, soit 30 ml",
+          "calories": 240,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Citron",
+          "quantity": "1/2 citron",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Herbes de Provence",
+          "quantity": "1 c. à café",
+          "calories": 1,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Paprika doux",
+          "quantity": "1/2 c. à café",
+          "calories": 1,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
       ],
       "steps": [
-        { "title": "Écraser", "text": "Écraser 2 boîtes de pois chiches égouttés avec 300 g de carottes râpées." },
-        { "title": "Lier", "text": "Ajouter 80 g de farine, 2 œufs, du sel et du poivre aux pois chiches et carottes." },
-        { "title": "Cuire", "text": "Former 10 petites galettes et les cuire 4 min par face avec 1 c. à soupe d'huile." },
-        { "title": "Servir", "text": "Mélanger 100 g de yaourt nature avec le jus d'1 citron et servir avec les galettes." }
-      ],
-      "used_in_weeks": ["2026-W25"]
+        {
+          "title": "Prépare les légumes et le bouillon",
+          "text": "Rince 450 g de courgettes, coupe-les en petits dés ou en demi-rondelles fines, nettoie 350 g de champignons de Paris et émince-les, émiette 150 g de feta, presse 1/2 citron et garde 650 ml de bouillon de légumes doux bien chaud."
+        },
+        {
+          "title": "Fais revenir les courgettes et les champignons",
+          "text": "Dans une grande sauteuse, chauffe 2 c. à soupe d'huile d'olive, soit 30 ml, puis ajoute les 450 g de courgettes et les 350 g de champignons de Paris avec une petite pincée de sel fin; cuis 8 à 10 minutes à feu moyen, jusqu'à ce que les champignons aient rendu leur eau et que les courgettes soient souples."
+        },
+        {
+          "title": "Nacre le boulgour",
+          "text": "Ajoute 250 g de boulgour sec dans la sauteuse avec 1 c. à café d'herbes de Provence et 1/2 c. à café de paprika doux, puis mélange pendant 1 minute pour enrober les grains avec les 2 c. à soupe d'huile d'olive et le jus des légumes."
+        },
+        {
+          "title": "Cuis le pilaf",
+          "text": "Verse les 650 ml de bouillon de légumes doux chaud sur les 250 g de boulgour, les 450 g de courgettes et les 350 g de champignons; couvre, baisse à feu doux et laisse cuire 12 minutes, jusqu'à ce que le boulgour soit tendre. Si la sauteuse sèche trop vite, ajoute 50 ml d'eau chaude."
+        },
+        {
+          "title": "Laisse gonfler",
+          "text": "Coupe le feu et laisse reposer le pilaf couvert pendant 5 minutes, toujours avec les 250 g de boulgour, les 450 g de courgettes et les 350 g de champignons dans la sauteuse; les grains doivent finir moelleux mais pas détrempés."
+        },
+        {
+          "title": "Termine avec la feta",
+          "text": "Ajoute le jus du 1/2 citron, incorpore 120 g de feta émiettée hors du feu, puis garde les 30 g de feta restants pour saupoudrer les assiettes; goûte et ajuste avec un peu de sel fin et de poivre doux si besoin."
+        }
+      ]
     },
     {
-      "slug": "risotto-champignons-petits-pois",
-      "title": "Risotto champignons et petits pois",
-      "summary": "Risotto crémeux prévu en quantité suffisante pour un reste le lendemain.",
-      "servings": "2 adultes + 2 jeunes enfants + restes",
+      "slug": "pizza-courgettes-champignons-mozzarella",
+      "title": "Pizza maison courgettes, champignons et mozzarella",
+      "summary": "Le plat de samedi, c'est une pizza maison douce et conviviale, garnie de sauce tomate, de courgettes, de champignons et de mozzarella. Les légumes sont rapidement précuits pour éviter de détremper la pâte, la garniture reste simple pour les enfants, et chacun peut ajouter un peu plus d'herbes ou de poivre doux dans son assiette.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
       "prep_time_minutes": 15,
       "cook_time_minutes": 30,
       "total_time_minutes": 45,
-      "difficulty": "moyen",
-      "tags": ["vegetarien", "risotto", "restes", "champignons"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 2420, "calories_per_serving": 484, "protein_g": 76, "carbs_g": 330, "fat_g": 78 },
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pizza",
+        "courgettes",
+        "champignons",
+        "mozzarella"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2255,
+        "calories_per_serving": 565,
+        "protein_g": 99,
+        "carbs_g": 294,
+        "fat_g": 82
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
       "ingredients": [
-        { "name": "Riz arborio", "quantity": "400 g", "section": "Épicerie salée", "calories": 1440 },
-        { "name": "Champignons", "quantity": "500 g", "section": "Fruits et légumes", "calories": 110 },
-        { "name": "Petits pois", "quantity": "350 g", "section": "Surgelé", "calories": 280 },
-        { "name": "Parmesan", "quantity": "80 g", "section": "Frais", "calories": 340 },
-        { "name": "Bouillon de légumes", "quantity": "1,2 L", "section": "Épicerie salée", "calories": 60 },
-        { "name": "Huile d'olive", "quantity": "1 c. à soupe", "section": "Basiques et épices", "calories": 120 }
+        {
+          "name": "Pâte à pizza",
+          "quantity": "500 g",
+          "calories": 1300,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sauce tomate nature",
+          "quantity": "200 g",
+          "calories": 60,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "350 g",
+          "calories": 60,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "250 g",
+          "calories": 55,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "250 g, égouttée",
+          "calories": 625,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml, soit 1 c. à soupe",
+          "calories": 120,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Farine pour étaler",
+          "quantity": "10 g",
+          "calories": 35,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Origan ou herbes de Provence",
+          "quantity": "1 c. à café",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
       ],
       "steps": [
-        { "title": "Poêler", "text": "Faire revenir 500 g de champignons émincés avec 1 c. à soupe d'huile pendant 8 min." },
-        { "title": "Nacrer", "text": "Ajouter 400 g de riz arborio aux 500 g de champignons et remuer 2 min." },
-        { "title": "Mouiller", "text": "Ajouter 1,2 L de bouillon chaud louche par louche pendant environ 20 min." },
-        { "title": "Finir", "text": "Ajouter 350 g de petits pois et 80 g de parmesan, cuire encore 3 min et garder un reste pour dimanche midi." }
-      ],
-      "used_in_weeks": ["2026-W25"]
+        {
+          "title": "Préchauffe le four",
+          "text": "Préchauffe le four à 230 °C, idéalement avec une plaque déjà dedans. Sors 500 g de pâte à pizza du réfrigérateur pendant que le four chauffe, pour qu'elle soit plus facile à étaler."
+        },
+        {
+          "title": "Prépare les légumes",
+          "text": "Rince 350 g de courgettes et coupe les 350 g de courgettes en fines demi-rondelles. Nettoie 250 g de champignons de Paris et émince les 250 g de champignons de Paris pas trop épais pour qu'ils cuisent vite sur la pizza."
+        },
+        {
+          "title": "Précuis la garniture",
+          "text": "Dans une grande poêle, chauffe 15 ml d'huile d'olive, puis ajoute 350 g de courgettes, 250 g de champignons de Paris et une petite pincée de sel fin. Fais revenir 350 g de courgettes et 250 g de champignons de Paris pendant 7 à 8 minutes, jusqu'à ce que les champignons aient rendu leur eau et que les courgettes soient souples mais encore en morceaux. Si la poêle rend beaucoup de jus, laisse cuire 1 à 2 minutes de plus à découvert."
+        },
+        {
+          "title": "Étale la pâte",
+          "text": "Saupoudre le plan de travail avec 10 g de farine, puis étale 500 g de pâte à pizza en un grand rectangle ou en deux pizzas moyennes. Dépose les 500 g de pâte à pizza sur du papier cuisson, puis glisse-les sur une plaque froide si tu n'utilises pas la plaque chaude."
+        },
+        {
+          "title": "Garnis la pizza",
+          "text": "Étale 200 g de sauce tomate nature sur les 500 g de pâte à pizza, en gardant un petit bord. Répartis les 350 g de courgettes précuites et les 250 g de champignons précuits, puis ajoute 250 g de mozzarella égouttée en morceaux. Termine avec 1 c. à café d'origan ou d'herbes de Provence, un peu de sel fin et du poivre doux."
+        },
+        {
+          "title": "Fais cuire",
+          "text": "Enfourne la pizza garnie avec 500 g de pâte à pizza, 200 g de sauce tomate, 350 g de courgettes, 250 g de champignons et 250 g de mozzarella pendant 12 à 15 minutes à 230 °C. La pâte doit être dorée dessous et la mozzarella fondue avec quelques petites bulles."
+        },
+        {
+          "title": "Laisse reposer et sers",
+          "text": "Laisse reposer la pizza aux 350 g de courgettes, 250 g de champignons et 250 g de mozzarella pendant 3 minutes avant de couper. Pour les jeunes enfants, coupe les parts en bandes ou en petits carrés, et garde les bords les plus croustillants pour les adultes si besoin."
+        }
+      ]
     },
     {
-      "slug": "lasagnes-epinards-ricotta",
-      "title": "Lasagnes épinards ricotta",
-      "summary": "Lasagnes végétariennes douces avec épinards, ricotta et mozzarella.",
+      "slug": "quenelles-sauce-tomate-carottes-vapeur",
+      "title": "Quenelles sauce tomate douce et carottes vapeur",
+      "summary": "Le plat de mercredi, c'était : quenelles sauce tomate douce et carottes vapeur. Un dîner végétarien très simple et réconfortant pour le mercredi soir : les quenelles mijotent directement dans une sauce tomate crémeuse pendant que les carottes cuisent à la vapeur et que la semoule gonfle toute seule. Pour 2 adultes + 2 jeunes enfants   Temps : 10 min préparation + 15 min cuisson",
       "servings": "2 adultes + 2 jeunes enfants",
-      "prep_time_minutes": 20,
-      "cook_time_minutes": 40,
-      "total_time_minutes": 60,
-      "difficulty": "moyen",
-      "tags": ["vegetarien", "lasagnes", "epinards", "famille"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 2380, "calories_per_serving": 595, "protein_g": 104, "carbs_g": 218, "fat_g": 112 },
-      "ingredients": [
-        { "name": "Feuilles de lasagne", "quantity": "250 g", "section": "Épicerie salée", "calories": 875 },
-        { "name": "Épinards frais", "quantity": "300 g", "section": "Fruits et légumes", "calories": 70 },
-        { "name": "Ricotta", "quantity": "500 g", "section": "Frais", "calories": 870 },
-        { "name": "Mozzarella", "quantity": "250 g", "section": "Frais", "calories": 700 },
-        { "name": "Tomates concassées", "quantity": "400 g", "section": "Épicerie salée", "calories": 120 }
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
       ],
-      "steps": [
-        { "title": "Préparer les épinards", "text": "Faire tomber 300 g d'épinards frais 3 min à la poêle, puis les mélanger avec 500 g de ricotta." },
-        { "title": "Monter", "text": "Alterner 250 g de feuilles de lasagne, 400 g de tomates concassées et le mélange 300 g d'épinards-500 g de ricotta." },
-        { "title": "Gratiner", "text": "Ajouter 250 g de mozzarella sur le dessus et cuire 40 min à 180 °C." }
-      ],
-      "used_in_weeks": ["2026-W25"]
-    },
-    {
-      "slug": "curry-pois-chiches-patate-douce",
-      "title": "Curry pois chiches et patate douce",
-      "summary": "Curry doux, rassasiant et facile à réchauffer.",
-      "servings": "2 adultes + 2 jeunes enfants + restes",
-      "prep_time_minutes": 15,
-      "cook_time_minutes": 30,
-      "total_time_minutes": 45,
-      "difficulty": "facile",
-      "tags": ["vegetarien", "curry", "pois chiches", "restes"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 2260, "calories_per_serving": 452, "protein_g": 72, "carbs_g": 310, "fat_g": 74 },
-      "ingredients": [
-        { "name": "Pois chiches", "quantity": "2 boîtes égouttées", "section": "Épicerie salée", "calories": 840 },
-        { "name": "Patates douces", "quantity": "800 g", "section": "Fruits et légumes", "calories": 680 },
-        { "name": "Lait de coco léger", "quantity": "300 ml", "section": "Épicerie salée", "calories": 390 },
-        { "name": "Riz", "quantity": "300 g cru", "section": "Épicerie salée", "calories": 1080 },
-        { "name": "Curry doux", "quantity": "2 c. à café", "section": "Basiques et épices", "calories": 20 }
-      ],
-      "steps": [
-        { "title": "Cuire le riz", "text": "Cuire 300 g de riz dans l'eau salée, puis égoutter." },
-        { "title": "Mijoter", "text": "Mijoter 800 g de patates douces en cubes avec 2 boîtes de pois chiches, 300 ml de lait de coco et 2 c. à café de curry pendant 25 min." },
-        { "title": "Servir", "text": "Servir le curry de 800 g de patates douces et 2 boîtes de pois chiches avec les 300 g de riz cuit." }
-      ],
-      "used_in_weeks": ["2026-W24"]
-    },
-    {
-      "slug": "quiche-sans-pate-poireaux-comte",
-      "title": "Quiche sans pâte poireaux comté",
-      "summary": "Quiche familiale rapide, bonne chaude ou froide.",
-      "servings": "2 adultes + 2 jeunes enfants + restes",
-      "prep_time_minutes": 15,
-      "cook_time_minutes": 35,
-      "total_time_minutes": 50,
-      "difficulty": "facile",
-      "tags": ["vegetarien", "quiche", "poireaux", "restes"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 1760, "calories_per_serving": 440, "protein_g": 96, "carbs_g": 92, "fat_g": 104 },
-      "ingredients": [
-        { "name": "Poireaux", "quantity": "600 g", "section": "Fruits et légumes", "calories": 180 },
-        { "name": "Œufs", "quantity": "6", "section": "Frais", "calories": 420 },
-        { "name": "Lait", "quantity": "300 ml", "section": "Frais", "calories": 150 },
-        { "name": "Farine", "quantity": "80 g", "section": "Basiques et épices", "calories": 290 },
-        { "name": "Comté", "quantity": "160 g", "section": "Frais", "calories": 650 }
-      ],
-      "steps": [
-        { "title": "Cuire les poireaux", "text": "Faire revenir 600 g de poireaux émincés 12 min avec 1 c. à soupe d'huile." },
-        { "title": "Mélanger", "text": "Battre 6 œufs avec 300 ml de lait, 80 g de farine et 160 g de comté râpé." },
-        { "title": "Cuire", "text": "Ajouter les 600 g de poireaux à l'appareil et cuire 35 min à 180 °C." }
-      ],
-      "used_in_weeks": ["2026-W24"]
-    },
-    {
-      "slug": "chili-sin-carne-riz",
-      "title": "Chili sin carne et riz",
-      "summary": "Chili doux aux haricots rouges, prévu pour faire des restes.",
-      "servings": "2 adultes + 2 jeunes enfants + restes",
-      "prep_time_minutes": 15,
-      "cook_time_minutes": 30,
-      "total_time_minutes": 45,
-      "difficulty": "facile",
-      "tags": ["vegetarien", "chili", "haricots", "restes"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 2320, "calories_per_serving": 464, "protein_g": 88, "carbs_g": 356, "fat_g": 54 },
-      "ingredients": [
-        { "name": "Haricots rouges", "quantity": "2 boîtes égouttées", "section": "Épicerie salée", "calories": 780 },
-        { "name": "Tomates concassées", "quantity": "800 g", "section": "Épicerie salée", "calories": 240 },
-        { "name": "Maïs", "quantity": "1 boîte", "section": "Épicerie salée", "calories": 220 },
-        { "name": "Riz", "quantity": "350 g cru", "section": "Épicerie salée", "calories": 1260 },
-        { "name": "Paprika fumé", "quantity": "1 c. à café", "section": "Basiques et épices", "calories": 6 }
-      ],
-      "steps": [
-        { "title": "Cuire le riz", "text": "Cuire 350 g de riz dans l'eau salée et égoutter." },
-        { "title": "Mijoter le chili", "text": "Mijoter 2 boîtes de haricots rouges, 800 g de tomates concassées, 1 boîte de maïs et 1 c. à café de paprika pendant 25 min." },
-        { "title": "Servir", "text": "Servir le chili avec les 350 g de riz cuit et garder les restes pour dimanche midi." }
-      ],
-      "used_in_weeks": ["2026-W24"]
-    },
-    {
-      "slug": "wraps-houmous-crudites",
-      "title": "Wraps houmous crudités",
-      "summary": "Wraps frais et assemblés rapidement, sans oignon cru.",
-      "servings": "2 adultes + 2 jeunes enfants",
-      "prep_time_minutes": 15,
-      "cook_time_minutes": 0,
-      "total_time_minutes": 15,
-      "difficulty": "facile",
-      "tags": ["vegetarien", "wraps", "rapide", "dejeuner"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 1580, "calories_per_serving": 395, "protein_g": 48, "carbs_g": 198, "fat_g": 62 },
-      "ingredients": [
-        { "name": "Tortillas", "quantity": "6", "section": "Épicerie salée", "calories": 720 },
-        { "name": "Houmous", "quantity": "250 g", "section": "Frais", "calories": 600 },
-        { "name": "Carottes", "quantity": "250 g", "section": "Fruits et légumes", "calories": 100 },
-        { "name": "Concombre", "quantity": "1", "section": "Fruits et légumes", "calories": 45 },
-        { "name": "Salade verte", "quantity": "1/2", "section": "Fruits et légumes", "calories": 20 }
-      ],
-      "steps": [
-        { "title": "Préparer", "text": "Râper 250 g de carottes, couper 1 concombre en bâtonnets et laver 1/2 salade." },
-        { "title": "Garnir", "text": "Étaler 250 g de houmous sur 6 tortillas." },
-        { "title": "Rouler", "text": "Répartir 250 g de carottes, 1 concombre et 1/2 salade sur les 6 tortillas, puis rouler." }
-      ],
-      "used_in_weeks": ["2026-W24"]
-    },
-    {
-      "slug": "omelette-roulee-legumes",
-      "title": "Omelette roulée aux légumes",
-      "summary": "Omelette familiale aux légumes cuits, rapide pour un soir.",
-      "servings": "2 adultes + 2 jeunes enfants",
       "prep_time_minutes": 10,
       "cook_time_minutes": 15,
       "total_time_minutes": 25,
       "difficulty": "facile",
-      "tags": ["vegetarien", "oeufs", "rapide", "legumes"],
-      "raw_alliums": { "garlic": false, "onion": false, "shallot": false },
-      "nutrition": { "calories_total": 1280, "calories_per_serving": 320, "protein_g": 72, "carbs_g": 82, "fat_g": 72 },
+      "tags": [
+        "famille",
+        "vegetarien",
+        "mercredi",
+        "tres-simple"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1950,
+        "calories_per_serving": 490,
+        "protein_g": 57,
+        "carbs_g": 260,
+        "fat_g": 74
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
       "ingredients": [
-        { "name": "Œufs", "quantity": "8", "section": "Frais", "calories": 560 },
-        { "name": "Courgette", "quantity": "1", "section": "Fruits et légumes", "calories": 35 },
-        { "name": "Carottes", "quantity": "200 g", "section": "Fruits et légumes", "calories": 80 },
-        { "name": "Fromage râpé", "quantity": "100 g", "section": "Frais", "calories": 380 },
-        { "name": "Pain", "quantity": "200 g", "section": "Boulangerie", "calories": 520 }
+        {
+          "name": "Quenelles nature",
+          "quantity": "4 pièces, environ 320 g",
+          "calories": 735,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Passata",
+          "quantity": "500 g",
+          "calories": 165,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "500 g",
+          "calories": 205,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème fraîche",
+          "quantity": "60 g",
+          "calories": 180,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Semoule moyenne",
+          "quantity": "160 g",
+          "calories": 570,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "1 c. à soupe, environ 10 g",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Herbes de Provence",
+          "quantity": "1 c. à café",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "1/2 c. à café",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Eau bouillante",
+          "quantity": "200 ml + 2 c. à soupe si besoin",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
       ],
       "steps": [
-        { "title": "Cuire les légumes", "text": "Faire revenir 1 courgette râpée et 200 g de carottes râpées 6 min." },
-        { "title": "Ajouter les œufs", "text": "Battre 8 œufs, les verser sur les légumes et cuire doucement 6 à 8 min." },
-        { "title": "Rouler", "text": "Parsemer 100 g de fromage râpé, rouler l'omelette et servir avec 200 g de pain." }
+        {
+          "title": "Prépare les carottes",
+          "text": "Épluche 500 g de carottes, coupe les 500 g de carottes en rondelles fines, puis mets-les dans le panier vapeur avec une petite pincée prise sur la 1/2 c. à café de sel fin."
+        },
+        {
+          "title": "Lance la cuisson vapeur",
+          "text": "Fais cuire les 500 g de carottes à la vapeur pendant 12 à 15 min, jusqu'à ce qu'une pointe de couteau entre facilement. Si les enfants préfèrent une texture très fondante, laisse les 500 g de carottes cuire 2 min de plus."
+        },
+        {
+          "title": "Démarre la sauce tomate douce",
+          "text": "Dans une grande sauteuse, verse 500 g de passata, ajoute 60 g de crème fraîche, 1 c. à soupe d'huile d'olive, 1 c. à café d'herbes de Provence et le reste de la 1/2 c. à café de sel fin. Mélange et chauffe doucement pendant 2 min."
+        },
+        {
+          "title": "Mijote les quenelles",
+          "text": "Dépose 4 quenelles nature, environ 320 g, dans les 500 g de passata crémeuse. Couvre et laisse mijoter 10 à 12 min à feu doux, en retournant délicatement les 4 quenelles nature à mi-cuisson. La sauce doit frémir doucement, pas bouillir fort."
+        },
+        {
+          "title": "Prépare la semoule",
+          "text": "Pendant que les 4 quenelles nature mijotent, verse 160 g de semoule moyenne dans un saladier. Ajoute 200 ml d'eau bouillante, couvre et laisse gonfler 5 min. Égrène ensuite les 160 g de semoule moyenne à la fourchette."
+        },
+        {
+          "title": "Ajuste et sers",
+          "text": "Si la sauce autour des 4 quenelles nature est trop épaisse, ajoute 2 c. à soupe d'eau chaude et mélange doucement. Sers les 4 quenelles nature avec les 500 g de carottes vapeur, la sauce faite avec 500 g de passata et 60 g de crème fraîche, puis la semoule moyenne cuite à partir de 160 g de semoule sèche. Coupe les quenelles en morceaux pour les jeunes enfants."
+        }
+      ]
+    },
+    {
+      "slug": "salade-pates-pesto-haricots-verts-mozzarella",
+      "title": "Salade de pâtes pesto doux, haricots verts et mozzarella",
+      "summary": "Déjeuner du samedi simple et flexible : une salade de pâtes tiède ou froide, avec haricots verts, tomates cerises, mozzarella et pesto doux sans ail cru marqué. Le plat se prépare vite, se sert facilement à des horaires décalés, et les éléments restent familiers pour les enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
       ],
-      "used_in_weeks": ["2026-W24"]
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "pates",
+        "salade",
+        "haricots-verts"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2360,
+        "calories_per_serving": 590,
+        "protein_g": 99,
+        "carbs_g": 273,
+        "fat_g": 104
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâtes courtes",
+          "quantity": "320 g",
+          "calories": 1120,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Haricots verts frais ou surgelés",
+          "quantity": "300 g",
+          "calories": 95,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "250 g",
+          "calories": 625,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates cerises",
+          "quantity": "250 g",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pesto doux sans ail cru marqué",
+          "quantity": "80 g",
+          "calories": 380,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "15 ml",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Basilic frais",
+          "quantity": "10 g",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les éléments frais",
+          "text": "Rince 250 g de tomates cerises et 10 g de basilic frais si tu en utilises. Coupe les 250 g de tomates cerises en deux pour les adultes et plutôt en quartiers pour les jeunes enfants. Égoutte 250 g de mozzarella, puis coupe les 250 g de mozzarella en dés."
+        },
+        {
+          "title": "Cuire les pâtes et les haricots verts",
+          "text": "Porte une grande casserole d'eau salée à ébullition. Ajoute 320 g de pâtes courtes et fais-les cuire selon le temps du paquet. Ajoute 300 g de haricots verts frais ou surgelés dans la même casserole pendant les 5 à 6 dernières minutes de cuisson, jusqu'à ce que les 300 g de haricots verts soient tendres mais encore verts. Garde environ 120 ml d'eau de cuisson, puis égoutte les 320 g de pâtes et les 300 g de haricots verts."
+        },
+        {
+          "title": "Détendre le pesto",
+          "text": "Dans un grand saladier, mélange 80 g de pesto doux sans ail cru marqué avec 10 g d'huile d'olive, 15 ml de jus de citron et environ 60 ml d'eau de cuisson réservée. La sauce doit devenir souple et facile à répartir ; si elle reste trop épaisse, garde les 60 ml d'eau de cuisson réservée restants pour l'ajustement."
+        },
+        {
+          "title": "Enrober la salade",
+          "text": "Ajoute les 320 g de pâtes égouttées et les 300 g de haricots verts égouttés dans le saladier avec les 80 g de pesto doux, les 10 g d'huile d'olive, les 15 ml de jus de citron et les 60 ml d'eau de cuisson déjà mélangés. Remue doucement 1 minute. Si les 320 g de pâtes accrochent ou paraissent sèches, ajoute petit à petit jusqu'aux 60 ml d'eau de cuisson réservée restants."
+        },
+        {
+          "title": "Ajouter le frais hors chaleur",
+          "text": "Laisse tiédir les 320 g de pâtes et les 300 g de haricots verts 2 minutes, puis ajoute les 250 g de tomates cerises, les 250 g de mozzarella et les 10 g de basilic frais si tu l'utilises. Mélange délicatement pour garder les dés de mozzarella entiers, puis ajuste avec un peu de sel fin et de poivre doux."
+        },
+        {
+          "title": "Servir flexible",
+          "text": "Sers la salade de 320 g de pâtes, 300 g de haricots verts, 250 g de mozzarella et 250 g de tomates cerises tiède, à température ambiante ou froide. Pour les jeunes enfants, recoupe dans l'assiette les morceaux de 300 g de haricots verts les plus longs et les quartiers de 250 g de tomates cerises si besoin."
+        }
+      ]
+    },
+    {
+      "slug": "tartines-ricotta-tomates-concombre",
+      "title": "Tartines ricotta, tomates cerises et concombre",
+      "summary": "Déjeuner du mercredi très rapide, frais et doux : de grandes tartines de pain complet ou de campagne, une ricotta citronnée, des tomates cerises, du concombre croquant et du basilic. Les enfants peuvent avoir les tartines coupées en petites bandes faciles à tenir.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 15,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "sans-cuisson"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1660,
+        "calories_per_serving": 415,
+        "protein_g": 60,
+        "carbs_g": 200,
+        "fat_g": 69
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pain complet ou pain de campagne",
+          "quantity": "360 g, soit 6 grandes tranches",
+          "calories": 900,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 375,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates cerises",
+          "quantity": "300 g",
+          "calories": 55,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "250 g",
+          "calories": 30,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Basilic frais",
+          "quantity": "10 g",
+          "calories": 2,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 g, soit environ 2 cuillères à soupe",
+          "calories": 180,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "15 ml, soit environ 1 cuillère à soupe",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Graines de tournesol",
+          "quantity": "20 g",
+          "calories": 115,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes",
+          "text": "Rince 300 g de tomates cerises, 250 g de concombre et 10 g de basilic frais. Coupe les 300 g de tomates cerises en deux ou en quartiers, puis taille les 250 g de concombre en demi-rondelles fines pour que les tartines restent faciles à manger."
+        },
+        {
+          "title": "Assaisonner la ricotta",
+          "text": "Dans un bol, mélange 250 g de ricotta avec 15 ml de jus de citron, 10 g d'huile d'olive, une petite pincée de sel et un peu de poivre. La texture doit rester crémeuse et facile à étaler ; si la ricotta paraît trop ferme, détends les 250 g de ricotta avec une cuillère à café d'eau froide."
+        },
+        {
+          "title": "Préparer le pain",
+          "text": "Dispose 360 g de pain complet ou de pain de campagne, soit 6 grandes tranches, sur une planche. Garde les 6 grandes tranches telles quelles pour une version très rapide, ou passe-les brièvement au grille-pain si le pain est un peu sec."
+        },
+        {
+          "title": "Monter les tartines",
+          "text": "Répartis toute la ricotta assaisonnée, soit 250 g de ricotta avec 15 ml de jus de citron et 10 g d'huile d'olive, sur les 6 grandes tranches de pain. Ajoute ensuite les 300 g de tomates cerises coupées et les 250 g de concombre en demi-rondelles, en gardant les morceaux les plus petits pour les assiettes des jeunes enfants."
+        },
+        {
+          "title": "Finir et servir",
+          "text": "Parsème les tartines avec 10 g de basilic frais ciselé et 20 g de graines de tournesol, puis verse les 10 g d'huile d'olive restants en filet. Coupe les tartines des enfants en bandes ou en carrés, et sers tout de suite pour garder le pain agréable et les légumes croquants."
+        }
+      ]
+    },
+    {
+      "slug": "veloute-courgettes-petits-pois-tartines-comte",
+      "title": "Velouté courgettes, petits pois et tartines au comté",
+      "summary": "Le plat de dimanche, c'est un dîner léger et réconfortant : un velouté très doux de courgettes, petits pois et pommes de terre, servi avec des tartines de pain de campagne gratinées au comté. La soupe reste simple, sans ail cru, oignon cru ni échalote crue, et les tartines apportent le côté gourmand attendu pour un dimanche soir.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 23,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "veloute",
+        "tartines"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2140,
+        "calories_per_serving": 535,
+        "protein_g": 98,
+        "carbs_g": 285,
+        "fat_g": 62
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Courgettes",
+          "quantity": "700 g",
+          "calories": 120,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Petits pois surgelés",
+          "quantity": "250 g",
+          "calories": 205,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pommes de terre",
+          "quantity": "350 g",
+          "calories": 270,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "150 ml",
+          "calories": 70,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "320 g, soit environ 6 tranches",
+          "calories": 800,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Comté râpé ou en fines lamelles",
+          "quantity": "140 g",
+          "calories": 580,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g, soit environ 1 cuillère à soupe",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "10 ml, soit environ 2 cuillères à café",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Thym, muscade douce, sel fin, poivre doux, eau",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes",
+          "text": "Rince 700 g de courgettes, puis coupe les 700 g de courgettes en demi-rondelles. Épluche 350 g de pommes de terre et coupe les 350 g de pommes de terre en petits dés de 1 à 2 cm pour qu'elles cuisent vite. Garde 250 g de petits pois surgelés prêts à ajouter directement dans la casserole."
+        },
+        {
+          "title": "Démarrer le velouté",
+          "text": "Dans une grande casserole, chauffe 10 g d'huile d'olive à feu moyen. Ajoute les 700 g de courgettes et les 350 g de pommes de terre, puis assaisonne avec une petite pincée de sel fin, un peu de thym et une pointe de muscade douce. Fais revenir les 700 g de courgettes et les 350 g de pommes de terre pendant 3 minutes, juste pour les enrober sans les colorer."
+        },
+        {
+          "title": "Cuire la base de soupe",
+          "text": "Verse 700 ml d'eau sur les 700 g de courgettes et les 350 g de pommes de terre. Couvre à moitié et laisse frémir environ 14 minutes, jusqu'à ce que les 350 g de pommes de terre soient presque tendres quand on les pique avec la pointe d'un couteau."
+        },
+        {
+          "title": "Ajouter les petits pois",
+          "text": "Ajoute les 250 g de petits pois surgelés dans la casserole avec les 700 g de courgettes, les 350 g de pommes de terre et les 700 ml d'eau. Prolonge la cuisson 5 minutes : les 250 g de petits pois doivent rester bien verts et les 350 g de pommes de terre doivent s'écraser facilement."
+        },
+        {
+          "title": "Mixer le velouté",
+          "text": "Hors du feu, ajoute 150 ml de lait demi-écrémé et 10 ml de jus de citron dans la casserole. Mixe les 700 g de courgettes, les 250 g de petits pois, les 350 g de pommes de terre, les 700 ml d'eau, les 150 ml de lait demi-écrémé et les 10 ml de jus de citron jusqu'à obtenir une texture lisse. Si le velouté paraît trop épais pour les enfants, ajoute 50 à 100 ml d'eau chaude et mixe encore quelques secondes."
+        },
+        {
+          "title": "Gratiner les tartines",
+          "text": "Pendant que le velouté finit de cuire, chauffe le gril du four. Dispose 320 g de pain de campagne, soit environ 6 tranches, sur une plaque. Répartis 140 g de comté râpé ou en fines lamelles sur les 320 g de pain de campagne, puis fais gratiner les 6 tartines pendant 5 à 6 minutes, jusqu'à ce que les 140 g de comté soient fondus et légèrement dorés."
+        },
+        {
+          "title": "Servir doucement",
+          "text": "Goûte le velouté préparé avec 700 g de courgettes, 250 g de petits pois, 350 g de pommes de terre, 150 ml de lait demi-écrémé et 10 ml de jus de citron, puis ajuste le sel et le poivre doux. Sers le velouté avec les 6 tartines de pain de campagne au comté ; coupe les tartines des enfants en bandes et laisse le velouté tiédir quelques minutes dans leurs bols."
+        }
+      ]
+    },
+    {
+      "slug": "wraps-houmous-carottes-concombre-feta",
+      "title": "Wraps houmous, carottes, concombre et feta",
+      "summary": "Déjeuner léger du dimanche, frais et facile à assembler : des wraps souples garnis de houmous doux, carottes râpées, concombre croquant et feta émiettée. Les saveurs restent douces pour les enfants, sans ail cru, oignon cru ni échalote crue, et chacun peut recevoir un wrap plus ou moins garni selon son appétit.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "wraps",
+        "sans-cuisson"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1745,
+        "calories_per_serving": 435,
+        "protein_g": 63,
+        "carbs_g": 191,
+        "fat_g": 84
+      },
+      "used_in_weeks": [
+        "2026-W25"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Grands wraps de blé",
+          "quantity": "240 g, soit 4 wraps",
+          "calories": 745,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Houmous doux sans ail cru marqué",
+          "quantity": "220 g",
+          "calories": 365,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Carottes râpées",
+          "quantity": "250 g",
+          "calories": 100,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "250 g",
+          "calories": 40,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Feta",
+          "quantity": "150 g",
+          "calories": 395,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "15 ml",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Menthe ou persil plat",
+          "quantity": "10 g",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes",
+          "text": "Rince 250 g de concombre et 10 g de menthe ou de persil plat si tu en utilises. Coupe les 250 g de concombre en bâtonnets fins ou en demi-rondelles très fines. Si les 250 g de carottes râpées ne sont pas déjà prêtes, épluche puis râpe 250 g de carottes assez finement pour que les wraps se roulent facilement."
+        },
+        {
+          "title": "Assaisonner doucement les crudités",
+          "text": "Dans un saladier, mélange les 250 g de carottes râpées avec 15 ml de jus de citron, 10 g d'huile d'olive, les 10 g de menthe ou de persil plat ciselés si tu les utilises, une petite pincée de sel fin et un peu de poivre doux. Garde les 250 g de concombre à part pour qu'il reste croquant et ne détrempe pas les wraps."
+        },
+        {
+          "title": "Préparer les wraps et la feta",
+          "text": "Pose les 4 grands wraps de blé, soit 240 g, sur une planche. S'ils sont un peu cassants, couvre les 4 wraps d'un torchon propre légèrement humide pendant 2 minutes, ou réchauffe-les 10 secondes pour les assouplir. Émiette 150 g de feta dans un bol."
+        },
+        {
+          "title": "Garnir les wraps",
+          "text": "Répartis 220 g de houmous doux sans ail cru marqué sur les 4 grands wraps de blé, soit environ 55 g de houmous doux par wrap, en laissant 2 cm libres sur les bords. Ajoute ensuite les 250 g de carottes râpées assaisonnées, les 250 g de concombre coupé finement et les 150 g de feta émiettée. Pour les jeunes enfants, mets un peu moins de 250 g de concombre au centre et garde les morceaux les plus petits."
+        },
+        {
+          "title": "Rouler et ajuster",
+          "text": "Replie les côtés de chaque wrap, puis roule les 4 wraps garnis de 220 g de houmous doux, 250 g de carottes râpées, 250 g de concombre et 150 g de feta en serrant doucement. Si un wrap paraît trop rempli, retire une petite cuillère de carottes râpées ou de concombre et sers-la à côté en crudité."
+        },
+        {
+          "title": "Servir frais",
+          "text": "Coupe les 4 wraps houmous, carottes, concombre et feta en deux pour les adultes, et en tronçons plus courts pour les jeunes enfants. Sers tout de suite pour garder les 240 g de wraps souples, les 250 g de carottes râpées juteuses et les 250 g de concombre croquants."
+        }
+      ]
     }
   ]
 }
-

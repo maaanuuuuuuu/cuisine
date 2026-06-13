@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recipe Writer"
+  short_description: "Write complete Cuisine recipes"
+  default_prompt: "Use $recipe-writer to write a complete Cuisine recipe from a recipe brief."

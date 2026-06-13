@@ -3,6 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const vaultDir = "Cuisine";
 const errors = [];
 
 function fail(message) {
@@ -42,11 +43,15 @@ function frontmatterHasKey(frontmatter, key) {
 }
 
 function countMeals(week, type) {
-  return week.days.reduce((count, day) => count + day.meals.filter((meal) => meal.type === type).length, 0);
+  return (week.days || []).reduce((count, day) => count + (day.meals || []).filter((meal) => meal.type === type).length, 0);
 }
 
 function collectMealSlugs(week) {
-  return week.days.flatMap((day) => day.meals.map((meal) => meal.recipe_slug).filter(Boolean));
+  return (week.days || []).flatMap((day) => (day.meals || []).map((meal) => meal.recipe_slug).filter(Boolean));
+}
+
+function hasPlannedWeek(week) {
+  return Boolean(week?.week) || (Array.isArray(week?.days) && week.days.length > 0);
 }
 
 function scanForbiddenPublicKeys(value, trail = "data/public") {
@@ -58,7 +63,7 @@ function scanForbiddenPublicKeys(value, trail = "data/public") {
   if (!value || typeof value !== "object") return;
   for (const [key, nested] of Object.entries(value)) {
     if (forbidden.has(key)) {
-      fail(`${trail}.${key}: clé privée interdite dans les données publiques`);
+      fail(`${trail}.${key}: cle privee interdite dans les donnees publiques`);
     }
     scanForbiddenPublicKeys(nested, `${trail}.${key}`);
   }
@@ -69,12 +74,15 @@ async function validateRequiredFiles() {
     "Plan.md",
     "README.md",
     "package.json",
-    "obsidian/index.md",
-    "obsidian/preferences.md",
-    "obsidian/favorites.md",
-    "obsidian/avoid.md",
-    "obsidian/feedback.md",
-    "obsidian/recipes/index.md",
+    `${vaultDir}/index.md`,
+    `${vaultDir}/preferences.md`,
+    `${vaultDir}/favorites.md`,
+    `${vaultDir}/avoid.md`,
+    `${vaultDir}/feedback.md`,
+    `${vaultDir}/recipes/index.md`,
+    `${vaultDir}/templates/week.md`,
+    `${vaultDir}/templates/recipe.md`,
+    `${vaultDir}/templates/shopping-list.md`,
     "data/public/current-week.json",
     "data/public/previous-week.json",
     "data/public/recipes.json",
@@ -95,30 +103,30 @@ async function validateRequiredFiles() {
 }
 
 async function validateRecipeNotes(recipes) {
-  const recipeDir = path.join(root, "obsidian", "recipes");
+  const recipeDir = path.join(root, vaultDir, "recipes");
   const files = (await readdir(recipeDir)).filter((file) => file.endsWith(".md") && file !== "index.md");
   const filesBySlug = new Set(files.map((file) => file.replace(/\.md$/, "")));
 
   for (const recipe of recipes) {
     if (!filesBySlug.has(recipe.slug)) {
-      fail(`obsidian/recipes/${recipe.slug}.md: note de recette manquante`);
+      fail(`${vaultDir}/recipes/${recipe.slug}.md: note de recette manquante`);
       continue;
     }
 
     const content = await readFile(path.join(recipeDir, `${recipe.slug}.md`), "utf8");
     const frontmatter = extractFrontmatter(content);
     if (!frontmatter) {
-      fail(`obsidian/recipes/${recipe.slug}.md: frontmatter manquant`);
+      fail(`${vaultDir}/recipes/${recipe.slug}.md: frontmatter manquant`);
       continue;
     }
     if (frontmatterValue(frontmatter, "type") !== "recipe") {
-      fail(`obsidian/recipes/${recipe.slug}.md: type recipe attendu`);
+      fail(`${vaultDir}/recipes/${recipe.slug}.md: type recipe attendu`);
     }
     if (frontmatterValue(frontmatter, "slug") !== recipe.slug) {
-      fail(`obsidian/recipes/${recipe.slug}.md: slug incohérent`);
+      fail(`${vaultDir}/recipes/${recipe.slug}.md: slug incoherent`);
     }
     if (!frontmatterValue(frontmatter, "title")) {
-      fail(`obsidian/recipes/${recipe.slug}.md: title manquant`);
+      fail(`${vaultDir}/recipes/${recipe.slug}.md: title manquant`);
     }
     for (const key of [
       "servings",
@@ -135,29 +143,33 @@ async function validateRecipeNotes(recipes) {
       "status"
     ]) {
       if (!frontmatterHasKey(frontmatter, key)) {
-        fail(`obsidian/recipes/${recipe.slug}.md: champ frontmatter ${key} manquant`);
+        fail(`${vaultDir}/recipes/${recipe.slug}.md: champ frontmatter ${key} manquant`);
       }
     }
     for (const key of ["garlic", "onion", "shallot"]) {
       if (!new RegExp(`^\\s+${key}:\\s+(true|false)`, "m").test(frontmatter)) {
-        fail(`obsidian/recipes/${recipe.slug}.md: raw_alliums.${key} manquant ou invalide`);
+        fail(`${vaultDir}/recipes/${recipe.slug}.md: raw_alliums.${key} manquant ou invalide`);
       }
     }
     for (const key of ["calories_total", "calories_per_serving", "protein_g", "carbs_g", "fat_g"]) {
       if (!new RegExp(`^\\s+${key}:\\s+`, "m").test(frontmatter)) {
-        fail(`obsidian/recipes/${recipe.slug}.md: nutrition.${key} manquant`);
+        fail(`${vaultDir}/recipes/${recipe.slug}.md: nutrition.${key} manquant`);
       }
     }
-    for (const heading of ["## Résumé", "## Alertes", "## Nutrition estimée", "## Étapes", "## Utilisation"]) {
+    for (const heading of ["## Résumé", "## Ingrédients et nutrition estimée", "## Étapes", "## Pourquoi c'est équilibré", "## Utilisation"]) {
       if (!content.includes(heading)) {
-        fail(`obsidian/recipes/${recipe.slug}.md: section ${heading} manquante`);
+        fail(`${vaultDir}/recipes/${recipe.slug}.md: section ${heading} manquante`);
       }
+    }
+    if (/## Alertes\s*(?:\r?\n\s*)*(?:## |$)/.test(content)) {
+      fail(`${vaultDir}/recipes/${recipe.slug}.md: section ## Alertes vide`);
     }
   }
 }
 
 async function validateWeekNote(week) {
-  const relativePath = `obsidian/weeks/${week.week}.md`;
+  if (!week?.week) return;
+  const relativePath = `${vaultDir}/weeks/${week.week}.md`;
   if (!(await exists(relativePath))) {
     fail(`${relativePath}: note de semaine manquante`);
     return;
@@ -171,12 +183,13 @@ async function validateWeekNote(week) {
     fail(`${relativePath}: type week attendu`);
   }
   if (frontmatterValue(frontmatter, "week") !== week.week) {
-    fail(`${relativePath}: identifiant de semaine incohérent`);
+    fail(`${relativePath}: identifiant de semaine incoherent`);
   }
 }
 
 async function validateShoppingNote(shopping) {
-  const relativePath = `obsidian/shopping-lists/${shopping.week}.md`;
+  if (!shopping?.week) return;
+  const relativePath = `${vaultDir}/shopping-lists/${shopping.week}.md`;
   if (!(await exists(relativePath))) {
     fail(`${relativePath}: liste de courses Obsidian manquante`);
     return;
@@ -199,40 +212,51 @@ async function validatePublicData() {
   if (!currentWeek || !previousWeek || !recipesData || !shopping) return;
 
   const recipes = recipesData.recipes || [];
-  const slugs = new Set(recipes.map((recipe) => recipe.slug));
-  if (recipes.length === 0) fail("data/public/recipes.json: au moins une recette est attendue");
+  if (!Array.isArray(recipesData.recipes)) {
+    fail("data/public/recipes.json: recipes doit etre un tableau");
+  }
 
   for (const recipe of recipes) {
     for (const key of ["slug", "title", "summary", "servings", "ingredients", "steps", "nutrition"]) {
       if (recipe[key] == null) fail(`data/public/recipes.json:${recipe.slug}: champ ${key} manquant`);
     }
     if (!Array.isArray(recipe.ingredients) || recipe.ingredients.length === 0) {
-      fail(`data/public/recipes.json:${recipe.slug}: ingrédients manquants`);
+      fail(`data/public/recipes.json:${recipe.slug}: ingredients manquants`);
     }
     if (!Array.isArray(recipe.steps) || recipe.steps.length === 0) {
-      fail(`data/public/recipes.json:${recipe.slug}: étapes manquantes`);
+      fail(`data/public/recipes.json:${recipe.slug}: etapes manquantes`);
     }
   }
 
-  if (countMeals(currentWeek, "dinner") !== 7) {
-    fail("data/public/current-week.json: 7 dîners attendus");
+  if (!Array.isArray(currentWeek.days)) {
+    fail("data/public/current-week.json: days doit etre un tableau");
   }
-  if (countMeals(currentWeek, "lunch") !== 3) {
-    fail("data/public/current-week.json: 3 déjeuners attendus");
+  if (!Array.isArray(previousWeek.days)) {
+    fail("data/public/previous-week.json: days doit etre un tableau");
   }
 
+  if (hasPlannedWeek(currentWeek)) {
+    if (countMeals(currentWeek, "dinner") !== 7) {
+      fail("data/public/current-week.json: 7 diners attendus");
+    }
+    if (countMeals(currentWeek, "lunch") !== 3) {
+      fail("data/public/current-week.json: 3 dejeuners attendus");
+    }
+  }
+
+  const slugs = new Set(recipes.map((recipe) => recipe.slug));
   for (const week of [currentWeek, previousWeek]) {
     await validateWeekNote(week);
     for (const slug of collectMealSlugs(week)) {
-      if (!slugs.has(slug)) fail(`${week.week}: recette référencée absente de recipes.json (${slug})`);
+      if (!slugs.has(slug)) fail(`${week.week}: recette referencee absente de recipes.json (${slug})`);
     }
   }
 
-  if (shopping.week !== currentWeek.week) {
-    fail("data/public/shopping-list.json: doit correspondre à la semaine courante");
+  if (!Array.isArray(shopping.sections)) {
+    fail("data/public/shopping-list.json: sections doit etre un tableau");
   }
-  if (!Array.isArray(shopping.sections) || shopping.sections.length === 0) {
-    fail("data/public/shopping-list.json: sections manquantes");
+  if (shopping.week && currentWeek.week && shopping.week !== currentWeek.week) {
+    fail("data/public/shopping-list.json: doit correspondre a la semaine courante");
   }
   await validateShoppingNote(shopping);
   await validateRecipeNotes(recipes);

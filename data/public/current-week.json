@@ -1,113 +1,111 @@
 {
   "week": "2026-W25",
-  "title": "Semaine du 15 au 21 juin 2026",
+  "title": "Semaine 2026-W25",
   "start_date": "2026-06-15",
   "end_date": "2026-06-21",
-  "status": "current",
+  "status": "planned",
   "days": [
     {
-      "label": "Lundi",
+      "label": "Lundi 2026-06-15",
       "date": "2026-06-15",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "dahl-lentilles-corail-epinards",
-          "recipe_title": "Dahl de lentilles corail aux épinards"
+          "recipe_slug": "pates-cremeuses-courgettes-petits-pois-ricotta",
+          "recipe_title": "Pâtes crémeuses courgettes, petits pois et ricotta"
         }
       ]
     },
     {
-      "label": "Mardi",
+      "label": "Mardi 2026-06-16",
       "date": "2026-06-16",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "tacos-haricots-noirs-mais",
-          "recipe_title": "Tacos aux haricots noirs et maïs"
+          "recipe_slug": "pilaf-boulgour-champignons-courgettes-feta",
+          "recipe_title": "Pilaf de boulgour aux champignons, courgettes et feta"
         }
       ]
     },
     {
-      "label": "Mercredi",
+      "label": "Mercredi 2026-06-17",
       "date": "2026-06-17",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "salade-pates-pesto-petits-pois-feta",
-          "recipe_title": "Salade de pâtes au pesto, petits pois et feta"
+          "recipe_slug": "tartines-ricotta-tomates-concombre",
+          "recipe_title": "Tartines ricotta, tomates cerises et concombre"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "gratin-courgettes-chevre-pommes-de-terre",
-          "recipe_title": "Gratin courgettes, chèvre et pommes de terre précuites"
+          "recipe_slug": "quenelles-sauce-tomate-carottes-vapeur",
+          "recipe_title": "Quenelles sauce tomate douce et carottes vapeur"
         }
       ]
     },
     {
-      "label": "Jeudi",
+      "label": "Jeudi 2026-06-18",
       "date": "2026-06-18",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "nouilles-tofu-brocoli-cacahuetes",
-          "recipe_title": "Nouilles sautées tofu, brocoli et cacahuètes"
+          "recipe_slug": "gratin-pommes-de-terre-courgettes-chevre",
+          "recipe_title": "Gratin de pommes de terre fines, courgettes et chèvre"
         }
       ]
     },
     {
-      "label": "Vendredi",
+      "label": "Vendredi 2026-06-19",
       "date": "2026-06-19",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "shakshuka-pois-chiches-oeufs",
-          "recipe_title": "Shakshuka douce pois chiches et œufs"
+          "recipe_slug": "frittata-petits-pois-pommes-de-terre-tomates",
+          "recipe_title": "Frittata petits pois, pommes de terre et tomates"
         }
       ]
     },
     {
-      "label": "Samedi",
+      "label": "Samedi 2026-06-20",
       "date": "2026-06-20",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "galettes-legumes-pois-chiches",
-          "recipe_title": "Galettes de légumes et pois chiches"
+          "recipe_slug": "salade-pates-pesto-haricots-verts-mozzarella",
+          "recipe_title": "Salade de pâtes pesto doux, haricots verts et mozzarella"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "risotto-champignons-petits-pois",
-          "recipe_title": "Risotto champignons et petits pois"
+          "recipe_slug": "pizza-courgettes-champignons-mozzarella",
+          "recipe_title": "Pizza maison courgettes, champignons et mozzarella"
         }
       ]
     },
     {
-      "label": "Dimanche",
+      "label": "Dimanche 2026-06-21",
       "date": "2026-06-21",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "risotto-champignons-petits-pois",
-          "recipe_title": "Risotto champignons et petits pois",
-          "note": "Prévoir une portion supplémentaire le samedi soir pour un déjeuner très rapide."
+          "recipe_slug": "wraps-houmous-carottes-concombre-feta",
+          "recipe_title": "Wraps houmous, carottes, concombre et feta"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "lasagnes-epinards-ricotta",
-          "recipe_title": "Lasagnes épinards ricotta"
+          "recipe_slug": "veloute-courgettes-petits-pois-tartines-comte",
+          "recipe_title": "Velouté courgettes, petits pois et tartines au comté"
         }
       ]
     }
   ]
 }
-

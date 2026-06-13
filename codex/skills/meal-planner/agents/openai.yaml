@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meal Planner"
+  short_description: "Plan and revise Cuisine weekly meals"
+  default_prompt: "Use $meal-planner to create or revise a Cuisine weekly vegetarian meal plan with recipe briefs and a readable planning table."

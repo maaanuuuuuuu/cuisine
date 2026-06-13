@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopping List Writer"
+  short_description: "Order Cuisine shopping lists by store aisle"
+  default_prompt: "Use $shopping-list-writer to generate an ordered Cuisine shopping list from a planned week and recipes."

@@ -1,75 +1,231 @@
 {
   "week": "2026-W25",
   "title": "Liste de courses 2026-W25",
+  "status": "planned",
+  "pantry_basics_included": true,
   "sections": [
     {
       "name": "Fruits et légumes",
       "items": [
-        { "name": "Épinards frais", "quantity": "600 g" },
-        { "name": "Courgettes", "quantity": "1,2 kg" },
-        { "name": "Pommes de terre", "quantity": "900 g" },
-        { "name": "Brocoli", "quantity": "600 g" },
-        { "name": "Champignons", "quantity": "500 g" },
-        { "name": "Carottes", "quantity": "500 g" },
-        { "name": "Poivrons", "quantity": "4" },
-        { "name": "Tomates concassées ou tomates fraîches", "quantity": "1,6 kg" },
-        { "name": "Salade verte", "quantity": "1" },
-        { "name": "Citrons", "quantity": "3" },
-        { "name": "Avocats", "quantity": "2" }
+        {
+          "name": "Basilic frais",
+          "quantity": "20 g"
+        },
+        {
+          "name": "Menthe ou persil plat",
+          "quantity": "10 g"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "2,6 kg"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "600 g"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "750 g"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "500 g"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "300 g"
+        },
+        {
+          "name": "Tomates cerises",
+          "quantity": "550 g"
+        },
+        {
+          "name": "Pommes de terre",
+          "quantity": "1,8 kg"
+        },
+        {
+          "name": "Citrons",
+          "quantity": "3"
+        }
+      ]
+    },
+    {
+      "name": "Boulangerie",
+      "items": [
+        {
+          "name": "Pain complet ou pain de campagne",
+          "quantity": "680 g, environ 12 tranches"
+        },
+        {
+          "name": "Pâte à pizza",
+          "quantity": "500 g"
+        }
       ]
     },
     {
       "name": "Épicerie salée",
       "items": [
-        { "name": "Lentilles corail", "quantity": "300 g" },
-        { "name": "Riz basmati ou arborio", "quantity": "900 g" },
-        { "name": "Haricots noirs", "quantity": "2 boîtes" },
-        { "name": "Pois chiches", "quantity": "3 boîtes" },
-        { "name": "Maïs", "quantity": "1 boîte" },
-        { "name": "Pâtes", "quantity": "650 g" },
-        { "name": "Nouilles de blé ou soba", "quantity": "300 g" },
-        { "name": "Feuilles de lasagne", "quantity": "250 g" },
-        { "name": "Tortillas", "quantity": "8" },
-        { "name": "Chapelure", "quantity": "80 g" },
-        { "name": "Bouillon de légumes", "quantity": "2 L" }
-      ]
-    },
-    {
-      "name": "Frais",
-      "items": [
-        { "name": "Tofu ferme", "quantity": "400 g" },
-        { "name": "Feta", "quantity": "200 g" },
-        { "name": "Chèvre", "quantity": "180 g" },
-        { "name": "Ricotta", "quantity": "500 g" },
-        { "name": "Mozzarella", "quantity": "250 g" },
-        { "name": "Parmesan", "quantity": "120 g" },
-        { "name": "Œufs", "quantity": "10" },
-        { "name": "Yaourt nature", "quantity": "250 g" },
-        { "name": "Crème ou alternative", "quantity": "300 ml" }
+        {
+          "name": "Boulgour sec",
+          "quantity": "250 g"
+        },
+        {
+          "name": "Pâtes courtes",
+          "quantity": "660 g"
+        },
+        {
+          "name": "Semoule moyenne",
+          "quantity": "160 g"
+        },
+        {
+          "name": "Passata",
+          "quantity": "500 g"
+        },
+        {
+          "name": "Sauce tomate nature",
+          "quantity": "200 g"
+        },
+        {
+          "name": "Grands wraps de blé",
+          "quantity": "4 wraps, environ 240 g"
+        },
+        {
+          "name": "Pesto doux",
+          "quantity": "80 g (choisir une version sans ail cru marqué)"
+        },
+        {
+          "name": "Graines de tournesol",
+          "quantity": "20 g"
+        }
       ]
     },
     {
       "name": "Surgelé",
       "items": [
-        { "name": "Petits pois", "quantity": "600 g" }
+        {
+          "name": "Petits pois surgelés",
+          "quantity": "700 g"
+        },
+        {
+          "name": "Haricots verts",
+          "quantity": "300 g"
+        }
+      ]
+    },
+    {
+      "name": "Frais",
+      "items": [
+        {
+          "name": "Œufs",
+          "quantity": "8"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "1 L"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "20 cl"
+        },
+        {
+          "name": "Crème fraîche",
+          "quantity": "60 g"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "500 g"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "500 g"
+        },
+        {
+          "name": "Feta",
+          "quantity": "300 g"
+        },
+        {
+          "name": "Comté",
+          "quantity": "200 g"
+        },
+        {
+          "name": "Emmental râpé",
+          "quantity": "80 g"
+        },
+        {
+          "name": "Chèvre doux",
+          "quantity": "120 g"
+        },
+        {
+          "name": "Fromage doux râpé",
+          "quantity": "100 g"
+        },
+        {
+          "name": "Quenelles nature",
+          "quantity": "4 pièces, environ 320 g"
+        },
+        {
+          "name": "Houmous doux",
+          "quantity": "220 g (choisir une version sans ail cru marqué)"
+        }
       ]
     },
     {
       "name": "Basiques et épices",
       "items": [
-        { "name": "Huile d'olive", "quantity": "1 bouteille" },
-        { "name": "Huile neutre", "quantity": "1 bouteille" },
-        { "name": "Sel", "quantity": "1 paquet" },
-        { "name": "Poivre", "quantity": "1 moulin ou recharge" },
-        { "name": "Curry doux", "quantity": "1 pot" },
-        { "name": "Cumin", "quantity": "1 pot" },
-        { "name": "Paprika fumé", "quantity": "1 pot" },
-        { "name": "Sauce soja", "quantity": "1 bouteille" },
-        { "name": "Beurre de cacahuète", "quantity": "1 pot" },
-        { "name": "Pesto", "quantity": "1 pot" },
-        { "name": "Farine", "quantity": "1 paquet" }
+        {
+          "name": "Huile d'olive",
+          "quantity": "environ 150 ml"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": ""
+        },
+        {
+          "name": "Poivre doux",
+          "quantity": ""
+        },
+        {
+          "name": "Noix de muscade",
+          "quantity": ""
+        },
+        {
+          "name": "Herbes de Provence",
+          "quantity": ""
+        },
+        {
+          "name": "Paprika doux",
+          "quantity": ""
+        },
+        {
+          "name": "Origan",
+          "quantity": ""
+        },
+        {
+          "name": "Thym",
+          "quantity": ""
+        },
+        {
+          "name": "Fécule de maïs",
+          "quantity": "5 g"
+        },
+        {
+          "name": "Farine",
+          "quantity": "10 g"
+        },
+        {
+          "name": "Bouillon de légumes doux",
+          "quantity": "pour 650 ml"
+        }
+      ]
+    },
+    {
+      "name": "À vérifier",
+      "items": [
+        {
+          "name": "Pesto doux et houmous doux",
+          "quantity": "vérifier l'absence d'ail cru dominant selon les marques disponibles"
+        }
       ]
     }
   ]
 }
-

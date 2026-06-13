@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "25615f35dcf3c690",
+    "type": "split",
+    "children": [
+      {
+        "id": "976d5f36aaa18ac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c694932e3973a77e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0d57851d9db2069",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e5855e20dfeb644",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab74f47755bde457",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "fa3d633e1d325330",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "914c229d4c233d42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf6ee9ef31ba6337",
+    "type": "split",
+    "children": [
+      {
+        "id": "a584844f984dc729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e43a8e0ab39b4eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "52558dbb8c1b0cac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "141a76eb4471d933",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "d61dae5379e12510",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "4773762cdbbd53e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
+    }
+  },
+  "active": "c694932e3973a77e",
+  "lastOpenFiles": [
+    "shopping-lists/2026-W25.md",
+    "recipes/veloute-courgettes-petits-pois-tartines-comte.md",
+    "recipes/wraps-houmous-carottes-concombre-feta.md",
+    "recipes/pizza-courgettes-champignons-mozzarella.md",
+    "recipes/salade-pates-pesto-haricots-verts-mozzarella.md",
+    "recipes/frittata-petits-pois-pommes-de-terre-tomates.md",
+    "recipes/gratin-pommes-de-terre-courgettes-chevre.md",
+    "recipes/pilaf-boulgour-champignons-courgettes-feta.md",
+    "recipes/pates-cremeuses-courgettes-petits-pois-ricotta.md",
+    "recipes/quenelles-sauce-tomate-carottes-vapeur.md",
+    "recipes/tartines-ricotta-tomates-concombre.md",
+    "weeks/2026-W25.md",
+    "recipes/coquillettes-cremeuses-brocoli-petits-pois.md",
+    "_codex-skills/shopping-list-writer.md",
+    "recipes/gnocchis-sauce-tomate-douce-mozzarella.md",
+    "recipes/frittata-courgette-mais-cheddar-doux.md",
+    "recipes/salade-pates-pesto-doux-petits-pois-concombre.md",
+    "recipes/pizza-maison-courgette-mozzarella-champignons.md",
+    "recipes/quesadillas-douces-mais-fromage.md",
+    "recipes/veloute-courgette-petits-pois-tartines-feta.md",
+    "recipes/tartines-ricotta-tomates-cerises-roties-concombre.md",
+    "recipes/index.md",
+    "recipes/gratin-pommes-de-terre-precuites-epinards-mozzarella.md",
+    "recipes/risotto-petit-epeautre-champignons-courgettes-roties.md",
+    "templates/recipe.md",
+    "templates/week.md",
+    "_codex-skills"
+  ]
+}

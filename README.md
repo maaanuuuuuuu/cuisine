@@ -11,7 +11,7 @@ Principe :
 ## Structure
 
 - `Plan.md` : spécification du workflow.
-- `obsidian/` : notes lisibles dans Obsidian, source de mémoire principale.
+- `Cuisine/` : notes lisibles dans Obsidian, source de mémoire principale.
 - `data/public/` : données publiables par GitHub Pages.
 - `site/` : HTML, CSS et JavaScript natifs.
 - `scripts/` : validation, build et serveur local.
@@ -32,8 +32,8 @@ npm run site:dev
 Demander à Codex :
 
 ```text
-Relis Plan.md, obsidian/preferences.md, obsidian/feedback.md, obsidian/favorites.md,
-obsidian/avoid.md, obsidian/recipes/, obsidian/weeks/ et obsidian/shopping-lists/.
+Relis Plan.md, Cuisine/preferences.md, Cuisine/feedback.md, Cuisine/favorites.md,
+Cuisine/avoid.md, Cuisine/recipes/, Cuisine/weeks/ et Cuisine/shopping-lists/.
 Génère la prochaine semaine de repas végétariens : 7 dîners + 3 déjeuners
 mercredi/samedi/dimanche, en tenant compte de l'historique et des préférences.
 Mets à jour les notes Obsidian, la liste de courses consolidée et les données
@@ -55,12 +55,12 @@ Codex doit toujours écrire les changements dans les fichiers du repo. Le chat n
 
 ## Automation Codex active
 
-Une automation locale Codex a été créée :
+Une automation locale Codex active a été créée :
 
-- id : `cuisine-weekly-meal-plan`
+- id : `cuisine-weekly-planning-orchestrator`
 - fréquence : lundi 08:00, Europe/Paris
 - dossier : `C:\Users\USER\Desktop\devs\Cuisine`
-- comportement : générer la prochaine semaine, mettre à jour Obsidian et `data/public/`, lancer `npm run validate` puis `npm run site:build`, commit/push si un remote GitHub est configuré.
+- comportement : générer la prochaine semaine, lancer un sous-agent `$recipe-writer` en `5.5 Très approfondi` par brief recette, générer la liste de courses ordonnée avec `$shopping-list-writer`, mettre à jour `Cuisine/`, `data/public/`, lancer `npm run validate` puis `npm run site:build`, commit/push si un remote GitHub est configuré.
 
 Si aucun remote GitHub n'est configuré au moment de l'exécution, l'automation doit laisser les changements validés localement et signaler que l'URL du repo manque.
 
@@ -73,7 +73,7 @@ Exemples :
 - `Trop long pour un soir de semaine.`
 - `Évite de reproposer cette recette.`
 
-Codex doit mettre à jour `obsidian/feedback.md`, la note de recette concernée, et si nécessaire `obsidian/favorites.md`, `obsidian/avoid.md` ou `obsidian/preferences.md`.
+Codex doit mettre à jour `Cuisine/feedback.md`, la note de recette concernée, et si nécessaire `Cuisine/favorites.md`, `Cuisine/avoid.md` ou `Cuisine/preferences.md`.
 
 ## Publication
 

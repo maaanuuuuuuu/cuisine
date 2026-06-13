@@ -8,6 +8,14 @@ async function getJson(path) {
   return response.json();
 }
 
+async function getOptionalJson(path) {
+  try {
+    return await getJson(path);
+  } catch {
+    return null;
+  }
+}
+
 function bySlug(recipes) {
   return new Map(recipes.map((recipe) => [recipe.slug, recipe]));
 }
@@ -22,6 +30,85 @@ function escapeHtml(value) {
 
 function recipeHref(slug) {
   return `recipe.html?slug=${encodeURIComponent(slug)}`;
+}
+
+function hasPlannedWeek(week) {
+  return Boolean(week?.week) && Array.isArray(week.days) && week.days.length > 0;
+}
+
+function collectWeeks(weeksData, currentWeek, previousWeek) {
+  const weeksById = new Map();
+
+  for (const week of [previousWeek, currentWeek, ...(weeksData?.weeks || [])]) {
+    if (hasPlannedWeek(week)) {
+      weeksById.set(week.week, week);
+    }
+  }
+
+  return [...weeksById.values()].sort((a, b) => {
+    const left = a.start_date || a.week || "";
+    const right = b.start_date || b.week || "";
+    return left.localeCompare(right, "fr");
+  });
+}
+
+function todayIsoDate() {
+  return new Date().toLocaleDateString("sv-SE");
+}
+
+function isCurrentCalendarWeek(week, today = todayIsoDate()) {
+  return Boolean(week?.start_date && week?.end_date && week.start_date <= today && week.end_date >= today);
+}
+
+function selectDefaultWeek(weeks) {
+  const today = todayIsoDate();
+  return (
+    weeks.find((week) => isCurrentCalendarWeek(week, today)) ||
+    weeks.find((week) => week.start_date && week.start_date > today) ||
+    weeks[weeks.length - 1] ||
+    null
+  );
+}
+
+function formatDateLabel(dateString) {
+  if (!dateString) return "";
+  const date = new Date(`${dateString}T00:00:00`);
+  if (Number.isNaN(date.getTime())) return "";
+  return new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "short" }).format(date);
+}
+
+function weekOptionLabel(week) {
+  const today = todayIsoDate();
+  const state = isCurrentCalendarWeek(week, today) ? "courante" : week.start_date > today ? "à venir" : "passée";
+  const dates = [formatDateLabel(week.start_date), formatDateLabel(week.end_date)].filter(Boolean).join(" - ");
+  return [`Semaine ${week.week}`, dates, state].filter(Boolean).join(" · ");
+}
+
+function renderWeekSelector(container, weeks, selectedWeek, onSelect) {
+  if (!container || weeks.length === 0) return;
+
+  container.innerHTML = `
+    <label class="week-picker">
+      <span>Choisir la semaine</span>
+      <select id="week-select" class="week-select">
+        ${weeks
+          .map(
+            (week) => `
+              <option value="${escapeHtml(week.week)}"${week.week === selectedWeek?.week ? " selected" : ""}>
+                ${escapeHtml(weekOptionLabel(week))}
+              </option>
+            `
+          )
+          .join("")}
+      </select>
+    </label>
+  `;
+
+  const select = container.querySelector("#week-select");
+  select.addEventListener("change", () => {
+    const selected = weeks.find((week) => week.week === select.value);
+    if (selected) onSelect(selected);
+  });
 }
 
 function renderWeek(container, week, recipeMap) {
@@ -68,10 +155,25 @@ function renderShopping(container, shopping) {
     return;
   }
 
+  const storageKey = `cuisine-shopping:${shopping.week || shopping.title || "current"}`;
+  const checkedItems = readCheckedShoppingItems(storageKey);
+
   container.innerHTML = shopping.sections
-    .map((section) => {
+    .map((section, sectionIndex) => {
       const items = section.items
-        .map((item) => `<li><span>${escapeHtml(item.name)}</span><span>${escapeHtml(item.quantity)}</span></li>`)
+        .map((item, itemIndex) => {
+          const itemKey = shoppingItemKey(section, item, sectionIndex, itemIndex);
+          const isChecked = checkedItems.has(itemKey);
+          return `
+            <li class="shopping-item${isChecked ? " is-checked" : ""}" data-shopping-key="${escapeHtml(itemKey)}">
+              <label class="shopping-check-row">
+                <input class="shopping-checkbox" type="checkbox"${isChecked ? " checked" : ""}>
+                <span class="shopping-item-name">${escapeHtml(item.name)}</span>
+                <span class="shopping-item-quantity">${escapeHtml(item.quantity)}</span>
+              </label>
+            </li>
+          `;
+        })
         .join("");
       return `
         <article class="shopping-section">
@@ -81,14 +183,48 @@ function renderShopping(container, shopping) {
       `;
     })
     .join("");
+
+  container.addEventListener("change", (event) => {
+    const checkbox = event.target.closest(".shopping-checkbox");
+    if (!checkbox) return;
+    const item = checkbox.closest(".shopping-item");
+    if (!item) return;
+
+    const key = item.dataset.shoppingKey;
+    item.classList.toggle("is-checked", checkbox.checked);
+    if (checkbox.checked) checkedItems.add(key);
+    else checkedItems.delete(key);
+    writeCheckedShoppingItems(storageKey, checkedItems);
+  });
 }
 
 function countShoppingItems(shopping) {
   return (shopping?.sections || []).reduce((total, section) => total + (section.items || []).length, 0);
 }
 
+function shoppingItemKey(section, item, sectionIndex, itemIndex) {
+  return [section.name || sectionIndex, item.name || itemIndex, item.quantity || ""].join("::");
+}
+
+function readCheckedShoppingItems(storageKey) {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(storageKey) || "[]"));
+  } catch {
+    return new Set();
+  }
+}
+
+function writeCheckedShoppingItems(storageKey, checkedItems) {
+  try {
+    localStorage.setItem(storageKey, JSON.stringify([...checkedItems]));
+  } catch {
+    // Le cochage reste utilisable même si le stockage local est indisponible.
+  }
+}
+
 async function initHome() {
-  const [currentWeek, previousWeek, recipesData, shopping] = await Promise.all([
+  const [weeksData, currentWeek, previousWeek, recipesData, shopping] = await Promise.all([
+    getOptionalJson("weeks.json"),
     getJson("current-week.json"),
     getJson("previous-week.json"),
     getJson("recipes.json"),
@@ -97,32 +233,31 @@ async function initHome() {
 
   const recipeMap = bySlug(recipesData.recipes);
   const weekView = document.querySelector("#week-view");
-  const tabs = document.querySelectorAll("[data-week-tab]");
+  const weeks = collectWeeks(weeksData, currentWeek, previousWeek);
+  const selectedWeek = selectDefaultWeek(weeks) || currentWeek;
 
-  renderWeek(weekView, currentWeek, recipeMap);
-  renderShopping(document.querySelector("#shopping-list"), shopping);
-
-  tabs.forEach((tab) => {
-    tab.addEventListener("click", () => {
-      tabs.forEach((button) => button.classList.remove("is-active"));
-      tab.classList.add("is-active");
-      const selected = tab.dataset.weekTab === "previous" ? previousWeek : currentWeek;
-      renderWeek(weekView, selected, recipeMap);
-    });
+  renderWeek(weekView, selectedWeek, recipeMap);
+  renderWeekSelector(document.querySelector("#week-picker"), weeks, selectedWeek, (week) => {
+    renderWeek(weekView, week, recipeMap);
   });
+  renderShopping(document.querySelector("#shopping-list"), shopping);
 }
 
 async function initShopping() {
-  const [currentWeek, shopping] = await Promise.all([
+  const [weeksData, currentWeek, shopping] = await Promise.all([
+    getOptionalJson("weeks.json"),
     getJson("current-week.json"),
     getJson("shopping-list.json")
   ]);
 
   const summary = document.querySelector("#shopping-page-summary");
   const count = countShoppingItems(shopping);
+  const weeks = collectWeeks(weeksData, currentWeek, null);
+  const shoppingWeek = weeks.find((week) => week.week === shopping.week);
+  const shoppingContext = shoppingWeek?.title || currentWeek.title;
   summary.innerHTML = `
     <strong>${escapeHtml(shopping.title || "Liste de courses")}</strong><br>
-    <span class="small">${escapeHtml(currentWeek.title)} · ${count} articles · basiques du placard inclus</span>
+    <span class="small">${escapeHtml(shoppingContext)} · ${count} articles · basiques du placard inclus</span>
   `;
 
   renderShopping(document.querySelector("#shopping-page-list"), shopping);
