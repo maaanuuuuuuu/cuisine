@@ -12,3 +12,16 @@
 - [[tartines-ricotta-tomates-concombre|Tartines ricotta, tomates cerises et concombre]]
 - [[veloute-courgettes-petits-pois-tartines-comte|Velouté courgettes, petits pois et tartines au comté]]
 - [[wraps-houmous-carottes-concombre-feta|Wraps houmous, carottes, concombre et feta]]
+
+## Semaine 2026-W26
+
+- [[clafoutis-sale-tomates-mais-emmental|Clafoutis salé tomates, maïs et emmental]]
+- [[galettes-mais-courgette-salade-yaourt|Galettes maïs-courgette, salade et sauce yaourt]]
+- [[gnocchis-sauce-tomate-douce-epinards-mozzarella|Gnocchis sauce tomate douce, épinards et mozzarella]]
+- [[gratin-polenta-tomates-courgettes-mozzarella|Gratin de polenta crémeuse, tomates et courgettes à la mozzarella]]
+- [[orzotto-orge-perle-poivrons-tomates-feta|Orzotto d'orge perlé aux poivrons, tomates et feta]]
+- [[pates-cremeuses-brocoli-haricots-verts-cheddar|Pâtes crémeuses brocoli, haricots verts et cheddar]]
+- [[salade-lentilles-tomates-concombre-chevre-frais|Salade de lentilles, tomates, concombre et chèvre frais]]
+- [[semoule-express-pois-chiches-concombre-tomates|Semoule express pois chiches, concombre et tomates]]
+- [[tarte-salee-tomates-ricotta-basilic|Tarte salée tomates, ricotta et basilic]]
+- [[veloute-carottes-lentilles-corail-tartines-ricotta|Velouté carottes, lentilles corail et tartines ricotta]]

@@ -1,6 +1,118 @@
 {
-  "updated_at": "2026-06-13",
+  "updated_at": "2026-06-15",
   "recipes": [
+    {
+      "slug": "clafoutis-sale-tomates-mais-emmental",
+      "title": "Clafoutis salé tomates, maïs et emmental",
+      "summary": "Le plat de vendredi, c'est un clafoutis salé familial aux œufs, tomates cerises, maïs doux et emmental. Il se prépare comme une pâte à crêpes épaisse, cuit au four dans un plat unique, et donne un centre pris mais encore moelleux, facile à servir avec des crudités ou une salade.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "oeufs",
+        "four"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1940,
+        "calories_per_serving": 485,
+        "protein_g": 112,
+        "carbs_g": 167,
+        "fat_g": 93
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Œufs",
+          "quantity": "6 moyens",
+          "calories": 432,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates cerises",
+          "quantity": "400 g",
+          "calories": 72,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Maïs doux égoutté",
+          "quantity": "280 g",
+          "calories": 270,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Emmental râpé",
+          "quantity": "140 g",
+          "calories": 532,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Farine de blé",
+          "quantity": "100 g",
+          "calories": 364,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "40 cl",
+          "calories": 184,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin, poivre doux, herbes de Provence",
+          "quantity": "Selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préchauffer et préparer le plat",
+          "text": "Préchauffe le four à 180 °C. Huile un plat à gratin moyen avec 10 g d'huile d'olive, en insistant sur les bords pour que le clafoutis salé se démoule facilement."
+        },
+        {
+          "title": "Préparer les légumes",
+          "text": "Coupe 400 g de tomates cerises en deux. Égoutte bien 280 g de maïs doux, puis sèche rapidement 400 g de tomates cerises et 280 g de maïs doux avec un torchon propre ou du papier absorbant pour éviter un clafoutis trop aqueux."
+        },
+        {
+          "title": "Faire l'appareil aux œufs",
+          "text": "Dans un grand saladier, fouette 6 œufs avec 100 g de farine de blé jusqu'à obtenir une pâte épaisse presque lisse. Verse progressivement 40 cl de lait demi-écrémé en fouettant, puis ajoute 100 g d'emmental râpé, 1/2 cuillère à café de sel fin, un peu de poivre doux et 1 cuillère à café d'herbes de Provence."
+        },
+        {
+          "title": "Monter le clafoutis",
+          "text": "Répartis dans le plat huilé les 400 g de tomates cerises et les 280 g de maïs doux. Verse par-dessus l'appareil préparé avec 6 œufs, 100 g de farine de blé, 40 cl de lait demi-écrémé et 100 g d'emmental râpé, puis parsème les 40 g d'emmental râpé restants sur le dessus."
+        },
+        {
+          "title": "Cuire au four",
+          "text": "Enfourne le clafoutis salé aux 6 œufs, 400 g de tomates cerises, 280 g de maïs doux et 140 g d'emmental râpé pendant 28 à 32 minutes à 180 °C. Il est prêt quand les bords sont dorés, que le centre ne coule plus, mais qu'il reste souple et légèrement tremblotant au toucher."
+        },
+        {
+          "title": "Laisser reposer et servir",
+          "text": "Laisse reposer le clafoutis salé aux 6 œufs pendant 5 à 10 minutes avant de couper les parts. Si le centre semble encore liquide après 32 minutes, remets le plat 4 à 5 minutes au four à 180 °C ; si le dessus dore trop vite, couvre simplement avec une feuille de papier cuisson."
+        }
+      ]
+    },
     {
       "slug": "frittata-petits-pois-pommes-de-terre-tomates",
       "title": "Frittata petits pois, pommes de terre et tomates",
@@ -114,6 +226,386 @@
         {
           "title": "Laisse reposer et sers",
           "text": "Laisse reposer la frittata de 8 œufs pendant 5 minutes avant de la couper. Si le centre semble encore trop tremblotant, remets la frittata 2 à 3 minutes au four plutôt que d'augmenter fortement la chaleur."
+        }
+      ]
+    },
+    {
+      "slug": "galettes-mais-courgette-salade-yaourt",
+      "title": "Galettes maïs-courgette, salade et sauce yaourt",
+      "summary": "Déjeuner du dimanche léger et rapide : des galettes moelleuses au maïs, à la courgette bien pressée et aux œufs, servies avec une salade verte et une sauce yaourt citronnée. La cuisson se fait à la poêle en deux petites fournées, sans ail cru, oignon cru ni échalote crue.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 30,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "galettes",
+        "rapide"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1590,
+        "calories_per_serving": 398,
+        "protein_g": 77,
+        "carbs_g": 162,
+        "fat_g": 70
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Courgette",
+          "quantity": "450 g, poids brut avant pressage",
+          "calories": 77,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Maïs doux égoutté",
+          "quantity": "280 g",
+          "calories": 270,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Œufs",
+          "quantity": "4 moyens",
+          "calories": 288,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Farine de blé",
+          "quantity": "100 g",
+          "calories": 364,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Emmental râpé",
+          "quantity": "60 g",
+          "calories": 228,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Yaourt nature",
+          "quantity": "250 g",
+          "calories": 150,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Salade verte",
+          "quantity": "180 g",
+          "calories": 25,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 g",
+          "calories": 180,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "15 ml",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Persil plat ou basilic",
+          "quantity": "10 g",
+          "calories": 4,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Levure chimique, sel fin, poivre doux, paprika doux",
+          "quantity": "Selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Faire dégorger la courgette",
+          "text": "Râpe 450 g de courgette avec les gros trous de la râpe. Mélange les 450 g de courgette râpée avec 1/2 cuillère à café de sel fin, laisse reposer 5 minutes, puis presse très fort dans un torchon propre pour obtenir une courgette humide mais non détrempée. C'est cette étape qui aide les galettes à bien tenir."
+        },
+        {
+          "title": "Préparer la sauce et la salade",
+          "text": "Dans un bol, mélange 250 g de yaourt nature avec 15 ml de jus de citron, 10 g de persil plat ou de basilic finement ciselé, une petite pincée de sel et un peu de poivre doux. Rince et essore 180 g de salade verte, puis garde la sauce yaourt au frais pendant la cuisson des galettes."
+        },
+        {
+          "title": "Mélanger la pâte à galettes",
+          "text": "Dans un saladier, fouette 4 œufs moyens avec 90 g de farine de blé et 1 cuillère à café de levure chimique jusqu'à obtenir une pâte épaisse, en gardant les 10 g de farine de blé restants de côté. Ajoute les 450 g de courgette râpée et pressée, 280 g de maïs doux égoutté, 60 g d'emmental râpé, une pincée de poivre doux et 1/2 cuillère à café de paprika doux. La pâte doit se tenir à la cuillère ; si elle semble encore trop souple, ajoute les 10 g de farine de blé réservés."
+        },
+        {
+          "title": "Cuire la première fournée",
+          "text": "Fais chauffer une grande poêle antiadhésive avec 10 g d'huile d'olive sur feu moyen. Dépose la moitié de la pâte aux 4 œufs, 100 g de farine, 450 g de courgette pressée, 280 g de maïs et 60 g d'emmental en petits tas de 2 cuillères à soupe. Aplatis légèrement et cuis 3 à 4 minutes sur la première face, jusqu'à ce que les bords soient pris et dorés."
+        },
+        {
+          "title": "Cuire la deuxième fournée",
+          "text": "Retourne les premières galettes et cuis-les encore 2 à 3 minutes, puis réserve-les sur une assiette. Ajoute les 10 g d'huile d'olive restants dans la poêle et cuis le reste de pâte aux 4 œufs, 100 g de farine, 450 g de courgette pressée, 280 g de maïs et 60 g d'emmental de la même façon. Les galettes sont prêtes quand elles sont dorées dehors et moelleuses dedans, sans pâte crue visible au centre."
+        },
+        {
+          "title": "Servir le déjeuner",
+          "text": "Répartis les galettes maïs-courgette avec les 180 g de salade verte et la sauce préparée avec 250 g de yaourt nature, 15 ml de jus de citron et 10 g d'herbes fraîches. Pour les jeunes enfants, coupe les galettes en lanières et sers la sauce yaourt à côté pour qu'ils puissent tremper."
+        }
+      ]
+    },
+    {
+      "slug": "gnocchis-sauce-tomate-douce-epinards-mozzarella",
+      "title": "Gnocchis sauce tomate douce, épinards et mozzarella",
+      "summary": "Le plat de mercredi, c'était des gnocchis frais cuits directement dans une sauce tomate douce, avec des épinards fondus et de la mozzarella. Tout se fait dans une grande sauteuse, sans ail cru, oignon cru ni échalote crue, pour un dîner végétarien très simple et réconfortant du mercredi soir.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty": "très facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gnocchis",
+        "mercredi",
+        "express"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2315,
+        "calories_per_serving": 580,
+        "protein_g": 92,
+        "carbs_g": 325,
+        "fat_g": 70
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Gnocchis frais",
+          "quantity": "800 g",
+          "calories": 1280,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Passata ou sauce tomate nature",
+          "quantity": "600 g",
+          "calories": 190,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Épinards frais",
+          "quantity": "250 g",
+          "calories": 60,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Mozzarella égouttée",
+          "quantity": "250 g",
+          "calories": 625,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Carotte râpée",
+          "quantity": "100 g",
+          "calories": 40,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml",
+          "calories": 120,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Eau",
+          "quantity": "15 cl + jusqu'à 5 cl si besoin",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Origan doux, sel fin, poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les ingrédients",
+          "text": "Égoutte 250 g de mozzarella et coupe les 250 g de mozzarella en morceaux. Rince 250 g d'épinards frais si besoin, puis râpe finement 100 g de carotte pour adoucir la sauce tomate."
+        },
+        {
+          "title": "Démarrer la base douce",
+          "text": "Fais chauffer 15 ml d'huile d'olive dans une grande sauteuse à feu moyen doux. Ajoute 100 g de carotte râpée avec une petite pincée de sel fin et fais revenir les 100 g de carotte râpée pendant 3 minutes, juste pour l'attendrir sans la colorer."
+        },
+        {
+          "title": "Faire mijoter la sauce tomate",
+          "text": "Verse 600 g de passata ou sauce tomate nature sur les 100 g de carotte râpée, ajoute 15 cl d'eau, 1 cuillère à café d'origan doux et un peu de poivre doux. Laisse mijoter les 600 g de passata ou sauce tomate nature pendant 5 minutes, jusqu'à obtenir une sauce chaude, souple et légèrement adoucie par la carotte."
+        },
+        {
+          "title": "Cuire les gnocchis dans la sauce",
+          "text": "Ajoute 800 g de gnocchis frais directement dans les 600 g de passata ou sauce tomate nature. Mélange doucement pour enrober les 800 g de gnocchis frais, couvre et laisse cuire 3 à 4 minutes à feu moyen doux, jusqu'à ce que les 800 g de gnocchis frais soient tendres. Si la sauce épaissit trop vite, ajoute jusqu'à 5 cl d'eau pour garder une texture nappante."
+        },
+        {
+          "title": "Ajouter les épinards",
+          "text": "Ajoute 250 g d'épinards frais en deux fois dans la sauteuse avec les 800 g de gnocchis frais et les 600 g de sauce tomate. Mélange 2 minutes, juste le temps que les 250 g d'épinards frais fondent dans la sauce sans devenir trop cuits."
+        },
+        {
+          "title": "Faire fondre la mozzarella",
+          "text": "Répartis 250 g de mozzarella égouttée sur les 800 g de gnocchis frais, les 600 g de sauce tomate et les 250 g d'épinards frais. Couvre hors du feu 2 minutes, jusqu'à ce que les 250 g de mozzarella égouttée soient fondantes. Pour une texture plus filante, remets 1 minute à feu très doux sans trop mélanger."
+        },
+        {
+          "title": "Servir simplement",
+          "text": "Goûte la sauce des 800 g de gnocchis frais avec les 600 g de passata, les 250 g d'épinards frais et les 250 g de mozzarella. Ajuste avec un peu de sel fin ou de poivre doux, puis sers chaud, avec la mozzarella fondue en morceaux doux pour les enfants."
+        }
+      ]
+    },
+    {
+      "slug": "gratin-polenta-tomates-courgettes-mozzarella",
+      "title": "Gratin de polenta crémeuse, tomates et courgettes à la mozzarella",
+      "summary": "Le plat de jeudi, c'était un gratin familial végétarien au four : une polenta volontairement souple au lait, des courgettes et des tomates juste revenues pour éviter un rendu aqueux, puis une mozzarella douce qui fond au-dessus. La polenta doit rester crémeuse avant d'entrer au four, car elle se raffermit naturellement pendant la cuisson et le repos.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 35,
+      "total_time_minutes": 50,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gratin",
+        "four"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2450,
+        "calories_per_serving": 610,
+        "protein_g": 110,
+        "carbs_g": 260,
+        "fat_g": 110
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Polenta fine instantanée",
+          "quantity": "220 g",
+          "calories": 790,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "75 cl",
+          "calories": 345,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Eau",
+          "quantity": "45 cl + jusqu'à 10 cl pour détendre",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "600 g",
+          "calories": 100,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates mûres",
+          "quantity": "600 g",
+          "calories": 110,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Mozzarella égouttée",
+          "quantity": "250 g",
+          "calories": 625,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Parmesan râpé",
+          "quantity": "35 g",
+          "calories": 150,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Beurre doux",
+          "quantity": "20 g",
+          "calories": 150,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 g",
+          "calories": 180,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Origan sec, basilic, sel fin, poivre doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préchauffer et préparer le plat",
+          "text": "Préchauffe le four à 190 °C. Huile un plat à gratin familial avec 10 g d'huile d'olive, en gardant les 10 g d'huile d'olive restants pour les légumes."
+        },
+        {
+          "title": "Couper les légumes",
+          "text": "Coupe 600 g de courgettes en demi-rondelles fines et coupe 600 g de tomates mûres en morceaux moyens. Si les 600 g de tomates mûres rendent beaucoup de jus sur la planche, garde surtout la chair pour éviter de détremper la polenta."
+        },
+        {
+          "title": "Faire revenir les légumes",
+          "text": "Fais chauffer les 10 g d'huile d'olive restants dans une grande poêle. Ajoute les 600 g de courgettes avec 1 pincée de sel fin et fais revenir les 600 g de courgettes 6 minutes, puis ajoute les 600 g de tomates mûres, 1 cuillère à café d'origan sec et un peu de poivre doux. Laisse cuire les 600 g de courgettes et les 600 g de tomates mûres encore 3 à 4 minutes, juste pour évaporer l'excès d'eau ; s'il reste beaucoup de jus, égoutte rapidement les légumes."
+        },
+        {
+          "title": "Cuire une polenta souple",
+          "text": "Dans une grande casserole, porte à frémissement 75 cl de lait demi-écrémé avec 45 cl d'eau et 1/2 cuillère à café de sel fin. Verse 220 g de polenta fine instantanée en pluie en fouettant, puis cuis les 220 g de polenta fine instantanée 4 à 5 minutes à feu doux, jusqu'à obtenir une texture épaisse mais encore coulante."
+        },
+        {
+          "title": "Rendre la polenta crémeuse",
+          "text": "Hors du feu, incorpore dans les 220 g de polenta fine instantanée 20 g de beurre doux, 35 g de parmesan râpé et 100 g de mozzarella égouttée coupée en petits dés. Si les 220 g de polenta fine instantanée deviennent compacts avant le montage, ajoute jusqu'à 10 cl d'eau chaude, petit à petit, pour retrouver une texture crémeuse."
+        },
+        {
+          "title": "Monter le gratin",
+          "text": "Verse dans le plat huilé la polenta préparée avec 220 g de polenta fine instantanée, 75 cl de lait demi-écrémé, 45 cl d'eau, 20 g de beurre doux, 35 g de parmesan râpé et 100 g de mozzarella égouttée. Répartis dessus les 600 g de courgettes et les 600 g de tomates mûres, puis termine avec les 150 g de mozzarella égouttée restants en morceaux."
+        },
+        {
+          "title": "Gratiner au four",
+          "text": "Enfourne le gratin de 220 g de polenta fine instantanée, 600 g de courgettes, 600 g de tomates mûres et 250 g de mozzarella égouttée pendant 22 à 25 minutes à 190 °C, jusqu'à ce que les bords frémissent et que les 150 g de mozzarella égouttée du dessus soient fondus et légèrement dorés."
+        },
+        {
+          "title": "Laisser reposer",
+          "text": "Laisse reposer 5 minutes le gratin de 220 g de polenta fine instantanée, 600 g de courgettes, 600 g de tomates mûres et 250 g de mozzarella égouttée avant de servir. Ce repos aide la polenta à se tenir sans devenir sèche ; si le dessus semble trop ferme, ajoute un filet d'eau chaude sur les bords au moment du service."
         }
       ]
     },
@@ -236,6 +728,240 @@
         {
           "title": "Laisser poser",
           "text": "Laisse reposer 5 minutes le gratin de 900 g de pommes de terre, 600 g de courgettes, 120 g de chèvre doux, 20 cl de crème légère 15 % et 80 g d'emmental râpé avant de servir, pour que les parts se tiennent mieux."
+        }
+      ]
+    },
+    {
+      "slug": "orzotto-orge-perle-poivrons-tomates-feta",
+      "title": "Orzotto d'orge perlé aux poivrons, tomates et feta",
+      "summary": "Le plat de mardi, c'était un orzotto familial d'orge perlé, mijoté doucement avec des poivrons, des tomates et un bouillon doux. La feta est ajoutée en fin de cuisson pour apporter du fondant et du relief sans rendre le plat trop fort pour les enfants. L'orge doit rester tendre avec une légère mâche, dans une texture crémeuse et souple comme un risotto.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 33,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "cereale",
+        "orzotto"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1990,
+        "calories_per_serving": 500,
+        "protein_g": 67,
+        "carbs_g": 297,
+        "fat_g": 67
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Orge perlé sec",
+          "quantity": "300 g",
+          "calories": 1050,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Poivrons rouges et jaunes",
+          "quantity": "450 g",
+          "calories": 135,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates mûres",
+          "quantity": "500 g",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Feta",
+          "quantity": "180 g",
+          "calories": 475,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Bouillon de légumes doux",
+          "quantity": "90 cl",
+          "calories": 20,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "25 ml",
+          "calories": 200,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Concentré de tomate",
+          "quantity": "25 g",
+          "calories": 20,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Basilic ou persil, sel fin, poivre doux",
+          "quantity": "Selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les ingrédients",
+          "text": "Rince rapidement 300 g d'orge perlé sec dans une passoire. Coupe 450 g de poivrons rouges et jaunes en petits dés d'environ 1,5 cm, coupe 500 g de tomates mûres en dés, émiette 180 g de feta et garde 90 cl de bouillon de légumes doux chaud à côté de la casserole."
+        },
+        {
+          "title": "Attendrir les poivrons",
+          "text": "Dans une grande sauteuse, chauffe 15 ml d'huile d'olive à feu moyen. Ajoute 450 g de poivrons rouges et jaunes avec 1 pincée de sel fin, puis cuis 450 g de poivrons rouges et jaunes 7 à 8 minutes, jusqu'à ce qu'ils soient souples mais encore colorés."
+        },
+        {
+          "title": "Nacrer l'orge",
+          "text": "Ajoute dans la sauteuse 300 g d'orge perlé sec, les 10 ml d'huile d'olive restants et 25 g de concentré de tomate. Mélange 2 minutes pour enrober 300 g d'orge perlé sec et donner une base douce, sans ail cru, oignon cru ni échalote crue."
+        },
+        {
+          "title": "Lancer la cuisson façon risotto",
+          "text": "Ajoute 500 g de tomates mûres et environ 30 cl de bouillon de légumes doux sur 300 g d'orge perlé sec et 450 g de poivrons rouges et jaunes. Laisse frémir 8 minutes en remuant régulièrement, jusqu'à ce que le liquide commence à être absorbé."
+        },
+        {
+          "title": "Mijoter l'orzotto",
+          "text": "Verse encore 30 cl de bouillon de légumes doux, puis cuis 300 g d'orge perlé sec, 450 g de poivrons rouges et jaunes et 500 g de tomates mûres 8 à 10 minutes à petit frémissement. Ajoute les 30 cl de bouillon de légumes doux restants et poursuis 8 à 10 minutes, jusqu'à ce que l'orge soit tendre avec une légère mâche."
+        },
+        {
+          "title": "Ajuster la texture",
+          "text": "Goûte 300 g d'orge perlé : le grain doit être moelleux au bord et un peu rebondi au centre, sans rester dur. Si la sauteuse sèche avant que l'orge soit cuite, ajoute 5 à 10 cl d'eau chaude et prolonge 3 à 5 minutes ; si le mélange est trop liquide, laisse frémir 2 à 3 minutes à découvert."
+        },
+        {
+          "title": "Finir avec la feta",
+          "text": "Hors du feu, incorpore 120 g de feta émiettée dans l'orzotto d'300 g d'orge perlé, 450 g de poivrons et 500 g de tomates. Laisse reposer 3 minutes pour que 120 g de feta fondent légèrement, puis ajoute les 60 g de feta restants au service avec un peu de basilic ou persil et du poivre doux."
+        }
+      ]
+    },
+    {
+      "slug": "pates-cremeuses-brocoli-haricots-verts-cheddar",
+      "title": "Pâtes crémeuses brocoli, haricots verts et cheddar",
+      "summary": "Dîner familial du lundi 22 juin 2026 : des pâtes courtes avec brocoli, haricots verts et une sauce cheddar douce, assez souple pour bien enrober les légumes et rester facile à manger pour les enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pates",
+        "legumes-verts"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2275,
+        "calories_per_serving": 570,
+        "protein_g": 96,
+        "carbs_g": 288,
+        "fat_g": 84
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâtes courtes sèches",
+          "quantity": "320 g",
+          "calories": 1130,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Brocoli",
+          "quantity": "350 g",
+          "calories": 120,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Haricots verts",
+          "quantity": "250 g",
+          "calories": 80,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Cheddar doux râpé",
+          "quantity": "120 g",
+          "calories": 485,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "180 g",
+          "calories": 305,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "150 ml",
+          "calories": 70,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml",
+          "calories": 80,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "10 g",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel, poivre, muscade",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les légumes",
+          "text": "Coupe 350 g de brocoli en petites fleurettes et recoupe les tiges tendres en petits dés. Équeute ou recoupe 250 g de haricots verts en tronçons de 3 à 4 cm pour qu'ils se mélangent facilement aux pâtes."
+        },
+        {
+          "title": "Cuis les pâtes et les légumes",
+          "text": "Porte une grande casserole d'eau salée à ébullition. Verse 320 g de pâtes courtes sèches et cuis-les selon le temps indiqué sur le paquet. Quand il reste environ 6 minutes de cuisson, ajoute 350 g de brocoli et 250 g de haricots verts dans la même casserole. Avant d'égoutter, réserve 150 ml d'eau de cuisson, puis égoutte les pâtes et les légumes."
+        },
+        {
+          "title": "Démarre la sauce douce",
+          "text": "Dans la casserole vide, fais tiédir 10 ml d'huile d'olive à feu doux avec 180 g de crème légère 15 %, 150 ml de lait demi-écrémé, 10 g de moutarde douce et une petite pincée de muscade. Mélange 1 à 2 minutes, sans faire bouillir, jusqu'à obtenir une base chaude et lisse."
+        },
+        {
+          "title": "Fais fondre le cheddar",
+          "text": "Hors du feu, ajoute 120 g de cheddar doux râpé dans la sauce chaude. Mélange jusqu'à ce que le cheddar soit fondu, puis ajoute environ 80 ml d'eau de cuisson réservée pour garder une sauce fluide."
+        },
+        {
+          "title": "Enrobe les pâtes",
+          "text": "Remets dans la casserole les pâtes cuites issues des 320 g de pâtes courtes sèches, les 350 g de brocoli et les 250 g de haricots verts. Mélange 2 à 3 minutes à feu doux. Si la sauce accroche ou épaissit trop, ajoute le reste des 150 ml d'eau de cuisson réservée, petit à petit, jusqu'à une texture crémeuse et souple."
+        },
+        {
+          "title": "Sers sans attendre",
+          "text": "Goûte et ajuste avec un peu de sel, de poivre ou de muscade. Pour les enfants, sers les pâtes bien nappées de sauce ; pour les adultes, ajoute le poivre à table si besoin."
         }
       ]
     },
@@ -720,6 +1446,132 @@
       ]
     },
     {
+      "slug": "salade-lentilles-tomates-concombre-chevre-frais",
+      "title": "Salade de lentilles, tomates, concombre et chèvre frais",
+      "summary": "Déjeuner simple du samedi, frais et rassasiant : des lentilles déjà cuites, des tomates juteuses, du concombre croquant, du chèvre frais et du pain de campagne pour compléter l'assiette. L'assaisonnement reste doux, sans ail cru, oignon cru ni échalote crue, avec citron, huile d'olive et moutarde douce.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "salade",
+        "sans-cuisson"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1955,
+        "calories_per_serving": 490,
+        "protein_g": 100,
+        "carbs_g": 250,
+        "fat_g": 70
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Lentilles cuites égouttées",
+          "quantity": "500 g",
+          "calories": 580,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "350 g",
+          "calories": 65,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "300 g",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Chèvre frais",
+          "quantity": "160 g",
+          "calories": 415,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pain de campagne ou pain complet",
+          "quantity": "240 g",
+          "calories": 600,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "25 g",
+          "calories": 225,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "30 ml",
+          "calories": 10,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "10 g",
+          "calories": 10,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Persil plat ou basilic",
+          "quantity": "10 g",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rincer et préparer les lentilles",
+          "text": "Égoutte puis rince rapidement 500 g de lentilles cuites égouttées sous l'eau froide. Laisse les 500 g de lentilles cuites s'égoutter 2 minutes pour éviter une salade trop aqueuse, puis verse-les dans un grand saladier."
+        },
+        {
+          "title": "Couper les légumes",
+          "text": "Rince 350 g de tomates, 300 g de concombre et 10 g de persil plat ou de basilic. Coupe les 350 g de tomates en dés ou en quartiers, puis taille les 300 g de concombre en demi-rondelles fines. Cisèle les 10 g de persil plat ou de basilic."
+        },
+        {
+          "title": "Faire l'assaisonnement doux",
+          "text": "Dans un bol, fouette 25 g d'huile d'olive avec 30 ml de jus de citron, 10 g de moutarde douce, une petite pincée de sel fin et un peu de poivre doux. L'assaisonnement doit être citronné mais pas agressif ; s'il paraît trop vif, ajoute 1 cuillère à soupe d'eau froide."
+        },
+        {
+          "title": "Mélanger la salade",
+          "text": "Ajoute les 350 g de tomates coupées, les 300 g de concombre en demi-rondelles et les 10 g de persil plat ou de basilic ciselé dans le saladier avec les 500 g de lentilles cuites égouttées. Verse tout l'assaisonnement, soit 25 g d'huile d'olive, 30 ml de jus de citron et 10 g de moutarde douce, puis mélange délicatement pour ne pas écraser les lentilles."
+        },
+        {
+          "title": "Ajouter le chèvre frais",
+          "text": "Émiette 160 g de chèvre frais au-dessus de la salade de 500 g de lentilles cuites, 350 g de tomates et 300 g de concombre. Mélange seulement deux ou trois fois pour garder des morceaux visibles de 160 g de chèvre frais ; pour les jeunes enfants, tu peux écraser une partie du chèvre dans leur assiette pour une texture plus douce."
+        },
+        {
+          "title": "Servir avec le pain",
+          "text": "Coupe 240 g de pain de campagne ou de pain complet en tranches. Sers la salade avec les 240 g de pain à côté, ou grille rapidement les 240 g de pain si tu veux plus de contraste. Si la salade attend quelques minutes, garde le pain séparé pour qu'il reste agréable."
+        }
+      ]
+    },
+    {
       "slug": "salade-pates-pesto-haricots-verts-mozzarella",
       "title": "Salade de pâtes pesto doux, haricots verts et mozzarella",
       "summary": "Déjeuner du samedi simple et flexible : une salade de pâtes tiède ou froide, avec haricots verts, tomates cerises, mozzarella et pesto doux sans ail cru marqué. Le plat se prépare vite, se sert facilement à des horaires décalés, et les éléments restent familiers pour les enfants.",
@@ -840,6 +1692,275 @@
       ]
     },
     {
+      "slug": "semoule-express-pois-chiches-concombre-tomates",
+      "title": "Semoule express pois chiches, concombre et tomates",
+      "summary": "Déjeuner très rapide du mercredi, frais mais rassasiant : une semoule moyenne moelleuse, des pois chiches, du concombre, des tomates et une sauce douce au yaourt citronné. La feta apporte du relief sans rendre le plat fort, et la sauce garde l'ensemble souple pour éviter une salade de semoule trop sèche.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 5,
+      "total_time_minutes": 20,
+      "difficulty": "tres facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "semoule",
+        "pois-chiches",
+        "sans-cuisson"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2020,
+        "calories_per_serving": 505,
+        "protein_g": 85,
+        "carbs_g": 296,
+        "fat_g": 58
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Semoule moyenne",
+          "quantity": "240 g",
+          "calories": 865,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Eau bouillante",
+          "quantity": "300 ml",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pois chiches cuits égouttés",
+          "quantity": "300 g",
+          "calories": 490,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "300 g",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "350 g",
+          "calories": 65,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Feta",
+          "quantity": "120 g",
+          "calories": 320,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Yaourt nature",
+          "quantity": "150 g",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 g",
+          "calories": 135,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "20 ml",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Menthe ou persil plat",
+          "quantity": "10 g",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Cumin doux ou paprika doux",
+          "quantity": "2 g",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Faire gonfler la semoule",
+          "text": "Verse 240 g de semoule moyenne dans un grand saladier avec une petite pincée de sel fin et 10 g d'huile d'olive. Ajoute 300 ml d'eau bouillante, couvre le saladier et laisse gonfler 5 minutes, jusqu'à ce que les 240 g de semoule moyenne aient absorbé l'eau."
+        },
+        {
+          "title": "Préparer la sauce douce",
+          "text": "Dans un bol, mélange 150 g de yaourt nature avec 20 ml de jus de citron, les 5 g d'huile d'olive restants, 2 g de cumin doux ou de paprika doux si tu en utilises, un peu de sel fin et du poivre doux. La sauce doit être fluide ; si elle paraît très épaisse, détends les 150 g de yaourt nature avec 1 à 2 cuillères à soupe d'eau froide."
+        },
+        {
+          "title": "Préparer les légumes et les pois chiches",
+          "text": "Rince 300 g de pois chiches cuits égouttés, 300 g de concombre, 350 g de tomates et 10 g de menthe ou de persil plat si tu en utilises. Coupe les 300 g de concombre en petits dés et les 350 g de tomates en dés ou en quartiers fins adaptés aux jeunes enfants. Cisèle les 10 g de menthe ou de persil plat."
+        },
+        {
+          "title": "Égrainer et assouplir la base",
+          "text": "Égraine les 240 g de semoule moyenne gonflée à la fourchette. Ajoute les 300 g de pois chiches cuits égouttés, puis verse environ les deux tiers de la sauce préparée avec 150 g de yaourt nature, 20 ml de jus de citron et 5 g d'huile d'olive. Mélange doucement pour enrober la semoule et les pois chiches sans les écraser."
+        },
+        {
+          "title": "Ajouter le frais",
+          "text": "Incorpore les 300 g de concombre, les 350 g de tomates et les 10 g de menthe ou de persil plat dans le saladier. Émiette 120 g de feta par-dessus, puis mélange juste assez pour répartir les 120 g de feta sans la réduire en pâte."
+        },
+        {
+          "title": "Ajuster et servir",
+          "text": "Goûte la semoule avec les 300 g de pois chiches, les 300 g de concombre, les 350 g de tomates et les 120 g de feta. Ajoute le reste de sauce au yaourt nature de 150 g si le plat doit être plus moelleux, ou 1 à 2 cuillères à soupe d'eau froide si la semoule a beaucoup absorbé. Sers frais ou à température ambiante, avec les morceaux de concombre et de tomates recoupés si besoin pour les jeunes enfants."
+        }
+      ]
+    },
+    {
+      "slug": "tarte-salee-tomates-ricotta-basilic",
+      "title": "Tarte salée tomates, ricotta et basilic",
+      "summary": "Le plat de samedi, c'est une tarte salée familiale aux tomates, à la ricotta et au basilic, pensée pour rester croustillante malgré le jus des tomates. Les tomates sont égouttées, le fond est précuit quelques minutes, et une fine couche de chapelure absorbe l'humidité sans changer le goût.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 18,
+      "cook_time_minutes": 27,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "tarte",
+        "tomates",
+        "ricotta",
+        "basilic"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2280,
+        "calories_per_serving": 570,
+        "protein_g": 82,
+        "carbs_g": 174,
+        "fat_g": 146
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâte brisée prête à dérouler",
+          "quantity": "280 g",
+          "calories": 1120,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates mûres mais fermes",
+          "quantity": "550 g",
+          "calories": 99,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 435,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Mozzarella douce égouttée",
+          "quantity": "125 g",
+          "calories": 310,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Œufs",
+          "quantity": "2 moyens",
+          "calories": 144,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Basilic frais",
+          "quantity": "15 g",
+          "calories": 4,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "15 g, soit 1 c. à soupe fine",
+          "calories": 16,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Chapelure fine",
+          "quantity": "20 g",
+          "calories": 72,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml, soit 2 c. à café",
+          "calories": 80,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préchauffer le four",
+          "text": "Préchauffe le four à 200 °C. Sors 280 g de pâte brisée prête à dérouler du réfrigérateur pendant que le four chauffe, pour que les bords se mettent en place sans casser."
+        },
+        {
+          "title": "Égoutter les tomates",
+          "text": "Coupe 550 g de tomates mûres mais fermes en rondelles de 5 mm environ. Pose les 550 g de tomates dans une passoire ou sur un torchon propre, ajoute une petite pincée de sel fin, puis laisse égoutter 550 g de tomates pendant 10 minutes. Éponge ensuite les 550 g de tomates avec du papier absorbant ou un torchon propre ; si les tomates sont très juteuses, retire une partie des graines."
+        },
+        {
+          "title": "Précuire le fond",
+          "text": "Déroule 280 g de pâte brisée dans un moule à tarte, pique le fond avec une fourchette, puis enfourne 280 g de pâte brisée pendant 7 à 8 minutes à 200 °C. Le fond doit commencer à sécher sans vraiment colorer ; s'il gonfle, appuie doucement avec le dos d'une cuillère."
+        },
+        {
+          "title": "Préparer la ricotta",
+          "text": "Dans un bol, mélange 250 g de ricotta, 2 œufs moyens, la moitié des 15 g de basilic frais finement ciselé, une pincée de sel fin et un peu de poivre doux. Le mélange avec 250 g de ricotta et 2 œufs doit être souple mais pas liquide."
+        },
+        {
+          "title": "Monter la tarte",
+          "text": "Étale 15 g de moutarde douce en couche fine sur les 280 g de pâte brisée précuite, puis saupoudre 20 g de chapelure fine sur le fond. Ajoute le mélange aux 250 g de ricotta et 2 œufs, dispose les 550 g de tomates égouttées par-dessus, puis répartis 125 g de mozzarella douce égouttée en petits morceaux. Termine avec 10 ml d'huile d'olive en filet."
+        },
+        {
+          "title": "Cuire la tarte",
+          "text": "Baisse le four à 190 °C, puis enfourne la tarte garnie avec 280 g de pâte brisée, 250 g de ricotta, 2 œufs, 550 g de tomates, 125 g de mozzarella et 10 ml d'huile d'olive pendant 18 à 20 minutes. La tarte est prête quand les bords sont dorés, que la ricotta est prise au centre et que les 550 g de tomates commencent à friper. Si du jus apparaît encore au centre, prolonge la cuisson de 3 minutes sur la grille basse."
+        },
+        {
+          "title": "Finir au basilic",
+          "text": "Laisse reposer la tarte aux 550 g de tomates, 250 g de ricotta et 125 g de mozzarella pendant 5 minutes avant de couper. Ajoute le reste des 15 g de basilic frais juste avant de servir pour garder son parfum."
+        }
+      ]
+    },
+    {
       "slug": "tartines-ricotta-tomates-concombre",
       "title": "Tartines ricotta, tomates cerises et concombre",
       "summary": "Déjeuner du mercredi très rapide, frais et doux : de grandes tartines de pain complet ou de campagne, une ricotta citronnée, des tomates cerises, du concombre croquant et du basilic. Les enfants peuvent avoir les tartines coupées en petites bandes faciles à tenir.",
@@ -945,6 +2066,130 @@
         {
           "title": "Finir et servir",
           "text": "Parsème les tartines avec 10 g de basilic frais ciselé et 20 g de graines de tournesol, puis verse les 10 g d'huile d'olive restants en filet. Coupe les tartines des enfants en bandes ou en carrés, et sers tout de suite pour garder le pain agréable et les légumes croquants."
+        }
+      ]
+    },
+    {
+      "slug": "veloute-carottes-lentilles-corail-tartines-ricotta",
+      "title": "Velouté carottes, lentilles corail et tartines ricotta",
+      "summary": "Le plat de dimanche, c'est un dîner doux et réconfortant : un velouté de carottes et lentilles corail, lisse et nourrissant, servi avec des tartines de pain de campagne à la ricotta citronnée. La soupe reste volontairement simple, sans ail cru, oignon cru ni échalote crue, et les tartines sont servies à part pour compléter le repas selon l'appétit de chacun.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 28,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "veloute",
+        "tartines",
+        "lentilles-corail"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2190,
+        "calories_per_serving": 548,
+        "protein_g": 101,
+        "carbs_g": 327,
+        "fat_g": 57
+      },
+      "used_in_weeks": [
+        "2026-W26"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Carottes",
+          "quantity": "700 g",
+          "calories": 285,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Lentilles corail sèches",
+          "quantity": "160 g",
+          "calories": 560,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Bouillon doux de légumes",
+          "quantity": "900 ml",
+          "calories": 20,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "300 g, soit environ 6 tranches",
+          "calories": 750,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 435,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 g, soit environ 1 cuillère à soupe",
+          "calories": 135,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "15 ml, soit environ 1 cuillère à soupe",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Persil plat",
+          "quantity": "10 g",
+          "calories": 4,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Cumin doux, muscade, sel fin, poivre doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer la base",
+          "text": "Épluche 700 g de carottes, puis coupe les 700 g de carottes en fines rondelles pour qu'elles cuisent vite. Rince 160 g de lentilles corail sèches dans une passoire fine jusqu'à ce que l'eau soit plus claire. Prépare 900 ml de bouillon doux de légumes chaud ou tiède."
+        },
+        {
+          "title": "Faire revenir les carottes",
+          "text": "Dans une grande casserole, chauffe 10 g d'huile d'olive à feu moyen. Ajoute les 700 g de carottes, une petite pincée de sel fin, une pointe de cumin doux et une pointe de muscade. Fais revenir les 700 g de carottes pendant 3 minutes, juste pour les enrober avec les 10 g d'huile d'olive sans les colorer."
+        },
+        {
+          "title": "Cuire le velouté",
+          "text": "Ajoute les 160 g de lentilles corail rincées dans la casserole avec les 700 g de carottes, puis verse les 900 ml de bouillon doux de légumes. Couvre à moitié et laisse frémir environ 20 minutes, en remuant de temps en temps, jusqu'à ce que les 700 g de carottes soient tendres et que les 160 g de lentilles corail commencent à se défaire."
+        },
+        {
+          "title": "Préparer la ricotta",
+          "text": "Pendant la cuisson du velouté, mélange 250 g de ricotta avec les 5 g d'huile d'olive restants, 15 ml de jus de citron, 10 g de persil plat finement ciselé, une petite pincée de sel fin et un peu de poivre doux. La ricotta doit rester souple ; si les 250 g de ricotta paraissent trop fermes, détends-les avec 1 à 2 cuillères à café d'eau."
+        },
+        {
+          "title": "Griller le pain",
+          "text": "Dispose 300 g de pain de campagne, soit environ 6 tranches, sur une plaque ou dans un grille-pain. Fais griller les 6 tranches de pain de campagne 3 à 5 minutes, juste assez pour qu'elles soient croustillantes sur les bords mais encore faciles à manger pour les enfants."
+        },
+        {
+          "title": "Mixer la soupe",
+          "text": "Hors du feu, mixe les 700 g de carottes, les 160 g de lentilles corail et les 900 ml de bouillon doux de légumes jusqu'à obtenir une texture très lisse. Si le velouté est trop épais, ajoute 50 à 150 ml d'eau chaude, petit à petit, puis mixe encore quelques secondes. Goûte et ajuste avec un peu de sel fin ou de poivre doux si besoin."
+        },
+        {
+          "title": "Monter les tartines et servir",
+          "text": "Répartis la préparation aux 250 g de ricotta, 15 ml de jus de citron, 5 g d'huile d'olive et 10 g de persil plat sur les 6 tranches de pain de campagne grillées. Sers le velouté préparé avec les 700 g de carottes, les 160 g de lentilles corail et les 900 ml de bouillon doux de légumes dans des bols, avec les tartines de ricotta à côté. Coupe les tartines des enfants en bandes et laisse leur velouté tiédir quelques minutes."
         }
       ]
     },
