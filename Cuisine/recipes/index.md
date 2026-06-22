@@ -25,3 +25,16 @@
 - [[semoule-express-pois-chiches-concombre-tomates|Semoule express pois chiches, concombre et tomates]]
 - [[tarte-salee-tomates-ricotta-basilic|Tarte salée tomates, ricotta et basilic]]
 - [[veloute-carottes-lentilles-corail-tartines-ricotta|Velouté carottes, lentilles corail et tartines ricotta]]
+
+## Semaine 2026-W27
+
+- [[assiettes-melon-mozzarella-tomates-pain-grille|Assiettes melon, mozzarella, tomates et pain grillé]]
+- [[croques-tomate-mozzarella-salade-concombre|Croques tomate, mozzarella et salade de concombre]]
+- [[flatbreads-poivrons-mais-mozzarella|Flatbreads poivrons, maïs et mozzarella]]
+- [[gratin-quinoa-epinards-tomates-comte|Gratin de quinoa, épinards, tomates et comté]]
+- [[pates-cremeuses-blettes-petits-pois-parmesan|Pâtes crémeuses blettes, petits pois et parmesan]]
+- [[pitas-houmous-crudites-oeuf-dur|Pitas houmous, crudités et œuf dur]]
+- [[risotto-petit-epeautre-aubergines-tomates-cerises|Risotto de petit épeautre aux aubergines rôties et tomates cerises]]
+- [[salade-pommes-terre-haricots-verts-oeufs-durs|Salade de pommes de terre, haricots verts et œufs durs]]
+- [[shakshuka-douce-poivrons-tomates-oeufs|Shakshuka douce poivrons, tomates et œufs]]
+- [[veloute-haricots-verts-pommes-terre-tartines-fromage-frais|Velouté haricots verts, pommes de terre et tartines fromage frais]]
