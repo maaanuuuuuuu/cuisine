@@ -1,109 +1,109 @@
 {
-  "week": "2026-W27",
-  "title": "Semaine 2026-W27",
-  "start_date": "2026-06-29",
-  "end_date": "2026-07-05",
+  "week": "2026-W28",
+  "title": "Semaine 2026-W28",
+  "start_date": "2026-07-06",
+  "end_date": "2026-07-12",
   "status": "planned",
   "days": [
     {
-      "label": "Lundi 2026-06-29",
-      "date": "2026-06-29",
+      "label": "Lundi 2026-07-06",
+      "date": "2026-07-06",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "pates-cremeuses-blettes-petits-pois-parmesan",
-          "recipe_title": "Pâtes crémeuses blettes, petits pois et parmesan"
+          "recipe_slug": "pates-cremeuses-haricots-plats-fromage-frais",
+          "recipe_title": "Pâtes crémeuses haricots plats et fromage frais"
         }
       ]
     },
     {
-      "label": "Mardi 2026-06-30",
-      "date": "2026-06-30",
+      "label": "Mardi 2026-07-07",
+      "date": "2026-07-07",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "risotto-petit-epeautre-aubergines-tomates-cerises",
-          "recipe_title": "Risotto de petit épeautre aux aubergines rôties et tomates cerises"
+          "recipe_slug": "riz-pilaf-courgettes-champignons-feta-douce",
+          "recipe_title": "Riz pilaf courgettes, champignons et feta douce"
         }
       ]
     },
     {
-      "label": "Mercredi 2026-07-01",
-      "date": "2026-07-01",
+      "label": "Mercredi 2026-07-08",
+      "date": "2026-07-08",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "pitas-houmous-crudites-oeuf-dur",
-          "recipe_title": "Pitas houmous, crudités et œuf dur"
+          "recipe_slug": "tartines-oeuf-dur-tomates-fromage-frais",
+          "recipe_title": "Tartines œuf dur, tomates et fromage frais"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "croques-tomate-mozzarella-salade-concombre",
-          "recipe_title": "Croques tomate, mozzarella et salade de concombre"
+          "recipe_slug": "ravioles-courgettes-creme-douce",
+          "recipe_title": "Ravioles courgettes et crème douce"
         }
       ]
     },
     {
-      "label": "Jeudi 2026-07-02",
-      "date": "2026-07-02",
+      "label": "Jeudi 2026-07-09",
+      "date": "2026-07-09",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "gratin-quinoa-epinards-tomates-comte",
-          "recipe_title": "Gratin de quinoa, épinards, tomates et comté"
+          "recipe_slug": "gratin-boulgour-aubergines-tomates-ricotta",
+          "recipe_title": "Gratin de boulgour, aubergines, tomates et ricotta"
         }
       ]
     },
     {
-      "label": "Vendredi 2026-07-03",
-      "date": "2026-07-03",
+      "label": "Vendredi 2026-07-10",
+      "date": "2026-07-10",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "shakshuka-douce-poivrons-tomates-oeufs",
-          "recipe_title": "Shakshuka douce poivrons, tomates et œufs"
+          "recipe_slug": "frittata-courgettes-mais-chevre-frais",
+          "recipe_title": "Frittata courgettes, maïs et chèvre frais"
         }
       ]
     },
     {
-      "label": "Samedi 2026-07-04",
-      "date": "2026-07-04",
+      "label": "Samedi 2026-07-11",
+      "date": "2026-07-11",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "salade-pommes-terre-haricots-verts-oeufs-durs",
-          "recipe_title": "Salade de pommes de terre, haricots verts et œufs durs"
+          "recipe_slug": "salade-couscous-melon-concombre-feta",
+          "recipe_title": "Salade de couscous, melon, concombre et feta"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "flatbreads-poivrons-mais-mozzarella",
-          "recipe_title": "Flatbreads poivrons, maïs et mozzarella"
+          "recipe_slug": "fajitas-douces-haricots-rouges-poivrons-mais",
+          "recipe_title": "Fajitas douces haricots rouges, poivrons et maïs"
         }
       ]
     },
     {
-      "label": "Dimanche 2026-07-05",
-      "date": "2026-07-05",
+      "label": "Dimanche 2026-07-12",
+      "date": "2026-07-12",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "assiettes-melon-mozzarella-tomates-pain-grille",
-          "recipe_title": "Assiettes melon, mozzarella, tomates et pain grillé"
+          "recipe_slug": "salade-tomates-haricots-blancs-pain-grille",
+          "recipe_title": "Salade tomates, haricots blancs et pain grillé"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "veloute-haricots-verts-pommes-terre-tartines-fromage-frais",
-          "recipe_title": "Velouté haricots verts, pommes de terre et tartines fromage frais"
+          "recipe_slug": "veloute-tomates-poivrons-tartines-mozzarella",
+          "recipe_title": "Velouté tomates, poivrons et tartines mozzarella"
         }
       ]
     }

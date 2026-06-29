@@ -38,3 +38,16 @@
 - [[salade-pommes-terre-haricots-verts-oeufs-durs|Salade de pommes de terre, haricots verts et œufs durs]]
 - [[shakshuka-douce-poivrons-tomates-oeufs|Shakshuka douce poivrons, tomates et œufs]]
 - [[veloute-haricots-verts-pommes-terre-tartines-fromage-frais|Velouté haricots verts, pommes de terre et tartines fromage frais]]
+
+## Semaine 2026-W28
+
+- [[fajitas-douces-haricots-rouges-poivrons-mais|Fajitas douces haricots rouges, poivrons et maïs]]
+- [[frittata-courgettes-mais-chevre-frais|Frittata courgettes, maïs et chèvre frais]]
+- [[gratin-boulgour-aubergines-tomates-ricotta|Gratin de boulgour, aubergines, tomates et ricotta]]
+- [[pates-cremeuses-haricots-plats-fromage-frais|Pâtes crémeuses haricots plats et fromage frais]]
+- [[ravioles-courgettes-creme-douce|Ravioles courgettes et crème douce]]
+- [[riz-pilaf-courgettes-champignons-feta-douce|Riz pilaf courgettes, champignons et feta douce]]
+- [[salade-couscous-melon-concombre-feta|Salade de couscous, melon, concombre et feta]]
+- [[salade-tomates-haricots-blancs-pain-grille|Salade tomates, haricots blancs et pain grillé]]
+- [[tartines-oeuf-dur-tomates-fromage-frais|Tartines œuf dur, tomates et fromage frais]]
+- [[veloute-tomates-poivrons-tartines-mozzarella|Velouté tomates, poivrons et tartines mozzarella]]

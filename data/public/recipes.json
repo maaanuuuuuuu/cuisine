@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22",
+  "updated_at": "2026-06-29",
   "recipes": [
     {
       "slug": "assiettes-melon-mozzarella-tomates-pain-grille",
@@ -348,6 +348,138 @@
       ]
     },
     {
+      "slug": "fajitas-douces-haricots-rouges-poivrons-mais",
+      "title": "Fajitas douces haricots rouges, poivrons et maïs",
+      "summary": "Le plat de samedi, c'était : fajitas douces haricots rouges, poivrons et maïs. Des fajitas végétariennes très douces, pensées pour un repas convivial à composer à table : une poêlée moelleuse de haricots rouges et poivrons, du maïs, des tomates, une sauce yaourt et du fromage doux servis séparément. Chacun garnit sa tortilla selon son appétit, sans ail cru, oignon cru, échalote crue ni piment fort. Pour 2 adultes + 2 jeunes enfants   Temps : 15 min préparation + 20 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "samedi",
+        "fajitas",
+        "haricots-rouges",
+        "poivrons",
+        "mais"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2610,
+        "calories_per_serving": 653,
+        "protein_g": 111,
+        "carbs_g": 341,
+        "fat_g": 86
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Tortillas de blé",
+          "quantity": "8 petites, environ 320 g",
+          "calories": 1000,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Haricots rouges cuits, égouttés",
+          "quantity": "400 g",
+          "calories": 510,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivrons rouges et jaunes",
+          "quantity": "450 g",
+          "calories": 140,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Maïs doux égoutté",
+          "quantity": "220 g",
+          "calories": 210,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "300 g",
+          "calories": 55,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Yaourt nature ou fromage blanc",
+          "quantity": "250 g",
+          "calories": 150,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Cheddar doux ou emmental râpé",
+          "quantity": "100 g",
+          "calories": 380,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 ml, soit environ 18 g",
+          "calories": 160,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron vert ou jaune",
+          "quantity": "15 ml",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Paprika doux, cumin doux, sel fin",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les garnitures",
+          "text": "Rince 450 g de poivrons rouges et jaunes, retire les graines et coupe les 450 g de poivrons en fines lanières. Rince et égoutte 400 g de haricots rouges cuits. Égoutte 220 g de maïs doux. Coupe 300 g de tomates en petits dés. Mets 100 g de cheddar doux ou d'emmental râpé dans un bol pour le service."
+        },
+        {
+          "title": "Préparer la sauce douce",
+          "text": "Dans un bol, mélange 250 g de yaourt nature ou de fromage blanc avec 15 ml de jus de citron vert ou jaune et une petite pincée de sel fin. Garde cette sauce aux 250 g de yaourt au frais pendant la cuisson ; elle doit rester simple et douce pour les enfants."
+        },
+        {
+          "title": "Cuire les poivrons",
+          "text": "Fais chauffer 10 ml d'huile d'olive dans une grande poêle à feu moyen. Ajoute les 450 g de poivrons rouges et jaunes avec une pincée de sel fin, puis cuis les 450 g de poivrons pendant 8 à 10 minutes en remuant souvent. Les 450 g de poivrons doivent devenir souples et légèrement sucrés ; s'ils accrochent, ajoute 1 à 2 cuillères à soupe d'eau."
+        },
+        {
+          "title": "Réchauffer les haricots rouges",
+          "text": "Ajoute dans la poêle les 400 g de haricots rouges cuits et égouttés, 1 cuillère à café de paprika doux, 1/2 cuillère à café de cumin doux et 3 cuillères à soupe d'eau. Mélange les 400 g de haricots rouges avec les 450 g de poivrons, puis laisse chauffer 5 à 6 minutes à feu doux. Écrase seulement quelques haricots avec la cuillère pour lier la garniture, en gardant la majorité des 400 g de haricots rouges entiers."
+        },
+        {
+          "title": "Réchauffer les tortillas",
+          "text": "Pendant que les 400 g de haricots rouges finissent de chauffer avec les 450 g de poivrons, badigeonne les 8 petites tortillas de blé avec les 10 ml d'huile d'olive restants. Réchauffe les 8 petites tortillas de blé dans une poêle sèche, 20 à 30 secondes par face, ou enveloppées dans du papier cuisson au four à 160 °C pendant 5 minutes. Elles doivent être souples, pas cassantes."
+        },
+        {
+          "title": "Installer le repas à table",
+          "text": "Pose sur la table la poêlée chaude aux 400 g de haricots rouges et 450 g de poivrons, les 8 petites tortillas de blé, les 220 g de maïs doux égoutté, les 300 g de tomates en dés, la sauce aux 250 g de yaourt et les 100 g de cheddar doux ou d'emmental râpé. Pour les jeunes enfants, commence avec une petite tortilla garnie surtout de haricots et de maïs, puis ajoute les tomates ou la sauce à part selon leur envie."
+        },
+        {
+          "title": "Assembler les fajitas",
+          "text": "Pour chaque fajita, garnis 1 des 8 petites tortillas de blé avec une portion de la poêlée aux 400 g de haricots rouges et 450 g de poivrons, quelques cuillerées des 220 g de maïs doux, un peu des 300 g de tomates, une cuillerée de sauce aux 250 g de yaourt et une petite poignée des 100 g de fromage râpé. Replie la tortilla sans trop la charger ; si elle déborde, transforme-la en assiette à manger à la fourchette."
+        }
+      ]
+    },
+    {
       "slug": "flatbreads-poivrons-mais-mozzarella",
       "title": "Flatbreads poivrons, maïs et mozzarella",
       "summary": "Le plat de samedi, c'était : flatbreads poivrons, maïs et mozzarella. Des pains plats garnis comme des petites pizzas douces, avec des poivrons bien fondants, du maïs sucré, une sauce tomate simple et de la mozzarella gratinée. Le repas reste convivial et facile à personnaliser à table, sans ail cru, oignon cru, échalote crue ni piment fort. Pour 2 adultes + 2 jeunes enfants   Temps : 10 min préparation + 20 min cuisson",
@@ -460,6 +592,123 @@
         {
           "title": "Servir en morceaux faciles",
           "text": "Laisse reposer les 4 flatbreads poivrons, maïs et mozzarella pendant 2 minutes, puis coupe les 4 flatbreads en quartiers. Pour les jeunes enfants, choisis les morceaux avec des 450 g de poivrons bien tendres et laisse tiédir les 250 g de mozzarella avant de servir."
+        }
+      ]
+    },
+    {
+      "slug": "frittata-courgettes-mais-chevre-frais",
+      "title": "Frittata courgettes, maïs et chèvre frais",
+      "summary": "Le plat de vendredi, c'est une frittata familiale aux courgettes fondantes, au maïs doux et au chèvre frais. Les œufs sont cuits doucement à la poêle puis juste terminés au four, pour garder une texture prise mais moelleuse, sans ail cru, oignon cru ni échalote crue.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 23,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "oeufs",
+        "frittata",
+        "courgettes"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1435,
+        "calories_per_serving": 360,
+        "protein_g": 89,
+        "carbs_g": 80,
+        "fat_g": 91
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Œufs",
+          "quantity": "8 moyens",
+          "calories": 576,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "650 g, environ 3 moyennes",
+          "calories": 111,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Maïs doux égoutté",
+          "quantity": "240 g",
+          "calories": 206,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chèvre frais",
+          "quantity": "160 g",
+          "calories": 320,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "120 ml",
+          "calories": 56,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 ml, soit 4 c. à café",
+          "calories": 159,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Herbes douces",
+          "quantity": "15 g, ciboulette, persil ou basilic",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin, poivre doux, muscade",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare le four et les ingrédients",
+          "text": "Préchauffe le four à 190 °C. Rince 650 g de courgettes, coupe les 650 g de courgettes en petits dés ou en fines demi-rondelles, égoutte 240 g de maïs doux, émiette 160 g de chèvre frais et cisèle 15 g d'herbes douces."
+        },
+        {
+          "title": "Fais fondre les courgettes",
+          "text": "Dans une grande poêle allant au four, chauffe 20 ml d'huile d'olive à feu moyen. Ajoute les 650 g de courgettes avec une petite pincée de sel fin, puis cuis les 650 g de courgettes 8 à 9 minutes, jusqu'à ce qu'elles soient souples et que leur eau soit presque évaporée."
+        },
+        {
+          "title": "Ajoute le maïs",
+          "text": "Ajoute 240 g de maïs doux égoutté dans la poêle avec les 650 g de courgettes et les 20 ml d'huile d'olive. Fais revenir 240 g de maïs doux 2 minutes pour le réchauffer et éviter qu'il ne détrempe les œufs."
+        },
+        {
+          "title": "Prépare l'appareil aux œufs",
+          "text": "Dans un saladier, fouette 8 œufs avec 120 ml de lait demi-écrémé, 80 g de chèvre frais émietté, la moitié des 15 g d'herbes douces, un peu de poivre doux et une petite pincée de muscade. Le mélange aux 8 œufs doit être homogène, sans chercher à le rendre mousseux."
+        },
+        {
+          "title": "Lance la cuisson douce",
+          "text": "Baisse le feu sous la poêle. Verse le mélange aux 8 œufs, 120 ml de lait demi-écrémé et 80 g de chèvre frais sur les 650 g de courgettes et les 240 g de maïs doux. Répartis les 80 g de chèvre frais restants sur le dessus, puis cuis 4 à 5 minutes à feu doux, jusqu'à ce que les bords commencent à prendre."
+        },
+        {
+          "title": "Termine au four sans sécher",
+          "text": "Enfourne la poêle avec les 8 œufs, les 650 g de courgettes, les 240 g de maïs doux et les 160 g de chèvre frais pendant 9 à 10 minutes à 190 °C. La frittata est prête quand le centre est pris mais encore légèrement souple quand on bouge la poêle; s'il reste franchement liquide, prolonge de 2 minutes, sans monter la température."
+        },
+        {
+          "title": "Laisse reposer et sers",
+          "text": "Laisse reposer la frittata aux 8 œufs, 650 g de courgettes, 240 g de maïs doux et 160 g de chèvre frais pendant 5 minutes hors du four. Ajoute le reste des 15 g d'herbes douces juste avant de servir, puis coupe en parts quand la texture est stable mais encore moelleuse."
         }
       ]
     },
@@ -824,6 +1073,152 @@
         {
           "title": "Servir simplement",
           "text": "Goûte la sauce des 800 g de gnocchis frais avec les 600 g de passata, les 250 g d'épinards frais et les 250 g de mozzarella. Ajuste avec un peu de sel fin ou de poivre doux, puis sers chaud, avec la mozzarella fondue en morceaux doux pour les enfants."
+        }
+      ]
+    },
+    {
+      "slug": "gratin-boulgour-aubergines-tomates-ricotta",
+      "title": "Gratin de boulgour, aubergines, tomates et ricotta",
+      "summary": "Le plat de jeudi, c'était un gratin familial végétarien au four : du boulgour précuit pour rester moelleux, des aubergines et des tomates bien revenues pour éviter un gratin aqueux, puis une crème douce à la ricotta et au comté. Le résultat doit être fondant, gratiné sur le dessus et facile à servir en parts souples.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "total_time_minutes": 55,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gratin",
+        "four",
+        "boulgour",
+        "aubergines"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2470,
+        "calories_per_serving": 620,
+        "protein_g": 120,
+        "carbs_g": 269,
+        "fat_g": 112
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Boulgour sec",
+          "quantity": "220 g",
+          "calories": 750,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Eau",
+          "quantity": "45 cl",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Aubergines",
+          "quantity": "650 g",
+          "calories": 160,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Tomates mûres",
+          "quantity": "550 g",
+          "calories": 100,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Concentré de tomate",
+          "quantity": "25 g",
+          "calories": 20,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 435,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté doux râpé",
+          "quantity": "120 g",
+          "calories": 500,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Œufs",
+          "quantity": "2",
+          "calories": 150,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "120 ml",
+          "calories": 55,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chapelure fine",
+          "quantity": "30 g",
+          "calories": 110,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "25 ml",
+          "calories": 200,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Herbes de Provence, sel fin, poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préchauffer et préparer les légumes",
+          "text": "Préchauffe le four à 200 °C. Coupe les 650 g d'aubergines en dés d'environ 2 cm. Coupe les 550 g de tomates mûres en dés, puis laisse les 550 g de tomates mûres quelques minutes dans une passoire si elles rendent beaucoup de jus."
+        },
+        {
+          "title": "Précuire le boulgour",
+          "text": "Rince les 220 g de boulgour sec dans une passoire fine. Mets les 220 g de boulgour sec dans une casserole avec 45 cl d'eau et 1 petite pincée de sel fin. Porte à frémissement, couvre et cuis les 220 g de boulgour sec 10 à 12 minutes, jusqu'à ce que les 45 cl d'eau soient presque absorbés. Coupe le feu, laisse gonfler les 220 g de boulgour sec 5 minutes à couvert, puis égraine. S'il reste plus d'une cuillère à soupe d'eau au fond, égoutte rapidement le boulgour pour éviter de détremper le gratin."
+        },
+        {
+          "title": "Concentrer les aubergines",
+          "text": "Pendant que les 220 g de boulgour sec cuisent, chauffe 20 ml d'huile d'olive dans une grande poêle. Ajoute les 650 g d'aubergines, 1 pincée de sel fin et un peu de poivre doux. Fais cuire les 650 g d'aubergines 8 minutes à feu moyen avec un couvercle, puis 5 à 6 minutes sans couvercle, jusqu'à ce que les 650 g d'aubergines soient tendres et que leur eau se soit évaporée."
+        },
+        {
+          "title": "Ajouter les tomates sans noyer le plat",
+          "text": "Ajoute aux 650 g d'aubergines les 550 g de tomates mûres égouttées, les 25 g de concentré de tomate et 1 cuillère à café bombée d'herbes de Provence. Fais cuire les 650 g d'aubergines, les 550 g de tomates mûres et les 25 g de concentré de tomate 5 à 6 minutes à feu moyen-vif, en remuant, jusqu'à ce que le jus soit court et nappant. Si les 550 g de tomates mûres rendent encore beaucoup d'eau, prolonge de 2 minutes avant de monter le gratin."
+        },
+        {
+          "title": "Préparer la crème à la ricotta",
+          "text": "Dans un saladier, mélange les 250 g de ricotta, les 2 œufs, les 120 ml de lait demi-écrémé, 60 g de comté doux râpé, 1 petite pincée de sel fin et un peu de poivre doux. Garde les 60 g de comté doux râpé restants pour gratiner le dessus."
+        },
+        {
+          "title": "Monter le gratin",
+          "text": "Huile un plat à gratin familial avec les 5 ml d'huile d'olive restants. Mélange les 220 g de boulgour précuit, les 650 g d'aubergines cuites, les 550 g de tomates mûres réduites avec les 25 g de concentré de tomate, et la crème préparée avec les 250 g de ricotta, les 2 œufs, les 120 ml de lait demi-écrémé et 60 g de comté doux râpé. Verse le mélange dans le plat huilé avec 5 ml d'huile d'olive."
+        },
+        {
+          "title": "Gratiner",
+          "text": "Répartis sur le gratin les 60 g de comté doux râpé restants et les 30 g de chapelure fine. Enfourne le gratin de 220 g de boulgour sec, 650 g d'aubergines, 550 g de tomates mûres, 250 g de ricotta, 120 g de comté doux râpé, 2 œufs, 120 ml de lait demi-écrémé et 30 g de chapelure fine pendant 20 à 22 minutes à 200 °C, jusqu'à ce que les bords frémissent et que le dessus soit doré."
+        },
+        {
+          "title": "Laisser reposer et servir",
+          "text": "Laisse reposer 5 minutes le gratin de 220 g de boulgour sec, 650 g d'aubergines, 550 g de tomates mûres, 250 g de ricotta et 120 g de comté doux râpé avant de servir. Ce repos aide les 220 g de boulgour sec à absorber la crème sans devenir secs. Si le gratin semble trop compact au service, ajoute 1 à 2 cuillères à soupe d'eau chaude sur les bords du plat."
         }
       ]
     },
@@ -1683,6 +2078,119 @@
       ]
     },
     {
+      "slug": "pates-cremeuses-haricots-plats-fromage-frais",
+      "title": "Pâtes crémeuses haricots plats et fromage frais",
+      "summary": "Le plat de lundi soir : des pâtes courtes bien crémeuses, avec des haricots plats fondants, du fromage frais nature, un peu de lait demi-écrémé et du fromage râpé doux. C'est un dîner végétarien simple, familial, prêt en environ 35 minutes, avec une sauce souple plutôt que lourde.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pates",
+        "haricots-plats",
+        "fromage-frais"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2045,
+        "calories_per_serving": 510,
+        "protein_g": 91,
+        "carbs_g": 282,
+        "fat_g": 64
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâtes courtes sèches",
+          "quantity": "320 g",
+          "calories": 1120,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Haricots plats frais ou surgelés",
+          "quantity": "450 g",
+          "calories": 140,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fromage frais nature",
+          "quantity": "250 g",
+          "calories": 370,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "180 ml",
+          "calories": 85,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Parmesan ou emmental doux râpé",
+          "quantity": "60 g",
+          "calories": 245,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml",
+          "calories": 80,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Citron",
+          "quantity": "1/2 citron",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin, poivre doux, muscade",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les haricots plats",
+          "text": "Si les 450 g de haricots plats sont frais, rince les 450 g de haricots plats, équeute-les, puis coupe les 450 g de haricots plats en tronçons de 3 à 4 cm. Si les 450 g de haricots plats sont surgelés, garde les 450 g de haricots plats encore surgelés, prêts à aller dans l'eau."
+        },
+        {
+          "title": "Cuis les pâtes et les haricots plats",
+          "text": "Porte une grande casserole d'eau salée à ébullition. Ajoute 320 g de pâtes courtes sèches et cuis les 320 g de pâtes courtes sèches selon le temps indiqué sur le paquet. Quand il reste 7 minutes de cuisson, ajoute les 450 g de haricots plats frais ; s'ils sont surgelés, ajoute les 450 g de haricots plats surgelés quand il reste 5 minutes de cuisson. Avant d'égoutter les 320 g de pâtes courtes sèches et les 450 g de haricots plats, réserve 200 ml d'eau de cuisson."
+        },
+        {
+          "title": "Démarre une sauce douce",
+          "text": "Dans une grande sauteuse ou dans la casserole vidée, chauffe 10 ml d'huile d'olive à feu doux. Ajoute 250 g de fromage frais nature, 180 ml de lait demi-écrémé, 45 g de parmesan ou d'emmental doux râpé, une petite pincée de muscade et environ 120 ml d'eau de cuisson réservée. Mélange doucement 2 à 3 minutes, sans faire bouillir, jusqu'à obtenir une sauce lisse et souple."
+        },
+        {
+          "title": "Enrobe les pâtes",
+          "text": "Ajoute les pâtes cuites issues des 320 g de pâtes courtes sèches et les 450 g de haricots plats cuits dans la sauce aux 250 g de fromage frais nature. Mélange 1 à 2 minutes à feu doux, pour que les 320 g de pâtes courtes sèches et les 450 g de haricots plats soient bien nappés."
+        },
+        {
+          "title": "Ajuste la texture",
+          "text": "Si la sauce aux 250 g de fromage frais nature épaissit trop autour des 320 g de pâtes courtes sèches et des 450 g de haricots plats, ajoute peu à peu les 80 ml d'eau de cuisson réservée restants. La sauce doit rester crémeuse, fluide et brillante, pas compacte."
+        },
+        {
+          "title": "Finis et sers",
+          "text": "Goûte les pâtes aux 450 g de haricots plats et ajuste avec un peu de sel fin, de poivre doux ou de muscade. Si tout le monde aime, ajoute quelques gouttes du 1/2 citron pour réveiller la sauce sans l'acidifier. Sers avec les 15 g de parmesan ou d'emmental doux râpé restants à part, pour que chacun dose son assiette."
+        }
+      ]
+    },
+    {
       "slug": "pilaf-boulgour-champignons-courgettes-feta",
       "title": "Pilaf de boulgour aux champignons, courgettes et feta",
       "summary": "Le plat de mardi, c'est un pilaf doux de boulgour avec des champignons fondants, des courgettes et de la feta ajoutée hors du feu. Le résultat est moelleux, familial, prêt en environ 35 minutes, et assez simple pour un dîner de semaine.",
@@ -2173,6 +2681,120 @@
       ]
     },
     {
+      "slug": "ravioles-courgettes-creme-douce",
+      "title": "Ravioles courgettes et crème douce",
+      "summary": "Le plat de mercredi, c'était : Ravioles courgettes et crème douce. Un dîner végétarien très simple pour le mercredi soir : des courgettes fondantes, des ravioles cuites directement dans une crème légère, un peu d'emmental doux et du basilic ajouté à la fin. La cuisson reste douce et on remue le moins possible pour ne pas casser les ravioles. Pour 2 adultes + 2 jeunes enfants   Temps : 10 min préparation + 15 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "mercredi",
+        "tres-simple",
+        "ravioles",
+        "courgettes"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2145,
+        "calories_per_serving": 535,
+        "protein_g": 91,
+        "carbs_g": 165,
+        "fat_g": 118
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Ravioles du Dauphiné fraîches ou ravioles végétariennes",
+          "quantity": "480 g",
+          "calories": 1370,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "600 g",
+          "calories": 100,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "200 ml",
+          "calories": 325,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Emmental doux râpé",
+          "quantity": "70 g",
+          "calories": 265,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml",
+          "calories": 80,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Basilic doux",
+          "quantity": "8 à 10 feuilles, environ 5 g",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Eau chaude",
+          "quantity": "120 ml, puis 2 à 3 c. à soupe si besoin",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin, poivre doux, muscade",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les courgettes",
+          "text": "Rince 600 g de courgettes, retire les extrémités, puis coupe les 600 g de courgettes en fines demi-rondelles. Plus les 600 g de courgettes sont fines, plus elles deviennent fondantes rapidement."
+        },
+        {
+          "title": "Fais fondre les courgettes",
+          "text": "Dans une grande sauteuse, chauffe 10 ml d'huile d'olive à feu moyen. Ajoute les 600 g de courgettes avec une petite pincée de sel fin, puis fais cuire les 600 g de courgettes pendant 8 à 9 minutes, en remuant de temps en temps, jusqu'à ce qu'elles soient souples et que leur eau commence à s'évaporer."
+        },
+        {
+          "title": "Ajoute la crème douce",
+          "text": "Baisse à feu doux. Verse 200 ml de crème légère 15 % et 120 ml d'eau chaude sur les 600 g de courgettes. Ajoute un peu de poivre doux et une très petite pincée de muscade, puis mélange doucement pour obtenir une sauce souple autour des 600 g de courgettes."
+        },
+        {
+          "title": "Cuis les ravioles sans les casser",
+          "text": "Sépare délicatement 480 g de ravioles du Dauphiné fraîches ou de ravioles végétariennes fraîches en grandes plaques ou en grosses bandes, sans chercher à détacher chaque raviole. Glisse les 480 g de ravioles dans la sauce aux 600 g de courgettes, aux 200 ml de crème légère 15 % et aux 120 ml d'eau chaude. Nappe les 480 g de ravioles avec la sauce, couvre et laisse frémir 2 à 3 minutes à feu doux. Évite de remuer vivement : secoue plutôt la sauteuse ou soulève les 480 g de ravioles avec une spatule large."
+        },
+        {
+          "title": "Lie au fromage",
+          "text": "Répartis 70 g d'emmental doux râpé sur les 480 g de ravioles et les 600 g de courgettes. Couvre encore 1 minute, juste pour faire fondre les 70 g d'emmental doux râpé. Si la sauce autour des 480 g de ravioles épaissit trop, ajoute 2 à 3 c. à soupe d'eau chaude et incline la sauteuse pour détendre la crème sans casser les ravioles."
+        },
+        {
+          "title": "Termine au basilic et sers",
+          "text": "Coupe le feu, ajoute 8 à 10 feuilles de basilic doux, environ 5 g, puis laisse reposer les 480 g de ravioles, les 600 g de courgettes, les 200 ml de crème légère 15 % et les 70 g d'emmental doux râpé pendant 1 minute. Sers aussitôt, avec un peu plus de basilic doux dans les assiettes des adultes si besoin."
+        }
+      ]
+    },
+    {
       "slug": "risotto-petit-epeautre-aubergines-tomates-cerises",
       "title": "Risotto de petit épeautre aux aubergines rôties et tomates cerises",
       "summary": "Le plat de mardi, c'est un risotto doux de petit épeautre, avec des aubergines rôties, des tomates cerises fondantes et du parmesan ajouté en fin de cuisson. C'est un dîner végétarien familial, moelleux sans être lourd, pensé pour rester simple et adapté aux jeunes enfants.",
@@ -2299,6 +2921,260 @@
         {
           "title": "Sers doux et crémeux",
           "text": "Goûte le risotto avec les 260 g de petit épeautre, les 600 g d'aubergines, les 350 g de tomates cerises et les 60 g de fromage déjà incorporés. Ajuste avec un peu de sel fin et de poivre doux si besoin, puis sers avec les 20 g restants de parmesan ou de fromage doux râpé à part pour que chacun dose son assiette."
+        }
+      ]
+    },
+    {
+      "slug": "riz-pilaf-courgettes-champignons-feta-douce",
+      "title": "Riz pilaf courgettes, champignons et feta douce",
+      "summary": "Le plat de mardi, c'était : riz pilaf courgettes, champignons et feta douce. Un pilaf familial végétarien, tendre et doux, avec du riz long moelleux, des courgettes en petits dés, juste assez de champignons pour donner du goût sans dominer, et de la feta ajoutée hors du feu. Le riz reste souple grâce à un rinçage rapide, une cuisson couverte sans remuer, puis un repos hors du feu avant d'aérer les grains à la fourchette. Pour 2 adultes + 2 jeunes enfants   Temps : 15 min préparation + 25 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "mardi",
+        "riz",
+        "pilaf",
+        "courgettes",
+        "champignons",
+        "feta"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1820,
+        "calories_per_serving": 455,
+        "protein_g": 59,
+        "carbs_g": 266,
+        "fat_g": 56
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Riz long blanc ou riz complet cuisson rapide",
+          "quantity": "300 g",
+          "calories": 1080,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "500 g",
+          "calories": 85,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "180 g",
+          "calories": 40,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Feta douce",
+          "quantity": "160 g",
+          "calories": 424,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Bouillon de légumes doux",
+          "quantity": "650 ml",
+          "calories": 20,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 ml, soit environ 18 g",
+          "calories": 160,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Persil plat ou basilic",
+          "quantity": "15 g",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Paprika doux ou herbes de Provence",
+          "quantity": "1 c. à café, environ 2 g",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rincer le riz et préparer les légumes",
+          "text": "Rince 300 g de riz long blanc ou de riz complet cuisson rapide dans une passoire fine jusqu'à ce que l'eau soit moins trouble, puis laisse égoutter les 300 g de riz pendant que tu prépares les légumes. Coupe 500 g de courgettes en petits dés, émince 180 g de champignons de Paris en lamelles fines, émiette 160 g de feta douce, puis cisèle 15 g de persil plat ou de basilic."
+        },
+        {
+          "title": "Faire revenir doucement les légumes",
+          "text": "Dans une grande sauteuse avec couvercle, chauffe 20 ml d'huile d'olive à feu moyen. Ajoute 180 g de champignons de Paris et fais revenir les 180 g de champignons 3 minutes, juste pour qu'ils rendent un peu d'eau. Ajoute 500 g de courgettes, une petite pincée de sel fin, du poivre doux et 1 c. à café de paprika doux ou d'herbes de Provence, puis cuis les 500 g de courgettes avec les 180 g de champignons 4 à 5 minutes. Les courgettes doivent commencer à s'assouplir sans colorer fortement."
+        },
+        {
+          "title": "Nacrer le riz",
+          "text": "Ajoute les 300 g de riz égoutté dans la sauteuse avec les 500 g de courgettes et les 180 g de champignons de Paris. Mélange 1 minute pour enrober les 300 g de riz avec les 20 ml d'huile d'olive et les sucs doux des légumes."
+        },
+        {
+          "title": "Cuire le pilaf couvert",
+          "text": "Verse 650 ml de bouillon de légumes doux chaud sur les 300 g de riz, les 500 g de courgettes et les 180 g de champignons de Paris. Porte à frémissement, couvre, baisse à feu doux et cuis 12 à 14 minutes sans remuer pour du riz long blanc. Pour un riz complet cuisson rapide, garde les 650 ml de bouillon de légumes doux, suis le temps indiqué sur le paquet et ajoute 50 ml d'eau chaude si le riz semble encore ferme en fin de cuisson."
+        },
+        {
+          "title": "Laisser reposer pour garder le riz moelleux",
+          "text": "Coupe le feu et laisse reposer la sauteuse couverte 8 minutes, avec les 300 g de riz, les 500 g de courgettes, les 180 g de champignons de Paris et le reste des 650 ml de bouillon de légumes doux absorbé doucement. Ce repos finit la cuisson sans casser les grains. Si les 300 g de riz sont encore un peu fermes, ajoute 2 à 3 cuillères à soupe d'eau chaude, couvre et remets 2 minutes à feu très doux ; si le fond paraît trop humide, laisse reposer 2 minutes sans couvercle."
+        },
+        {
+          "title": "Finir avec la feta et les herbes",
+          "text": "Aère les 300 g de riz pilaf à la fourchette avec les 500 g de courgettes et les 180 g de champignons de Paris. Ajoute 120 g de feta douce et les 15 g de persil plat ou de basilic dans la sauteuse hors du feu, puis garde les 40 g de feta douce restants à proposer à table. Mélange délicatement pour que les 160 g de feta douce restent en petits morceaux fondants plutôt qu'en sauce salée."
+        },
+        {
+          "title": "Servir doux et souple",
+          "text": "Goûte le riz pilaf aux 300 g de riz, 500 g de courgettes, 180 g de champignons de Paris, 160 g de feta douce et 15 g de persil plat ou de basilic avant de resaler, car le bouillon et la feta apportent déjà du sel. Pour les jeunes enfants, sers une part avec davantage de riz et de courgettes, et ajoute la feta douce en petits morceaux à côté si besoin."
+        }
+      ]
+    },
+    {
+      "slug": "salade-couscous-melon-concombre-feta",
+      "title": "Salade de couscous, melon, concombre et feta",
+      "summary": "Le déjeuner de samedi, c'est une salade de couscous très fraîche, pensée pour rester simple autour du rythme familial : semoule moelleuse, melon doux, concombre croquant, un peu de feta et des herbes. Les tomates cerises sont optionnelles, utiles si tu veux plus de couleur et d'acidité, et la feta reste dosée pour garder un plat doux pour les enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 5,
+      "total_time_minutes": 25,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "ete",
+        "salade",
+        "semoule",
+        "sans-cuisson"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1890,
+        "calories_per_serving": 470,
+        "protein_g": 64,
+        "carbs_g": 295,
+        "fat_g": 51
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Semoule de couscous moyenne",
+          "quantity": "300 g",
+          "calories": 1080,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Eau bouillante",
+          "quantity": "360 ml",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Melon",
+          "quantity": "650 g de chair",
+          "calories": 220,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "300 g",
+          "calories": 45,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Feta",
+          "quantity": "120 g",
+          "calories": 320,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Tomates cerises optionnelles",
+          "quantity": "200 g",
+          "calories": 35,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Menthe ou basilic frais",
+          "quantity": "10 g",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 g",
+          "calories": 180,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "25 ml",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Faire gonfler la semoule",
+          "text": "Verse 300 g de semoule de couscous moyenne dans un grand saladier avec 15 g d'huile d'olive et une petite pincée de sel fin. Ajoute 360 ml d'eau bouillante, couvre le saladier et laisse gonfler 5 minutes, jusqu'à ce que les 300 g de semoule de couscous moyenne aient absorbé les 360 ml d'eau bouillante."
+        },
+        {
+          "title": "Préparer les fruits, les légumes et les herbes",
+          "text": "Pendant que les 300 g de semoule de couscous moyenne gonflent, coupe 650 g de chair de melon en petits dés. Coupe 300 g de concombre en dés fins, recoupe 200 g de tomates cerises optionnelles en deux ou en quatre, puis cisèle 10 g de menthe ou de basilic frais."
+        },
+        {
+          "title": "Assaisonner doucement",
+          "text": "Dans un petit bol, mélange 25 ml de jus de citron avec les 5 g d'huile d'olive restants, un peu de sel fin et du poivre doux. Garde cet assaisonnement au citron avec 25 ml de jus de citron et 5 g d'huile d'olive assez léger pour ne pas masquer le melon."
+        },
+        {
+          "title": "Égrainer la base",
+          "text": "Égraine à la fourchette les 300 g de semoule de couscous moyenne gonflée avec les 360 ml d'eau bouillante. Verse l'assaisonnement préparé avec 25 ml de jus de citron et 5 g d'huile d'olive, puis mélange pour détendre les grains ; si les 300 g de semoule de couscous moyenne semblent compacts, ajoute 1 à 2 cuillères à soupe d'eau froide."
+        },
+        {
+          "title": "Assembler la salade",
+          "text": "Ajoute dans le saladier les 650 g de chair de melon, les 300 g de concombre, les 200 g de tomates cerises optionnelles et les 10 g de menthe ou de basilic frais. Émiette 120 g de feta par-dessus, puis mélange délicatement pour répartir les 120 g de feta sans écraser les dés de melon."
+        },
+        {
+          "title": "Servir frais ou à température ambiante",
+          "text": "Goûte la salade avec les 300 g de semoule de couscous moyenne, les 650 g de chair de melon, les 300 g de concombre, les 120 g de feta et les 200 g de tomates cerises optionnelles. Ajuste avec un peu de sel fin, de poivre doux ou quelques feuilles prises dans les 10 g de menthe ou de basilic frais. Pour les jeunes enfants, sers des petits dés de melon et de concombre faciles à piquer."
         }
       ]
     },
@@ -2665,6 +3541,128 @@
         {
           "title": "Servir avec les œufs",
           "text": "Répartis les 4 œufs moyens coupés sur la salade de 800 g de pommes de terre et 450 g de haricots verts. Sers tiède, ou laisse refroidir la salade 15 à 20 minutes au frais. Pour les jeunes enfants, coupe les 450 g de haricots verts les plus longs et les quartiers des 4 œufs moyens en morceaux faciles à attraper."
+        }
+      ]
+    },
+    {
+      "slug": "salade-tomates-haricots-blancs-pain-grille",
+      "title": "Salade tomates, haricots blancs et pain grillé",
+      "summary": "Déjeuner léger du dimanche, prêt en 20 minutes : une salade-repas de tomates mûres, haricots blancs doux, basilic et pain de campagne grillé. L'assaisonnement reste citronné mais très simple, sans ail cru, oignon cru ni échalote crue, avec une option mozzarella douce ou fromage frais pour rendre l'assiette plus nourrissante.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 5,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "salade",
+        "ete",
+        "pain-grille",
+        "haricots-blancs"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1935,
+        "calories_per_serving": 484,
+        "protein_g": 88,
+        "carbs_g": 267,
+        "fat_g": 61
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Tomates mûres",
+          "quantity": "600 g",
+          "calories": 110,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Haricots blancs cuits égouttés",
+          "quantity": "500 g",
+          "calories": 570,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "280 g",
+          "calories": 700,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Mozzarella douce ou fromage frais",
+          "quantity": "125 g",
+          "calories": 310,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "25 g",
+          "calories": 225,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "30 ml",
+          "calories": 10,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "8 g",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Basilic frais",
+          "quantity": "10 g",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Griller le pain",
+          "text": "Coupe 280 g de pain de campagne en 6 à 8 tranches. Fais griller les 280 g de pain de campagne au grille-pain ou dans une poêle chaude pendant 3 à 5 minutes, jusqu'à ce que les bords soient croustillants et le centre encore un peu tendre. Arrose les 280 g de pain grillé avec 10 g d'huile d'olive, puis laisse les tranches tiédir sur une assiette pour qu'elles restent croustillantes."
+        },
+        {
+          "title": "Préparer l'assaisonnement doux",
+          "text": "Dans un bol, fouette les 15 g d'huile d'olive restants avec 30 ml de jus de citron, 8 g de moutarde douce, une petite pincée de sel fin et un peu de poivre doux. Ajoute 1 à 2 cuillères à soupe d'eau froide si l'assaisonnement aux 15 g d'huile d'olive, 30 ml de jus de citron et 8 g de moutarde douce paraît trop vif pour les enfants."
+        },
+        {
+          "title": "Préparer les tomates et les haricots",
+          "text": "Rince 600 g de tomates mûres, 500 g de haricots blancs cuits égouttés et 10 g de basilic frais. Coupe les 600 g de tomates mûres en quartiers ou en dés adaptés aux jeunes enfants. Égoutte bien les 500 g de haricots blancs cuits pour que la salade ne devienne pas aqueuse, puis cisèle les 10 g de basilic frais."
+        },
+        {
+          "title": "Mélanger la salade",
+          "text": "Dans un grand saladier, mélange délicatement les 600 g de tomates mûres avec les 500 g de haricots blancs cuits égouttés et les 10 g de basilic frais. Verse l'assaisonnement préparé avec 15 g d'huile d'olive, 30 ml de jus de citron et 8 g de moutarde douce, puis remue doucement pour enrober les 600 g de tomates et les 500 g de haricots blancs sans les écraser."
+        },
+        {
+          "title": "Ajouter le fromage si souhaité",
+          "text": "Coupe ou émiette 125 g de mozzarella douce ou fromage frais. Ajoute les 125 g de mozzarella douce ou fromage frais dans le saladier avec les 600 g de tomates mûres et les 500 g de haricots blancs, ou garde les 125 g de fromage à part pour servir seulement ceux qui en veulent. Si le fromage rend de l'eau, tamponne les 125 g de mozzarella douce ou fromage frais avant de les ajouter."
+        },
+        {
+          "title": "Servir avec le pain grillé",
+          "text": "Casse une partie des 280 g de pain de campagne grillé en gros croûtons juste avant de servir, et garde le reste des 280 g de pain grillé à côté pour les enfants. Si la salade doit attendre quelques minutes, garde les 280 g de pain de campagne grillé séparés et ajoute-les au dernier moment pour préserver le contraste croustillant."
         }
       ]
     },
@@ -3073,6 +4071,130 @@
         {
           "title": "Finir au basilic",
           "text": "Laisse reposer la tarte aux 550 g de tomates, 250 g de ricotta et 125 g de mozzarella pendant 5 minutes avant de couper. Ajoute le reste des 15 g de basilic frais juste avant de servir pour garder son parfum."
+        }
+      ]
+    },
+    {
+      "slug": "tartines-oeuf-dur-tomates-fromage-frais",
+      "title": "Tartines œuf dur, tomates et fromage frais",
+      "summary": "Déjeuner du mercredi très rapide : des tartines de pain de campagne ou de pain complet doux, du fromage frais nature, des tomates juteuses, des œufs durs et un peu de concombre pour la fraîcheur. Tout peut être assemblé en 20 minutes, avec des tartines coupées en bandes pour les jeunes enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 10,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "tartines",
+        "oeufs"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1975,
+        "calories_per_serving": 494,
+        "protein_g": 81,
+        "carbs_g": 216,
+        "fat_g": 91
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pain de campagne ou pain complet doux",
+          "quantity": "360 g, soit 6 grandes tranches",
+          "calories": 900,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Œufs",
+          "quantity": "5 gros œufs",
+          "calories": 390,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fromage frais nature à tartiner",
+          "quantity": "220 g",
+          "calories": 484,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "400 g",
+          "calories": 72,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "250 g",
+          "calories": 30,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "15 ml",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ciboulette, basilic ou persil plat",
+          "quantity": "10 g",
+          "calories": 3,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cuire les œufs durs",
+          "text": "Dépose 5 gros œufs dans une casserole, couvre les 5 gros œufs d'eau froide, puis porte à frémissement. Laisse cuire les 5 gros œufs pendant 10 minutes à frémissement doux, puis plonge les 5 gros œufs dans de l'eau froide pendant 3 minutes. Si la cuisson dépasse de 1 ou 2 minutes, ce n'est pas grave : pour cette recette, des œufs bien pris sont plus pratiques à couper."
+        },
+        {
+          "title": "Préparer la base crémeuse",
+          "text": "Dans un bol, mélange 220 g de fromage frais nature à tartiner avec 15 ml de jus de citron, 5 g d'huile d'olive, la moitié des 10 g de ciboulette, basilic ou persil plat, une petite pincée de sel fin et un peu de poivre doux. La base aux 220 g de fromage frais nature doit rester souple ; si elle paraît trop ferme, ajoute 1 cuillère à café d'eau froide."
+        },
+        {
+          "title": "Couper les légumes",
+          "text": "Rince 400 g de tomates, 250 g de concombre si tu l'utilises, et le reste des 10 g de ciboulette, basilic ou persil plat. Coupe les 400 g de tomates en fines tranches ou en petits dés, puis taille les 250 g de concombre en demi-rondelles fines pour que les tartines restent faciles à manger."
+        },
+        {
+          "title": "Préparer le pain",
+          "text": "Dispose 360 g de pain de campagne ou de pain complet doux, soit 6 grandes tranches, sur une planche. Garde les 6 grandes tranches moelleuses pour un déjeuner très rapide, ou passe les 360 g de pain quelques secondes au grille-pain si le pain est un peu humide ou trop souple."
+        },
+        {
+          "title": "Écaler et couper les œufs",
+          "text": "Écale les 5 gros œufs durs refroidis, puis coupe les 5 gros œufs durs en rondelles épaisses ou en quartiers. Pour les jeunes enfants, recoupe une partie des 5 gros œufs durs en petits morceaux afin que les tartines soient plus simples à attraper."
+        },
+        {
+          "title": "Assembler les tartines",
+          "text": "Répartis toute la base aux 220 g de fromage frais nature, 15 ml de jus de citron et 5 g d'huile d'olive sur les 6 grandes tranches de pain. Ajoute les 400 g de tomates coupées, les 250 g de concombre si tu l'utilises, puis les 5 gros œufs durs coupés. Si les tartines des enfants semblent trop garnies, sers une partie des 400 g de tomates ou des 250 g de concombre à côté."
+        },
+        {
+          "title": "Finir et servir",
+          "text": "Parseme les tartines avec le reste des 10 g de ciboulette, basilic ou persil plat, puis verse les 5 g d'huile d'olive restants en filet sur les 6 tartines. Coupe 2 tartines en bandes ou en carrés pour les jeunes enfants, et sers tout de suite pour garder les 360 g de pain agréables et les légumes frais."
         }
       ]
     },
@@ -3556,6 +4678,144 @@
         {
           "title": "Servir en douceur",
           "text": "Goûte le velouté préparé avec les 650 g de haricots verts, les 550 g de pommes de terre, les 200 ml de lait demi-écrémé et les 50 g de fromage frais nature à tartiner, puis ajuste le sel fin et le poivre doux si besoin. Sers le velouté avec les 6 tartines garnies des 200 g de fromage frais nature à tartiner, 10 ml de jus de citron et 10 g de persil plat. Pour les jeunes enfants, laisse tiédir le velouté quelques minutes et coupe les tartines en bandes faciles à tenir."
+        }
+      ]
+    },
+    {
+      "slug": "veloute-tomates-poivrons-tartines-mozzarella",
+      "title": "Velouté tomates, poivrons et tartines mozzarella",
+      "summary": "Le plat de dimanche, c'était : velouté tomates, poivrons et tartines mozzarella. Un velouté d'été doux, rouge et très lisse, avec des tomates mûres, des poivrons rouges, une carotte et une pomme de terre pour arrondir l'acidité sans ajouter beaucoup de sucre. Les tartines de pain de campagne gratinées à la mozzarella apportent le côté réconfortant du dîner du dimanche. Pour 2 adultes + 2 jeunes enfants   Temps : 12 min préparation + 28 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 28,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "dimanche",
+        "veloute",
+        "tartines"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2310,
+        "calories_per_serving": 580,
+        "protein_g": 94,
+        "carbs_g": 281,
+        "fat_g": 88
+      },
+      "used_in_weeks": [
+        "2026-W28"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Tomates mûres",
+          "quantity": "750 g",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivrons rouges",
+          "quantity": "400 g, soit environ 2 moyens",
+          "calories": 124,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carotte",
+          "quantity": "180 g, soit 1 grosse carotte",
+          "calories": 74,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pommes de terre",
+          "quantity": "300 g",
+          "calories": 231,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 ml, soit environ 18 g",
+          "calories": 160,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Crème liquide légère",
+          "quantity": "100 ml",
+          "calories": 160,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "300 g, soit environ 6 tranches",
+          "calories": 780,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "250 g, soit environ 2 boules",
+          "calories": 625,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Basilic doux",
+          "quantity": "10 g",
+          "calories": 2,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Paprika doux",
+          "quantity": "1 c. à café, environ 2 g",
+          "calories": 6,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sucre blond, facultatif",
+          "quantity": "1/2 c. à café, environ 3 g",
+          "calories": 12,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Eau, sel fin et poivre doux",
+          "quantity": "600 ml d'eau, assaisonnement au goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes",
+          "text": "Rince 750 g de tomates mûres et coupe les 750 g de tomates mûres en gros morceaux. Rince 400 g de poivrons rouges, retire les graines et les membranes blanches, puis coupe les 400 g de poivrons rouges en petits dés. Épluche 180 g de carotte et 300 g de pommes de terre, puis coupe les 180 g de carotte en fines rondelles et les 300 g de pommes de terre en petits dés pour accélérer la cuisson."
+        },
+        {
+          "title": "Faire fondre la base douce",
+          "text": "Dans une grande casserole, chauffe 20 ml d'huile d'olive, soit environ 18 g, à feu moyen. Ajoute les 400 g de poivrons rouges, les 180 g de carotte, les 300 g de pommes de terre et 1 c. à café de paprika doux, soit environ 2 g. Fais revenir les 400 g de poivrons rouges, les 180 g de carotte et les 300 g de pommes de terre pendant 5 minutes, avec une petite pincée de sel fin, jusqu'à ce que les poivrons commencent à s'assouplir sans colorer."
+        },
+        {
+          "title": "Mijoter les tomates",
+          "text": "Ajoute les 750 g de tomates mûres et 600 ml d'eau dans la casserole avec les 400 g de poivrons rouges, les 180 g de carotte et les 300 g de pommes de terre. Si les 750 g de tomates mûres sont très vives, ajoute seulement 1/2 c. à café de sucre blond, soit environ 3 g. Couvre à moitié et laisse frémir 18 à 20 minutes, jusqu'à ce que les 300 g de pommes de terre et les 180 g de carotte s'écrasent facilement à la cuillère."
+        },
+        {
+          "title": "Mixer le velouté",
+          "text": "Hors du feu, ajoute 100 ml de crème liquide légère et 6 g de basilic doux dans la casserole avec les 750 g de tomates mûres, les 400 g de poivrons rouges, les 180 g de carotte, les 300 g de pommes de terre et les 600 ml d'eau. Mixe longuement jusqu'à obtenir une texture lisse. Si le velouté est trop épais pour les enfants, ajoute 50 à 100 ml d'eau chaude et mixe encore quelques secondes."
+        },
+        {
+          "title": "Gratiner les tartines",
+          "text": "Pendant que le velouté finit de cuire, chauffe le gril du four. Dispose 300 g de pain de campagne, soit environ 6 tranches, sur une plaque. Égoutte et tranche 250 g de mozzarella, puis répartis les 250 g de mozzarella sur les 300 g de pain de campagne. Fais gratiner les 6 tartines pendant 5 à 7 minutes, jusqu'à ce que les 250 g de mozzarella soient fondues et légèrement dorées."
+        },
+        {
+          "title": "Servir sans forcer l'acidité",
+          "text": "Goûte le velouté préparé avec les 750 g de tomates mûres, les 400 g de poivrons rouges, les 180 g de carotte, les 300 g de pommes de terre, les 100 ml de crème liquide légère et les 6 g de basilic doux, puis ajuste avec un peu de sel fin et de poivre doux. Ajoute les 4 g de basilic doux restants sur les 6 tartines mozzarella ou dans les bols. Sers le velouté bien chaud avec les 300 g de pain de campagne gratinés aux 250 g de mozzarella, en coupant les tartines des enfants en bandes."
         }
       ]
     },

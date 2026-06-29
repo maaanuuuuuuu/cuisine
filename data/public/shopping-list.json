@@ -1,6 +1,6 @@
 {
-  "week": "2026-W27",
-  "title": "Liste de courses 2026-W27",
+  "week": "2026-W28",
+  "title": "Liste de courses 2026-W28",
   "status": "planned",
   "pantry_basics_included": true,
   "sections": [
@@ -8,48 +8,52 @@
       "name": "Fruits et légumes",
       "items": [
         {
-          "name": "Herbes fraîches (basilic, persil plat ou ciboulette) — 2 petits bouquets",
-          "quantity": ""
+          "name": "Herbes fraîches douces (basilic, persil, ciboulette ou menthe)",
+          "quantity": "60 g environ"
         },
         {
-          "name": "Blettes fraîches — 500 g",
-          "quantity": ""
+          "name": "Courgettes",
+          "quantity": "1,75 kg"
         },
         {
-          "name": "Haricots verts — 1,1 kg",
-          "quantity": ""
+          "name": "Haricots plats frais ou surgelés",
+          "quantity": "450 g"
         },
         {
-          "name": "Aubergines — 600 g",
-          "quantity": ""
+          "name": "Champignons de Paris",
+          "quantity": "180 g"
         },
         {
-          "name": "Tomates fraîches et tomates cerises — 1,7 kg",
-          "quantity": ""
+          "name": "Concombres",
+          "quantity": "550 g"
         },
         {
-          "name": "Concombres — 650 g",
-          "quantity": ""
+          "name": "Aubergines",
+          "quantity": "650 g"
         },
         {
-          "name": "Carottes — 250 g",
-          "quantity": ""
+          "name": "Tomates et tomates cerises",
+          "quantity": "2,8 kg"
         },
         {
-          "name": "Poivrons rouges et jaunes — 1 kg",
-          "quantity": ""
+          "name": "Poivrons rouges et jaunes",
+          "quantity": "850 g"
         },
         {
-          "name": "Pommes de terre — 1,4 kg",
-          "quantity": ""
+          "name": "Carotte",
+          "quantity": "180 g"
         },
         {
-          "name": "Melon — 1 moyen",
-          "quantity": ""
+          "name": "Pommes de terre",
+          "quantity": "300 g"
         },
         {
-          "name": "Citrons — 3",
-          "quantity": ""
+          "name": "Melon",
+          "quantity": "650 g de chair, soit 1 melon moyen"
+        },
+        {
+          "name": "Citrons jaunes ou verts",
+          "quantity": "3"
         }
       ]
     },
@@ -57,12 +61,8 @@
       "name": "Boulangerie",
       "items": [
         {
-          "name": "Pains pitas ou pains plats — 8 pièces, environ 560 g",
-          "quantity": ""
-        },
-        {
-          "name": "Pain de campagne, pain complet ou pain de mie complet tranché — 1,3 kg environ",
-          "quantity": ""
+          "name": "Pain de campagne ou pain complet doux",
+          "quantity": "940 g environ"
         }
       ]
     },
@@ -70,61 +70,52 @@
       "name": "Épicerie salée",
       "items": [
         {
-          "name": "Pâtes courtes sèches — 320 g",
-          "quantity": ""
+          "name": "Pâtes courtes sèches",
+          "quantity": "320 g"
         },
         {
-          "name": "Petit épeautre perlé sec — 260 g",
-          "quantity": ""
+          "name": "Riz long blanc ou riz complet cuisson rapide",
+          "quantity": "300 g"
         },
         {
-          "name": "Quinoa sec — 220 g",
-          "quantity": ""
+          "name": "Boulgour sec",
+          "quantity": "220 g"
         },
         {
-          "name": "Tomates concassées — 800 g",
-          "quantity": ""
+          "name": "Semoule de couscous moyenne",
+          "quantity": "300 g"
         },
         {
-          "name": "Sauce tomate douce — 220 g",
-          "quantity": ""
+          "name": "Concentré de tomate",
+          "quantity": "25 g"
         },
         {
-          "name": "Concentré de tomate — 30 g",
-          "quantity": ""
+          "name": "Maïs doux égoutté",
+          "quantity": "460 g"
         },
         {
-          "name": "Maïs doux égoutté — 200 g",
-          "quantity": ""
+          "name": "Haricots rouges cuits égouttés",
+          "quantity": "400 g"
         },
         {
-          "name": "Bouillon de légumes doux — de quoi faire 1,7 L",
-          "quantity": ""
+          "name": "Haricots blancs cuits égouttés",
+          "quantity": "500 g"
         },
         {
-          "name": "Chapelure fine — 40 g",
-          "quantity": ""
+          "name": "Bouillon de légumes doux",
+          "quantity": "650 ml"
         },
         {
-          "name": "Moutarde douce — 10 g",
-          "quantity": ""
+          "name": "Chapelure fine",
+          "quantity": "30 g"
         },
         {
-          "name": "Vinaigre balsamique doux — 15 ml",
-          "quantity": ""
-        }
-      ]
-    },
-    {
-      "name": "Surgelé",
-      "items": [
-        {
-          "name": "Petits pois surgelés — 200 g",
-          "quantity": ""
+          "name": "Moutarde douce",
+          "quantity": "8 g"
         },
         {
-          "name": "Épinards hachés surgelés — 500 g",
-          "quantity": ""
+          "name": "Tortillas de blé",
+          "quantity": "8 petites, environ 320 g"
         }
       ]
     },
@@ -132,52 +123,48 @@
       "name": "Frais",
       "items": [
         {
-          "name": "Œufs — 16",
-          "quantity": ""
+          "name": "Œufs",
+          "quantity": "15"
         },
         {
-          "name": "Crème liquide légère 15 % — 200 ml",
-          "quantity": ""
+          "name": "Ravioles du Dauphiné fraîches ou ravioles végétariennes",
+          "quantity": "480 g"
         },
         {
-          "name": "Crème fraîche semi-épaisse — 20 cl",
-          "quantity": ""
+          "name": "Fromage frais nature ou à tartiner",
+          "quantity": "470 g"
         },
         {
-          "name": "Lait demi-écrémé — 60 cl",
-          "quantity": ""
+          "name": "Lait demi-écrémé",
+          "quantity": "420 ml"
         },
         {
-          "name": "Yaourt nature ou fromage blanc — 350 g",
-          "quantity": ""
+          "name": "Crème légère 15 % ou crème liquide légère",
+          "quantity": "300 ml"
         },
         {
-          "name": "Beurre doux — 15 g",
-          "quantity": ""
+          "name": "Yaourt nature ou fromage blanc",
+          "quantity": "250 g"
         },
         {
-          "name": "Mozzarella égouttée — 750 g",
-          "quantity": ""
+          "name": "Ricotta",
+          "quantity": "250 g"
         },
         {
-          "name": "Parmesan râpé ou fromage doux râpé — 150 g",
-          "quantity": ""
+          "name": "Feta douce",
+          "quantity": "280 g"
         },
         {
-          "name": "Comté râpé — 140 g",
-          "quantity": ""
+          "name": "Chèvre frais",
+          "quantity": "160 g"
         },
         {
-          "name": "Feta douce — 100 g",
-          "quantity": ""
+          "name": "Mozzarella douce",
+          "quantity": "375 g"
         },
         {
-          "name": "Fromage frais nature à tartiner — 250 g",
-          "quantity": ""
-        },
-        {
-          "name": "Houmous doux sans ail cru marqué — 250 g",
-          "quantity": ""
+          "name": "Fromages doux râpés (emmental, comté, parmesan ou cheddar)",
+          "quantity": "410 g"
         }
       ]
     },
@@ -185,8 +172,8 @@
       "name": "Basiques et épices",
       "items": [
         {
-          "name": "Huile d'olive — environ 200 ml",
-          "quantity": ""
+          "name": "Huile d'olive",
+          "quantity": "environ 180 ml"
         },
         {
           "name": "Sel fin",
@@ -205,23 +192,15 @@
           "quantity": ""
         },
         {
-          "name": "Thym doux",
-          "quantity": ""
-        },
-        {
           "name": "Paprika doux",
           "quantity": ""
         },
         {
-          "name": "Cumin moulu",
+          "name": "Cumin doux",
           "quantity": ""
         },
         {
-          "name": "Origan séché ou basilic doux",
-          "quantity": ""
-        },
-        {
-          "name": "Sucre blond ou blanc",
+          "name": "Sucre blond",
           "quantity": ""
         }
       ]
