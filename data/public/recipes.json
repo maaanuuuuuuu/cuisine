@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29",
+  "updated_at": "2026-07-06",
   "recipes": [
     {
       "slug": "assiettes-melon-mozzarella-tomates-pain-grille",
@@ -43,49 +43,49 @@
           "name": "Melon, chair sans peau ni pépins",
           "quantity": "650 g, soit environ 1 melon moyen préparé",
           "calories": 220,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella",
           "quantity": "250 g, soit 2 boules",
           "calories": 625,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates mûres ou tomates cerises",
           "quantity": "400 g",
           "calories": 75,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pain de campagne",
           "quantity": "320 g, soit 8 petites tranches",
           "calories": 830,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 g, soit environ 2 cuillères à soupe",
           "calories": 180,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Vinaigre balsamique doux",
           "quantity": "15 ml, soit environ 1 cuillère à soupe",
           "calories": 15,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic frais",
           "quantity": "8 g",
           "calories": 2,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -112,6 +112,138 @@
         {
           "title": "Servir frais",
           "text": "Sers tout de suite les assiettes avec les 650 g de melon, les 400 g de tomates, les 250 g de mozzarella et les 320 g de pain grillé. Si le repas doit attendre quelques minutes, garde les 320 g de pain grillé à part et ajoute-le au dernier moment."
+        }
+      ]
+    },
+    {
+      "slug": "blesotto-champignons-courgettes-jaunes-parmesan",
+      "title": "Blésotto champignons, courgettes jaunes et parmesan",
+      "summary": "Le plat de mardi, c'est un blésotto familial : du blé tendre type Ebly cuit doucement dans un bouillon doux, avec des champignons fondants, des courgettes jaunes et du parmesan pour lier le tout. La texture doit être crémeuse comme un risotto simple, mais avec des grains plus fermes et faciles à servir aux enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 28,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "blesotto",
+        "ble",
+        "champignons",
+        "courgettes"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1990,
+        "calories_per_serving": 498,
+        "protein_g": 93,
+        "carbs_g": 232,
+        "fat_g": 78
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Blé tendre type Ebly",
+          "quantity": "280 g",
+          "calories": 960,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "400 g",
+          "calories": 88,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Courgettes jaunes",
+          "quantity": "550 g",
+          "calories": 94,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Parmesan râpé",
+          "quantity": "90 g",
+          "calories": 386,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Bouillon de légumes doux",
+          "quantity": "750 ml",
+          "calories": 25,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème fraîche légère",
+          "quantity": "100 g",
+          "calories": 160,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 ml",
+          "calories": 160,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Beurre doux",
+          "quantity": "15 g",
+          "calories": 112,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Citron",
+          "quantity": "1/2 citron",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Persil plat",
+          "quantity": "10 g",
+          "calories": 4,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Herbes de Provence, sel fin, poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes et le bouillon",
+          "text": "Nettoie les 400 g de champignons de Paris et émince-les. Rince les 550 g de courgettes jaunes, coupe-les en petits dés ou en fines demi-rondelles. Garde les 280 g de blé tendre type Ebly à portée de main. Fais chauffer les 750 ml de bouillon de légumes doux dans une petite casserole ou au micro-ondes. Râpe les 90 g de parmesan, presse le 1/2 citron et cisèle les 10 g de persil plat si tu l'utilises."
+        },
+        {
+          "title": "Faire revenir les légumes",
+          "text": "Dans une grande sauteuse, chauffe les 20 ml d'huile d'olive avec les 15 g de beurre doux. Ajoute les 550 g de courgettes jaunes, les 400 g de champignons de Paris, 1 cuillère à café d'herbes de Provence, une petite pincée de sel fin et un peu de poivre doux. Fais cuire les 550 g de courgettes jaunes et les 400 g de champignons de Paris 8 à 10 minutes à feu moyen, jusqu'à ce que les champignons aient rendu leur eau et que les courgettes soient souples."
+        },
+        {
+          "title": "Nacrer le blé",
+          "text": "Ajoute les 280 g de blé tendre type Ebly dans la sauteuse avec les 550 g de courgettes jaunes et les 400 g de champignons de Paris. Mélange pendant 1 minute pour enrober les 280 g de blé tendre type Ebly avec les 20 ml d'huile d'olive, les 15 g de beurre doux et le jus des légumes."
+        },
+        {
+          "title": "Cuire façon risotto",
+          "text": "Verse 600 ml de bouillon de légumes doux chaud sur les 280 g de blé tendre type Ebly, les 550 g de courgettes jaunes et les 400 g de champignons de Paris. Laisse mijoter 12 à 14 minutes à feu moyen-doux, en remuant souvent, jusqu'à ce que le blé soit tendre mais encore légèrement ferme. Ajoute peu à peu les 150 ml de bouillon de légumes doux chaud restants si la sauteuse sèche avant que les 280 g de blé tendre type Ebly soient cuits."
+        },
+        {
+          "title": "Lier avec la crème et le parmesan",
+          "text": "Baisse le feu au minimum. Ajoute les 100 g de crème fraîche légère et 70 g de parmesan râpé dans la sauteuse avec les 280 g de blé tendre type Ebly, les 550 g de courgettes jaunes et les 400 g de champignons de Paris. Mélange 1 à 2 minutes, juste le temps que les 70 g de parmesan râpé fondent et que les 100 g de crème fraîche légère rendent le blésotto crémeux. Ajoute le jus du 1/2 citron petit à petit, puis goûte avant de saler davantage."
+        },
+        {
+          "title": "Faire reposer et servir",
+          "text": "Coupe le feu et laisse reposer 3 minutes le blésotto avec les 280 g de blé tendre type Ebly, les 550 g de courgettes jaunes, les 400 g de champignons de Paris, les 100 g de crème fraîche légère et les 70 g de parmesan râpé déjà incorporés. Si la texture devient trop épaisse, ajoute 1 à 2 cuillères à soupe d'eau chaude et mélange. Sers avec les 20 g de parmesan râpé restants et les 10 g de persil plat facultatifs."
         }
       ]
     },
@@ -155,49 +287,49 @@
           "name": "Œufs",
           "quantity": "6 moyens",
           "calories": 432,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates cerises",
           "quantity": "400 g",
           "calories": 72,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Maïs doux égoutté",
           "quantity": "280 g",
           "calories": 270,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Emmental râpé",
           "quantity": "140 g",
           "calories": 532,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Farine de blé",
           "quantity": "100 g",
           "calories": 364,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "40 cl",
           "calories": 184,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin, poivre doux, herbes de Provence",
           "quantity": "Selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -269,55 +401,55 @@
           "name": "Pain de mie complet épais ou pain de campagne tranché",
           "quantity": "360 g, soit 8 tranches moyennes",
           "calories": 900,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella égouttée",
           "quantity": "250 g",
           "calories": 625,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates",
           "quantity": "400 g",
           "calories": 70,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concombre",
           "quantity": "350 g",
           "calories": 45,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Yaourt nature",
           "quantity": "125 g",
           "calories": 75,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 g",
           "calories": 180,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "15 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic frais ou herbes douces",
           "quantity": "10 g",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -391,61 +523,61 @@
           "name": "Tortillas de blé",
           "quantity": "8 petites, environ 320 g",
           "calories": 1000,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Haricots rouges cuits, égouttés",
           "quantity": "400 g",
           "calories": 510,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Poivrons rouges et jaunes",
           "quantity": "450 g",
           "calories": 140,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Maïs doux égoutté",
           "quantity": "220 g",
           "calories": 210,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates",
           "quantity": "300 g",
           "calories": 55,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Yaourt nature ou fromage blanc",
           "quantity": "250 g",
           "calories": 150,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Cheddar doux ou emmental râpé",
           "quantity": "100 g",
           "calories": 380,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 ml, soit environ 18 g",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron vert ou jaune",
           "quantity": "15 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Paprika doux, cumin doux, sel fin",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -523,49 +655,49 @@
           "name": "Pains plats ou pitas",
           "quantity": "4 pièces, environ 320 g",
           "calories": 830,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Poivrons rouges et jaunes",
           "quantity": "450 g",
           "calories": 140,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Maïs doux égoutté",
           "quantity": "200 g",
           "calories": 190,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella égouttée",
           "quantity": "250 g",
           "calories": 625,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sauce tomate douce",
           "quantity": "220 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 ml, soit environ 18 g",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Origan séché ou basilic doux",
           "quantity": "2 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -636,49 +768,49 @@
           "name": "Œufs",
           "quantity": "8 moyens",
           "calories": 576,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Courgettes",
           "quantity": "650 g, environ 3 moyennes",
           "calories": 111,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Maïs doux égoutté",
           "quantity": "240 g",
           "calories": 206,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Chèvre frais",
           "quantity": "160 g",
           "calories": 320,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "120 ml",
           "calories": 56,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 ml, soit 4 c. à café",
           "calories": 159,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Herbes douces",
           "quantity": "15 g, ciboulette, persil ou basilic",
           "calories": 4,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin, poivre doux, muscade",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -752,49 +884,49 @@
           "name": "Œufs",
           "quantity": "8 moyens",
           "calories": 576,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pommes de terre précuites",
           "quantity": "500 g",
           "calories": 385,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Petits pois surgelés ou frais",
           "quantity": "250 g",
           "calories": 200,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates",
           "quantity": "300 g",
           "calories": 54,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Fromage doux râpé",
           "quantity": "100 g",
           "calories": 380,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "80 ml",
           "calories": 38,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "15 ml",
           "calories": 119,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin, poivre doux, herbes",
           "quantity": "Selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -869,67 +1001,67 @@
           "name": "Courgette",
           "quantity": "450 g, poids brut avant pressage",
           "calories": 77,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Maïs doux égoutté",
           "quantity": "280 g",
           "calories": 270,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Œufs",
           "quantity": "4 moyens",
           "calories": 288,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Farine de blé",
           "quantity": "100 g",
           "calories": 364,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Emmental râpé",
           "quantity": "60 g",
           "calories": 228,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Yaourt nature",
           "quantity": "250 g",
           "calories": 150,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Salade verte",
           "quantity": "180 g",
           "calories": 25,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 g",
           "calories": 180,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "15 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Persil plat ou basilic",
           "quantity": "10 g",
           "calories": 4,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Levure chimique, sel fin, poivre doux, paprika doux",
           "quantity": "Selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -1000,49 +1132,49 @@
           "name": "Gnocchis frais",
           "quantity": "800 g",
           "calories": 1280,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Passata ou sauce tomate nature",
           "quantity": "600 g",
           "calories": 190,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Épinards frais",
           "quantity": "250 g",
           "calories": 60,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella égouttée",
           "quantity": "250 g",
           "calories": 625,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Carotte râpée",
           "quantity": "100 g",
           "calories": 40,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "15 ml",
           "calories": 120,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau",
           "quantity": "15 cl + jusqu'à 5 cl si besoin",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Origan doux, sel fin, poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -1118,73 +1250,73 @@
           "name": "Boulgour sec",
           "quantity": "220 g",
           "calories": 750,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau",
           "quantity": "45 cl",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Aubergines",
           "quantity": "650 g",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates mûres",
           "quantity": "550 g",
           "calories": 100,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concentré de tomate",
           "quantity": "25 g",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Ricotta",
           "quantity": "250 g",
           "calories": 435,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Comté doux râpé",
           "quantity": "120 g",
           "calories": 500,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Œufs",
           "quantity": "2",
           "calories": 150,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "120 ml",
           "calories": 55,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Chapelure fine",
           "quantity": "30 g",
           "calories": 110,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "25 ml",
           "calories": 200,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Herbes de Provence, sel fin, poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -1262,61 +1394,61 @@
           "name": "Polenta fine instantanée",
           "quantity": "220 g",
           "calories": 790,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "75 cl",
           "calories": 345,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau",
           "quantity": "45 cl + jusqu'à 10 cl pour détendre",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Courgettes",
           "quantity": "600 g",
           "calories": 100,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates mûres",
           "quantity": "600 g",
           "calories": 110,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella égouttée",
           "quantity": "250 g",
           "calories": 625,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Parmesan râpé",
           "quantity": "35 g",
           "calories": 150,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Beurre doux",
           "quantity": "20 g",
           "calories": 150,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 g",
           "calories": 180,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Origan sec, basilic, sel fin, poivre doux",
           "quantity": "au goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -1394,55 +1526,55 @@
           "name": "Pommes de terre",
           "quantity": "900 g",
           "calories": 690,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Courgettes",
           "quantity": "600 g",
           "calories": 100,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Chèvre doux",
           "quantity": "120 g",
           "calories": 335,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Crème légère 15 %",
           "quantity": "20 cl",
           "calories": 340,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "10 cl",
           "calories": 45,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Emmental râpé",
           "quantity": "80 g",
           "calories": 305,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Fécule de maïs",
           "quantity": "5 g",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Noix de muscade, sel fin, poivre doux",
           "quantity": "au goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -1473,6 +1605,134 @@
         {
           "title": "Laisser poser",
           "text": "Laisse reposer 5 minutes le gratin de 900 g de pommes de terre, 600 g de courgettes, 120 g de chèvre doux, 20 cl de crème légère 15 % et 80 g d'emmental râpé avant de servir, pour que les parts se tiennent mieux."
+        }
+      ]
+    },
+    {
+      "slug": "gratin-pommes-de-terre-precuites-epinards-comte",
+      "title": "Gratin de pommes de terre précuites, épinards et comté",
+      "summary": "Le plat de jeudi, c'était un gratin familial végétarien : des pommes de terre coupées finement puis précuites, des épinards bien égouttés, une crème douce au lait et au comté, puis une fine couche gratinée. La précuisson des pommes de terre évite les rondelles encore fermes au milieu du plat.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "total_time_minutes": 55,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gratin",
+        "four"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2235,
+        "calories_per_serving": 560,
+        "protein_g": 101,
+        "carbs_g": 212,
+        "fat_g": 106
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pommes de terre",
+          "quantity": "900 g",
+          "calories": 695,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Épinards hachés surgelés",
+          "quantity": "500 g",
+          "calories": 115,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Comté râpé",
+          "quantity": "140 g",
+          "calories": 585,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "25 cl",
+          "calories": 115,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "20 cl",
+          "calories": 340,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Œufs",
+          "quantity": "2",
+          "calories": 150,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Chapelure fine",
+          "quantity": "30 g",
+          "calories": 110,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Fécule de maïs",
+          "quantity": "10 g",
+          "calories": 35,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Noix de muscade, sel fin, poivre doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préchauffer et préparer les pommes de terre",
+          "text": "Préchauffe le four à 190 °C. Épluche 900 g de pommes de terre, puis coupe les 900 g de pommes de terre en rondelles fines de 2 à 3 mm pour qu'elles finissent de cuire facilement dans le gratin."
+        },
+        {
+          "title": "Précuire les pommes de terre",
+          "text": "Mets les 900 g de pommes de terre dans une grande casserole d'eau frémissante salée pendant 8 minutes. Les 900 g de pommes de terre doivent devenir souples sous la pointe d'un couteau sans s'écraser. Égoutte soigneusement les 900 g de pommes de terre."
+        },
+        {
+          "title": "Assécher les épinards",
+          "text": "Pendant la précuisson, mets 500 g d'épinards hachés surgelés dans une grande poêle et chauffe les 500 g d'épinards hachés surgelés 7 à 8 minutes, jusqu'à ce que l'eau rendue soit presque évaporée. Presse légèrement les 500 g d'épinards hachés surgelés avec une spatule si le mélange paraît encore très humide."
+        },
+        {
+          "title": "Préparer la crème au comté",
+          "text": "Dans un saladier, fouette 20 cl de crème légère 15 %, 25 cl de lait demi-écrémé, 2 œufs, 10 g de fécule de maïs, 60 g de comté râpé, 1 pincée de noix de muscade, 1/2 cuillère à café de sel fin et un peu de poivre doux. Garde les 80 g de comté râpé restants pour gratiner le dessus."
+        },
+        {
+          "title": "Monter le gratin",
+          "text": "Huile un plat à gratin familial avec 10 g d'huile d'olive. Alterne les 900 g de pommes de terre précuites et les 500 g d'épinards hachés surgelés asséchés, puis verse la crème préparée avec 20 cl de crème légère 15 %, 25 cl de lait demi-écrémé, 2 œufs, 10 g de fécule de maïs et 60 g de comté râpé. Termine avec les 80 g de comté râpé restants et 30 g de chapelure fine."
+        },
+        {
+          "title": "Cuire au four",
+          "text": "Enfourne le gratin de 900 g de pommes de terre, 500 g d'épinards hachés surgelés, 20 cl de crème légère 15 %, 25 cl de lait demi-écrémé, 2 œufs, 140 g de comté râpé et 30 g de chapelure fine pendant 27 à 30 minutes à 190 °C. Le dessus doit être doré et la pointe d'un couteau doit traverser facilement les 900 g de pommes de terre ; si les 30 g de chapelure fine dorent trop vite, couvre le plat avec une feuille de papier cuisson."
+        },
+        {
+          "title": "Laisser poser",
+          "text": "Laisse reposer 5 minutes le gratin de 900 g de pommes de terre, 500 g d'épinards hachés surgelés, 20 cl de crème légère 15 %, 25 cl de lait demi-écrémé et 140 g de comté râpé avant de servir, pour que les parts soient plus faciles à couper."
         }
       ]
     },
@@ -1516,67 +1776,67 @@
           "name": "Quinoa sec",
           "quantity": "220 g",
           "calories": 810,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau",
           "quantity": "50 cl + 5 cl si besoin",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Épinards hachés surgelés",
           "quantity": "500 g",
           "calories": 115,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates mûres",
           "quantity": "500 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Crème fraîche semi-épaisse",
           "quantity": "20 cl",
           "calories": 400,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "20 cl",
           "calories": 92,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Œufs",
           "quantity": "2",
           "calories": 150,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Comté râpé",
           "quantity": "140 g",
           "calories": 585,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Chapelure fine",
           "quantity": "40 g",
           "calories": 145,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Thym doux, muscade, sel fin, poivre doux",
           "quantity": "au goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -1607,6 +1867,134 @@
         {
           "title": "Laisser reposer",
           "text": "Laisse reposer 5 minutes le gratin de 220 g de quinoa, 500 g d'épinards hachés surgelés, 500 g de tomates mûres, 20 cl de crème fraîche semi-épaisse, 20 cl de lait demi-écrémé, 2 œufs et 140 g de comté râpé avant de servir. Ce repos aide les parts à se tenir tout en gardant une texture moelleuse."
+        }
+      ]
+    },
+    {
+      "slug": "oeufs-cocotte-tomates-cerises-epinards-mouillettes",
+      "title": "Œufs cocotte tomates cerises, épinards et mouillettes",
+      "summary": "Le plat de vendredi, c'était : œufs cocotte tomates cerises, épinards et mouillettes. Des ramequins doux et crémeux avec des œufs juste pris, des tomates cerises fondantes, des épinards et un peu de fromage râpé. Les mouillettes de pain de campagne rendent le dîner complet et facile à partager avec les enfants. Pour 2 adultes + 2 jeunes enfants   Temps : 15 min préparation + 25 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "vendredi",
+        "oeufs",
+        "legumes",
+        "four"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2415,
+        "calories_per_serving": 605,
+        "protein_g": 120,
+        "carbs_g": 209,
+        "fat_g": 122
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Œufs",
+          "quantity": "6 moyens",
+          "calories": 432,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates cerises",
+          "quantity": "350 g",
+          "calories": 63,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Épinards frais",
+          "quantity": "300 g",
+          "calories": 69,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "20 cl, soit environ 200 g",
+          "calories": 340,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Emmental ou comté râpé",
+          "quantity": "120 g",
+          "calories": 480,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "350 g",
+          "calories": 875,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml, soit environ 9 g",
+          "calories": 80,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Beurre doux pour les ramequins",
+          "quantity": "10 g",
+          "calories": 75,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin, poivre doux, noix de muscade facultative",
+          "quantity": "Selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer le four et les ramequins",
+          "text": "Préchauffe le four à 180 °C. Beurre 4 ramequins avec 10 g de beurre doux au total, puis pose les 4 ramequins dans un plat à gratin assez grand pour faire un bain-marie."
+        },
+        {
+          "title": "Faire tomber les épinards",
+          "text": "Rince 300 g d'épinards frais si besoin. Dans une grande poêle, chauffe 10 ml d'huile d'olive, ajoute les 300 g d'épinards frais et une petite pincée de sel fin, puis cuis les 300 g d'épinards frais 3 à 4 minutes, juste le temps qu'ils tombent. Égoutte ou presse légèrement les 300 g d'épinards cuits pour éviter des œufs cocotte trop liquides."
+        },
+        {
+          "title": "Préparer les tomates cerises",
+          "text": "Coupe 350 g de tomates cerises en deux. Garde quelques demi-tomates cerises sur le côté pour le dessus, puis mélange le reste des 350 g de tomates cerises avec les 300 g d'épinards cuits, un peu de poivre doux et une très petite pincée de noix de muscade si tu l'aimes."
+        },
+        {
+          "title": "Remplir les ramequins",
+          "text": "Répartis le mélange de 300 g d'épinards cuits et 350 g de tomates cerises dans les 4 ramequins beurrés. Verse 20 cl de crème légère 15 % dans les 4 ramequins, puis ajoute 80 g d'emmental ou de comté râpé en gardant 40 g d'emmental ou de comté râpé pour gratiner."
+        },
+        {
+          "title": "Ajouter les œufs",
+          "text": "Casse 2 œufs moyens dans chacun des 2 ramequins adultes et 1 œuf moyen dans chacun des 2 ramequins enfants, soit 6 œufs moyens au total. Sale très légèrement les 6 œufs moyens, poivre doucement, puis parsème les 40 g d'emmental ou de comté râpé restants sur les 4 ramequins."
+        },
+        {
+          "title": "Cuire au bain-marie",
+          "text": "Verse de l'eau très chaude dans le plat à gratin jusqu'à mi-hauteur des 4 ramequins, sans mettre d'eau dans les œufs. Enfourne les 4 ramequins garnis de 6 œufs moyens, 300 g d'épinards, 350 g de tomates cerises, 20 cl de crème légère 15 % et 120 g d'emmental ou de comté râpé pendant 12 à 16 minutes à 180 °C. Les blancs doivent être pris et les jaunes encore souples ; pour de jeunes enfants, prolonge 2 minutes si tu préfères des jaunes moins coulants."
+        },
+        {
+          "title": "Préparer les mouillettes",
+          "text": "Pendant que les 4 ramequins cuisent, coupe 350 g de pain de campagne en bâtonnets épais. Fais griller les 350 g de pain de campagne 4 à 5 minutes au four sur une plaque, à côté du plat si la place le permet, ou au grille-pain en plusieurs fournées."
+        },
+        {
+          "title": "Servir sans attendre",
+          "text": "Sors les 4 ramequins du bain-marie avec précaution et laisse-les reposer 3 minutes. Sers les œufs cocotte aux 6 œufs moyens, 350 g de tomates cerises, 300 g d'épinards, 20 cl de crème légère 15 % et 120 g d'emmental ou de comté râpé avec les 350 g de mouillettes de pain de campagne. Si un ramequin semble trop liquide, remets seulement ce ramequin 2 à 3 minutes au four à 180 °C."
         }
       ]
     },
@@ -1650,49 +2038,49 @@
           "name": "Orge perlé sec",
           "quantity": "300 g",
           "calories": 1050,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Poivrons rouges et jaunes",
           "quantity": "450 g",
           "calories": 135,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates mûres",
           "quantity": "500 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Feta",
           "quantity": "180 g",
           "calories": 475,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Bouillon de légumes doux",
           "quantity": "90 cl",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "25 ml",
           "calories": 200,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concentré de tomate",
           "quantity": "25 g",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic ou persil, sel fin, poivre doux",
           "quantity": "Selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -1769,49 +2157,49 @@
           "name": "Pâtes courtes sèches",
           "quantity": "320 g",
           "calories": 1130,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Blettes fraîches",
           "quantity": "500 g",
           "calories": 95,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Petits pois surgelés",
           "quantity": "200 g",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Crème liquide légère 15 %",
           "quantity": "200 ml",
           "calories": 330,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "120 ml",
           "calories": 55,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Parmesan râpé",
           "quantity": "70 g",
           "calories": 300,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 ml",
           "calories": 80,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin, poivre doux, muscade",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -1842,6 +2230,126 @@
         {
           "title": "Sers doux et crémeux",
           "text": "Goûte les pâtes aux 500 g de blettes fraîches et aux 200 g de petits pois surgelés, puis ajuste avec un peu de sel fin, de poivre doux ou de muscade. Sers avec les 20 g de parmesan râpé restants à part, pour que chacun dose son assiette."
+        }
+      ]
+    },
+    {
+      "slug": "pates-cremeuses-brocoli-epinards-ricotta",
+      "title": "Pâtes crémeuses brocoli, épinards et ricotta",
+      "summary": "Le plat de lundi, c'est un dîner de pâtes courtes bien crémeuses avec du brocoli tendre, des épinards fondus, de la ricotta, un peu de crème légère et du parmesan. La sauce reste douce et souple, pensée pour enrober les légumes verts et les rendre faciles à manger pour les jeunes enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pates",
+        "brocoli",
+        "epinards",
+        "ricotta"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2340,
+        "calories_per_serving": 585,
+        "protein_g": 113,
+        "carbs_g": 282,
+        "fat_g": 89
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâtes courtes sèches",
+          "quantity": "320 g",
+          "calories": 1120,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Brocoli",
+          "quantity": "450 g",
+          "calories": 153,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Épinards frais",
+          "quantity": "160 g",
+          "calories": 37,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 435,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Parmesan râpé",
+          "quantity": "60 g, dont 40 g pour la sauce et 20 g pour servir",
+          "calories": 258,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "150 ml",
+          "calories": 250,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml, soit 2 c. à café",
+          "calories": 80,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Citron",
+          "quantity": "1/2 citron, zeste finement râpé et un peu de jus",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin, poivre doux, muscade",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les légumes",
+          "text": "Coupe 450 g de brocoli en petites fleurettes et détaille les tiges tendres des 450 g de brocoli en petits dés. Rince 160 g d'épinards frais, essore bien les 160 g d'épinards frais, puis garde-les prêts à tomber rapidement dans la sauteuse."
+        },
+        {
+          "title": "Cuis les pâtes et le brocoli",
+          "text": "Porte une grande casserole d'eau salée à ébullition. Verse 320 g de pâtes courtes sèches et cuis les 320 g de pâtes courtes sèches selon le temps indiqué sur le paquet. Quand il reste 5 minutes de cuisson, ajoute les 450 g de brocoli dans la même casserole. Avant d'égoutter les 320 g de pâtes courtes sèches et les 450 g de brocoli, réserve 220 ml d'eau de cuisson."
+        },
+        {
+          "title": "Fais tomber les épinards",
+          "text": "Pendant la cuisson des 320 g de pâtes courtes sèches et des 450 g de brocoli, chauffe 10 ml d'huile d'olive dans une grande sauteuse à feu moyen-doux. Ajoute les 160 g d'épinards frais avec une petite pincée de sel fin, puis remue 1 à 2 minutes, juste jusqu'à ce que les 160 g d'épinards frais soient fondus mais encore verts."
+        },
+        {
+          "title": "Monte la sauce ricotta",
+          "text": "Baisse le feu sous la sauteuse. Ajoute 250 g de ricotta, 150 ml de crème légère 15 %, 40 g de parmesan râpé, une petite pincée de muscade et 120 ml d'eau de cuisson réservée aux 160 g d'épinards frais. Mélange doucement, sans faire bouillir, jusqu'à obtenir une sauce lisse et souple; si la ricotta semble un peu granuleuse, ajoute encore 1 à 2 cuillères à soupe des 220 ml d'eau de cuisson réservée."
+        },
+        {
+          "title": "Enrobe les pâtes",
+          "text": "Ajoute dans la sauteuse les pâtes cuites issues des 320 g de pâtes courtes sèches et les 450 g de brocoli égouttés. Mélange les 320 g de pâtes courtes sèches, les 450 g de brocoli, les 160 g d'épinards frais, les 250 g de ricotta, les 150 ml de crème légère 15 % et les 40 g de parmesan râpé pendant 2 minutes à feu doux. Si la sauce épaissit trop, ajoute peu à peu les 100 ml d'eau de cuisson réservée restants pour retrouver une texture crémeuse."
+        },
+        {
+          "title": "Ajuste et sers",
+          "text": "Ajoute le zeste finement râpé de 1/2 citron et 1 cuillère à café de jus du 1/2 citron, puis goûte les pâtes aux 320 g de pâtes courtes sèches, 450 g de brocoli, 160 g d'épinards frais et 250 g de ricotta. Ajuste avec un peu de sel fin, de poivre doux ou de muscade, puis sers avec les 20 g de parmesan râpé restants à part."
         }
       ]
     },
@@ -1885,55 +2393,55 @@
           "name": "Pâtes courtes sèches",
           "quantity": "320 g",
           "calories": 1130,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Brocoli",
           "quantity": "350 g",
           "calories": 120,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Haricots verts",
           "quantity": "250 g",
           "calories": 80,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Cheddar doux râpé",
           "quantity": "120 g",
           "calories": 485,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Crème légère 15 %",
           "quantity": "180 g",
           "calories": 305,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "150 ml",
           "calories": 70,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 ml",
           "calories": 80,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Moutarde douce",
           "quantity": "10 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel, poivre, muscade",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2005,49 +2513,49 @@
           "name": "Pâtes courtes",
           "quantity": "340 g",
           "calories": 1190,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Courgettes",
           "quantity": "500 g",
           "calories": 85,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Petits pois surgelés",
           "quantity": "200 g",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Ricotta",
           "quantity": "250 g",
           "calories": 435,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Parmesan ou comté râpé",
           "quantity": "50 g",
           "calories": 200,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "15 ml",
           "calories": 120,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Citron",
           "quantity": "1/2",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin, poivre doux, muscade",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2118,49 +2626,49 @@
           "name": "Pâtes courtes sèches",
           "quantity": "320 g",
           "calories": 1120,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Haricots plats frais ou surgelés",
           "quantity": "450 g",
           "calories": 140,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Fromage frais nature",
           "quantity": "250 g",
           "calories": 370,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "180 ml",
           "calories": 85,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Parmesan ou emmental doux râpé",
           "quantity": "60 g",
           "calories": 245,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 ml",
           "calories": 80,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Citron",
           "quantity": "1/2 citron",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin, poivre doux, muscade",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2230,61 +2738,61 @@
           "name": "Boulgour sec",
           "quantity": "250 g",
           "calories": 850,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Champignons de Paris",
           "quantity": "350 g",
           "calories": 77,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Courgettes",
           "quantity": "450 g",
           "calories": 77,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Feta",
           "quantity": "150 g",
           "calories": 396,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Bouillon de légumes doux",
           "quantity": "650 ml",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "2 c. à soupe, soit 30 ml",
           "calories": 240,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Citron",
           "quantity": "1/2 citron",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Herbes de Provence",
           "quantity": "1 c. à café",
           "calories": 1,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Paprika doux",
           "quantity": "1/2 c. à café",
           "calories": 1,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2311,6 +2819,130 @@
         {
           "title": "Termine avec la feta",
           "text": "Ajoute le jus du 1/2 citron, incorpore 120 g de feta émiettée hors du feu, puis garde les 30 g de feta restants pour saupoudrer les assiettes; goûte et ajuste avec un peu de sel fin et de poivre doux si besoin."
+        }
+      ]
+    },
+    {
+      "slug": "pitas-houmous-doux-concombre-oeuf-dur",
+      "title": "Pitas houmous doux, concombre et œuf dur",
+      "summary": "Déjeuner très rapide du mercredi, frais et rassasiant : des pains pitas souples garnis de houmous doux, concombre croquant, tomates, œufs durs et petite sauce au fromage frais ou au yaourt. La recette reste douce pour les jeunes enfants, avec un houmous choisi sans ail cru marqué, sans oignon cru et sans échalote crue.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 10,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "pitas",
+        "oeufs"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1602,
+        "calories_per_serving": 401,
+        "protein_g": 82,
+        "carbs_g": 196,
+        "fat_g": 58
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pains pitas",
+          "quantity": "240 g, soit 4 pains pitas moyens",
+          "calories": 660,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Houmous doux sans ail cru marqué",
+          "quantity": "240 g",
+          "calories": 398,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Œufs",
+          "quantity": "4 gros œufs",
+          "calories": 312,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "300 g",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "250 g",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Fromage frais nature ou yaourt grec nature",
+          "quantity": "150 g",
+          "calories": 135,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "15 ml",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Persil plat ou ciboulette",
+          "quantity": "10 g",
+          "calories": 2,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cuire les œufs si besoin",
+          "text": "Si les 4 gros œufs ne sont pas déjà durs, dépose les 4 gros œufs dans une petite casserole, couvre les 4 gros œufs d'eau froide, puis porte à frémissement. Laisse cuire les 4 gros œufs pendant 10 minutes à partir du frémissement, puis plonge les 4 gros œufs dans de l'eau froide pendant 3 minutes pour les refroidir."
+        },
+        {
+          "title": "Préparer les légumes",
+          "text": "Pendant que les 4 gros œufs cuisent, rince 300 g de concombre et 250 g de tomates. Coupe les 300 g de concombre en bâtonnets fins ou en petits dés, puis coupe les 250 g de tomates en petits quartiers ou en dés pas trop juteux. Garde les 300 g de concombre et les 250 g de tomates séparés pour que les 4 pains pitas restent souples sans se détremper."
+        },
+        {
+          "title": "Mélanger la sauce douce",
+          "text": "Dans un bol, mélange 150 g de fromage frais nature ou de yaourt grec nature avec 15 ml de jus de citron, les 10 g de persil plat ou de ciboulette ciselés si tu les utilises, une petite pincée de sel fin et un peu de poivre doux. Si les 150 g de fromage frais nature ou de yaourt grec nature sont très épais, détends la sauce avec 1 cuillère à soupe d'eau froide."
+        },
+        {
+          "title": "Écaler et couper les œufs",
+          "text": "Écale les 4 gros œufs durs refroidis, puis coupe les 4 gros œufs durs en rondelles épaisses ou en quartiers. Pour les jeunes enfants, recoupe une partie des 4 gros œufs durs en morceaux plus petits et faciles à attraper."
+        },
+        {
+          "title": "Assouplir les pitas",
+          "text": "Ouvre délicatement les 4 pains pitas moyens, soit 240 g, en pochettes. Si les 4 pains pitas moyens sont un peu secs, réchauffe les 240 g de pains pitas quelques secondes au grille-pain ou dans une poêle sèche, juste assez pour les rendre souples."
+        },
+        {
+          "title": "Garnir les pitas",
+          "text": "Répartis 240 g de houmous doux sans ail cru marqué dans les 4 pains pitas moyens, soit environ 60 g de houmous doux par pita. Ajoute les 300 g de concombre, les 250 g de tomates, les 4 gros œufs durs coupés et la sauce préparée avec 150 g de fromage frais nature ou de yaourt grec nature. Si une pita paraît trop remplie, retire un peu des 300 g de concombre ou des 250 g de tomates et sers-les à côté."
+        },
+        {
+          "title": "Servir sans attendre",
+          "text": "Coupe les 4 pains pitas garnis de 240 g de houmous doux, 300 g de concombre, 250 g de tomates, 4 gros œufs durs et 150 g de sauce au fromage frais ou yaourt en deux pour les adultes. Pour les jeunes enfants, sers les 4 pains pitas garnis en petites demi-pitas ou en assiette décomposée, avec un peu de 300 g de concombre, de 250 g de tomates et de 4 gros œufs durs à côté."
         }
       ]
     },
@@ -2356,55 +2988,55 @@
           "name": "Pains pitas",
           "quantity": "240 g, soit 4 pains pitas moyens",
           "calories": 660,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Houmous doux sans ail cru marqué",
           "quantity": "250 g",
           "calories": 415,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Œufs",
           "quantity": "4 gros œufs",
           "calories": 310,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concombre",
           "quantity": "300 g",
           "calories": 45,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Carottes",
           "quantity": "250 g",
           "calories": 100,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "5 g",
           "calories": 45,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "15 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Persil plat ou ciboulette",
           "quantity": "10 g",
           "calories": 2,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2480,55 +3112,55 @@
           "name": "Pâte à pizza",
           "quantity": "500 g",
           "calories": 1300,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sauce tomate nature",
           "quantity": "200 g",
           "calories": 60,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Courgettes",
           "quantity": "350 g",
           "calories": 60,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Champignons de Paris",
           "quantity": "250 g",
           "calories": 55,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella",
           "quantity": "250 g, égouttée",
           "calories": 625,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "15 ml, soit 1 c. à soupe",
           "calories": 120,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Farine pour étaler",
           "quantity": "10 g",
           "calories": 35,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Origan ou herbes de Provence",
           "quantity": "1 c. à café",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2559,6 +3191,143 @@
         {
           "title": "Laisse reposer et sers",
           "text": "Laisse reposer la pizza aux 350 g de courgettes, 250 g de champignons et 250 g de mozzarella pendant 3 minutes avant de couper. Pour les jeunes enfants, coupe les parts en bandes ou en petits carrés, et garde les bords les plus croustillants pour les adultes si besoin."
+        }
+      ]
+    },
+    {
+      "slug": "pizza-pesto-doux-courgette-tomates-cerises-mozzarella",
+      "title": "Pizza maison pesto doux de courgette, tomates cerises et mozzarella",
+      "summary": "Le plat de samedi, c'était : pizza maison pesto doux de courgette, tomates cerises et mozzarella. Une pizza familiale douce et végétarienne, avec une pâte bien dorée, un pesto de courgette à la ricotta et au basilic, des tomates cerises et de la mozzarella fondante. Les courgettes sont rapidement précuites pour éviter de détremper la pâte, et la garniture reste simple, sans ail cru, oignon cru, échalote crue ni piment fort. Pour 2 adultes + 2 jeunes enfants   Temps : 18 min préparation + 22 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 18,
+      "cook_time_minutes": 22,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "samedi",
+        "pizza",
+        "courgette",
+        "tomates-cerises",
+        "mozzarella",
+        "ricotta"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2508,
+        "calories_per_serving": 627,
+        "protein_g": 105,
+        "carbs_g": 294,
+        "fat_g": 107
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâte à pizza",
+          "quantity": "500 g",
+          "calories": 1300,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Courgettes",
+          "quantity": "450 g",
+          "calories": 75,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates cerises",
+          "quantity": "250 g",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Mozzarella égouttée",
+          "quantity": "250 g",
+          "calories": 625,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "150 g",
+          "calories": 260,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Basilic frais",
+          "quantity": "20 g",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 ml, soit environ 18 g",
+          "calories": 160,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "10 ml, soit environ 2 c. à café",
+          "calories": 3,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Farine pour étaler",
+          "quantity": "10 g",
+          "calories": 35,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préchauffer le four",
+          "text": "Préchauffe le four à 230 °C, idéalement avec une plaque déjà dedans pour aider les 500 g de pâte à pizza à bien saisir. Sors les 500 g de pâte à pizza du réfrigérateur pendant que le four chauffe, pour qu'elle soit plus souple à étaler."
+        },
+        {
+          "title": "Préparer les légumes et les fromages",
+          "text": "Rince 450 g de courgettes et 250 g de tomates cerises. Râpe grossièrement 300 g de courgettes pour le pesto doux, puis coupe les 150 g de courgettes restantes en demi-rondelles très fines. Coupe les 250 g de tomates cerises en deux, plutôt en quatre pour les jeunes enfants si elles sont grosses. Égoutte 250 g de mozzarella et coupe les 250 g de mozzarella en petits morceaux. Prépare aussi 150 g de ricotta et 20 g de basilic frais."
+        },
+        {
+          "title": "Précuire les courgettes",
+          "text": "Dans une grande poêle, chauffe 10 ml d'huile d'olive à feu moyen. Ajoute les 300 g de courgettes râpées avec une petite pincée de sel fin, puis fais revenir les 300 g de courgettes râpées pendant 5 à 6 minutes, jusqu'à ce que l'eau soit presque évaporée. Réserve les 300 g de courgettes précuites dans un bol. Dans la même poêle, ajoute 5 ml d'huile d'olive et fais revenir les 150 g de courgettes en demi-rondelles pendant 2 à 3 minutes, juste pour les attendrir sans les casser."
+        },
+        {
+          "title": "Mixer le pesto doux",
+          "text": "Mixe les 300 g de courgettes précuites avec 150 g de ricotta, 15 g de basilic frais, 10 ml de jus de citron, 5 ml d'huile d'olive, une petite pincée de sel fin et un peu de poivre doux. Le pesto de 300 g de courgettes et 150 g de ricotta doit être souple mais pas liquide ; s'il paraît trop humide, laisse-le reposer 2 minutes pour qu'il épaississe légèrement."
+        },
+        {
+          "title": "Étaler la pâte",
+          "text": "Saupoudre le plan de travail avec 10 g de farine, puis étale les 500 g de pâte à pizza en un grand rectangle ou en deux pizzas moyennes. Dépose les 500 g de pâte à pizza sur du papier cuisson. Si tu utilises la plaque chaude, garde les 500 g de pâte à pizza sur une planche ou une plaque froide pour pouvoir les faire glisser facilement au four."
+        },
+        {
+          "title": "Garnir la pizza",
+          "text": "Étale le pesto doux préparé avec 300 g de courgettes, 150 g de ricotta, 15 g de basilic, 10 ml de jus de citron et 5 ml d'huile d'olive sur les 500 g de pâte à pizza, en gardant un petit bord. Répartis les 150 g de courgettes précuites, les 250 g de tomates cerises côté coupé vers le haut, puis ajoute les 250 g de mozzarella égouttée en morceaux. Garde les 5 g de basilic frais restants pour la sortie du four."
+        },
+        {
+          "title": "Cuire la pizza",
+          "text": "Enfourne la pizza garnie avec 500 g de pâte à pizza, le pesto de 300 g de courgettes et 150 g de ricotta, les 150 g de courgettes précuites, les 250 g de tomates cerises et les 250 g de mozzarella pendant 12 à 15 minutes à 230 °C. La pâte doit être dorée dessous, les bords doivent être croustillants et les 250 g de mozzarella doivent être fondants. Si le centre semble encore humide, prolonge 2 minutes sur la grille basse."
+        },
+        {
+          "title": "Finir et servir",
+          "text": "Laisse reposer la pizza aux 450 g de courgettes, 250 g de tomates cerises, 250 g de mozzarella et 150 g de ricotta pendant 3 minutes, puis ajoute les 5 g de basilic frais restants. Coupe en parts ou en bandes ; pour les jeunes enfants, laisse tiédir les morceaux avec les 250 g de mozzarella et recoupe les 250 g de tomates cerises si nécessaire."
         }
       ]
     },
@@ -2602,55 +3371,55 @@
           "name": "Quenelles nature",
           "quantity": "4 pièces, environ 320 g",
           "calories": 735,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Passata",
           "quantity": "500 g",
           "calories": 165,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Carottes",
           "quantity": "500 g",
           "calories": 205,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Crème fraîche",
           "quantity": "60 g",
           "calories": 180,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Semoule moyenne",
           "quantity": "160 g",
           "calories": 570,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "1 c. à soupe, environ 10 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Herbes de Provence",
           "quantity": "1 c. à café",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin",
           "quantity": "1/2 c. à café",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau bouillante",
           "quantity": "200 ml + 2 c. à soupe si besoin",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2722,49 +3491,49 @@
           "name": "Ravioles du Dauphiné fraîches ou ravioles végétariennes",
           "quantity": "480 g",
           "calories": 1370,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Courgettes",
           "quantity": "600 g",
           "calories": 100,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Crème légère 15 %",
           "quantity": "200 ml",
           "calories": 325,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Emmental doux râpé",
           "quantity": "70 g",
           "calories": 265,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 ml",
           "calories": 80,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic doux",
           "quantity": "8 à 10 feuilles, environ 5 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau chaude",
           "quantity": "120 ml, puis 2 à 3 c. à soupe si besoin",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin, poivre doux, muscade",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2836,61 +3605,61 @@
           "name": "Petit épeautre perlé sec",
           "quantity": "260 g",
           "calories": 880,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Aubergines",
           "quantity": "600 g",
           "calories": 150,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates cerises",
           "quantity": "350 g",
           "calories": 63,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Parmesan ou fromage doux râpé",
           "quantity": "80 g",
           "calories": 320,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Bouillon de légumes doux",
           "quantity": "850 ml",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "3 c. à soupe, soit 45 ml",
           "calories": 360,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Beurre doux",
           "quantity": "15 g",
           "calories": 108,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Citron",
           "quantity": "1/2 citron",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Herbes de Provence",
           "quantity": "1 c. à café",
           "calories": 2,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -2969,55 +3738,55 @@
           "name": "Riz long blanc ou riz complet cuisson rapide",
           "quantity": "300 g",
           "calories": 1080,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Courgettes",
           "quantity": "500 g",
           "calories": 85,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Champignons de Paris",
           "quantity": "180 g",
           "calories": 40,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Feta douce",
           "quantity": "160 g",
           "calories": 424,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Bouillon de légumes doux",
           "quantity": "650 ml",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 ml, soit environ 18 g",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Persil plat ou basilic",
           "quantity": "15 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Paprika doux ou herbes de Provence",
           "quantity": "1 c. à café, environ 2 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -3094,61 +3863,61 @@
           "name": "Semoule de couscous moyenne",
           "quantity": "300 g",
           "calories": 1080,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau bouillante",
           "quantity": "360 ml",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Melon",
           "quantity": "650 g de chair",
           "calories": 220,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concombre",
           "quantity": "300 g",
           "calories": 45,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Feta",
           "quantity": "120 g",
           "calories": 320,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates cerises optionnelles",
           "quantity": "200 g",
           "calories": 35,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Menthe ou basilic frais",
           "quantity": "10 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 g",
           "calories": 180,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "25 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -3220,61 +3989,61 @@
           "name": "Lentilles cuites égouttées",
           "quantity": "500 g",
           "calories": 580,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates",
           "quantity": "350 g",
           "calories": 65,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concombre",
           "quantity": "300 g",
           "calories": 45,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Chèvre frais",
           "quantity": "160 g",
           "calories": 415,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pain de campagne ou pain complet",
           "quantity": "240 g",
           "calories": 600,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "25 g",
           "calories": 225,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "30 ml",
           "calories": 10,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Moutarde douce",
           "quantity": "10 g",
           "calories": 10,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Persil plat ou basilic",
           "quantity": "10 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -3346,55 +4115,55 @@
           "name": "Pâtes courtes",
           "quantity": "320 g",
           "calories": 1120,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Haricots verts frais ou surgelés",
           "quantity": "300 g",
           "calories": 95,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella",
           "quantity": "250 g",
           "calories": 625,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates cerises",
           "quantity": "250 g",
           "calories": 45,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pesto doux sans ail cru marqué",
           "quantity": "80 g",
           "calories": 380,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "15 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic frais",
           "quantity": "10 g",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -3466,55 +4235,55 @@
           "name": "Pommes de terre",
           "quantity": "800 g",
           "calories": 616,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Haricots verts",
           "quantity": "450 g",
           "calories": 140,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Œufs",
           "quantity": "4 œufs moyens",
           "calories": 300,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Fromage blanc nature ou yaourt nature",
           "quantity": "200 g",
           "calories": 140,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "25 g",
           "calories": 225,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "20 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Moutarde douce",
           "quantity": "10 g",
           "calories": 10,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Persil plat ou ciboulette",
           "quantity": "10 g",
           "calories": 3,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -3541,6 +4310,138 @@
         {
           "title": "Servir avec les œufs",
           "text": "Répartis les 4 œufs moyens coupés sur la salade de 800 g de pommes de terre et 450 g de haricots verts. Sers tiède, ou laisse refroidir la salade 15 à 20 minutes au frais. Pour les jeunes enfants, coupe les 450 g de haricots verts les plus longs et les quartiers des 4 œufs moyens en morceaux faciles à attraper."
+        }
+      ]
+    },
+    {
+      "slug": "salade-quinoa-peches-concombre-chevre-frais",
+      "title": "Salade de quinoa, pêches, concombre et chèvre frais",
+      "summary": "Le déjeuner de dimanche, c'est une salade de quinoa fraîche et douce, pensée pour rester légère avant un dîner plus réconfortant : quinoa moelleux, pêches juteuses, concombre croquant, salade verte et chèvre frais. L'assaisonnement citronné reste simple et adapté aux enfants, sans ail cru, oignon cru ni échalote crue.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 8,
+      "cook_time_minutes": 12,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "ete",
+        "salade",
+        "quinoa"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1665,
+        "calories_per_serving": 415,
+        "protein_g": 57,
+        "carbs_g": 193,
+        "fat_g": 74
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Quinoa sec",
+          "quantity": "220 g",
+          "calories": 810,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Eau",
+          "quantity": "440 ml",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pêches mûres",
+          "quantity": "360 g",
+          "calories": 140,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "300 g",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Chèvre frais",
+          "quantity": "160 g",
+          "calories": 400,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Salade verte",
+          "quantity": "120 g",
+          "calories": 20,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "25 g",
+          "calories": 225,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "35 ml",
+          "calories": 10,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "10 g",
+          "calories": 10,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Menthe ou basilic frais",
+          "quantity": "10 g",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cuire le quinoa",
+          "text": "Rince 220 g de quinoa sec dans une passoire fine. Mets les 220 g de quinoa rincé dans une casserole avec 440 ml d'eau et une petite pincée de sel fin. Porte à frémissement, couvre, puis laisse cuire environ 12 minutes, jusqu'à ce que les 220 g de quinoa aient absorbé les 440 ml d'eau. Coupe le feu et laisse reposer 5 minutes à couvert."
+        },
+        {
+          "title": "Préparer l'assaisonnement citronné",
+          "text": "Dans un bol, mélange 25 g d'huile d'olive, 35 ml de jus de citron, 10 g de moutarde douce, un peu de sel fin et du poivre doux. Goûte l'assaisonnement avec les 35 ml de jus de citron : s'il paraît trop vif pour les enfants, ajoute 1 cuillère à soupe d'eau froide."
+        },
+        {
+          "title": "Couper les éléments frais",
+          "text": "Pendant que les 220 g de quinoa cuisent ou reposent, coupe 360 g de pêches mûres en petits quartiers ou en dés. Coupe 300 g de concombre en demi-rondelles fines ou en petits dés. Rince puis essore 120 g de salade verte, et cisèle 10 g de menthe ou de basilic frais si tu en utilises."
+        },
+        {
+          "title": "Refroidir et assaisonner le quinoa",
+          "text": "Égraine à la fourchette les 220 g de quinoa cuit avec les 440 ml d'eau absorbés, puis étale-le dans un grand saladier 2 minutes pour qu'il tiédisse. Verse l'assaisonnement préparé avec 25 g d'huile d'olive, 35 ml de jus de citron et 10 g de moutarde douce, puis mélange pour enrober tous les grains."
+        },
+        {
+          "title": "Assembler la salade",
+          "text": "Ajoute dans le saladier les 360 g de pêches mûres, les 300 g de concombre, les 120 g de salade verte et les 10 g de menthe ou de basilic frais. Émiette 160 g de chèvre frais par-dessus, puis mélange très délicatement pour garder des morceaux visibles de 160 g de chèvre frais et ne pas écraser les 360 g de pêches."
+        },
+        {
+          "title": "Servir frais ou tiède",
+          "text": "Goûte la salade avec les 220 g de quinoa, les 360 g de pêches, les 300 g de concombre, les 120 g de salade verte et les 160 g de chèvre frais. Ajuste avec un peu de sel fin, de poivre doux ou quelques feuilles prises dans les 10 g de menthe ou de basilic frais. Pour les jeunes enfants, recoupe les morceaux de 300 g de concombre et de 360 g de pêches directement dans l'assiette si besoin."
         }
       ]
     },
@@ -3588,55 +4489,55 @@
           "name": "Tomates mûres",
           "quantity": "600 g",
           "calories": 110,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Haricots blancs cuits égouttés",
           "quantity": "500 g",
           "calories": 570,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pain de campagne",
           "quantity": "280 g",
           "calories": 700,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella douce ou fromage frais",
           "quantity": "125 g",
           "calories": 310,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "25 g",
           "calories": 225,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "30 ml",
           "calories": 10,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Moutarde douce",
           "quantity": "8 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic frais",
           "quantity": "10 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -3709,73 +4610,73 @@
           "name": "Semoule moyenne",
           "quantity": "240 g",
           "calories": 865,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau bouillante",
           "quantity": "300 ml",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pois chiches cuits égouttés",
           "quantity": "300 g",
           "calories": 490,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concombre",
           "quantity": "300 g",
           "calories": 45,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates",
           "quantity": "350 g",
           "calories": 65,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Feta",
           "quantity": "120 g",
           "calories": 320,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Yaourt nature",
           "quantity": "150 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "15 g",
           "calories": 135,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "20 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Menthe ou persil plat",
           "quantity": "10 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Cumin doux ou paprika doux",
           "quantity": "2 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -3848,73 +4749,73 @@
           "name": "Œufs",
           "quantity": "6 moyens",
           "calories": 432,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Poivrons rouges et jaunes",
           "quantity": "500 g",
           "calories": 155,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates concassées",
           "quantity": "800 g",
           "calories": 200,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concentré de tomate",
           "quantity": "30 g",
           "calories": 25,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 ml, soit environ 18 g",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Feta douce",
           "quantity": "100 g",
           "calories": 265,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pain de campagne",
           "quantity": "350 g",
           "calories": 910,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Paprika doux",
           "quantity": "1 c. à café, environ 2 g",
           "calories": 6,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Cumin moulu",
           "quantity": "1/2 c. à café, environ 1 g",
           "calories": 4,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sucre blond ou blanc",
           "quantity": "1 c. à café, environ 5 g",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Persil plat",
           "quantity": "10 g",
           "calories": 4,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -3941,6 +4842,133 @@
         {
           "title": "Servir avec le pain",
           "text": "Coupe 350 g de pain de campagne en tranches et réchauffe les 350 g de pain de campagne 2 minutes au grille-pain ou au four si tu veux une texture plus croustillante. Sers la shakshuka aux 6 œufs, 500 g de poivrons, 800 g de tomates concassées et 100 g de feta douce avec les 350 g de pain de campagne. Pour les jeunes enfants, coupe les 6 œufs en morceaux dans un peu de sauce et propose le pain à tremper."
+        }
+      ]
+    },
+    {
+      "slug": "taboule-boulgour-tomates-concombre-pois-chiches-feta",
+      "title": "Taboulé de boulgour, tomates, concombre, pois chiches et feta",
+      "summary": "Le déjeuner de samedi, c'était un taboulé familial de boulgour, tomates, concombre, pois chiches et feta, prêt en 20 minutes et facile à transporter. Le citron, l'huile d'olive et les herbes fraîches donnent de la fraîcheur sans piquant, et la recette reste douce pour les enfants, sans ail cru, oignon cru ni échalote crue.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 10,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "salade",
+        "ete",
+        "transportable"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1885,
+        "calories_per_serving": 471,
+        "protein_g": 74,
+        "carbs_g": 272,
+        "fat_g": 65
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Boulgour moyen sec",
+          "quantity": "220 g",
+          "calories": 750,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Eau bouillante",
+          "quantity": "45 cl",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pois chiches cuits égouttés",
+          "quantity": "240 g",
+          "calories": 395,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates mûres ou tomates cerises",
+          "quantity": "450 g",
+          "calories": 80,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "300 g",
+          "calories": 45,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Feta",
+          "quantity": "150 g",
+          "calories": 395,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "25 ml, soit environ 2 cuillères à soupe",
+          "calories": 205,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "30 ml, soit environ 2 cuillères à soupe",
+          "calories": 8,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Menthe ou persil plat",
+          "quantity": "15 g",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Faire gonfler le boulgour",
+          "text": "Verse 220 g de boulgour moyen sec dans un grand saladier. Ajoute 45 cl d'eau bouillante et une petite pincée de sel fin, couvre, puis laisse gonfler 220 g de boulgour moyen sec pendant 10 minutes, jusqu'à ce que les grains soient tendres mais encore légèrement fermes."
+        },
+        {
+          "title": "Préparer les légumes et les pois chiches",
+          "text": "Pendant que 220 g de boulgour moyen sec gonflent dans 45 cl d'eau bouillante, rince et égoutte 240 g de pois chiches cuits égouttés. Coupe 450 g de tomates mûres ou tomates cerises en petits morceaux, coupe 300 g de concombre en petits dés, cisèle 15 g de menthe ou de persil plat, puis émiette 150 g de feta."
+        },
+        {
+          "title": "Aérer et assaisonner le boulgour",
+          "text": "Égraine les 220 g de boulgour gonflé à la fourchette. Ajoute 25 ml d'huile d'olive, 30 ml de jus de citron et un peu de poivre doux, puis mélange les 220 g de boulgour gonflé pour bien répartir l'assaisonnement. Si le boulgour est encore très chaud, laisse les 220 g de boulgour assaisonné tiédir 3 à 5 minutes avant d'ajouter les crudités."
+        },
+        {
+          "title": "Assembler le taboulé",
+          "text": "Ajoute dans le saladier les 240 g de pois chiches cuits égouttés, les 450 g de tomates mûres ou tomates cerises, les 300 g de concombre et les 15 g de menthe ou de persil plat. Mélange doucement avec les 220 g de boulgour assaisonné pour garder les 450 g de tomates et les 300 g de concombre en morceaux nets."
+        },
+        {
+          "title": "Ajouter la feta",
+          "text": "Incorpore 120 g de feta émiettée au taboulé de 220 g de boulgour, 240 g de pois chiches, 450 g de tomates et 300 g de concombre. Garde les 30 g de feta restants pour le dessus, afin que chacun puisse avoir un peu de fromage visible dans son assiette."
+        },
+        {
+          "title": "Ajuster et servir frais",
+          "text": "Goûte le taboulé avec 220 g de boulgour, 240 g de pois chiches, 450 g de tomates, 300 g de concombre, 150 g de feta, 25 ml d'huile d'olive et 30 ml de jus de citron. Ajoute seulement un peu de sel fin si nécessaire, car les 150 g de feta salent déjà le plat. Sers frais ou garde au réfrigérateur jusqu'au déjeuner ; pour un transport, place les 30 g de feta réservés au-dessus au dernier moment."
         }
       ]
     },
@@ -3986,61 +5014,61 @@
           "name": "Pâte brisée prête à dérouler",
           "quantity": "280 g",
           "calories": 1120,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates mûres mais fermes",
           "quantity": "550 g",
           "calories": 99,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Ricotta",
           "quantity": "250 g",
           "calories": 435,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella douce égouttée",
           "quantity": "125 g",
           "calories": 310,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Œufs",
           "quantity": "2 moyens",
           "calories": 144,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic frais",
           "quantity": "15 g",
           "calories": 4,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Moutarde douce",
           "quantity": "15 g, soit 1 c. à soupe fine",
           "calories": 16,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Chapelure fine",
           "quantity": "20 g",
           "calories": 72,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 ml, soit 2 c. à café",
           "calories": 80,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -4116,55 +5144,55 @@
           "name": "Pain de campagne ou pain complet doux",
           "quantity": "360 g, soit 6 grandes tranches",
           "calories": 900,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Œufs",
           "quantity": "5 gros œufs",
           "calories": 390,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Fromage frais nature à tartiner",
           "quantity": "220 g",
           "calories": 484,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates",
           "quantity": "400 g",
           "calories": 72,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concombre",
           "quantity": "250 g",
           "calories": 30,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "15 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Ciboulette, basilic ou persil plat",
           "quantity": "10 g",
           "calories": 3,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -4239,49 +5267,49 @@
           "name": "Pain complet ou pain de campagne",
           "quantity": "360 g, soit 6 grandes tranches",
           "calories": 900,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Ricotta",
           "quantity": "250 g",
           "calories": 375,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Tomates cerises",
           "quantity": "300 g",
           "calories": 55,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concombre",
           "quantity": "250 g",
           "calories": 30,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic frais",
           "quantity": "10 g",
           "calories": 2,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 g, soit environ 2 cuillères à soupe",
           "calories": 180,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "15 ml, soit environ 1 cuillère à soupe",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Graines de tournesol",
           "quantity": "20 g",
           "calories": 115,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -4304,6 +5332,120 @@
         {
           "title": "Finir et servir",
           "text": "Parsème les tartines avec 10 g de basilic frais ciselé et 20 g de graines de tournesol, puis verse les 10 g d'huile d'olive restants en filet. Coupe les tartines des enfants en bandes ou en carrés, et sers tout de suite pour garder le pain agréable et les légumes croquants."
+        }
+      ]
+    },
+    {
+      "slug": "tortellini-ricotta-epinards-tomates-cerises-parmesan",
+      "title": "Tortellini ricotta-épinards, tomates cerises et parmesan",
+      "summary": "Le plat de mercredi, c'était : Tortellini ricotta-épinards, tomates cerises et parmesan. Un dîner végétarien très simple et réconfortant : des tortellini ricotta-épinards, des tomates cerises juste fondues, une crème légère au parmesan et du basilic frais. Tout reste doux, crémeux et facile à servir aux enfants. Pour 2 adultes + 2 jeunes enfants   Temps : 8 min préparation + 17 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 8,
+      "cook_time_minutes": 17,
+      "total_time_minutes": 25,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "mercredi",
+        "tres-simple",
+        "tortellini",
+        "tomates"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2240,
+        "calories_per_serving": 560,
+        "protein_g": 84,
+        "carbs_g": 286,
+        "fat_g": 100
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Tortellini frais ricotta-épinards",
+          "quantity": "600 g",
+          "calories": 1560,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Tomates cerises",
+          "quantity": "350 g",
+          "calories": 65,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "180 ml",
+          "calories": 290,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Parmesan râpé",
+          "quantity": "60 g",
+          "calories": 240,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml",
+          "calories": 80,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Basilic frais",
+          "quantity": "8 g, environ 12 feuilles",
+          "calories": 5,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Eau de cuisson des tortellini",
+          "quantity": "120 ml + 30 ml si besoin",
+          "calories": 0,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Sel fin, poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les ingrédients",
+          "text": "Rince 350 g de tomates cerises, puis coupe les 350 g de tomates cerises en deux. Prépare 60 g de parmesan râpé en gardant 40 g de parmesan râpé pour la sauce et 20 g de parmesan râpé pour la fin. Rince et effeuille 8 g de basilic frais, environ 12 feuilles."
+        },
+        {
+          "title": "Cuis les tortellini",
+          "text": "Porte une grande casserole d'eau légèrement salée à ébullition. Ajoute 600 g de tortellini frais ricotta-épinards et cuis les 600 g de tortellini frais ricotta-épinards selon le temps indiqué sur le paquet, souvent 3 à 4 minutes, jusqu'à ce qu'ils soient tendres mais encore bien tenus. Garde 120 ml d'eau de cuisson des tortellini, puis égoutte délicatement les 600 g de tortellini frais ricotta-épinards."
+        },
+        {
+          "title": "Fais fondre les tomates",
+          "text": "Pendant la cuisson des 600 g de tortellini frais ricotta-épinards, chauffe 10 ml d'huile d'olive dans une grande sauteuse à feu moyen. Ajoute les 350 g de tomates cerises avec une petite pincée de sel fin, puis fais cuire les 350 g de tomates cerises 4 à 5 minutes, jusqu'à ce qu'elles deviennent brillantes et commencent à rendre un peu de jus sans se défaire complètement."
+        },
+        {
+          "title": "Forme la sauce douce",
+          "text": "Baisse à feu doux. Verse 180 ml de crème légère 15 % et 120 ml d'eau de cuisson des tortellini sur les 350 g de tomates cerises. Ajoute 40 g de parmesan râpé et un peu de poivre doux, puis mélange 1 à 2 minutes, jusqu'à ce que les 40 g de parmesan râpé fondent dans les 180 ml de crème légère 15 %. Si la sauce épaissit trop vite, ajoute jusqu'à 30 ml d'eau de cuisson des tortellini."
+        },
+        {
+          "title": "Enrobe les tortellini",
+          "text": "Ajoute les 600 g de tortellini frais ricotta-épinards égouttés dans la sauteuse avec les 350 g de tomates cerises, les 180 ml de crème légère 15 %, les 120 ml d'eau de cuisson des tortellini et les 40 g de parmesan râpé. Mélange très doucement 1 à 2 minutes à feu doux, juste pour napper les 600 g de tortellini frais ricotta-épinards sans les ouvrir."
+        },
+        {
+          "title": "Termine au basilic et au parmesan",
+          "text": "Coupe le feu. Ajoute 8 g de basilic frais, environ 12 feuilles, puis parsème les 20 g de parmesan râpé restants sur les 600 g de tortellini frais ricotta-épinards, les 350 g de tomates cerises et la sauce aux 180 ml de crème légère 15 %. Laisse reposer 1 minute pour que la sauce se pose autour des tortellini, puis sers chaud."
         }
       ]
     },
@@ -4349,55 +5491,55 @@
           "name": "Carottes",
           "quantity": "700 g",
           "calories": 285,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lentilles corail sèches",
           "quantity": "160 g",
           "calories": 560,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Bouillon doux de légumes",
           "quantity": "900 ml",
           "calories": 20,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pain de campagne",
           "quantity": "300 g, soit environ 6 tranches",
           "calories": 750,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Ricotta",
           "quantity": "250 g",
           "calories": 435,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "15 g, soit environ 1 cuillère à soupe",
           "calories": 135,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "15 ml, soit environ 1 cuillère à soupe",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Persil plat",
           "quantity": "10 g",
           "calories": 4,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Cumin doux, muscade, sel fin, poivre doux",
           "quantity": "au goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -4472,55 +5614,55 @@
           "name": "Courgettes",
           "quantity": "700 g",
           "calories": 120,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Petits pois surgelés",
           "quantity": "250 g",
           "calories": 205,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pommes de terre",
           "quantity": "350 g",
           "calories": 270,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "150 ml",
           "calories": 70,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pain de campagne",
           "quantity": "320 g, soit environ 6 tranches",
           "calories": 800,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Comté râpé ou en fines lamelles",
           "quantity": "140 g",
           "calories": 580,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 g, soit environ 1 cuillère à soupe",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "10 ml, soit environ 2 cuillères à café",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Thym, muscade douce, sel fin, poivre doux, eau",
           "quantity": "au goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -4551,6 +5693,126 @@
         {
           "title": "Servir doucement",
           "text": "Goûte le velouté préparé avec 700 g de courgettes, 250 g de petits pois, 350 g de pommes de terre, 150 ml de lait demi-écrémé et 10 ml de jus de citron, puis ajuste le sel et le poivre doux. Sers le velouté avec les 6 tartines de pain de campagne au comté ; coupe les tartines des enfants en bandes et laisse le velouté tiédir quelques minutes dans leurs bols."
+        }
+      ]
+    },
+    {
+      "slug": "veloute-mais-doux-carotte-tartines-cheddar",
+      "title": "Velouté de maïs doux, carotte et tartines cheddar",
+      "summary": "Le plat de dimanche, c'était : velouté de maïs doux, carotte et tartines cheddar. Un velouté jaune-orangé, très doux et réconfortant, construit autour du maïs, des carottes et des pommes de terre pour une texture lisse qui plaît facilement aux enfants. Les tartines de pain de campagne gratinées au cheddar apportent le côté chaud et gourmand du dîner du dimanche, sans épice forte ni allium cru. Pour 2 adultes + 2 jeunes enfants   Temps : 12 min préparation + 28 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 28,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "dimanche",
+        "veloute",
+        "tartines"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2702,
+        "calories_per_serving": 676,
+        "protein_g": 100,
+        "carbs_g": 362,
+        "fat_g": 99
+      },
+      "used_in_weeks": [
+        "2026-W29"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Maïs doux en grains, égoutté",
+          "quantity": "560 g",
+          "calories": 482,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "450 g",
+          "calories": 185,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pommes de terre",
+          "quantity": "350 g",
+          "calories": 270,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Crème légère",
+          "quantity": "120 ml",
+          "calories": 204,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "300 g, soit environ 6 tranches",
+          "calories": 780,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Cheddar",
+          "quantity": "160 g",
+          "calories": 640,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 g, soit environ 1 cuillère à soupe",
+          "calories": 135,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Paprika doux",
+          "quantity": "1 cuillère à café, environ 2 g",
+          "calories": 6,
+          "section": "Ingr?dients"
+        },
+        {
+          "name": "Eau chaude, muscade, sel fin et poivre doux",
+          "quantity": "750 ml d'eau chaude, assaisonnement au goût",
+          "calories": 0,
+          "section": "Ingr?dients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer la base douce",
+          "text": "Égoutte 560 g de maïs doux en grains. Épluche 450 g de carottes et 350 g de pommes de terre, puis coupe les 450 g de carottes en fines rondelles et les 350 g de pommes de terre en petits dés de 1 à 2 cm pour que tout cuise vite et se mixe facilement."
+        },
+        {
+          "title": "Enrober sans colorer",
+          "text": "Dans une grande casserole, chauffe 15 g d'huile d'olive à feu moyen. Ajoute les 560 g de maïs doux égoutté, les 450 g de carottes, les 350 g de pommes de terre, 1 cuillère à café de paprika doux, soit environ 2 g, une petite pincée de muscade et une petite pincée de sel fin. Mélange les 560 g de maïs doux, les 450 g de carottes et les 350 g de pommes de terre pendant 4 minutes, juste pour les enrober avec les 15 g d'huile d'olive sans les faire brunir."
+        },
+        {
+          "title": "Cuire jusqu'à tendreté",
+          "text": "Verse 750 ml d'eau chaude dans la casserole avec les 560 g de maïs doux, les 450 g de carottes, les 350 g de pommes de terre et les 2 g de paprika doux. Couvre à moitié et laisse frémir 20 à 22 minutes, jusqu'à ce que les 350 g de pommes de terre et les 450 g de carottes s'écrasent facilement contre la paroi de la casserole."
+        },
+        {
+          "title": "Gratiner les tartines",
+          "text": "Pendant que le velouté cuit, chauffe le gril du four. Dispose 300 g de pain de campagne, soit environ 6 tranches, sur une plaque. Râpe ou coupe finement 160 g de cheddar, puis répartis les 160 g de cheddar sur les 300 g de pain de campagne. Fais gratiner les 6 tartines pendant 5 à 7 minutes, jusqu'à ce que les 160 g de cheddar soient fondus et légèrement dorés."
+        },
+        {
+          "title": "Mixer le velouté",
+          "text": "Hors du feu, ajoute 120 ml de crème légère dans la casserole avec les 560 g de maïs doux, les 450 g de carottes, les 350 g de pommes de terre et les 750 ml d'eau chaude. Mixe longuement jusqu'à obtenir un velouté très lisse. Si la texture paraît trop épaisse pour les enfants, ajoute 50 à 100 ml d'eau chaude et mixe encore quelques secondes."
+        },
+        {
+          "title": "Servir chaud et doux",
+          "text": "Goûte le velouté préparé avec les 560 g de maïs doux, les 450 g de carottes, les 350 g de pommes de terre, les 120 ml de crème légère et les 750 ml d'eau chaude, puis ajuste avec un peu de sel fin et de poivre doux. Sers le velouté bien chaud avec les 300 g de pain de campagne gratinés aux 160 g de cheddar, en coupant les tartines des enfants en bandes faciles à tenir."
         }
       ]
     },
@@ -4597,61 +5859,61 @@
           "name": "Haricots verts",
           "quantity": "650 g",
           "calories": 200,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pommes de terre",
           "quantity": "550 g",
           "calories": 425,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Bouillon doux de légumes ou eau",
           "quantity": "800 ml",
           "calories": 15,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Lait demi-écrémé",
           "quantity": "200 ml",
           "calories": 95,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pain de campagne ou pain complet doux",
           "quantity": "300 g",
           "calories": 750,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Fromage frais nature à tartiner",
           "quantity": "250 g",
           "calories": 600,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "10 ml",
           "calories": 3,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Persil plat",
           "quantity": "10 g",
           "calories": 2,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Thym doux, muscade, sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -4723,73 +5985,73 @@
           "name": "Tomates mûres",
           "quantity": "750 g",
           "calories": 135,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Poivrons rouges",
           "quantity": "400 g, soit environ 2 moyens",
           "calories": 124,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Carotte",
           "quantity": "180 g, soit 1 grosse carotte",
           "calories": 74,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pommes de terre",
           "quantity": "300 g",
           "calories": 231,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "20 ml, soit environ 18 g",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Crème liquide légère",
           "quantity": "100 ml",
           "calories": 160,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Pain de campagne",
           "quantity": "300 g, soit environ 6 tranches",
           "calories": 780,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Mozzarella",
           "quantity": "250 g, soit environ 2 boules",
           "calories": 625,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Basilic doux",
           "quantity": "10 g",
           "calories": 2,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Paprika doux",
           "quantity": "1 c. à café, environ 2 g",
           "calories": 6,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sucre blond, facultatif",
           "quantity": "1/2 c. à café, environ 3 g",
           "calories": 12,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Eau, sel fin et poivre doux",
           "quantity": "600 ml d'eau, assaisonnement au goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [
@@ -4861,55 +6123,55 @@
           "name": "Grands wraps de blé",
           "quantity": "240 g, soit 4 wraps",
           "calories": 745,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Houmous doux sans ail cru marqué",
           "quantity": "220 g",
           "calories": 365,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Carottes râpées",
           "quantity": "250 g",
           "calories": 100,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Concombre",
           "quantity": "250 g",
           "calories": 40,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Feta",
           "quantity": "150 g",
           "calories": 395,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Huile d'olive",
           "quantity": "10 g",
           "calories": 90,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Jus de citron",
           "quantity": "15 ml",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Menthe ou persil plat",
           "quantity": "10 g",
           "calories": 5,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         },
         {
           "name": "Sel fin et poivre doux",
           "quantity": "selon goût",
           "calories": 0,
-          "section": "Ingrédients"
+          "section": "Ingr?dients"
         }
       ],
       "steps": [

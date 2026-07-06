@@ -51,3 +51,16 @@
 - [[salade-tomates-haricots-blancs-pain-grille|Salade tomates, haricots blancs et pain grillé]]
 - [[tartines-oeuf-dur-tomates-fromage-frais|Tartines œuf dur, tomates et fromage frais]]
 - [[veloute-tomates-poivrons-tartines-mozzarella|Velouté tomates, poivrons et tartines mozzarella]]
+
+## Semaine 2026-W29
+
+- [[blesotto-champignons-courgettes-jaunes-parmesan|Blésotto champignons, courgettes jaunes et parmesan]]
+- [[gratin-pommes-de-terre-precuites-epinards-comte|Gratin de pommes de terre précuites, épinards et comté]]
+- [[oeufs-cocotte-tomates-cerises-epinards-mouillettes|Œufs cocotte tomates cerises, épinards et mouillettes]]
+- [[pates-cremeuses-brocoli-epinards-ricotta|Pâtes crémeuses brocoli, épinards et ricotta]]
+- [[pitas-houmous-doux-concombre-oeuf-dur|Pitas houmous doux, concombre et œuf dur]]
+- [[pizza-pesto-doux-courgette-tomates-cerises-mozzarella|Pizza maison pesto doux de courgette, tomates cerises et mozzarella]]
+- [[salade-quinoa-peches-concombre-chevre-frais|Salade de quinoa, pêches, concombre et chèvre frais]]
+- [[taboule-boulgour-tomates-concombre-pois-chiches-feta|Taboulé de boulgour, tomates, concombre, pois chiches et feta]]
+- [[tortellini-ricotta-epinards-tomates-cerises-parmesan|Tortellini ricotta-épinards, tomates cerises et parmesan]]
+- [[veloute-mais-doux-carotte-tartines-cheddar|Velouté de maïs doux, carotte et tartines cheddar]]
