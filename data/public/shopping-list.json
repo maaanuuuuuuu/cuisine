@@ -1,6 +1,6 @@
 {
-  "week": "2026-W29",
-  "title": "Liste de courses 2026-W29",
+  "week": "2026-W30",
+  "title": "Liste de courses 2026-W30",
   "status": "planned",
   "pantry_basics_included": true,
   "sections": [
@@ -8,52 +8,44 @@
       "name": "Fruits et légumes",
       "items": [
         {
-          "name": "Herbes fraîches douces (basilic, persil, ciboulette ou menthe) — 75 g environ",
-          "quantity": ""
+          "name": "Herbes fraîches douces (basilic, persil ou menthe)",
+          "quantity": "45 à 60 g environ"
         },
         {
-          "name": "Salade verte — 120 g",
-          "quantity": ""
+          "name": "Haricots verts frais ou surgelés",
+          "quantity": "1,7 kg"
         },
         {
-          "name": "Épinards frais — 460 g",
-          "quantity": ""
+          "name": "Courgettes",
+          "quantity": "2,5 kg"
         },
         {
-          "name": "Brocoli — 450 g",
-          "quantity": ""
+          "name": "Poivrons doux rouges ou jaunes",
+          "quantity": "350 g"
         },
         {
-          "name": "Champignons de Paris — 400 g",
-          "quantity": ""
+          "name": "Concombres",
+          "quantity": "650 g"
         },
         {
-          "name": "Courgettes, dont courgettes jaunes si possible — 1 kg",
-          "quantity": ""
+          "name": "Tomates et tomates cerises",
+          "quantity": "2,1 kg"
         },
         {
-          "name": "Concombres — 900 g",
-          "quantity": ""
+          "name": "Carottes",
+          "quantity": "300 g"
         },
         {
-          "name": "Tomates et tomates cerises — 1,65 kg",
-          "quantity": ""
+          "name": "Pommes de terre",
+          "quantity": "900 g, dont 650 g à précuire pour la tortilla"
         },
         {
-          "name": "Carottes — 450 g",
-          "quantity": ""
+          "name": "Abricots frais mûrs mais fermes",
+          "quantity": "400 g"
         },
         {
-          "name": "Pommes de terre — 1,25 kg",
-          "quantity": ""
-        },
-        {
-          "name": "Pêches mûres — 360 g",
-          "quantity": ""
-        },
-        {
-          "name": "Citrons — 4",
-          "quantity": ""
+          "name": "Citrons",
+          "quantity": "4"
         }
       ]
     },
@@ -61,16 +53,12 @@
       "name": "Boulangerie",
       "items": [
         {
-          "name": "Pains pitas — 4 moyens, environ 240 g",
-          "quantity": ""
+          "name": "Wraps de blé souples",
+          "quantity": "6 moyens, environ 360 g"
         },
         {
-          "name": "Pâte à pizza — 500 g",
-          "quantity": ""
-        },
-        {
-          "name": "Pain de campagne — 650 g environ",
-          "quantity": ""
+          "name": "Pain de campagne",
+          "quantity": "560 g environ"
         }
       ]
     },
@@ -78,40 +66,44 @@
       "name": "Épicerie salée",
       "items": [
         {
-          "name": "Pâtes courtes sèches — 320 g",
-          "quantity": ""
+          "name": "Pâtes courtes sèches",
+          "quantity": "330 g"
         },
         {
-          "name": "Blé tendre type Ebly — 280 g",
-          "quantity": ""
+          "name": "Perles de blé sèches",
+          "quantity": "280 g"
         },
         {
-          "name": "Boulgour moyen sec — 220 g",
-          "quantity": ""
+          "name": "Riz long blanc ou semi-complet",
+          "quantity": "240 g"
         },
         {
-          "name": "Quinoa sec — 220 g",
-          "quantity": ""
+          "name": "Polenta fine instantanée",
+          "quantity": "220 g"
         },
         {
-          "name": "Bouillon de légumes doux — de quoi préparer 750 ml",
-          "quantity": ""
+          "name": "Semoule de couscous moyenne",
+          "quantity": "260 g"
         },
         {
-          "name": "Chapelure fine — 30 g",
-          "quantity": ""
+          "name": "Chapelure fine ou semoule fine",
+          "quantity": "55 g"
         },
         {
-          "name": "Maïs doux en grains égoutté — 560 g",
-          "quantity": ""
+          "name": "Concentré de tomate",
+          "quantity": "20 g"
         },
         {
-          "name": "Pois chiches cuits égouttés — 240 g",
-          "quantity": ""
+          "name": "Pois chiches cuits égouttés",
+          "quantity": "240 g"
         },
         {
-          "name": "Moutarde douce — 10 g",
-          "quantity": ""
+          "name": "Haricots blancs cuits égouttés",
+          "quantity": "420 g"
+        },
+        {
+          "name": "Bouillon de légumes doux peu salé",
+          "quantity": "de quoi préparer 700 ml"
         }
       ]
     },
@@ -119,8 +111,8 @@
       "name": "Surgelé",
       "items": [
         {
-          "name": "Épinards hachés surgelés — 500 g",
-          "quantity": ""
+          "name": "Petits pois surgelés",
+          "quantity": "220 g"
         }
       ]
     },
@@ -128,60 +120,48 @@
       "name": "Frais",
       "items": [
         {
-          "name": "Œufs — 12",
-          "quantity": ""
+          "name": "Œufs",
+          "quantity": "21"
         },
         {
-          "name": "Tortellini frais ricotta-épinards — 600 g",
-          "quantity": ""
+          "name": "Pâte feuilletée pur beurre ou pâte à tarte fine",
+          "quantity": "1 rouleau, environ 280 g"
         },
         {
-          "name": "Houmous doux sans ail cru marqué — 240 g",
-          "quantity": ""
+          "name": "Lait demi-écrémé",
+          "quantity": "1,05 l"
         },
         {
-          "name": "Fromage frais nature ou yaourt grec nature — 150 g",
-          "quantity": ""
+          "name": "Mascarpone",
+          "quantity": "160 g"
         },
         {
-          "name": "Lait demi-écrémé — 25 cl",
-          "quantity": ""
+          "name": "Ricotta",
+          "quantity": "800 g"
         },
         {
-          "name": "Crème légère 15 % ou crème fraîche légère — 950 ml/g environ",
-          "quantity": ""
+          "name": "Fromage frais nature doux",
+          "quantity": "220 g"
         },
         {
-          "name": "Beurre doux — 25 g",
-          "quantity": ""
+          "name": "Beurre doux",
+          "quantity": "20 g"
         },
         {
-          "name": "Ricotta — 400 g",
-          "quantity": ""
+          "name": "Parmesan râpé",
+          "quantity": "60 g"
         },
         {
-          "name": "Parmesan râpé — 210 g",
-          "quantity": ""
+          "name": "Emmental doux râpé",
+          "quantity": "310 g"
         },
         {
-          "name": "Comté, emmental ou fromage doux râpé — 260 g",
-          "quantity": ""
+          "name": "Feta",
+          "quantity": "310 g"
         },
         {
-          "name": "Feta — 150 g",
-          "quantity": ""
-        },
-        {
-          "name": "Mozzarella égouttée — 250 g",
-          "quantity": ""
-        },
-        {
-          "name": "Chèvre frais — 160 g",
-          "quantity": ""
-        },
-        {
-          "name": "Cheddar — 160 g",
-          "quantity": ""
+          "name": "Mozzarella égouttée",
+          "quantity": "500 g"
         }
       ]
     },
@@ -189,8 +169,8 @@
       "name": "Basiques et épices",
       "items": [
         {
-          "name": "Huile d'olive — environ 160 ml",
-          "quantity": ""
+          "name": "Huile d'olive",
+          "quantity": "environ 180 ml"
         },
         {
           "name": "Sel fin",
@@ -209,16 +189,12 @@
           "quantity": ""
         },
         {
-          "name": "Paprika doux",
+          "name": "Origan doux ou thym doux",
           "quantity": ""
         },
         {
-          "name": "Fécule de maïs — 10 g",
-          "quantity": ""
-        },
-        {
-          "name": "Farine — 10 g pour étaler la pâte",
-          "quantity": ""
+          "name": "Miel doux ou sirop d'érable",
+          "quantity": "5 g, facultatif"
         }
       ]
     }

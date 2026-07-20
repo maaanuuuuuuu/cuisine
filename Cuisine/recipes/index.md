@@ -64,3 +64,16 @@
 - [[taboule-boulgour-tomates-concombre-pois-chiches-feta|Taboulé de boulgour, tomates, concombre, pois chiches et feta]]
 - [[tortellini-ricotta-epinards-tomates-cerises-parmesan|Tortellini ricotta-épinards, tomates cerises et parmesan]]
 - [[veloute-mais-doux-carotte-tartines-cheddar|Velouté de maïs doux, carotte et tartines cheddar]]
+
+## Semaine 2026-W30
+
+- [[gratin-riz-courgettes-tomates-ricotta|Gratin de riz, courgettes, tomates et ricotta]]
+- [[pates-cremeuses-haricots-verts-petits-pois-mascarpone|Pâtes crémeuses haricots verts, petits pois et mascarpone]]
+- [[perles-ble-legumes-rotis-ete-feta|Perles de blé aux légumes rôtis d'été et feta]]
+- [[polenta-cremeuse-tomates-haricots-verts-mozzarella|Polenta crémeuse, tomates, haricots verts et mozzarella]]
+- [[rouleaux-wraps-ricotta-concombre-carottes-oeuf-dur|Rouleaux de wraps ricotta, concombre, carottes et œuf dur]]
+- [[salade-haricots-verts-tomates-oeufs-pain-grille|Salade haricots verts, tomates, œufs et pain grillé]]
+- [[taboule-semoule-abricots-concombre-feta|Taboulé de semoule, abricots, concombre et feta]]
+- [[tarte-fine-courgettes-ricotta-tomates-cerises|Tarte fine courgettes, ricotta et tomates cerises]]
+- [[tortilla-pommes-terre-precuites-haricots-verts-emmental|Tortilla pommes de terre précuites, haricots verts et emmental]]
+- [[veloute-courgettes-haricots-blancs-tartines-mozzarella|Velouté courgettes, haricots blancs et tartines mozzarella]]
