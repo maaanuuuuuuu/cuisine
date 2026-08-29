@@ -77,3 +77,16 @@
 - [[tarte-fine-courgettes-ricotta-tomates-cerises|Tarte fine courgettes, ricotta et tomates cerises]]
 - [[tortilla-pommes-terre-precuites-haricots-verts-emmental|Tortilla pommes de terre précuites, haricots verts et emmental]]
 - [[veloute-courgettes-haricots-blancs-tartines-mozzarella|Velouté courgettes, haricots blancs et tartines mozzarella]]
+
+## Semaine 2026-W31
+
+- [[croques-courgette-tomate-emmental-salade-douce|Croques courgette, tomate et emmental, salade douce]]
+- [[frittata-poivrons-doux-pommes-terre-precuites-mozzarella|Frittata poivrons doux, pommes de terre précuites et mozzarella]]
+- [[gratin-lentilles-corail-carottes-courgettes-cheddar-doux|Gratin de lentilles corail, carottes et courgettes au cheddar doux]]
+- [[pates-cremeuses-blettes-courgette-jaune-chevre-frais|Pâtes crémeuses blettes, courgette jaune et chèvre frais]]
+- [[pilaf-millet-aubergines-roties-pois-chiches-feta-douce|Pilaf de millet aux aubergines rôties, pois chiches et feta douce]]
+- [[pitas-chevre-frais-carottes-concombre-haricots-blancs|Pitas chèvre frais, carottes râpées, concombre et haricots blancs]]
+- [[pizza-blanche-aubergines-roties-tomates-cerises-mozzarella|Pizza blanche aubergines rôties, tomates cerises et mozzarella]]
+- [[salade-riz-peches-concombre-feta|Salade de riz, pêches, concombre et feta]]
+- [[tartines-fromage-frais-mais-concombre-oeuf-dur|Tartines fromage frais, maïs doux, concombre et œuf dur]]
+- [[veloute-brocoli-pomme-de-terre-tartines-cheddar-doux|Velouté brocoli, pomme de terre et tartines cheddar doux]]
