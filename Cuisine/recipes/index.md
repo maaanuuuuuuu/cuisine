@@ -90,3 +90,16 @@
 - [[salade-riz-peches-concombre-feta|Salade de riz, pêches, concombre et feta]]
 - [[tartines-fromage-frais-mais-concombre-oeuf-dur|Tartines fromage frais, maïs doux, concombre et œuf dur]]
 - [[veloute-brocoli-pomme-de-terre-tartines-cheddar-doux|Velouté brocoli, pomme de terre et tartines cheddar doux]]
+
+## Semaine 2026-W32
+
+- [[bol-express-lentilles-vertes-tomates-concombre-mozzarella|Bol express lentilles vertes, tomates, concombre et mozzarella]]
+- [[bruschettas-ricotta-tomates-concombre-salade-verte|Bruschettas ricotta, tomates et concombre, salade verte]]
+- [[gnocchis-poeles-courgettes-tomates-mozzarella-fondante|Gnocchis poêlés courgettes, tomates et mozzarella fondante]]
+- [[gratin-pommes-terre-precuites-haricots-verts-comte|Gratin de pommes de terre précuites, haricots verts et comté]]
+- [[oeufs-brouilles-cremeux-courgettes-rapees-tartines-tomate|Œufs brouillés crémeux, courgettes râpées et tartines de tomate]]
+- [[pates-cremeuses-courgettes-haricots-verts-ricotta-citronnee|Pâtes crémeuses courgettes, haricots verts et ricotta citronnée]]
+- [[salade-boulgour-melon-tomates-pois-chiches|Salade de boulgour, melon, tomates et pois chiches]]
+- [[sarrasin-cremeux-champignons-aubergines-roties-feta-douce|Sarrasin crémeux aux champignons, aubergines rôties et feta douce]]
+- [[tarte-rustique-tomates-cerises-poivrons-doux-mozzarella|Tarte rustique tomates cerises, poivrons doux et mozzarella]]
+- [[veloute-poivrons-doux-carottes-pois-chiches-tartines-fromage-frais|Velouté poivrons doux, carottes et pois chiches, tartines fromage frais]]
