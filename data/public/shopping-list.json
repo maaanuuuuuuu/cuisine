@@ -44,6 +44,18 @@
           "quantity": "1150 g"
         },
         {
+          "name": "Brugnons",
+          "quantity": ""
+        },
+        {
+          "name": "Fruits",
+          "quantity": ""
+        },
+        {
+          "name": "Pêches",
+          "quantity": ""
+        },
+        {
           "name": "Pommes",
           "quantity": "200 g"
         },
@@ -128,6 +140,10 @@
           "quantity": "35 g"
         },
         {
+          "name": "Crème",
+          "quantity": ""
+        },
+        {
           "name": "Lait demi-écrémé",
           "quantity": "600 ml"
         },
@@ -166,6 +182,15 @@
       ]
     },
     {
+      "name": "Bébé",
+      "items": [
+        {
+          "name": "Purée bébé",
+          "quantity": ""
+        }
+      ]
+    },
+    {
       "name": "Basiques et épices",
       "items": [
         {
@@ -195,6 +220,19 @@
         {
           "name": "Bouillon de légumes en cube",
           "quantity": "5 g"
+        }
+      ]
+    },
+    {
+      "name": "Maison et hygiène",
+      "items": [
+        {
+          "name": "Cotons",
+          "quantity": ""
+        },
+        {
+          "name": "Papier sulfurisé",
+          "quantity": ""
         }
       ]
     }
