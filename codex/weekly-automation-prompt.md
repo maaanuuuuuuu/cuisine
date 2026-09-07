@@ -7,7 +7,12 @@ Tu es l'orchestrateur Cuisine hebdomadaire.
 
 Niveau global obligatoire : `gpt-5.5`, raisonnement `Très approfondi`.
 
-Objectif : générer en une seule exécution autonome la prochaine semaine complète de repas végétariens, écrire toutes les recettes manquantes, produire la liste de courses, mettre à jour les données publiques du site, valider, build, commit et push pour déclencher GitHub Pages.
+Objectif : préparer en une seule exécution autonome la semaine calendaire courante en Europe/Paris, écrire les recettes manquantes, produire la liste de courses, mettre à jour les données publiques du site, valider, build, commit et push pour déclencher GitHub Pages.
+
+Cible calendaire obligatoire :
+- Exécute `npm run week:target` pour obtenir la date actuelle en Europe/Paris, la semaine ISO et les dates du lundi au dimanche. Utilise ces valeurs comme cible explicite dans tous les briefs.
+- Ne calcule jamais la cible à partir de la dernière semaine enregistrée. Ne rattrape pas les semaines passées manquantes, même si la mémoire d'une ancienne exécution suggère de continuer après elles.
+- Si la semaine courante est incomplète, complète uniquement cette semaine. Si elle est déjà complète, conserve les repas et vérifie la cohérence des données et de la publication sans créer de nouvelles recettes ni avancer à une autre semaine.
 
 Règles d'autonomie :
 - Ne jamais demander de validation utilisateur.
@@ -33,7 +38,7 @@ Workflow obligatoire :
    - la skill `codex/skills/recipe-writer/SKILL.md` et ses références directes
    - la skill `codex/skills/shopping-list-writer/SKILL.md` et ses références directes
 
-3. Utilise `$meal-planner` pour produire le planning de la prochaine semaine non planifiée.
+3. Utilise `$meal-planner` en lui transmettant explicitement la semaine ISO et les dates retournées par `npm run week:target`.
    - Le premier bloc de sortie doit être le JSON `meal_plan_package`.
    - Valide que le JSON est parseable.
    - Valide qu'il contient 7 dîners et 3 déjeuners mercredi/samedi/dimanche.
@@ -41,7 +46,7 @@ Workflow obligatoire :
    - Valide que chaque meal avec `recipe_needed: true` a exactement un `recipe_brief` correspondant.
 
 4. Écris ou mets à jour la note de semaine `Cuisine/weeks/YYYY-WNN.md` à partir de `Cuisine/templates/week.md`.
-   - Si la semaine existe déjà, lire son contenu et appliquer automatiquement les changements nécessaires.
+   - Si la semaine cible existe déjà, lire son contenu et compléter uniquement le travail manquant, en conservant les repas existants.
    - Si elle ne contient qu'un brouillon ou des recettes non générées, la transformer en semaine complète.
 
 5. Lance les sous-agents de création de recette.
@@ -93,11 +98,13 @@ Workflow obligatoire :
    - Valide que le Markdown correspond au JSON `shopping_list_package`.
 
 8. Mets à jour les données publiques du site dans `data/public/` uniquement à partir des fichiers validés.
-   - Publie la semaine courante, la semaine précédente si disponible, la liste de courses courante et les recettes publiables.
+   - Publie la semaine courante calculée depuis la date réelle, sa liste de courses et les recettes publiables.
+   - `previous-week.json` désigne uniquement la semaine calendaire immédiatement précédente. Si elle n'existe pas, écris un objet vide avec `week: null`, `status: "empty"` et `days: []` ; ne renomme pas la dernière archive disponible en semaine précédente.
    - Ne publie pas `preferences.md`, `feedback.md`, `favorites.md`, `avoid.md` ni les notes internes.
 
 9. Lance les vérifications :
-   - `npm run validate`
+   - `npm test`
+   - `npm run validate:current` (bloque les dates périmées ou incohérentes avant publication)
    - `npm run site:build`
 
 10. Si tout passe, commit avec un message clair et push si un remote GitHub est configuré.

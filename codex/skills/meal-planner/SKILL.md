@@ -24,7 +24,7 @@ Do not produce:
 
 ## Workflow
 
-1. Identify the target ISO week from the user or orchestrator. If it is missing, infer the next unplanned week from existing week files.
+1. Identify the target ISO week from the user or orchestrator. An explicit week takes precedence. Otherwise run `npm run week:target` from the Cuisine repository to get the current ISO week and Monday/Sunday dates in Europe/Paris. Never infer the target by incrementing the latest saved week or filling historical gaps. Only plan a past or future week when explicitly requested. Preserve an already complete target week unless a revision is requested; complete only missing work for that same calendar week.
 2. Read project context before planning:
    - `Cuisine/preferences.md`;
    - `Cuisine/feedback.md`;

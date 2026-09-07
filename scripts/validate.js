@@ -1,6 +1,7 @@
 import { readdir, readFile, stat } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { calendarErrors, currentWeekErrors, addDays } from "./week-calendar.js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const vaultDir = "Cuisine";
@@ -185,6 +186,11 @@ async function validateWeekNote(week) {
   if (frontmatterValue(frontmatter, "week") !== week.week) {
     fail(`${relativePath}: identifiant de semaine incoherent`);
   }
+  for (const key of ["start_date", "end_date"]) {
+    if (frontmatterValue(frontmatter, key) !== week[key]) {
+      fail(`${relativePath}: ${key} diffère des données publiques`);
+    }
+  }
 }
 
 async function validateShoppingNote(shopping) {
@@ -211,6 +217,24 @@ async function validatePublicData() {
   const shopping = await readJson("data/public/shopping-list.json");
   if (!currentWeek || !previousWeek || !recipesData || !shopping) return;
 
+  if (process.argv.includes("--current-week")) {
+    for (const error of currentWeekErrors(currentWeek)) fail(error);
+  }
+  for (const week of [currentWeek, previousWeek]) {
+    if (hasPlannedWeek(week)) {
+      for (const error of calendarErrors(week)) fail(`${week.week}: ${error}`);
+    }
+  }
+  if (hasPlannedWeek(currentWeek) && hasPlannedWeek(previousWeek)) {
+    try {
+      if (previousWeek.end_date !== addDays(currentWeek.start_date, -1)) {
+        fail("previous-week.json doit désigner la semaine calendaire précédente, ou rester vide si elle manque.");
+      }
+    } catch (error) {
+      fail(error.message);
+    }
+  }
+
   const recipes = recipesData.recipes || [];
   if (!Array.isArray(recipesData.recipes)) {
     fail("data/public/recipes.json: recipes doit etre un tableau");
@@ -236,6 +260,11 @@ async function validatePublicData() {
   }
 
   if (hasPlannedWeek(currentWeek)) {
+    for (const day of currentWeek.days || []) {
+      for (const meal of day.meals || []) {
+        if (!meal.recipe_slug) fail(`${day.date}: recette manquante dans le planning courant`);
+      }
+    }
     if (countMeals(currentWeek, "dinner") !== 7) {
       fail("data/public/current-week.json: 7 diners attendus");
     }
@@ -255,8 +284,12 @@ async function validatePublicData() {
   if (!Array.isArray(shopping.sections)) {
     fail("data/public/shopping-list.json: sections doit etre un tableau");
   }
-  if (shopping.week && currentWeek.week && shopping.week !== currentWeek.week) {
+  if (currentWeek.week && shopping.week !== currentWeek.week) {
     fail("data/public/shopping-list.json: doit correspondre a la semaine courante");
+  }
+  if (currentWeek.week && (!shopping.sections?.length ||
+      !shopping.sections.some((section) => section.items?.length))) {
+    fail("data/public/shopping-list.json: la semaine courante doit avoir une liste de courses complète");
   }
   await validateShoppingNote(shopping);
   await validateRecipeNotes(recipes);

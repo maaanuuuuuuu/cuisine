@@ -21,6 +21,8 @@ Principe :
 
 ```bash
 npm run validate
+npm run validate:current
+npm run week:target
 npm run site:build
 npm run site:dev
 ```
@@ -34,10 +36,10 @@ Demander à Codex :
 ```text
 Relis Plan.md, Cuisine/preferences.md, Cuisine/feedback.md, Cuisine/favorites.md,
 Cuisine/avoid.md, Cuisine/recipes/, Cuisine/weeks/ et Cuisine/shopping-lists/.
-Génère la prochaine semaine de repas végétariens : 7 dîners + 3 déjeuners
+Exécute npm run week:target et génère cette semaine calendaire de repas végétariens : 7 dîners + 3 déjeuners
 mercredi/samedi/dimanche, en tenant compte de l'historique et des préférences.
 Mets à jour les notes Obsidian, la liste de courses consolidée et les données
-publiques du site. Lance npm run validate et npm run site:build. Si tout passe,
+publiques du site. Ne rattrape pas les anciennes semaines manquantes. Lance npm run validate:current et npm run site:build. Si tout passe,
 commit avec un message clair et push.
 ```
 
@@ -47,7 +49,7 @@ Demander à Codex une modification précise, par exemple :
 
 ```text
 Remplace le dîner de mercredi de la semaine courante par une recette plus rapide,
-puis mets à jour la liste de courses, les données publiques du site, validate/build,
+puis mets à jour la liste de courses, les données publiques du site, validate:current/site:build,
 commit et push.
 ```
 
@@ -60,7 +62,9 @@ Une automation locale Codex active a été créée :
 - id : `cuisine-weekly-planning-orchestrator`
 - fréquence : lundi 08:00, Europe/Paris
 - dossier : `C:\Users\USER\Desktop\devs\Cuisine`
-- comportement : générer la prochaine semaine, lancer un sous-agent `$recipe-writer` en `5.5 Très approfondi` par brief recette, générer la liste de courses ordonnée avec `$shopping-list-writer`, mettre à jour `Cuisine/`, `data/public/`, lancer `npm run validate` puis `npm run site:build`, commit/push si un remote GitHub est configuré.
+- comportement : préparer la semaine calendaire courante en Europe/Paris, lancer un sous-agent `$recipe-writer` en `5.5 Très approfondi` par brief recette manquant, générer la liste de courses ordonnée avec `$shopping-list-writer`, mettre à jour `Cuisine/`, `data/public/`, lancer `npm test`, `npm run validate:current` puis `npm run site:build`, commit/push si un remote GitHub est configuré.
+
+La cible vient de `npm run week:target`, jamais de la dernière archive. Une interruption ne déclenche pas de rattrapage des semaines passées. Une semaine courante complète est conservée. `validate` vérifie la structure et autorise les archives ; `validate:current` exige en plus la semaine actuelle et est utilisé par GitHub Pages. La semaine précédente reste vide si la semaine calendaire immédiatement précédente n'a pas été préparée.
 
 Si aucun remote GitHub n'est configuré au moment de l'exécution, l'automation doit laisser les changements validés localement et signaler que l'URL du repo manque.
 

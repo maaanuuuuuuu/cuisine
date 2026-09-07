@@ -40,6 +40,8 @@ Automatisation hebdomadaire :
 
 Chaque lundi, Codex doit générer :
 
+La cible est la semaine calendaire courante en Europe/Paris, obtenue avec `npm run week:target`. La dernière semaine enregistrée ne sert pas à calculer cette cible. Les anciennes semaines manquantes sont ignorées ; une semaine courante complète est conservée et une semaine courante incomplète est complétée. Une demande explicite de l'utilisateur peut viser une autre semaine.
+
 - 7 dîners ;
 - 3 déjeuners : mercredi, samedi et dimanche ;
 - éventuellement des restes quand cela aide à réduire la charge cuisine ou les courses.
@@ -387,6 +389,8 @@ Commandes recommandées :
 {
   "scripts": {
     "validate": "node scripts/validate.js",
+    "validate:current": "node scripts/validate.js --current-week",
+    "week:target": "node scripts/target-week.js",
     "site:build": "node scripts/build-site.js",
     "site:dev": "npx serve dist"
   }
@@ -476,7 +480,7 @@ Workflow :
 1. Push sur la branche principale.
 2. GitHub Actions installe Node.
 3. Lance `npm ci` si `package-lock.json` existe, sinon `npm install`.
-4. Lance `npm run validate`.
+4. Lance `npm test` puis `npm run validate:current`.
 5. Lance `npm run site:build`.
 6. Publie `dist/` sur GitHub Pages.
 
@@ -487,17 +491,17 @@ Quand Codex modifie la semaine ou les recettes, il doit toujours pousser les cha
 Mécanisme cible :
 
 - automatisation Codex récurrente chaque lundi 08:00 Europe/Paris ;
-- le prompt d'automatisation doit demander à Codex de relire le repo et de générer la semaine suivante.
+- le prompt d'automatisation doit demander à Codex de relire le repo et de préparer la semaine calendaire courante en Europe/Paris, sans rattraper les anciennes semaines manquantes.
 
 Prompt d'automatisation recommandé :
 
 ```text
 Ouvre le repo Cuisine. Relis Plan.md, obsidian/preferences.md, obsidian/feedback.md,
 obsidian/favorites.md, obsidian/avoid.md, obsidian/recipes/, obsidian/weeks/ et
-obsidian/shopping-lists/. Génère la prochaine semaine de repas végétariens :
+obsidian/shopping-lists/. Exécute npm run week:target et prépare la semaine calendaire courante de repas végétariens :
 7 dîners + 3 déjeuners mercredi/samedi/dimanche, en tenant compte de l'historique
 et des préférences. Mets à jour les notes Obsidian, la liste de courses consolidée,
-les données publiques du site, puis lance validate et site:build. Si tout passe,
+les données publiques du site, puis lance validate:current et site:build. Si tout passe,
 commit avec un message clair et push.
 ```
 
@@ -527,7 +531,7 @@ Avant chaque commit :
 
 1. Vérifier `git status`.
 2. Relire les changements importants.
-3. Lancer `npm run validate`.
+3. Lancer `npm run validate:current` avant publication (ou `npm run validate` pour travailler seulement sur les archives).
 4. Lancer `npm run site:build`.
 5. Commit seulement si les validations passent.
 

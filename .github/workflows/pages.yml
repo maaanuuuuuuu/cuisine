@@ -35,8 +35,11 @@ jobs:
             npm install
           fi
 
+      - name: Test calendar
+        run: npm test
+
       - name: Validate
-        run: npm run validate
+        run: npm run validate:current
 
       - name: Build site
         run: npm run site:build
@@ -56,4 +59,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-

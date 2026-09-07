@@ -1,6 +1,6 @@
 {
-  "week": "2026-W32",
-  "title": "Liste de courses 2026-W32",
+  "week": "2026-W37",
+  "title": "Liste de courses 2026-W37",
   "status": "planned",
   "pantry_basics_included": true,
   "sections": [
@@ -8,56 +8,52 @@
       "name": "Fruits et légumes",
       "items": [
         {
-          "name": "Herbes fraîches douces (basilic, persil, ciboulette ou menthe)",
-          "quantity": "70 g environ"
+          "name": "Basilic",
+          "quantity": "15 g"
         },
         {
-          "name": "Salade verte",
-          "quantity": "120 g"
-        },
-        {
-          "name": "Courgettes",
-          "quantity": "1,65 kg"
-        },
-        {
-          "name": "Haricots verts frais ou surgelés",
-          "quantity": "800 g"
-        },
-        {
-          "name": "Champignons de Paris ou champignons bruns",
-          "quantity": "450 g"
-        },
-        {
-          "name": "Aubergines",
-          "quantity": "650 g"
-        },
-        {
-          "name": "Poivrons doux rouges ou jaunes",
-          "quantity": "800 g"
-        },
-        {
-          "name": "Tomates et tomates cerises",
-          "quantity": "2,3 kg, dont au moins 650 g de tomates cerises"
-        },
-        {
-          "name": "Concombres",
-          "quantity": "750 g, dont 200 g optionnels"
+          "name": "Brocoli",
+          "quantity": "600 g"
         },
         {
           "name": "Carottes",
-          "quantity": "450 g"
+          "quantity": "600 g"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "750 g"
+        },
+        {
+          "name": "Chou-fleur",
+          "quantity": "1100 g"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "300 g"
+        },
+        {
+          "name": "Poivrons rouges",
+          "quantity": "950 g"
+        },
+        {
+          "name": "Potimarron",
+          "quantity": "1550 g"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "1400 g"
         },
         {
           "name": "Pommes de terre",
-          "quantity": "1,15 kg"
+          "quantity": "800 g"
         },
         {
-          "name": "Melon",
-          "quantity": "1 moyen, pour environ 500 g de chair"
+          "name": "Pommes",
+          "quantity": "200 g"
         },
         {
           "name": "Citrons",
-          "quantity": "3"
+          "quantity": "3 moyens environ (80 ml de jus au total + un peu de zeste, selon rendement)"
         }
       ]
     },
@@ -65,8 +61,8 @@
       "name": "Boulangerie",
       "items": [
         {
-          "name": "Pain de campagne",
-          "quantity": "900 g environ"
+          "name": "Pain complet",
+          "quantity": "860 g"
         }
       ]
     },
@@ -74,44 +70,57 @@
       "name": "Épicerie salée",
       "items": [
         {
+          "name": "Boulgour sec",
+          "quantity": "270 g"
+        },
+        {
           "name": "Pâtes courtes sèches",
-          "quantity": "330 g"
+          "quantity": "320 g"
         },
         {
-          "name": "Sarrasin décortiqué sec",
-          "quantity": "260 g"
+          "name": "Polenta instantanée",
+          "quantity": "240 g"
         },
         {
-          "name": "Boulgour moyen sec",
+          "name": "Riz basmati sec",
+          "quantity": "240 g"
+        },
+        {
+          "name": "Semoule de couscous précuite",
           "quantity": "220 g"
         },
         {
-          "name": "Lentilles vertes cuites égouttées",
+          "name": "Passata",
+          "quantity": "200 g"
+        },
+        {
+          "name": "Haricots blancs en conserve",
           "quantity": "500 g"
         },
         {
-          "name": "Pois chiches cuits égouttés",
-          "quantity": "540 g"
+          "name": "Lentilles corail sèches",
+          "quantity": "120 g"
         },
         {
-          "name": "Passata ou coulis de tomate doux",
-          "quantity": "300 g"
+          "name": "Lentilles vertes en conserve",
+          "quantity": "500 g"
         },
         {
-          "name": "Bouillon de légumes doux peu salé",
-          "quantity": "de quoi préparer 850 ml"
+          "name": "Pois chiches en conserve",
+          "quantity": "350 g"
         },
         {
-          "name": "Moutarde douce",
-          "quantity": "15 g"
-        },
+          "name": "Huile d’olive",
+          "quantity": "75 g + 45 ml"
+        }
+      ]
+    },
+    {
+      "name": "Surgelé",
+      "items": [
         {
-          "name": "Miel doux",
-          "quantity": "8 g"
-        },
-        {
-          "name": "Vinaigre balsamique doux",
-          "quantity": "10 ml"
+          "name": "Épinards hachés surgelés",
+          "quantity": "600 g"
         }
       ]
     },
@@ -119,60 +128,44 @@
       "name": "Frais",
       "items": [
         {
-          "name": "Œufs",
-          "quantity": "10"
+          "name": "Œufs moyens",
+          "quantity": "6"
         },
         {
-          "name": "Gnocchis frais",
-          "quantity": "800 g"
-        },
-        {
-          "name": "Pâte brisée prête à dérouler",
-          "quantity": "1 rouleau, environ 280 g"
-        },
-        {
-          "name": "Crème légère ou crème fraîche légère 15 %",
-          "quantity": "480 ml/g environ, dont 80 g optionnels"
+          "name": "Beurre",
+          "quantity": "45 g"
         },
         {
           "name": "Lait demi-écrémé",
-          "quantity": "250 ml"
+          "quantity": "1200 ml"
         },
         {
           "name": "Yaourt nature",
+          "quantity": "250 g"
+        },
+        {
+          "name": "Chèvre frais",
           "quantity": "150 g"
         },
         {
-          "name": "Beurre doux",
-          "quantity": "10 g"
+          "name": "Comté",
+          "quantity": "200 g"
         },
         {
-          "name": "Ricotta",
-          "quantity": "680 g"
+          "name": "Emmental râpé",
+          "quantity": "140 g"
         },
         {
-          "name": "Mozzarella",
-          "quantity": "750 g"
+          "name": "Fromage frais nature à tartiner",
+          "quantity": "400 g"
         },
         {
-          "name": "Feta douce",
-          "quantity": "300 g"
+          "name": "Mozzarella en boules",
+          "quantity": "250 g"
         },
         {
-          "name": "Comté râpé",
-          "quantity": "150 g"
-        },
-        {
-          "name": "Fromage frais nature doux ou à tartiner",
-          "quantity": "320 g"
-        },
-        {
-          "name": "Parmesan râpé optionnel",
-          "quantity": "40 g"
-        },
-        {
-          "name": "Emmental râpé facultatif",
-          "quantity": "60 g"
+          "name": "Pâte à pizza fraîche",
+          "quantity": "500 g"
         }
       ]
     },
@@ -180,44 +173,32 @@
       "name": "Basiques et épices",
       "items": [
         {
-          "name": "Huile d'olive",
-          "quantity": "environ 200 ml"
+          "name": "Poivre",
+          "quantity": "1,2 g"
         },
         {
           "name": "Sel fin",
-          "quantity": ""
+          "quantity": "15 g"
         },
         {
-          "name": "Poivre doux",
-          "quantity": ""
+          "name": "Cumin moulu",
+          "quantity": "1 g"
         },
         {
-          "name": "Muscade ou noix de muscade douce",
-          "quantity": ""
+          "name": "Origan séché",
+          "quantity": "1 g"
         },
         {
-          "name": "Origan doux",
-          "quantity": ""
+          "name": "Thym séché",
+          "quantity": "0,5 g"
         },
         {
-          "name": "Herbes de Provence",
-          "quantity": ""
+          "name": "Farine de blé",
+          "quantity": "35 g"
         },
         {
-          "name": "Thym doux",
-          "quantity": ""
-        },
-        {
-          "name": "Paprika doux non fumé",
-          "quantity": ""
-        },
-        {
-          "name": "Fécule de maïs",
-          "quantity": "10 g"
-        },
-        {
-          "name": "Chapelure fine ou semoule fine",
-          "quantity": "50 g"
+          "name": "Bouillon de légumes en cube",
+          "quantity": "5 g"
         }
       ]
     }

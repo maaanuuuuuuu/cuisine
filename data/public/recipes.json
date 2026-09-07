@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01",
+  "updated_at": "2026-09-07",
   "recipes": [
     {
       "slug": "assiettes-melon-mozzarella-tomates-pain-grille",
@@ -365,6 +365,121 @@
         {
           "title": "Servir froid ou tiède",
           "text": "Sers le bol avec les 500 g de lentilles vertes cuites, les 350 g de tomates, les 250 g de concombre, les 250 g de mozzarella et la sauce aux 150 g de yaourt nature. Goûte seulement à la fin avant d'ajouter du sel, car les 250 g de mozzarella apportent déjà un peu de douceur lactée et de sel. Si le bol attend, garde-le au frais et remue-le rapidement juste avant de servir."
+        }
+      ]
+    },
+    {
+      "slug": "boulgour-risotto-champignons-potimarron-comte",
+      "title": "Boulgour façon risotto aux champignons, potimarron et comté",
+      "summary": "Le plat de mardi, c'est un boulgour mijoté avec des champignons dorés et de petits dés de potimarron fondants. Le comté incorporé hors du feu lie le tout en un plat doux et moelleux. Pour 2 adultes + 2 jeunes enfants. Temps : 15 min de préparation + 25 min de cuisson, soit 40 min environ. Prévois quelques minutes de plus si le boulgour choisi cuit plus longtemps.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "boulgour",
+        "champignons",
+        "potimarron"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1787,
+        "calories_per_serving": 447,
+        "protein_g": 81,
+        "carbs_g": 230,
+        "fat_g": 53
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Boulgour sec",
+          "quantity": "270 g",
+          "calories": 923,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "500 g",
+          "calories": 110,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Potimarron",
+          "quantity": "600 g net utile, soit environ 750 g brut",
+          "calories": 204,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté",
+          "quantity": "100 g",
+          "calories": 417,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml",
+          "calories": 122,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Bouillon de légumes en cube",
+          "quantity": "5 g",
+          "calories": 10,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Thym séché",
+          "quantity": "0,5 g",
+          "calories": 1,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "1 g maximum, à ajuster",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivre",
+          "quantity": "0,2 g, facultatif",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les légumes et le bouillon",
+          "text": "Brosse environ 750 g de potimarron, retire les graines et les filaments, puis pèse 600 g net utile. Garde la peau si elle est fine ; si tu la retires, pèse les 600 g après épluchage. Coupe en dés de 1 cm pour une cuisson régulière. Nettoie et émince 500 g de champignons de Paris. Râpe 100 g de comté. Dissous 5 g de cube de bouillon de légumes dans 650 ml d'eau bien chaude."
+        },
+        {
+          "title": "Dore les champignons",
+          "text": "Chauffe 15 ml d'huile d'olive dans une grande sauteuse de 28 à 30 cm. Ajoute les 500 g de champignons et fais revenir 7 minutes à feu assez vif, en remuant régulièrement. Ils doivent perdre une bonne partie de leur eau et commencer à dorer."
+        },
+        {
+          "title": "Amorce la cuisson du potimarron",
+          "text": "Ajoute les 600 g de potimarron en dés et 0,5 g de thym séché. Verse 100 ml d'eau, couvre et cuis 5 minutes à feu moyen. Les dés commencent à s'attendrir mais restent encore fermes au centre."
+        },
+        {
+          "title": "Fais mijoter le boulgour",
+          "text": "Ajoute 270 g de boulgour sec et les 650 ml de bouillon chaud. Mélange, couvre puis laisse frémir doucement environ 12 minutes, ou selon le temps indiqué sur le paquet. Remue deux ou trois fois et vérifie le fond. Le boulgour doit être tendre et les dés de potimarron s'écraser facilement à la fourchette. Si les grains restent fermes ou si le fond sèche, ajoute 50 à 100 ml d'eau chaude et prolonge de 2 à 3 minutes. S'il reste beaucoup de liquide, cuis les dernières minutes sans couvercle."
+        },
+        {
+          "title": "Lie et sers moelleux",
+          "text": "Coupe le feu. Écrase quelques dés de potimarron contre la paroi de la sauteuse puis incorpore les 100 g de comté râpé pendant 1 minute. Ajoute 30 à 50 ml d'eau chaude si le mélange devient compact : il doit rester souple dans l'assiette. Goûte avant d'ajouter jusqu'à 1 g de sel fin, car le bouillon et le fromage salent déjà le plat. Propose les 0,2 g de poivre à part et laisse tiédir les portions des enfants."
         }
       ]
     },
@@ -2227,6 +2342,108 @@
       ]
     },
     {
+      "slug": "gratin-pommes-terre-chou-fleur-emmental",
+      "title": "Gratin de pommes de terre et chou-fleur à l’emmental",
+      "summary": "Le plat de jeudi, c’est un gratin fondant de pommes de terre et de chou-fleur, nappé d’une béchamel souple à l’emmental. Pour 2 adultes + 2 jeunes enfants : environ 15 minutes de préparation et 35 minutes de cuisson, soit 50 minutes au total, en préparant la sauce pendant la précuisson des légumes.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 35,
+      "total_time_minutes": 50,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gratin",
+        "four"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1990,
+        "calories_per_serving": 498,
+        "protein_g": 92,
+        "carbs_g": 212,
+        "fat_g": 83
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pommes de terre",
+          "quantity": "800 g",
+          "calories": 616,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chou-fleur",
+          "quantity": "1100 g entier, pour environ 700 g de fleurettes",
+          "calories": 175,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "600 ml",
+          "calories": 276,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Emmental râpé",
+          "quantity": "140 g",
+          "calories": 532,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Farine de blé",
+          "quantity": "35 g",
+          "calories": 128,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Beurre",
+          "quantity": "35 g",
+          "calories": 263,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "2 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les légumes et le four",
+          "text": "Préchauffe le four à 200 °C en chaleur traditionnelle, ou 180 °C en chaleur tournante, et porte une grande casserole d’eau à ébullition. Épluche les 800 g de pommes de terre et coupe-les en rondelles régulières de 3 à 4 mm. Prélève environ 700 g de fleurettes de 3 cm sur le chou-fleur de 1100 g entier, puis rince-les ; les calories sont calculées sur les 700 g utilisés."
+        },
+        {
+          "title": "Précuis jusqu’à tendreté complète",
+          "text": "Plonge les rondelles issues des 800 g de pommes de terre dans l’eau bouillante et laisse frémir 12 à 15 minutes à partir de la reprise du frémissement. Ajoute les 700 g de fleurettes de chou-fleur après 5 minutes, pour 7 à 10 minutes de cuisson. Avant d’égoutter, pique plusieurs rondelles : le couteau doit les traverser sans résistance, et les fleurettes doivent être tendres. Prolonge de quelques minutes si nécessaire ; retire le chou-fleur avec une écumoire s’il est prêt avant les pommes de terre. Le four servira à gratiner des légumes déjà cuits. Égoutte soigneusement et laisse la vapeur s’échapper 2 minutes."
+        },
+        {
+          "title": "Prépare une béchamel souple",
+          "text": "Pendant la précuisson, fais fondre 30 g de beurre dans une casserole. Ajoute les 35 g de farine et remue 1 minute à feu moyen sans faire brunir. Verse progressivement les 600 ml de lait demi-écrémé en fouettant, puis cuis 6 à 8 minutes à feu moyen, en remuant jusqu’au premier bouillonnement et jusqu’à ce que la sauce nappe la cuillère. Hors du feu, incorpore 50 g d’emmental râpé et les 2 g de sel. La sauce doit rester assez fluide pour se répartir entre les légumes ; si elle a trop épaissi, détends-la avec 2 à 4 cuillères à soupe d’eau."
+        },
+        {
+          "title": "Monte le gratin",
+          "text": "Graisse un plat d’environ 28 × 20 cm avec les 5 g de beurre restants. Répartis les pommes de terre précuites issues des 800 g de départ et les 700 g de chou-fleur bien égoutté. Verse toute la béchamel préparée avec 600 ml de lait, puis remue délicatement pour enrober les légumes. Parsème avec les 90 g d’emmental râpé restants."
+        },
+        {
+          "title": "Fais gratiner et sers",
+          "text": "Enfourne le plat garni des 90 g d’emmental de finition pendant 18 à 20 minutes : le dessus doit être doré et la sauce doit bouillonner sur les bords. Si le fromage colore trop vite, baisse le four à 180 °C. Sers quand la chaleur convient à chacun, en écrasant au besoin les fleurettes dans les petites portions."
+        }
+      ]
+    },
+    {
       "slug": "gratin-pommes-de-terre-courgettes-chevre",
       "title": "Gratin de pommes de terre fines, courgettes et chèvre",
       "summary": "Le plat de jeudi, c'était un gratin familial doux : des pommes de terre coupées très finement puis précuites, des courgettes bien épongées, une crème légère, du chèvre doux et une couche d'emmental gratiné. Le résultat est fondant sans être trop fort pour les enfants.",
@@ -3017,6 +3234,110 @@
       ]
     },
     {
+      "slug": "oeufs-cocotte-poivrons-tomates-riz",
+      "title": "Œufs cocotte aux poivrons et tomates, riz",
+      "summary": "Le dîner de vendredi : des poivrons et des tomates fondants, des œufs cuits au four en cocottes et du riz nature. Le riz cuit pendant le passage des cocottes au four. Pour 2 adultes + 2 jeunes enfants. Temps : 10 min de préparation + 30 min de cuisson, soit environ 40 min. Le riz cuit en parallèle. Prévois jusqu’à 5 minutes supplémentaires selon la taille des œufs et le four. Matériel : 4 ramequins larges de 400 ml minimum, un grand plat à gratin pour le bain-marie, une poêle et une casserole.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "oeufs",
+        "riz",
+        "four",
+        "legumes"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1673,
+        "calories_per_serving": 418,
+        "protein_g": 64,
+        "carbs_g": 232,
+        "fat_g": 53
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Œufs",
+          "quantity": "6 moyens",
+          "calories": 432,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivrons rouges",
+          "quantity": "500 g entiers, soit environ 400 g nets épépinés",
+          "calories": 124,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "500 g",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Riz sec",
+          "quantity": "240 g de riz basmati, cuisson 10 à 12 min",
+          "calories": 864,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d’olive",
+          "quantity": "20 ml",
+          "calories": 162,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Basilic",
+          "quantity": "5 g",
+          "calories": 1,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel",
+          "quantity": "2 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer le four et les poivrons",
+          "text": "Préchauffe le four à 190 °C, chaleur tournante. Prépare 4 ramequins larges allant au four, de 400 ml minimum, et un plat à gratin pouvant les contenir. Lave 500 g de poivrons rouges entiers, enlève pédoncules et graines pour obtenir environ 400 g nets, puis coupe-les en fines lamelles de 3 mm. Compte environ 6 minutes."
+        },
+        {
+          "title": "Attendrir les légumes",
+          "text": "Chauffe 20 ml d’huile d’olive dans une grande poêle. Ajoute les 400 g de poivrons préparés, 30 ml d’eau et 1 g de sel. Couvre et cuis 8 minutes à feu moyen, en remuant une fois ; ajoute un trait d’eau si nécessaire. Pendant ce temps, coupe 500 g de tomates en petits dés et cisèle 5 g de basilic. Ajoute les 500 g de tomates aux poivrons et cuis encore 4 minutes à découvert, à feu assez vif : le jus doit épaissir et les poivrons commencer à s’assouplir. La cuisson se termine au four. Incorpore les 5 g de basilic."
+        },
+        {
+          "title": "Remplir les cocottes",
+          "text": "Répartis les légumes bien chauds dans les 4 ramequins : environ un tiers du mélange dans chacun des 2 ramequins adultes et un sixième dans chacun des 2 ramequins enfants. Creuse 2 petits nids dans chaque portion adulte et 1 dans chaque portion enfant. Casse les 6 œufs moyens, soit 2 par adulte et 1 par enfant, dans ces nids. Pose les ramequins dans le plat à gratin. Verse de l’eau très chaude dans le plat jusqu’à mi-hauteur des ramequins, sans en mettre sur les œufs."
+        },
+        {
+          "title": "Cuire les œufs et le riz en parallèle",
+          "text": "Enfourne les 4 ramequins contenant les 6 œufs à 190 °C pour environ 18 minutes. Dès leur mise au four, fais bouillir une casserole d’eau, ajoute les 240 g de riz basmati sec et le dernier 1 g de sel, puis cuis 10 à 12 minutes selon le paquet. Égoutte le riz et garde-le couvert quelques minutes. Vérifie les œufs : les blancs doivent être entièrement opaques et pris ; pour les enfants, les jaunes doivent aussi être pris jusqu’au centre, sans partie liquide. Vérifie le centre d’un jaune avec la pointe d’un couteau et prolonge la cuisson des ramequins concernés de 3 à 5 minutes si nécessaire. Le bain-marie et les légumes gardent l’ensemble moelleux."
+        },
+        {
+          "title": "Servir",
+          "text": "Sors les 4 ramequins du bain-marie avec précaution et laisse reposer 2 minutes. Répartis le riz cuit issu des 240 g secs : environ un tiers par adulte et un sixième par enfant. Sers avec les cocottes, en transférant la portion des enfants dans une assiette pour qu’elle tiédisse. Les poivrons doivent se couper facilement à la fourchette."
+        }
+      ]
+    },
+    {
       "slug": "oeufs-cocotte-tomates-cerises-epinards-mouillettes",
       "title": "Œufs cocotte tomates cerises, épinards et mouillettes",
       "summary": "Le plat de vendredi, c'était : œufs cocotte tomates cerises, épinards et mouillettes. Des ramequins doux et crémeux avec des œufs juste pris, des tomates cerises fondantes, des épinards et un peu de fromage râpé. Les mouillettes de pain de campagne rendent le dîner complet et facile à partager avec les enfants. Pour 2 adultes + 2 jeunes enfants   Temps : 15 min préparation + 25 min cuisson",
@@ -3257,6 +3578,105 @@
         {
           "title": "Finir avec la feta",
           "text": "Hors du feu, incorpore 120 g de feta émiettée dans l'orzotto d'300 g d'orge perlé, 450 g de poivrons et 500 g de tomates. Laisse reposer 3 minutes pour que 120 g de feta fondent légèrement, puis ajoute les 60 g de feta restants au service avec un peu de basilic ou persil et du poivre doux."
+        }
+      ]
+    },
+    {
+      "slug": "pates-cremeuses-brocoli-fromage-frais-citron",
+      "title": "Pâtes crémeuses au brocoli, fromage frais et citron",
+      "summary": "Le plat de lundi : des pâtes courtes enrobées d'une sauce au fromage frais, avec un brocoli bien tendre et une touche de citron. Pour 2 adultes + 2 jeunes enfants ; 10 min de préparation et 20 min de cuisson, soit environ 30 min au total.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "diner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "total_time_minutes": 30,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pates",
+        "brocoli",
+        "rapide"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1880,
+        "calories_per_serving": 470,
+        "protein_g": 69,
+        "carbs_g": 259,
+        "fat_g": 61
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâtes courtes sèches",
+          "quantity": "320 g",
+          "calories": 1120,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Brocoli",
+          "quantity": "600 g",
+          "calories": 204,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fromage frais nature",
+          "quantity": "200 g",
+          "calories": 460,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Citron",
+          "quantity": "100 g",
+          "calories": 6,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel",
+          "quantity": "2 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivre",
+          "quantity": "0,5 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Fais chauffer l'eau et prépare le brocoli",
+          "text": "Porte 3 litres d'eau à ébullition à couvert dans une grande casserole avec les 2 g de sel. Pendant ce temps, lave les 600 g de brocoli, sépare les fleurettes en petits bouquets et pèle le pied pour le couper en dés de 1 cm. Lave le citron de 100 g ; prélève 20 ml de jus et un peu de zeste très fin, puis garde le reste du citron pour un autre usage."
+        },
+        {
+          "title": "Cuis les pâtes et le brocoli ensemble",
+          "text": "Verse les 320 g de pâtes courtes sèches dans l'eau bouillante et respecte le temps indiqué sur le paquet, idéalement 10 à 12 min pour ce plat. Ajoute les 600 g de brocoli lorsqu'il reste 7 min de cuisson. Remue une ou deux fois. Les pâtes doivent être cuites et le brocoli s'écraser facilement à la fourchette ; prolonge de 1 à 2 min si nécessaire."
+        },
+        {
+          "title": "Prépare une sauce souple",
+          "text": "Avant d'égoutter, prélève 250 ml d'eau de cuisson. Dans un grand saladier, mélange les 200 g de fromage frais nature à tartiner avec les 10 g d'huile d'olive et 150 ml d'eau de cuisson chaude. Incorpore les 20 ml de jus de citron."
+        },
+        {
+          "title": "Enrobe et sers aussitôt",
+          "text": "Égoutte les pâtes et le brocoli. Écrase environ un tiers du brocoli dans la sauce au fromage frais, puis mélange avec toutes les pâtes et le reste du brocoli. Ajoute les 100 ml d'eau de cuisson restants par petites touches, seulement si la sauce est trop épaisse : elle doit napper les pâtes sans former un bloc. Répartis en deux grandes et deux petites portions, et coupe les morceaux au besoin pour les enfants. Réserve les 0,5 g de poivre et le zeste aux assiettes qui en souhaitent."
         }
       ]
     },
@@ -4952,6 +5372,116 @@
       ]
     },
     {
+      "slug": "pizza-poivrons-champignons-mozzarella",
+      "title": "Pizza aux poivrons, champignons et mozzarella",
+      "summary": "Le dîner de samedi : deux pizzas familiales aux poivrons fondants, champignons et mozzarella. La pâte fraîche prête à étaler évite le temps de levée ; les légumes précuits et la mozzarella bien égouttée limitent l’humidité de la garniture. Pour 2 adultes + 2 jeunes enfants, soit 2 pizzas d’environ 28 cm. Temps : 15 min de préparation + 25 min de cuisson, soit environ 40 min. Le four préchauffe et la pâte est étalée pendant la préparation de la garniture. Ce temps suppose une pâte prête à étaler et la cuisson simultanée des deux pizzas en chaleur tournante ; prévoir quelques minutes de plus si la garniture rend beaucoup d’eau ou si le four dore lentement. Matériel : une grande poêle de 30 à 32 cm et deux plaques de four.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pizza",
+        "poivrons",
+        "champignons",
+        "mozzarella"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2183,
+        "calories_per_serving": 546,
+        "protein_g": 100,
+        "carbs_g": 270,
+        "fat_g": 77
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâte à pizza fraîche",
+          "quantity": "500 g prête à étaler, en deux pâtons de 250 g",
+          "calories": 1250,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivrons rouges",
+          "quantity": "450 g entiers, soit environ 350 g nets épépinés",
+          "calories": 109,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "250 g nets nettoyés",
+          "calories": 55,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Passata",
+          "quantity": "200 g",
+          "calories": 60,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "250 g égouttée",
+          "calories": 625,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d’olive",
+          "quantity": "10 ml",
+          "calories": 81,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Origan séché",
+          "quantity": "1 g",
+          "calories": 3,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel",
+          "quantity": "1 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Chauffer le four et préparer la garniture",
+          "text": "Préchauffe le four à 230 °C, chaleur tournante. Sors les 500 g de pâte à pizza fraîche prête à étaler du réfrigérateur. Égoutte les 250 g de mozzarella puis éponge-les sur du papier absorbant. Lave les 450 g de poivrons rouges entiers, retire les graines et les pédoncules pour obtenir environ 350 g nets, puis coupe-les en fines lamelles de 3 mm. Nettoie les 250 g nets de champignons de Paris et émince-les finement."
+        },
+        {
+          "title": "Précuire les légumes",
+          "text": "Chauffe 10 ml d’huile d’olive dans une grande poêle de 30 à 32 cm. Ajoute les 350 g de poivrons préparés, 1 g de sel et 30 ml d’eau. Couvre et laisse cuire 4 minutes à feu moyen-vif. Ajoute les 250 g de champignons émincés puis cuis 6 minutes à découvert, en remuant régulièrement. Les poivrons doivent s’assouplir et le jus doit être évaporé ; si la poêle reste humide, prolonge de 2 à 3 minutes. La cuisson des légumes se termine au four."
+        },
+        {
+          "title": "Étaler et garnir les deux pizzas",
+          "text": "Pendant la précuisson des légumes, étale les 500 g de pâte en deux disques fins d’environ 28 cm, chacun sur une feuille de papier cuisson adaptée à la température du four, posée sur une plaque. Répartis les 200 g de passata en couche fine, en laissant un bord de 1 cm. Ajoute la garniture précuite issue des 350 g de poivrons et des 250 g de champignons, puis les 250 g de mozzarella égouttée en petits morceaux et 1 g d’origan séché. Répartis les légumes uniformément, sans former de tas."
+        },
+        {
+          "title": "Cuire les pizzas",
+          "text": "Enfourne les deux pizzas garnies à 230 °C, sur deux niveaux. Fais cuire environ 15 minutes et permute les plaques à mi-cuisson. La mozzarella doit être fondue, les bords dorés et le dessous de la pâte ferme et coloré. Soulève un bord avec une spatule pour vérifier ; prolonge de 2 à 3 minutes si le centre reste pâle ou mou. Pour une cuisson sur une seule plaque à la fois, compte environ 15 minutes supplémentaires au total."
+        },
+        {
+          "title": "Découper et servir",
+          "text": "Laisse tiédir les deux pizzas pendant 2 minutes. Découpe chacune en 6 parts : cela donne environ 4 parts par adulte et 2 par enfant. Coupe les parts des enfants en petites bandes faciles à manger et laisse leur fromage tiédir davantage si nécessaire. Adapte les quantités à l’appétit."
+        }
+      ]
+    },
+    {
       "slug": "pizza-blanche-aubergines-roties-tomates-cerises-mozzarella",
       "title": "Pizza blanche aubergines rôties, tomates cerises et mozzarella",
       "summary": "Le plat de samedi, c'était : pizza blanche aubergines rôties, tomates cerises et mozzarella. Une pizza maison végétarienne et conviviale, avec une base blanche à la ricotta, des aubergines bien rôties, des tomates cerises juteuses et de la mozzarella fondante. Les aubergines sont cuites avant le montage pour éviter de détremper la pâte, l'assaisonnement reste doux, et le basilic arrive à la fin pour que chacun dose à table. Pour 2 adultes + 2 jeunes enfants Temps : 18 min préparation + 32 min cuisson",
@@ -5346,6 +5876,98 @@
         {
           "title": "Finir et servir",
           "text": "Laisse reposer la pizza aux 450 g de courgettes, 250 g de tomates cerises, 250 g de mozzarella et 150 g de ricotta pendant 3 minutes, puis ajoute les 5 g de basilic frais restants. Coupe en parts ou en bandes ; pour les jeunes enfants, laisse tiédir les morceaux avec les 250 g de mozzarella et recoupe les 250 g de tomates cerises si nécessaire."
+        }
+      ]
+    },
+    {
+      "slug": "polenta-cremeuse-epinards-fromage-frais",
+      "title": "Polenta crémeuse aux épinards et au fromage frais",
+      "summary": "Le plat de mercredi soir : une polenta souple et douce, mélangée à des épinards hachés et du fromage frais. Pour 2 adultes et 2 jeunes enfants, compte environ 20 minutes avec une polenta instantanée et des épinards surgelés en petites portions ; les deux cuissons se font en parallèle.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "polenta",
+        "express"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1845,
+        "calories_per_serving": 461,
+        "protein_g": 67,
+        "carbs_g": 235,
+        "fat_g": 67
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Polenta instantanée sèche",
+          "quantity": "240 g",
+          "calories": 864,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Épinards hachés surgelés",
+          "quantity": "600 g",
+          "calories": 174,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "600 ml",
+          "calories": 282,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fromage frais nature",
+          "quantity": "200 g",
+          "calories": 450,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Beurre",
+          "quantity": "10 g",
+          "calories": 75,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "1 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cuire les épinards",
+          "text": "Mets 600 g d'épinards hachés surgelés, en petites portions, dans une grande sauteuse avec 50 ml d'eau. Couvre et chauffe à feu moyen pendant 10 à 12 minutes, en remuant régulièrement et en séparant les portions à mesure qu'elles décongèlent. Poursuis la cuisson selon les indications du sachet si nécessaire : les épinards doivent être entièrement décongelés et bien chauds partout. Retire le couvercle et laisse évaporer le liquide visible pendant 2 à 3 minutes. Les gros blocs surgelés demandent plus de temps que les petites portions."
+        },
+        {
+          "title": "Chauffer le liquide en parallèle",
+          "text": "Pendant la cuisson des 600 g d'épinards, verse 600 ml de lait demi-écrémé, 600 ml d'eau et 1 g de sel fin dans une grande casserole. Porte doucement à frémissement en remuant le fond, puis garde à feu très doux jusqu'à ce que les épinards soient presque prêts. Prévois aussi jusqu'à 100 ml d'eau chaude pour ajuster la texture à la fin."
+        },
+        {
+          "title": "Cuire la polenta",
+          "text": "Quand les épinards sont presque prêts, verse 240 g de polenta instantanée sèche en pluie dans les 600 ml de lait et 600 ml d'eau frémissants, tout en fouettant. Fais cuire à feu doux 3 à 5 minutes, selon le paquet, en remuant sans arrêt. La polenta doit être cuite, sans sensation de grains durs, et rester assez souple pour retomber de la cuillère ; utilise bien une polenta instantanée pour tenir ce temps."
+        },
+        {
+          "title": "Mélanger et servir",
+          "text": "Hors du feu, incorpore 200 g de fromage frais nature et 10 g de beurre à la polenta, puis ajoute les 600 g d'épinards cuits. Mélange jusqu'à obtenir une texture homogène. Si la polenta est trop épaisse, ajoute progressivement 25 à 100 ml de l'eau chaude prévue, sans forcément tout utiliser. Goûte avant de resaler, car le fromage apporte déjà du sel. Sers aussitôt et laisse tiédir les petites portions quelques instants."
         }
       ]
     },
@@ -6345,6 +6967,116 @@
         {
           "title": "Servir frais ou à température ambiante",
           "text": "Goûte la salade avec les 300 g de semoule de couscous moyenne, les 650 g de chair de melon, les 300 g de concombre, les 120 g de feta et les 200 g de tomates cerises optionnelles. Ajuste avec un peu de sel fin, de poivre doux ou quelques feuilles prises dans les 10 g de menthe ou de basilic frais. Pour les jeunes enfants, sers des petits dés de melon et de concombre faciles à piquer."
+        }
+      ]
+    },
+    {
+      "slug": "salade-lentilles-carottes-pomme-chevre-frais",
+      "title": "Salade de lentilles, carottes et pomme au chèvre frais",
+      "summary": "Le déjeuner de samedi : une salade douce de lentilles déjà cuites, carottes et pomme finement râpées, avec du chèvre frais et du pain complet. Pour 2 adultes + 2 jeunes enfants ; préparation 20 minutes, sans cuisson.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "salade",
+        "sans-cuisson"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1781,
+        "calories_per_serving": 445,
+        "protein_g": 80,
+        "carbs_g": 215,
+        "fat_g": 55
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Lentilles vertes en conserve égouttées",
+          "quantity": "500 g",
+          "calories": 500,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "300 g",
+          "calories": 123,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pomme",
+          "quantity": "200 g",
+          "calories": 104,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chèvre frais",
+          "quantity": "150 g",
+          "calories": 315,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain complet",
+          "quantity": "220 g",
+          "calories": 550,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 g",
+          "calories": 180,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "30 ml",
+          "calories": 9,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "1 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rincer les lentilles",
+          "text": "Égoutte les lentilles en conserve pour obtenir 500 g de lentilles vertes égouttées. Rince-les dans une passoire sous l'eau froide, puis laisse-les bien s'égoutter pendant la préparation des crudités. Elles sont déjà cuites et ne demandent aucune cuisson."
+        },
+        {
+          "title": "Râper les carottes et la pomme",
+          "text": "Lave et épluche 300 g de carottes, puis râpe-les finement dans un grand saladier. Lave 200 g de pomme, enlève le cœur et les pépins, puis râpe-la également ; tu peux la peler pour une texture plus tendre. Arrose aussitôt avec 15 ml de jus de citron et mélange pour limiter le brunissement."
+        },
+        {
+          "title": "Préparer la sauce douce",
+          "text": "Dans un bol, mélange 20 g d'huile d'olive, les 15 ml de jus de citron restants et 1 g de sel fin. Ajoute 15 ml d'eau et fouette à la fourchette. La sauce doit être légèrement acidulée ; si elle paraît trop vive, ajoute encore 15 ml d'eau."
+        },
+        {
+          "title": "Assembler sans écraser",
+          "text": "Ajoute les 500 g de lentilles bien égouttées aux 300 g de carottes et aux 200 g de pomme râpées. Verse la sauce et remue délicatement. Émiette 150 g de chèvre frais par-dessus ; laisse quelques morceaux visibles ou écrase le fromage dans l'assiette des enfants pour une texture plus crémeuse."
+        },
+        {
+          "title": "Servir avec le pain",
+          "text": "Découpe 220 g de pain complet en tranches ou en petits morceaux adaptés aux enfants. Répartis la salade en deux portions adultes et deux portions plus petites, puis sers le pain à côté. Pour commencer, compte environ 75 g de pain par adulte et 35 g par enfant, à ajuster selon l'appétit."
         }
       ]
     },
@@ -7372,6 +8104,118 @@
       ]
     },
     {
+      "slug": "semoule-pois-chiches-concombre-tomates-yaourt",
+      "title": "Semoule aux pois chiches, concombre et tomates, sauce yaourt",
+      "summary": "Le déjeuner de dimanche : une semoule moelleuse aux pois chiches, avec concombre, tomates et sauce douce au yaourt citronné. Pour 2 adultes + 2 jeunes enfants ; environ 10 min de préparation et 5 min de gonflement, soit 15 min au total en préparant les légumes pendant le repos de la semoule.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 5,
+      "total_time_minutes": 15,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "semoule",
+        "pois-chiches"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1644,
+        "calories_per_serving": 411,
+        "protein_g": 68,
+        "carbs_g": 255,
+        "fat_g": 35
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Semoule de couscous sèche",
+          "quantity": "220 g",
+          "calories": 792,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pois chiches en conserve égouttés",
+          "quantity": "350 g",
+          "calories": 441,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Concombre",
+          "quantity": "300 g",
+          "calories": 45,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "400 g",
+          "calories": 72,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Yaourt nature",
+          "quantity": "250 g",
+          "calories": 155,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 g",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Citron",
+          "quantity": "100 g",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel",
+          "quantity": "2 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivre",
+          "quantity": "0,5 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Fais gonfler la semoule",
+          "text": "Fais chauffer de l'eau à la bouilloire. Verse les 220 g de semoule de couscous sèche dans un grand saladier avec 5 g d'huile d'olive et 1 g de sel. Ajoute 275 ml d'eau bouillante, ou le volume indiqué sur le paquet pour 220 g de semoule. Couvre et laisse gonfler 5 min, pendant que tu prépares la suite."
+        },
+        {
+          "title": "Coupe les légumes et rince les pois chiches",
+          "text": "Rince et égoutte les pois chiches en conserve pour en obtenir 350 g sans leur liquide. Lave les 300 g de concombre et les 400 g de tomates, puis coupe-les en petits dés. Pèle le concombre si sa peau est épaisse. Pour les jeunes enfants, recoupe finement les dés et écrase légèrement leur portion de pois chiches avec une fourchette."
+        },
+        {
+          "title": "Mélange la sauce au yaourt",
+          "text": "Presse le citron de 100 g pour prélever 15 ml de jus et garde le reste pour un autre usage. Mélange les 250 g de yaourt nature avec les 15 ml de jus de citron, les 10 g d'huile d'olive et le 1 g de sel restants. La sauce doit rester douce ; répartis les 0,5 g de poivre uniquement dans les assiettes qui en souhaitent."
+        },
+        {
+          "title": "Assemble et sers",
+          "text": "Égraine la semoule préparée avec les 220 g de grains secs à la fourchette, puis étale-la quelques instants dans le saladier pour qu'elle cesse de fumer. Incorpore les 350 g de pois chiches égouttés, les 300 g de concombre et les 400 g de tomates. Ajoute la sauce préparée avec les 250 g de yaourt. Si la semoule paraît sèche, détends avec 15 à 30 ml d'eau fraîche, une cuillère à la fois. Sers aussitôt en deux grandes et deux petites portions ; la salade peut être légèrement tiède."
+        }
+      ]
+    },
+    {
       "slug": "semoule-express-pois-chiches-concombre-tomates",
       "title": "Semoule express pois chiches, concombre et tomates",
       "summary": "Déjeuner très rapide du mercredi, frais mais rassasiant : une semoule moyenne moelleuse, des pois chiches, du concombre, des tomates et une sauce douce au yaourt citronné. La feta apporte du relief sans rendre le plat fort, et la sauce garde l'ensemble souple pour éviter une salade de semoule trop sèche.",
@@ -8299,6 +9143,101 @@
         {
           "title": "Finir au basilic",
           "text": "Laisse reposer la tarte aux 550 g de tomates, 250 g de ricotta et 125 g de mozzarella pendant 5 minutes avant de couper. Ajoute le reste des 15 g de basilic frais juste avant de servir pour garder son parfum."
+        }
+      ]
+    },
+    {
+      "slug": "tartines-haricots-blancs-tomates-basilic",
+      "title": "Tartines de haricots blancs, tomates et basilic",
+      "summary": "Pour mercredi midi : des tartines de pain complet garnies d'une crème douce de haricots blancs et de tomates au basilic. Tout se prépare à froid en 15 minutes avec des haricots déjà cuits. Pour 2 adultes + 2 jeunes enfants. Temps : 15 min de préparation, sans cuisson.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 15,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "rapide",
+        "sans-cuisson",
+        "legumineuses"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1786,
+        "calories_per_serving": 447,
+        "protein_g": 76,
+        "carbs_g": 265,
+        "fat_g": 34
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Haricots blancs en conserve égouttés",
+          "quantity": "500 g",
+          "calories": 550,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain complet",
+          "quantity": "400 g",
+          "calories": 960,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "500 g",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Basilic",
+          "quantity": "10 g",
+          "calories": 2,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 g",
+          "calories": 180,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "15 ml",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel",
+          "quantity": "1 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les haricots",
+          "text": "Rince puis égoutte 500 g de haricots blancs déjà cuits, pesés sans leur liquide de conserve. Verse-les dans un saladier et écrase-les soigneusement à la fourchette avec 15 g d'huile d'olive, 15 ml de jus de citron, 0,5 g de sel et 30 ml d'eau. La crème doit être souple et facile à étaler ; ajoute jusqu'à 30 ml d'eau supplémentaires si elle reste trop épaisse. Un mixeur plongeant permet une texture plus lisse."
+        },
+        {
+          "title": "Coupe les tomates",
+          "text": "Lave 500 g de tomates et coupe-les en petits dés. Si elles rendent beaucoup de jus, laisse-les égoutter une minute dans une passoire. Cisèle 10 g de basilic, puis mélange-le aux tomates avec les 5 g d'huile d'olive et les 0,5 g de sel restants."
+        },
+        {
+          "title": "Garnis les tartines",
+          "text": "Coupe les 400 g de pain complet en tranches assez fines. Répartis toute la crème préparée avec les 500 g de haricots blancs, puis les 500 g de tomates au basilic. Sers aussitôt pour garder le pain agréable. Pour les enfants, coupe les tartines en petites bandes et propose une partie des tomates à côté si c'est plus facile à manger."
         }
       ]
     },
@@ -9522,6 +10461,113 @@
         {
           "title": "Servir chaud et doux",
           "text": "Goûte le velouté préparé avec les 560 g de maïs doux, les 450 g de carottes, les 350 g de pommes de terre, les 120 ml de crème légère et les 750 ml d'eau chaude, puis ajuste avec un peu de sel fin et de poivre doux. Sers le velouté bien chaud avec les 300 g de pain de campagne gratinés aux 160 g de cheddar, en coupant les tartines des enfants en bandes faciles à tenir."
+        }
+      ]
+    },
+    {
+      "slug": "veloute-potimarron-carottes-lentilles-corail-tartines-comte",
+      "title": "Velouté de potimarron, carottes et lentilles corail, tartines au comté",
+      "summary": "Le plat de dimanche, c'est un velouté doux de potimarron, carottes et lentilles corail, accompagné de tartines au comté gratiné. Les lentilles cuisent directement avec les légumes et les tartines se préparent pendant que la soupe mijote. Pour 2 adultes + 2 jeunes enfants. Temps : 12 min de préparation + 23 min de cuisson et finition, soit environ 35 min, en préparant les tartines pendant la cuisson du velouté. Prévoir quelques minutes de plus si les légumes ne sont pas encore fondants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 23,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "veloute",
+        "potimarron",
+        "lentilles-corail",
+        "tartines"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1900,
+        "calories_per_serving": 475,
+        "protein_g": 90,
+        "carbs_g": 245,
+        "fat_g": 60
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Potimarron",
+          "quantity": "650 g nets, prévoir environ 800 g à l'achat",
+          "calories": 247,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "300 g",
+          "calories": 123,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lentilles corail sèches",
+          "quantity": "120 g",
+          "calories": 420,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain complet",
+          "quantity": "240 g",
+          "calories": 600,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté",
+          "quantity": "100 g",
+          "calories": 415,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Cumin moulu",
+          "quantity": "1 g",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "2 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer des petits dés",
+          "text": "Fais chauffer 850 ml d'eau dans une bouilloire. Brosse environ 800 g de potimarron, coupe-le en quartiers et retire les graines pour obtenir 650 g nets. Garde sa peau si elle est fine, puis coupe la chair en dés de 1 cm. Brosse ou épluche 300 g de carottes et coupe-les en dés de 1 cm ou en rondelles de 3 mm. Rince soigneusement 120 g de lentilles corail sèches dans une passoire fine."
+        },
+        {
+          "title": "Lancer la cuisson du velouté",
+          "text": "Dans une casserole d'au moins 3 litres, verse 10 g d'huile d'olive et ajoute 650 g de potimarron préparé, 300 g de carottes, 120 g de lentilles corail rincées, 1 g de cumin moulu et 2 g de sel fin. Verse les 850 ml d'eau chaude et porte à frémissement, à couvert, en 1 à 2 minutes. Maintiens un petit frémissement pendant 20 minutes, avec le couvercle entrouvert. Remue deux ou trois fois, en passant au fond de la casserole. Les petits dés de légumes doivent s'écraser sans résistance et les lentilles doivent être tendres et commencer à se défaire. Si nécessaire, prolonge de 3 à 5 minutes : la tendreté prime sur le minuteur."
+        },
+        {
+          "title": "Gratiner les tartines pendant la cuisson",
+          "text": "Pendant les 20 minutes de cuisson du velouté, râpe 100 g de comté et répartis-le sur 240 g de pain complet, soit environ 6 tranches de 40 g. Préchauffe le gril du four pendant 5 minutes. Place les tartines sur une plaque, à mi-hauteur et à bonne distance de la résistance, puis fais-les gratiner 3 à 5 minutes sous surveillance. Le fromage doit fondre et commencer à dorer ; garde le pain encore souple pour les enfants. Sors les tartines dès qu'elles sont prêtes."
+        },
+        {
+          "title": "Mixer et servir",
+          "text": "Quand les 650 g de potimarron, les 300 g de carottes et les 120 g de lentilles sont très tendres, retire la casserole du feu et mixe pendant environ 1 minute, en gardant la tête du mixeur immergée. Si le velouté est trop épais, ajoute 50 à 150 ml d'eau chaude, petit à petit, et mixe brièvement. Répartis la soupe en 2 bols adultes et 2 petits bols enfants. Accompagne chaque bol adulte de 2 tartines et chaque bol enfant d'une tartine, soit les 240 g de pain et 100 g de comté prévus. Coupe les tartines des enfants en bandes et laisse leur soupe tiédir avant de servir."
         }
       ]
     },

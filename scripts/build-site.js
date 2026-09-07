@@ -1,6 +1,7 @@
 import { cp, mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { calendarErrors } from "./week-calendar.js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dist = path.join(root, "dist");
@@ -291,7 +292,10 @@ async function buildWeeksIndex(recipesData) {
   const weeksById = new Map();
 
   for (const week of await readMarkdownWeeks(slugsByTitle)) {
-    weeksById.set(week.week, week);
+    if (calendarErrors(week).length === 0 &&
+        week.days.every((day) => day.meals.every((meal) => meal.recipe_slug))) {
+      weeksById.set(week.week, week);
+    }
   }
 
   for (const week of [previousWeek, currentWeek]) {

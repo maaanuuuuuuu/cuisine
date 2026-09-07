@@ -11,9 +11,9 @@
 
 ## État
 
-- Aucune semaine générée pour l'instant.
-- Aucune liste de courses générée pour l'instant.
-- Aucune recette générée pour l'instant.
+- Semaine courante : [[weeks/2026-W37|7 au 13 septembre 2026]].
+- Courses : [[shopping-lists/2026-W37|Liste de courses de la semaine]].
+- [[recipes/index|Catalogue de recettes]], avec 10 nouvelles recettes pour cette semaine.
 
 ## Règles pour Codex
 

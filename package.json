@@ -5,8 +5,10 @@
   "type": "module",
   "scripts": {
     "validate": "node scripts/validate.js",
+    "validate:current": "node scripts/validate.js --current-week",
+    "week:target": "node scripts/target-week.js",
+    "test": "node --test scripts/week-calendar.test.js",
     "site:build": "node scripts/build-site.js",
     "site:dev": "node scripts/dev-server.js"
   }
 }
-
