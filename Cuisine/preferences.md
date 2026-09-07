@@ -3,6 +3,7 @@
 ## Contraintes générales
 
 - Régime végétarien.
+- Ne pas proposer de polenta : l'utilisateur n'aime pas cet ingrédient.
 - Recettes en français.
 - Portions par défaut : 2 adultes + 2 jeunes enfants.
 - Recettes pratiques pour une vie de famille.

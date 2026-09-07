@@ -17,15 +17,15 @@
         },
         {
           "name": "Carottes",
-          "quantity": "600 g"
+          "quantity": "1550 g environ (dont 600 g nets pour le boulgour)"
         },
         {
           "name": "Champignons de Paris",
-          "quantity": "750 g"
+          "quantity": "750 g (dont 250 g nets nettoyés pour la pizza)"
         },
         {
           "name": "Chou-fleur",
-          "quantity": "1100 g"
+          "quantity": "1100 g (entier, pour environ 700 g de fleurettes)"
         },
         {
           "name": "Concombre",
@@ -33,11 +33,7 @@
         },
         {
           "name": "Poivrons rouges",
-          "quantity": "950 g"
-        },
-        {
-          "name": "Potimarron",
-          "quantity": "1550 g"
+          "quantity": "950 g (entiers, pour environ 750 g nets épépinés)"
         },
         {
           "name": "Tomates",
@@ -45,7 +41,7 @@
         },
         {
           "name": "Pommes de terre",
-          "quantity": "800 g"
+          "quantity": "1150 g"
         },
         {
           "name": "Pommes",
@@ -78,16 +74,12 @@
           "quantity": "320 g"
         },
         {
-          "name": "Polenta instantanée",
-          "quantity": "240 g"
-        },
-        {
           "name": "Riz basmati sec",
-          "quantity": "240 g"
+          "quantity": "240 g (cuisson 10 à 12 min)"
         },
         {
           "name": "Semoule de couscous précuite",
-          "quantity": "220 g"
+          "quantity": "220 g (gonflement 5 min)"
         },
         {
           "name": "Passata",
@@ -95,7 +87,7 @@
         },
         {
           "name": "Haricots blancs en conserve",
-          "quantity": "500 g"
+          "quantity": "500 g (poids net égoutté)"
         },
         {
           "name": "Lentilles corail sèches",
@@ -103,11 +95,11 @@
         },
         {
           "name": "Lentilles vertes en conserve",
-          "quantity": "500 g"
+          "quantity": "500 g (poids net égoutté)"
         },
         {
           "name": "Pois chiches en conserve",
-          "quantity": "350 g"
+          "quantity": "350 g (poids net égoutté)"
         },
         {
           "name": "Huile d’olive",
@@ -120,7 +112,7 @@
       "items": [
         {
           "name": "Épinards hachés surgelés",
-          "quantity": "600 g"
+          "quantity": "600 g (en petites portions)"
         }
       ]
     },
@@ -133,11 +125,11 @@
         },
         {
           "name": "Beurre",
-          "quantity": "45 g"
+          "quantity": "35 g"
         },
         {
           "name": "Lait demi-écrémé",
-          "quantity": "1200 ml"
+          "quantity": "600 ml"
         },
         {
           "name": "Yaourt nature",
@@ -161,11 +153,15 @@
         },
         {
           "name": "Mozzarella en boules",
-          "quantity": "250 g"
+          "quantity": "250 g (poids net égoutté)"
+        },
+        {
+          "name": "Gnocchis frais",
+          "quantity": "750 g (à pocher)"
         },
         {
           "name": "Pâte à pizza fraîche",
-          "quantity": "500 g"
+          "quantity": "500 g (2 pâtons de 250 g prêts à étaler)"
         }
       ]
     },
@@ -174,11 +170,11 @@
       "items": [
         {
           "name": "Poivre",
-          "quantity": "1,2 g"
+          "quantity": "1,2 g (facultatif)"
         },
         {
           "name": "Sel fin",
-          "quantity": "15 g"
+          "quantity": "15 g (maximum prévu, à ajuster)"
         },
         {
           "name": "Cumin moulu",

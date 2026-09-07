@@ -13,7 +13,7 @@
 
 - Semaine courante : [[weeks/2026-W37|7 au 13 septembre 2026]].
 - Courses : [[shopping-lists/2026-W37|Liste de courses de la semaine]].
-- [[recipes/index|Catalogue de recettes]], avec 10 nouvelles recettes pour cette semaine.
+- [[recipes/index|Catalogue de recettes]], avec 10 recettes prévues pour cette semaine.
 
 ## Règles pour Codex
 

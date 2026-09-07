@@ -20,7 +20,7 @@ nutrition:
   protein_g: 81
   carbs_g: 230
   fat_g: 53
-used_in_weeks: ["2026-W37"]
+used_in_weeks: []
 status: active
 ---
 
@@ -72,9 +72,14 @@ Le boulgour apporte les féculents, des fibres et une partie des protéines. Les
 
 ## Utilisation
 
-- [[../weeks/2026-W37|2026-W37]] — dîner du mardi 8 septembre 2026.
+- Proposition initiale pour la semaine 2026-W37, remplacée avant réalisation.
+- Version retenue : [[boulgour-risotto-champignons-carottes-comte|Boulgour façon risotto aux champignons, carottes et comté]].
 
 ## Notes Codex
 
 - Brief source : 2026-W37-mardi-dinner.
 - Calories et macros estimées à partir des quantités avant cuisson ; les valeurs varient selon les produits.
+
+## Retours privés
+
+- Retour du 7 septembre 2026 : potimarron indisponible dans le magasin cette semaine. Remplacement ponctuel pour 2026-W37 ; aucune aversion durable exprimée.

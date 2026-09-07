@@ -369,6 +369,121 @@
       ]
     },
     {
+      "slug": "boulgour-risotto-champignons-carottes-comte",
+      "title": "Boulgour façon risotto aux champignons, carottes et comté",
+      "summary": "Le plat de mardi, c'est un boulgour mijoté avec des champignons dorés et des carottes râpées fondantes. Le comté incorporé hors du feu lie le tout en un plat doux et moelleux. Pour 2 adultes + 2 jeunes enfants. Temps : 10 min de préparation + 25 min de cuisson, soit 35 min environ. Prévois quelques minutes de plus si le boulgour choisi cuit plus longtemps.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "boulgour",
+        "champignons",
+        "carottes"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1829,
+        "calories_per_serving": 457,
+        "protein_g": 81,
+        "carbs_g": 234,
+        "fat_g": 54
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Boulgour sec",
+          "quantity": "270 g",
+          "calories": 923,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "500 g",
+          "calories": 110,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "600 g net utile, soit environ 650 g brut",
+          "calories": 246,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté",
+          "quantity": "100 g",
+          "calories": 417,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml",
+          "calories": 122,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Bouillon de légumes en cube",
+          "quantity": "5 g",
+          "calories": 10,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Thym séché",
+          "quantity": "0,5 g",
+          "calories": 1,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "1 g maximum, à ajuster",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivre",
+          "quantity": "0,2 g, facultatif",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les légumes et le bouillon",
+          "text": "Épluche environ 650 g de carottes, retire les extrémités puis pèse 600 g net utile. Râpe ces 600 g de carottes avec les gros trous d'une râpe pour qu'elles cuisent rapidement. Nettoie et émince 500 g de champignons de Paris. Râpe 100 g de comté. Dissous 5 g de cube de bouillon de légumes dans 600 ml d'eau bien chaude."
+        },
+        {
+          "title": "Dore les champignons",
+          "text": "Chauffe 15 ml d'huile d'olive dans une grande sauteuse de 28 à 30 cm. Ajoute les 500 g de champignons et fais revenir 7 minutes à feu assez vif, en remuant régulièrement. Ils doivent perdre une bonne partie de leur eau et commencer à dorer."
+        },
+        {
+          "title": "Attendris les carottes",
+          "text": "Ajoute les 600 g de carottes râpées et 0,5 g de thym séché. Verse 100 ml d'eau, mélange, couvre et cuis 5 minutes à feu moyen. Les carottes commencent à s'assouplir ; remue à mi-cuisson pour éviter qu'elles accrochent."
+        },
+        {
+          "title": "Fais mijoter le boulgour",
+          "text": "Ajoute 270 g de boulgour sec et les 600 ml de bouillon chaud. Mélange, couvre puis laisse frémir doucement environ 12 minutes, ou selon le temps indiqué sur le paquet. Remue deux ou trois fois et vérifie le fond. Le boulgour doit être tendre et les carottes fondantes, sans croquant. Si les grains restent fermes ou si le fond sèche, ajoute 50 à 100 ml d'eau chaude et prolonge de 2 à 3 minutes. S'il reste beaucoup de liquide, cuis les dernières minutes sans couvercle."
+        },
+        {
+          "title": "Lie et sers moelleux",
+          "text": "Coupe le feu puis incorpore les 100 g de comté râpé pendant 1 minute. Ajoute 30 à 50 ml d'eau chaude si le mélange devient compact : il doit rester souple dans l'assiette. Goûte avant d'ajouter jusqu'à 1 g de sel fin, car le bouillon et le fromage salent déjà le plat. Propose les 0,2 g de poivre à part et laisse tiédir les portions des enfants."
+        }
+      ]
+    },
+    {
       "slug": "boulgour-risotto-champignons-potimarron-comte",
       "title": "Boulgour façon risotto aux champignons, potimarron et comté",
       "summary": "Le plat de mardi, c'est un boulgour mijoté avec des champignons dorés et de petits dés de potimarron fondants. Le comté incorporé hors du feu lie le tout en un plat doux et moelleux. Pour 2 adultes + 2 jeunes enfants. Temps : 15 min de préparation + 25 min de cuisson, soit 40 min environ. Prévois quelques minutes de plus si le boulgour choisi cuit plus longtemps.",
@@ -400,9 +515,7 @@
         "carbs_g": 230,
         "fat_g": 53
       },
-      "used_in_weeks": [
-        "2026-W37"
-      ],
+      "used_in_weeks": [],
       "status": "active",
       "ingredients": [
         {
@@ -1700,6 +1813,86 @@
         {
           "title": "Servir le déjeuner",
           "text": "Répartis les galettes maïs-courgette avec les 180 g de salade verte et la sauce préparée avec 250 g de yaourt nature, 15 ml de jus de citron et 10 g d'herbes fraîches. Pour les jeunes enfants, coupe les galettes en lanières et sers la sauce yaourt à côté pour qu'ils puissent tremper."
+        }
+      ]
+    },
+    {
+      "slug": "gnocchis-cremeux-epinards-fromage-frais",
+      "title": "Gnocchis crémeux aux épinards et au fromage frais",
+      "summary": "Le plat de mercredi soir : des gnocchis moelleux enrobés d’une sauce souple aux épinards hachés et au fromage frais. Pour 2 adultes et 2 jeunes enfants, compte environ 20 minutes avec des gnocchis frais à pocher et des épinards surgelés en petites portions ; les cuissons se font en parallèle.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 3,
+      "cook_time_minutes": 17,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gnocchis",
+        "express"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1824,
+        "calories_per_serving": 456,
+        "protein_g": 56,
+        "carbs_g": 269,
+        "fat_g": 50
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Gnocchis frais à pocher",
+          "quantity": "750 g",
+          "calories": 1200,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Épinards hachés surgelés",
+          "quantity": "600 g",
+          "calories": 174,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fromage frais nature",
+          "quantity": "200 g",
+          "calories": 450,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "1 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Lancer les deux cuissons en parallèle",
+          "text": "Porte environ 3 l d’eau à ébullition dans une grande casserole couverte. En parallèle, mets 600 g d’épinards hachés surgelés, en petites portions, dans une grande sauteuse avec 50 ml d’eau. Couvre et chauffe à feu moyen pendant 10 à 12 minutes, en remuant régulièrement et en séparant les portions à mesure qu’elles décongèlent. Les épinards doivent être entièrement décongelés et bien chauds partout ; respecte une durée plus longue si le sachet l’indique."
+        },
+        {
+          "title": "Pocher les gnocchis",
+          "text": "Quand les 600 g d’épinards sont presque prêts, plonge 750 g de gnocchis frais à pocher dans la casserole d’eau bouillante et remue délicatement. Fais cuire selon le paquet, généralement 2 à 3 minutes : les gnocchis remontent à la surface et doivent être tendres. Avant de les égoutter, prélève 150 ml de leur eau de cuisson dans un bol."
+        },
+        {
+          "title": "Préparer une sauce souple",
+          "text": "Découvre les 600 g d’épinards cuits. S’il reste une flaque d’eau au fond de la sauteuse, laisse-la évaporer 1 à 2 minutes, sans assécher les épinards. Baisse le feu et incorpore 200 g de fromage frais nature avec 50 ml des 150 ml d’eau de cuisson réservés. Mélange 1 minute, puis ajoute si nécessaire 25 à 50 ml d’eau de cuisson supplémentaires : la sauce doit napper la cuillère tout en restant coulante. Goûte et ajoute jusqu’à 1 g de sel fin seulement si nécessaire, car les gnocchis et le fromage sont déjà salés."
+        },
+        {
+          "title": "Enrober et servir aussitôt",
+          "text": "Ajoute les 750 g de gnocchis cuits et égouttés à la sauce aux 600 g d’épinards et 200 g de fromage frais. Mélange délicatement à feu doux pendant 1 minute. Si la sauce épaissit trop, ajoute le reste des 150 ml d’eau de cuisson réservés, une cuillère à soupe à la fois, sans forcément tout utiliser. Sers dès que les gnocchis sont bien enrobés et laisse tiédir les petites portions quelques instants."
         }
       ]
     },
@@ -5910,9 +6103,7 @@
         "carbs_g": 235,
         "fat_g": 67
       },
-      "used_in_weeks": [
-        "2026-W37"
-      ],
+      "used_in_weeks": [],
       "status": "active",
       "ingredients": [
         {
@@ -10345,6 +10536,114 @@
       ]
     },
     {
+      "slug": "veloute-carottes-pommes-terre-lentilles-corail-tartines-comte",
+      "title": "Velouté de carottes, pommes de terre et lentilles corail, tartines au comté",
+      "summary": "Le plat de dimanche, c'est un velouté doux de carottes, pommes de terre et lentilles corail, accompagné de tartines au comté gratiné. Les lentilles cuisent avec les légumes et les tartines se préparent pendant que la soupe mijote. Pour 2 adultes + 2 jeunes enfants. Temps : 12 min de préparation + 23 min de cuisson et finition, soit environ 35 min, avec les tartines préparées pendant la cuisson du velouté. Prévoir quelques minutes supplémentaires si les légumes ne sont pas encore fondants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 23,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "veloute",
+        "carottes",
+        "pommes-de-terre",
+        "lentilles-corail",
+        "tartines"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2045,
+        "calories_per_serving": 511,
+        "protein_g": 91,
+        "carbs_g": 287,
+        "fat_g": 56
+      },
+      "used_in_weeks": [
+        "2026-W37"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Carottes",
+          "quantity": "600 g",
+          "calories": 246,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pommes de terre",
+          "quantity": "350 g",
+          "calories": 270,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lentilles corail sèches",
+          "quantity": "120 g",
+          "calories": 420,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain complet",
+          "quantity": "240 g",
+          "calories": 600,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté",
+          "quantity": "100 g",
+          "calories": 415,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Cumin moulu",
+          "quantity": "1 g",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "2 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes finement",
+          "text": "Fais chauffer 1,1 l d'eau dans une bouilloire. Brosse ou épluche 600 g de carottes et coupe-les en rondelles de 3 mm, ou en petits dés de 5 mm. Brosse 350 g de pommes de terre et coupe-les en dés de 5 mm ; leur peau fine peut être conservée. Rince soigneusement 120 g de lentilles corail sèches dans une passoire fine. La petite taille des morceaux permet une cuisson rapide et homogène."
+        },
+        {
+          "title": "Faire mijoter jusqu'à tendreté",
+          "text": "Dans une casserole d'au moins 3 litres, rassemble les 600 g de carottes, les 350 g de pommes de terre, les 120 g de lentilles corail rincées, 10 g d'huile d'olive, 1 g de cumin moulu et 2 g de sel fin. Verse les 1,1 l d'eau chaude et porte à frémissement, à couvert, en 1 à 2 minutes. Laisse ensuite cuire environ 20 minutes à petit frémissement avec le couvercle entrouvert. Remue deux ou trois fois en passant au fond. Les carottes et les pommes de terre doivent s'écraser sans résistance et les lentilles commencer à se défaire. Sinon, prolonge de 3 à 5 minutes : la tendreté prime sur le minuteur."
+        },
+        {
+          "title": "Gratiner les tartines en parallèle",
+          "text": "Pendant les 20 minutes de cuisson, râpe 100 g de comté et répartis-le sur 240 g de pain complet, soit environ 6 tranches de 40 g. Préchauffe le gril du four pendant 5 minutes. Place les tartines sur une plaque à mi-hauteur, à distance de la résistance, puis fais-les gratiner 3 à 5 minutes sous surveillance. Le fromage doit fondre et commencer à dorer ; garde le pain encore souple pour les enfants. Sors les tartines dès qu'elles sont prêtes."
+        },
+        {
+          "title": "Mixer brièvement et assouplir",
+          "text": "Lorsque les 600 g de carottes, les 350 g de pommes de terre et les 120 g de lentilles sont très tendres, retire la casserole du feu. Mixe par courtes impulsions pendant environ 1 minute, avec la tête du mixeur immergée, juste assez pour lisser le velouté. Si nécessaire, ajoute 100 à 250 ml d'eau chaude, par petites quantités : la soupe doit couler facilement de la louche, car elle épaissit en refroidissant. Répartis dans 2 bols adultes et 2 petits bols enfants. Accompagne chaque adulte de 2 tartines et chaque enfant d'une tartine, soit les 240 g de pain et les 100 g de comté prévus. Coupe les tartines des enfants en bandes et laisse leur soupe tiédir."
+        }
+      ]
+    },
+    {
       "slug": "veloute-mais-doux-carotte-tartines-cheddar",
       "title": "Velouté de maïs doux, carotte et tartines cheddar",
       "summary": "Le plat de dimanche, c'était : velouté de maïs doux, carotte et tartines cheddar. Un velouté jaune-orangé, très doux et réconfortant, construit autour du maïs, des carottes et des pommes de terre pour une texture lisse qui plaît facilement aux enfants. Les tartines de pain de campagne gratinées au cheddar apportent le côté chaud et gourmand du dîner du dimanche, sans épice forte ni allium cru. Pour 2 adultes + 2 jeunes enfants   Temps : 12 min préparation + 28 min cuisson",
@@ -10498,9 +10797,7 @@
         "carbs_g": 245,
         "fat_g": 60
       },
-      "used_in_weeks": [
-        "2026-W37"
-      ],
+      "used_in_weeks": [],
       "status": "active",
       "ingredients": [
         {

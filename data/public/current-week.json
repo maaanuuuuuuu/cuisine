@@ -24,8 +24,8 @@
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "boulgour-risotto-champignons-potimarron-comte",
-          "recipe_title": "Boulgour façon risotto aux champignons, potimarron et comté"
+          "recipe_slug": "boulgour-risotto-champignons-carottes-comte",
+          "recipe_title": "Boulgour façon risotto aux champignons, carottes et comté"
         }
       ]
     },
@@ -42,8 +42,8 @@
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "polenta-cremeuse-epinards-fromage-frais",
-          "recipe_title": "Polenta crémeuse aux épinards et au fromage frais"
+          "recipe_slug": "gnocchis-cremeux-epinards-fromage-frais",
+          "recipe_title": "Gnocchis crémeux aux épinards et au fromage frais"
         }
       ]
     },
@@ -102,8 +102,8 @@
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "veloute-potimarron-carottes-lentilles-corail-tartines-comte",
-          "recipe_title": "Velouté de potimarron, carottes et lentilles corail, tartines au comté"
+          "recipe_slug": "veloute-carottes-pommes-terre-lentilles-corail-tartines-comte",
+          "recipe_title": "Velouté de carottes, pommes de terre et lentilles corail, tartines au comté"
         }
       ]
     }

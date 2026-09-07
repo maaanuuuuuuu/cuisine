@@ -20,7 +20,7 @@ nutrition:
   protein_g: 90
   carbs_g: 245
   fat_g: 60
-used_in_weeks: ["2026-W37"]
+used_in_weeks: []
 status: active
 ---
 
@@ -69,8 +69,13 @@ Le potimarron et les carottes apportent des légumes et des fibres, avec une sav
 
 ## Utilisation
 
-Prévu pour le dîner du **dimanche 13 septembre 2026**, semaine **2026-W37**. Les quantités conviennent à **2 adultes et 2 jeunes enfants**. Le velouté peut être préparé en avance ; fais gratiner les tartines au moment du repas.
+- Proposition initiale pour la semaine 2026-W37, remplacée avant réalisation.
+- Version retenue : [[veloute-carottes-pommes-terre-lentilles-corail-tartines-comte|Velouté de carottes, pommes de terre et lentilles corail, tartines au comté]].
 
 ## Notes Codex
 
 Recette écrite à partir du brief `2026-W37-dimanche-dinner`. Estimations nutritionnelles culinaires approximatives.
+
+## Retours privés
+
+- Retour du 7 septembre 2026 : potimarron indisponible dans le magasin cette semaine. Remplacement ponctuel pour 2026-W37 ; aucune aversion durable exprimée.

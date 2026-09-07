@@ -107,12 +107,18 @@
 ## Semaine 2026-W37
 
 - [[pates-cremeuses-brocoli-fromage-frais-citron|Pâtes crémeuses au brocoli, fromage frais et citron]]
-- [[boulgour-risotto-champignons-potimarron-comte|Boulgour façon risotto aux champignons, potimarron et comté]]
+- [[boulgour-risotto-champignons-carottes-comte|Boulgour façon risotto aux champignons, carottes et comté]]
 - [[tartines-haricots-blancs-tomates-basilic|Tartines de haricots blancs, tomates et basilic]]
-- [[polenta-cremeuse-epinards-fromage-frais|Polenta crémeuse aux épinards et au fromage frais]]
+- [[gnocchis-cremeux-epinards-fromage-frais|Gnocchis crémeux aux épinards et au fromage frais]]
 - [[gratin-pommes-terre-chou-fleur-emmental|Gratin de pommes de terre et chou-fleur à l’emmental]]
 - [[oeufs-cocotte-poivrons-tomates-riz|Œufs cocotte aux poivrons et tomates, riz]]
 - [[salade-lentilles-carottes-pomme-chevre-frais|Salade de lentilles, carottes et pomme au chèvre frais]]
 - [[pizza-poivrons-champignons-mozzarella|Pizza aux poivrons, champignons et mozzarella]]
 - [[semoule-pois-chiches-concombre-tomates-yaourt|Semoule aux pois chiches, concombre et tomates, sauce yaourt]]
+- [[veloute-carottes-pommes-terre-lentilles-corail-tartines-comte|Velouté de carottes, pommes de terre et lentilles corail, tartines au comté]]
+
+## Variantes remplacées dans la semaine 2026-W37
+
+- [[boulgour-risotto-champignons-potimarron-comte|Boulgour façon risotto aux champignons, potimarron et comté]]
+- [[polenta-cremeuse-epinards-fromage-frais|Polenta crémeuse aux épinards et au fromage frais]]
 - [[veloute-potimarron-carottes-lentilles-corail-tartines-comte|Velouté de potimarron, carottes et lentilles corail, tartines au comté]]

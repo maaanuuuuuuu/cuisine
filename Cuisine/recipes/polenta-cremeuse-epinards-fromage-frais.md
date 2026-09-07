@@ -20,7 +20,7 @@ nutrition:
   protein_g: 67
   carbs_g: 235
   fat_g: 67
-used_in_weeks: ["2026-W37"]
+used_in_weeks: []
 status: active
 ---
 
@@ -63,8 +63,13 @@ La polenta apporte les féculents du dîner ; les épinards ajoutent des légume
 
 ## Utilisation
 
-Prévu pour le dîner du mercredi 9 septembre 2026, semaine 2026-W37. La polenta épaissit en attendant : sers-la dès qu'elle est prête ou détends-la avec un peu d'eau chaude. Le délai de 20 minutes suppose des cuissons menées en parallèle et des épinards surgelés en petites portions ; suis le sachet si le produit nécessite une cuisson plus longue.
+- Proposition initiale pour la semaine 2026-W37, remplacée avant réalisation.
+- Version retenue : [[gnocchis-cremeux-epinards-fromage-frais|Gnocchis crémeux aux épinards et au fromage frais]].
 
 ## Notes Codex
 
 Brief source : `2026-W37-mercredi-dinner`. Estimations nutritionnelles culinaires, variables selon les marques et la répartition des portions.
+
+## Retours privés
+
+- Retour du 7 septembre 2026 : l'utilisateur n'aime pas la polenta. Ne plus proposer cette recette ni d'autres plats à base de polenta.
