@@ -1,109 +1,109 @@
 {
-  "week": "2026-W37",
-  "title": "Semaine 2026-W37",
-  "start_date": "2026-09-07",
-  "end_date": "2026-09-13",
+  "week": "2026-W38",
+  "title": "Semaine 2026-W38",
+  "start_date": "2026-09-14",
+  "end_date": "2026-09-20",
   "status": "planned",
   "days": [
     {
-      "label": "Lundi 2026-09-07",
-      "date": "2026-09-07",
+      "label": "Lundi 2026-09-14",
+      "date": "2026-09-14",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "pates-cremeuses-brocoli-fromage-frais-citron",
-          "recipe_title": "Pâtes crémeuses au brocoli, fromage frais et citron"
+          "recipe_slug": "pates-cremeuses-epinards-petits-pois-ricotta",
+          "recipe_title": "Pâtes crémeuses aux épinards, petits pois et ricotta"
         }
       ]
     },
     {
-      "label": "Mardi 2026-09-08",
-      "date": "2026-09-08",
+      "label": "Mardi 2026-09-15",
+      "date": "2026-09-15",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "boulgour-risotto-champignons-carottes-comte",
-          "recipe_title": "Boulgour façon risotto aux champignons, carottes et comté"
+          "recipe_slug": "petit-epeautre-risotto-champignons-poireaux-comte",
+          "recipe_title": "Petit épeautre façon risotto aux champignons, poireaux doux et comté"
         }
       ]
     },
     {
-      "label": "Mercredi 2026-09-09",
-      "date": "2026-09-09",
+      "label": "Mercredi 2026-09-16",
+      "date": "2026-09-16",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "tartines-haricots-blancs-tomates-basilic",
-          "recipe_title": "Tartines de haricots blancs, tomates et basilic"
+          "recipe_slug": "wraps-fromage-frais-carottes-mais-oeuf-dur",
+          "recipe_title": "Wraps fromage frais, carottes râpées, maïs et œuf dur"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "gnocchis-cremeux-epinards-fromage-frais",
-          "recipe_title": "Gnocchis crémeux aux épinards et au fromage frais"
+          "recipe_slug": "quenelles-sauce-tomate-epinards-riz",
+          "recipe_title": "Quenelles sauce tomate douce, épinards et riz"
         }
       ]
     },
     {
-      "label": "Jeudi 2026-09-10",
-      "date": "2026-09-10",
+      "label": "Jeudi 2026-09-17",
+      "date": "2026-09-17",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "gratin-pommes-terre-chou-fleur-emmental",
-          "recipe_title": "Gratin de pommes de terre et chou-fleur à l’emmental"
+          "recipe_slug": "gratin-pommes-terre-precuites-poireaux-comte",
+          "recipe_title": "Gratin de pommes de terre précuites, poireaux doux et comté"
         }
       ]
     },
     {
-      "label": "Vendredi 2026-09-11",
-      "date": "2026-09-11",
+      "label": "Vendredi 2026-09-18",
+      "date": "2026-09-18",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "oeufs-cocotte-poivrons-tomates-riz",
-          "recipe_title": "Œufs cocotte aux poivrons et tomates, riz"
+          "recipe_slug": "frittata-haricots-verts-tomates-cerises-feta",
+          "recipe_title": "Frittata aux haricots verts, tomates cerises et feta douce"
         }
       ]
     },
     {
-      "label": "Samedi 2026-09-12",
-      "date": "2026-09-12",
+      "label": "Samedi 2026-09-19",
+      "date": "2026-09-19",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "salade-lentilles-carottes-pomme-chevre-frais",
-          "recipe_title": "Salade de lentilles, carottes et pomme au chèvre frais"
+          "recipe_slug": "salade-couscous-concombre-raisins-pois-chiches",
+          "recipe_title": "Salade de couscous, concombre, raisins frais et pois chiches"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "pizza-poivrons-champignons-mozzarella",
-          "recipe_title": "Pizza aux poivrons, champignons et mozzarella"
+          "recipe_slug": "pizza-blanche-courgettes-tomates-cerises-chevre-frais",
+          "recipe_title": "Pizza blanche courgettes, tomates cerises et chèvre frais"
         }
       ]
     },
     {
-      "label": "Dimanche 2026-09-13",
-      "date": "2026-09-13",
+      "label": "Dimanche 2026-09-20",
+      "date": "2026-09-20",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "semoule-pois-chiches-concombre-tomates-yaourt",
-          "recipe_title": "Semoule aux pois chiches, concombre et tomates, sauce yaourt"
+          "recipe_slug": "tartines-chevre-frais-betterave-pomme-salade",
+          "recipe_title": "Tartines chèvre frais, betterave, pomme et salade"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "veloute-carottes-pommes-terre-lentilles-corail-tartines-comte",
-          "recipe_title": "Velouté de carottes, pommes de terre et lentilles corail, tartines au comté"
+          "recipe_slug": "veloute-butternut-carottes-lentilles-corail-tartines-fromage-frais",
+          "recipe_title": "Velouté de butternut, carottes et lentilles corail, tartines au fromage frais"
         }
       ]
     }

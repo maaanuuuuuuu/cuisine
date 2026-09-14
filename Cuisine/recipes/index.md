@@ -117,6 +117,19 @@
 - [[semoule-pois-chiches-concombre-tomates-yaourt|Semoule aux pois chiches, concombre et tomates, sauce yaourt]]
 - [[veloute-carottes-pommes-terre-lentilles-corail-tartines-comte|Velouté de carottes, pommes de terre et lentilles corail, tartines au comté]]
 
+## Semaine 2026-W38
+
+- [[pates-cremeuses-epinards-petits-pois-ricotta|Pâtes crémeuses aux épinards, petits pois et ricotta]]
+- [[petit-epeautre-risotto-champignons-poireaux-comte|Petit épeautre façon risotto aux champignons, poireaux doux et comté]]
+- [[wraps-fromage-frais-carottes-mais-oeuf-dur|Wraps fromage frais, carottes râpées, maïs et œuf dur]]
+- [[quenelles-sauce-tomate-epinards-riz|Quenelles sauce tomate douce, épinards et riz]]
+- [[gratin-pommes-terre-precuites-poireaux-comte|Gratin de pommes de terre précuites, poireaux doux et comté]]
+- [[frittata-haricots-verts-tomates-cerises-feta|Frittata aux haricots verts, tomates cerises et feta douce]]
+- [[salade-couscous-concombre-raisins-pois-chiches|Salade de couscous, concombre, raisins frais et pois chiches]]
+- [[pizza-blanche-courgettes-tomates-cerises-chevre-frais|Pizza blanche courgettes, tomates cerises et chèvre frais]]
+- [[tartines-chevre-frais-betterave-pomme-salade|Tartines chèvre frais, betterave, pomme et salade]]
+- [[veloute-butternut-carottes-lentilles-corail-tartines-fromage-frais|Velouté de butternut, carottes et lentilles corail, tartines au fromage frais]]
+
 ## Variantes remplacées dans la semaine 2026-W37
 
 - [[boulgour-risotto-champignons-potimarron-comte|Boulgour façon risotto aux champignons, potimarron et comté]]
