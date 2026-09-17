@@ -20,7 +20,7 @@ nutrition:
   protein_g: 131
   carbs_g: 199
   fat_g: 102
-used_in_weeks: ["2026-W38"]
+used_in_weeks: []
 status: active
 ---
 
@@ -71,13 +71,12 @@ Les **650 g de brocoli** et les **450 g de carottes** donnent une vraie base de 
 
 ## Utilisation
 
-- Prévu pour le dîner du **jeudi 17 septembre 2026**, semaine **2026-W38**.
+- Recette remplacée dans la semaine **2026-W38** par une lasagne végétarienne.
 - Portions : **2 adultes + 2 jeunes enfants**.
-- Service conseillé : laisser tiédir quelques minutes pour les enfants ; compléter avec un fruit ou un yaourt nature si les appétits sont grands.
-- [[../weeks/2026-W38|2026-W38]]
+- Service conseillé hors planning : laisser tiédir quelques minutes pour les enfants ; compléter avec un fruit ou un yaourt nature si les appétits sont grands.
 
 ## Notes Codex
 
-- Brief source : révision 2026-W38-jeudi-dinner, demandée comme remplacement par un gratin de légumes.
+- Brief source : révision 2026-W38-jeudi-dinner, ensuite remplacée par une lasagne végétarienne.
 - Recette végétarienne, familiale et douce, sans ail cru, oignon cru ni échalote crue.
 - Estimations nutritionnelles approximatives, à ajuster selon les marques de ricotta, de comté et de haricots blancs.

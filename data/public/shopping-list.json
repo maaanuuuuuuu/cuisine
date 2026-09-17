@@ -20,12 +20,8 @@
           "quantity": "400 g"
         },
         {
-          "name": "Brocoli",
-          "quantity": "650 g"
-        },
-        {
           "name": "Carottes",
-          "quantity": "1,05 kg"
+          "quantity": "950 g"
         },
         {
           "name": "Champignons de Paris",
@@ -37,7 +33,7 @@
         },
         {
           "name": "Courgettes",
-          "quantity": "500 g"
+          "quantity": "1 kg"
         },
         {
           "name": "Haricots verts",
@@ -90,6 +86,10 @@
       "name": "Épicerie salée",
       "items": [
         {
+          "name": "Feuilles de lasagnes sèches",
+          "quantity": "220 g (prévoir 1 paquet)"
+        },
+        {
           "name": "Petit épeautre cuisson rapide sec",
           "quantity": "280 g"
         },
@@ -111,35 +111,23 @@
         },
         {
           "name": "Passata",
-          "quantity": "550 g"
+          "quantity": "1,25 kg"
         },
         {
           "name": "Lentilles corail sèches",
-          "quantity": "130 g"
+          "quantity": "220 g"
         },
         {
           "name": "Pois chiches en conserve",
           "quantity": "240 g égouttés"
         },
         {
-          "name": "Haricots blancs cuits en conserve ou bocal",
-          "quantity": "420 g égouttés"
-        },
-        {
           "name": "Bouillon de légumes doux",
           "quantity": "2 cubes ou poudre pour 1,7 L"
         },
         {
-          "name": "Chapelure fine",
-          "quantity": "35 g"
-        },
-        {
           "name": "Huile d'olive",
           "quantity": "120 ml environ"
-        },
-        {
-          "name": "Moutarde douce",
-          "quantity": "10 g"
         },
         {
           "name": "Vinaigre de cidre",
@@ -156,7 +144,7 @@
       "items": [
         {
           "name": "Épinards hachés surgelés",
-          "quantity": "650 g"
+          "quantity": "950 g"
         },
         {
           "name": "Petits pois surgelés",
@@ -169,7 +157,7 @@
       "items": [
         {
           "name": "Œufs moyens",
-          "quantity": "14"
+          "quantity": "12"
         },
         {
           "name": "Beurre doux",
@@ -181,7 +169,7 @@
         },
         {
           "name": "Lait demi-écrémé",
-          "quantity": "350 ml"
+          "quantity": "250 ml"
         },
         {
           "name": "Chèvre frais",
@@ -193,7 +181,7 @@
         },
         {
           "name": "Comté",
-          "quantity": "250 g"
+          "quantity": "190 g"
         },
         {
           "name": "Feta douce",
@@ -205,7 +193,7 @@
         },
         {
           "name": "Mozzarella égouttée",
-          "quantity": "125 g"
+          "quantity": "325 g"
         },
         {
           "name": "Pâte à pizza fraîche prête à étaler",
