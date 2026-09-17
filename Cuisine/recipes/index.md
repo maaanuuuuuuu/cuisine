@@ -123,12 +123,16 @@
 - [[petit-epeautre-risotto-champignons-poireaux-comte|Petit épeautre façon risotto aux champignons, poireaux doux et comté]]
 - [[wraps-fromage-frais-carottes-mais-oeuf-dur|Wraps fromage frais, carottes râpées, maïs et œuf dur]]
 - [[quenelles-sauce-tomate-epinards-riz|Quenelles sauce tomate douce, épinards et riz]]
-- [[gratin-pommes-terre-precuites-poireaux-comte|Gratin de pommes de terre précuites, poireaux doux et comté]]
+- [[gratin-brocoli-carottes-haricots-blancs-ricotta-comte|Gratin de brocoli, carottes, haricots blancs, ricotta et comté]]
 - [[frittata-haricots-verts-tomates-cerises-feta|Frittata aux haricots verts, tomates cerises et feta douce]]
 - [[salade-couscous-concombre-raisins-pois-chiches|Salade de couscous, concombre, raisins frais et pois chiches]]
 - [[pizza-blanche-courgettes-tomates-cerises-chevre-frais|Pizza blanche courgettes, tomates cerises et chèvre frais]]
 - [[tartines-chevre-frais-betterave-pomme-salade|Tartines chèvre frais, betterave, pomme et salade]]
 - [[veloute-butternut-carottes-lentilles-corail-tartines-fromage-frais|Velouté de butternut, carottes et lentilles corail, tartines au fromage frais]]
+
+## Variantes remplacées dans la semaine 2026-W38
+
+- [[gratin-pommes-terre-precuites-poireaux-comte|Gratin de pommes de terre précuites, poireaux doux et comté]]
 
 ## Variantes remplacées dans la semaine 2026-W37
 

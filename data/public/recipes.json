@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14",
+  "updated_at": "2026-09-17",
   "recipes": [
     {
       "slug": "assiettes-melon-mozzarella-tomates-pain-grille",
@@ -2393,6 +2393,144 @@
       ]
     },
     {
+      "slug": "gratin-brocoli-carottes-haricots-blancs-ricotta-comte",
+      "title": "Gratin de brocoli, carottes, haricots blancs, ricotta et comté",
+      "summary": "Le plat de jeudi, c'était un vrai gratin de légumes familial : du brocoli tendre, des carottes fondantes, des haricots blancs pour rendre le plat plus complet, puis une crème douce à la ricotta et au comté. Le passage au four sert à gratiner et à lier, sans cacher les légumes sous une base de pommes de terre.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 50,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gratin",
+        "four",
+        "legumes",
+        "brocoli",
+        "carottes",
+        "haricots-blancs"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2243,
+        "calories_per_serving": 561,
+        "protein_g": 131,
+        "carbs_g": 199,
+        "fat_g": 102
+      },
+      "used_in_weeks": [
+        "2026-W38"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Brocoli",
+          "quantity": "650 g",
+          "calories": 220,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "450 g",
+          "calories": 185,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Haricots blancs cuits égouttés",
+          "quantity": "420 g",
+          "calories": 465,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 435,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "250 ml",
+          "calories": 115,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté râpé",
+          "quantity": "100 g",
+          "calories": 415,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Œufs",
+          "quantity": "2 moyens",
+          "calories": 150,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chapelure fine",
+          "quantity": "35 g",
+          "calories": 130,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml",
+          "calories": 120,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "8 g",
+          "calories": 8,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Muscade douce, sel fin, poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes",
+          "text": "Préchauffe le four à 190 °C. Coupe les 650 g de brocoli en petites fleurettes et garde les tiges tendres en dés. Épluche ou brosse les 450 g de carottes, puis coupe les 450 g de carottes en fines demi-rondelles pour qu'elles deviennent fondantes en même temps que le brocoli."
+        },
+        {
+          "title": "Précuire les légumes",
+          "text": "Porte une grande casserole d'eau légèrement salée à ébullition. Ajoute les 450 g de carottes et cuis-les 5 minutes, puis ajoute les 650 g de brocoli et poursuis 4 à 5 minutes. Les 450 g de carottes doivent être presque tendres et les 650 g de brocoli doivent rester verts mais faciles à piquer. Égoutte bien les 650 g de brocoli et les 450 g de carottes."
+        },
+        {
+          "title": "Préparer les haricots blancs",
+          "text": "Rince et égoutte les 420 g de haricots blancs cuits égouttés. Écrase grossièrement environ un tiers des 420 g de haricots blancs à la fourchette et garde le reste entier : les haricots écrasés aideront la crème à se lier, les haricots entiers donneront de la mâche douce."
+        },
+        {
+          "title": "Faire la crème ricotta",
+          "text": "Dans un grand saladier, mélange les 250 g de ricotta, les 250 ml de lait demi-écrémé, les 2 œufs moyens, les 8 g de moutarde douce, une petite pincée de muscade douce, un peu de sel fin et un peu de poivre doux. Ajoute 60 g de comté râpé dans cette crème, en gardant les 40 g de comté râpé restants pour le dessus."
+        },
+        {
+          "title": "Assembler le gratin",
+          "text": "Huile un plat à gratin familial avec les 15 ml d'huile d'olive. Ajoute dans le plat les 650 g de brocoli précuit, les 450 g de carottes précuites et les 420 g de haricots blancs. Verse la crème préparée avec les 250 g de ricotta, les 250 ml de lait demi-écrémé, les 2 œufs moyens et les 60 g de comté râpé, puis mélange délicatement pour napper les légumes sans écraser tout le brocoli."
+        },
+        {
+          "title": "Gratiner",
+          "text": "Répartis les 35 g de chapelure fine et les 40 g de comté râpé restants sur le gratin de 650 g de brocoli, 450 g de carottes, 420 g de haricots blancs, 250 g de ricotta et 250 ml de lait demi-écrémé. Enfourne 23 à 25 minutes à 190 °C, jusqu'à ce que le dessus soit doré et que la crème frémisse doucement sur les bords."
+        },
+        {
+          "title": "Laisser poser et servir",
+          "text": "Laisse reposer le gratin aux 650 g de brocoli, 450 g de carottes, 420 g de haricots blancs, 250 g de ricotta et 100 g de comté râpé pendant 5 minutes avant de servir. Si le dessus dore trop vite, couvre avec du papier cuisson en fin de cuisson ; si le centre semble encore trop souple, prolonge 5 minutes à 180 °C."
+        }
+      ]
+    },
+    {
       "slug": "gratin-lentilles-corail-carottes-courgettes-cheddar-doux",
       "title": "Gratin de lentilles corail, carottes et courgettes au cheddar doux",
       "summary": "Le plat de jeudi, c'était : Gratin de lentilles corail, carottes et courgettes au cheddar doux. Un gratin familial végétarien, doux et fondant, pensé pour le dîner du jeudi. Les lentilles corail cuisent d'abord avec les carottes, les courgettes, le lait et un peu d'eau pour devenir bien moelleuses avant le passage au four. Le cheddar doux gratine le dessus sans rendre le plat trop fort pour les enfants.",
@@ -3168,9 +3306,7 @@
         "carbs_g": 268,
         "fat_g": 101
       },
-      "used_in_weeks": [
-        "2026-W38"
-      ],
+      "used_in_weeks": [],
       "status": "active",
       "ingredients": [
         {

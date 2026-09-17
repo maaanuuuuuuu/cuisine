@@ -20,7 +20,7 @@ nutrition:
   protein_g: 93
   carbs_g: 268
   fat_g: 101
-used_in_weeks: ["2026-W38"]
+used_in_weeks: []
 status: active
 ---
 
