@@ -130,6 +130,19 @@
 - [[tartines-chevre-frais-betterave-pomme-salade|Tartines chèvre frais, betterave, pomme et salade]]
 - [[veloute-butternut-carottes-lentilles-corail-tartines-fromage-frais|Velouté de butternut, carottes et lentilles corail, tartines au fromage frais]]
 
+## Semaine 2026-W39
+
+- [[pates-cremeuses-blettes-haricots-blancs-parmesan|Pâtes crémeuses aux blettes, haricots blancs et parmesan doux]]
+- [[orge-perle-risotto-champignons-carottes-roties-feta|Orge perlé façon risotto aux champignons, carottes rôties et feta douce]]
+- [[galettes-semoule-mais-fromage-frais-concombre|Galettes de semoule, maïs et fromage frais, salade de concombre]]
+- [[croques-champignons-emmental-salade-carottes|Croques champignons, emmental et salade de carottes]]
+- [[gratin-pommes-terre-precuites-brocoli-cheddar-doux|Gratin de pommes de terre précuites, brocoli et cheddar doux]]
+- [[tortilla-carottes-petits-pois-emmental|Tortilla douce aux carottes, petits pois et emmental]]
+- [[bol-riz-haricots-rouges-mais-tomates|Bol de riz, haricots rouges, maïs et tomates douces]]
+- [[tarte-fine-poireaux-ricotta-mozzarella|Tarte fine poireaux, ricotta et mozzarella]]
+- [[tartines-fromage-frais-poire-noix-salade|Tartines fromage frais, poire, noix et salade]]
+- [[veloute-chou-fleur-carottes-haricots-blancs-tartines-comte|Velouté de chou-fleur, carottes et haricots blancs, tartines au comté]]
+
 ## Variantes remplacées dans la semaine 2026-W38
 
 - [[gratin-brocoli-carottes-haricots-blancs-ricotta-comte|Gratin de brocoli, carottes, haricots blancs, ricotta et comté]]

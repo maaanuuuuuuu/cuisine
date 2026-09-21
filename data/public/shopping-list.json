@@ -1,6 +1,6 @@
 {
-  "week": "2026-W38",
-  "title": "Liste de courses 2026-W38",
+  "week": "2026-W39",
+  "title": "Liste de courses 2026-W39",
   "status": "planned",
   "pantry_basics_included": true,
   "sections": [
@@ -9,62 +9,54 @@
       "items": [
         {
           "name": "Herbes fraîches douces",
-          "quantity": "30 g environ (ciboulette, persil ou menthe, facultatif)"
+          "quantity": "1 petit bouquet, facultatif"
         },
         {
           "name": "Salade verte",
-          "quantity": "160 g"
+          "quantity": "400 g environ"
         },
         {
-          "name": "Betterave cuite prête à l'emploi",
-          "quantity": "400 g"
-        },
-        {
-          "name": "Carottes",
-          "quantity": "950 g"
-        },
-        {
-          "name": "Champignons de Paris",
-          "quantity": "500 g"
-        },
-        {
-          "name": "Concombre",
-          "quantity": "300 g"
-        },
-        {
-          "name": "Courgettes",
-          "quantity": "1 kg"
-        },
-        {
-          "name": "Haricots verts",
-          "quantity": "500 g (frais, ou équivalent surgelé)"
-        },
-        {
-          "name": "Poireaux",
-          "quantity": "700 g environ (pour 550 g nets)"
-        },
-        {
-          "name": "Tomates cerises",
+          "name": "Blettes fraîches",
           "quantity": "550 g"
         },
         {
-          "name": "Pommes de terre",
-          "quantity": "350 g, à précuire pour la frittata"
+          "name": "Brocoli",
+          "quantity": "650 g"
         },
         {
-          "name": "Courge butternut",
-          "quantity": "1 kg environ (pour 750 g nets)"
+          "name": "Carottes",
+          "quantity": "1,8 kg environ"
         },
         {
-          "name": "Pomme",
-          "quantity": "1 grosse, environ 200 g"
+          "name": "Champignons de Paris",
+          "quantity": "900 g"
         },
         {
-          "name": "Raisins frais sans pépins",
+          "name": "Chou-fleur",
+          "quantity": "750 g"
+        },
+        {
+          "name": "Concombre",
           "quantity": "350 g"
         },
         {
-          "name": "Citrons",
+          "name": "Poireaux",
+          "quantity": "800 g environ, pour 650 g nets"
+        },
+        {
+          "name": "Tomates",
+          "quantity": "450 g"
+        },
+        {
+          "name": "Pommes de terre",
+          "quantity": "850 g, à précuire pour le gratin"
+        },
+        {
+          "name": "Poires",
+          "quantity": "2 moyennes, environ 300 g"
+        },
+        {
+          "name": "Citrons doux",
           "quantity": "2 moyens"
         }
       ]
@@ -73,12 +65,8 @@
       "name": "Boulangerie",
       "items": [
         {
-          "name": "Grands wraps de blé souples",
-          "quantity": "4 wraps, environ 240 g"
-        },
-        {
-          "name": "Pain de campagne ou pain complet",
-          "quantity": "600 g environ"
+          "name": "Pain de campagne ou pain complet tranché",
+          "quantity": "900 g environ"
         }
       ]
     },
@@ -86,11 +74,7 @@
       "name": "Épicerie salée",
       "items": [
         {
-          "name": "Feuilles de lasagnes sèches",
-          "quantity": "220 g (prévoir 1 paquet)"
-        },
-        {
-          "name": "Petit épeautre cuisson rapide sec",
+          "name": "Orge perlé sec",
           "quantity": "280 g"
         },
         {
@@ -98,44 +82,48 @@
           "quantity": "320 g"
         },
         {
-          "name": "Riz basmati",
-          "quantity": "220 g"
+          "name": "Riz basmati ou riz long sec",
+          "quantity": "240 g"
         },
         {
-          "name": "Semoule de couscous précuite moyenne",
-          "quantity": "260 g"
+          "name": "Semoule de couscous précuite",
+          "quantity": "170 g"
+        },
+        {
+          "name": "Chapelure fine",
+          "quantity": "50 g"
+        },
+        {
+          "name": "Haricots blancs cuits",
+          "quantity": "660 g égouttés, soit environ 3 boîtes"
+        },
+        {
+          "name": "Haricots rouges cuits",
+          "quantity": "400 g égouttés"
         },
         {
           "name": "Maïs doux en conserve",
-          "quantity": "220 g égoutté"
-        },
-        {
-          "name": "Passata",
-          "quantity": "1,25 kg"
-        },
-        {
-          "name": "Lentilles corail sèches",
-          "quantity": "220 g"
-        },
-        {
-          "name": "Pois chiches en conserve",
-          "quantity": "240 g égouttés"
+          "quantity": "400 g égoutté"
         },
         {
           "name": "Bouillon de légumes doux",
-          "quantity": "2 cubes ou poudre pour 1,7 L"
+          "quantity": "2 cubes ou poudre pour 1,8 L"
         },
         {
           "name": "Huile d'olive",
-          "quantity": "120 ml environ"
+          "quantity": "150 ml environ"
         },
         {
-          "name": "Vinaigre de cidre",
+          "name": "Moutarde douce",
+          "quantity": "1 petit pot"
+        },
+        {
+          "name": "Vinaigre doux",
           "quantity": "15 ml"
         },
         {
-          "name": "Noix ou graines finement concassées",
-          "quantity": "20 g, facultatif"
+          "name": "Noix",
+          "quantity": "25 g, facultatives"
         }
       ]
     },
@@ -143,12 +131,8 @@
       "name": "Surgelé",
       "items": [
         {
-          "name": "Épinards hachés surgelés",
-          "quantity": "950 g"
-        },
-        {
           "name": "Petits pois surgelés",
-          "quantity": "200 g"
+          "quantity": "250 g"
         }
       ]
     },
@@ -161,47 +145,55 @@
         },
         {
           "name": "Beurre doux",
-          "quantity": "20 g"
+          "quantity": "10 g"
         },
         {
-          "name": "Crème légère 15 %",
-          "quantity": "220 g"
+          "name": "Crème légère 12 à 15 %",
+          "quantity": "550 ml"
         },
         {
           "name": "Lait demi-écrémé",
-          "quantity": "250 ml"
+          "quantity": "450 ml"
         },
         {
-          "name": "Chèvre frais",
-          "quantity": "390 g"
-        },
-        {
-          "name": "Ricotta",
-          "quantity": "500 g"
+          "name": "Cheddar doux râpé",
+          "quantity": "150 g"
         },
         {
           "name": "Comté",
-          "quantity": "190 g"
+          "quantity": "110 g"
+        },
+        {
+          "name": "Emmental râpé ou en fines tranches",
+          "quantity": "340 g"
         },
         {
           "name": "Feta douce",
-          "quantity": "240 g"
+          "quantity": "150 g"
         },
         {
-          "name": "Fromage frais nature à tartiner",
-          "quantity": "400 g"
+          "name": "Fromage frais nature",
+          "quantity": "620 g"
         },
         {
-          "name": "Mozzarella égouttée",
+          "name": "Parmesan râpé doux",
+          "quantity": "70 g"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "150 g"
+        },
+        {
+          "name": "Yaourt nature",
           "quantity": "325 g"
         },
         {
-          "name": "Pâte à pizza fraîche prête à étaler",
-          "quantity": "400 g"
-        },
-        {
-          "name": "Quenelles nature végétariennes",
-          "quantity": "4 pièces, environ 320 g"
+          "name": "Pâte feuilletée ou pâte brisée",
+          "quantity": "1 rouleau, environ 280 g"
         }
       ]
     },
@@ -210,7 +202,11 @@
       "items": [
         {
           "name": "Farine de blé",
-          "quantity": "10 g"
+          "quantity": "35 g"
+        },
+        {
+          "name": "Fécule de maïs",
+          "quantity": "20 g"
         },
         {
           "name": "Sel fin",
@@ -221,11 +217,7 @@
           "quantity": ""
         },
         {
-          "name": "Muscade douce",
-          "quantity": ""
-        },
-        {
-          "name": "Herbes de Provence ou origan doux",
+          "name": "Noix de muscade",
           "quantity": ""
         },
         {
@@ -233,8 +225,12 @@
           "quantity": ""
         },
         {
-          "name": "Sucre",
-          "quantity": "4 g"
+          "name": "Paprika doux",
+          "quantity": ""
+        },
+        {
+          "name": "Cumin doux",
+          "quantity": ""
         }
       ]
     }
