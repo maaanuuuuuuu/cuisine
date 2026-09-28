@@ -143,6 +143,19 @@
 - [[tartines-fromage-frais-poire-noix-salade|Tartines fromage frais, poire, noix et salade]]
 - [[veloute-chou-fleur-carottes-haricots-blancs-tartines-comte|Velouté de chou-fleur, carottes et haricots blancs, tartines au comté]]
 
+## Semaine 2026-W40
+
+- [[pates-cremeuses-poireaux-epinards-ricotta-citronnee|Pâtes crémeuses aux poireaux, épinards et ricotta citronnée]]
+- [[quinoa-risotto-champignons-courge-parmesan-doux|Quinoa façon risotto aux champignons, courge et parmesan doux]]
+- [[tartines-ricotta-carottes-rapees-pomme-salade|Tartines ricotta, carottes râpées, pomme et salade douce]]
+- [[riz-cremeux-petits-pois-oeufs-durs|Riz crémeux aux petits pois et œufs durs]]
+- [[gratin-patates-douces-precuites-chou-fleur-cheddar-doux|Gratin de patates douces précuites, chou-fleur et cheddar doux]]
+- [[oeufs-brouilles-champignons-epinards-tartines-comte|Œufs brouillés aux champignons, épinards et tartines au comté]]
+- [[salade-quinoa-carottes-pomme-pois-chiches-feta|Salade de quinoa, carottes, pomme, pois chiches et feta douce]]
+- [[pizza-blanche-champignons-poireaux-mozzarella|Pizza blanche aux champignons, poireaux et mozzarella]]
+- [[wraps-houmous-betterave-pomme-feta|Wraps houmous doux, betterave, pomme et feta]]
+- [[veloute-poireaux-pommes-terre-pois-chiches-tartines-ricotta|Velouté de poireaux, pommes de terre et pois chiches, tartines ricotta]]
+
 ## Variantes remplacées dans la semaine 2026-W38
 
 - [[gratin-brocoli-carottes-haricots-blancs-ricotta-comte|Gratin de brocoli, carottes, haricots blancs, ricotta et comté]]

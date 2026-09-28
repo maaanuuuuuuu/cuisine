@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21",
+  "updated_at": "2026-09-28",
   "recipes": [
     {
       "slug": "assiettes-melon-mozzarella-tomates-pain-grille",
@@ -3034,6 +3034,133 @@
       ]
     },
     {
+      "slug": "gratin-patates-douces-precuites-chou-fleur-cheddar-doux",
+      "title": "Gratin de patates douces précuites, chou-fleur et cheddar doux",
+      "summary": "Le plat de jeudi, c'était un gratin familial végétarien, doux et automnal, avec des patates douces bien précuites, du chou-fleur tendre et une sauce crémeuse au cheddar doux. Le passage au four sert surtout à faire gratiner et à lier le plat : les patates douces doivent déjà être fondantes avant d'entrer dans le gratin.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "total_time_minutes": 55,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gratin",
+        "four",
+        "patates-douces",
+        "chou-fleur",
+        "fromage-doux"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2193,
+        "calories_per_serving": 548,
+        "protein_g": 82,
+        "carbs_g": 266,
+        "fat_g": 94
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Patates douces",
+          "quantity": "850 g",
+          "calories": 731,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chou-fleur",
+          "quantity": "650 g de fleurettes",
+          "calories": 163,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Cheddar doux râpé",
+          "quantity": "140 g",
+          "calories": 560,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "350 ml",
+          "calories": 161,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "20 cl",
+          "calories": 340,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fécule de maïs",
+          "quantity": "18 g",
+          "calories": 65,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chapelure fine, facultative",
+          "quantity": "25 g",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Beurre doux",
+          "quantity": "10 g",
+          "calories": 75,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "8 g",
+          "calories": 8,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Noix de muscade douce, sel fin, poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer le four et les légumes",
+          "text": "Préchauffe le four à 190 °C. Épluche les 850 g de patates douces, puis coupe les 850 g de patates douces en demi-rondelles régulières de 4 à 5 mm pour qu'elles cuisent vite sans se transformer en purée. Coupe les 650 g de fleurettes de chou-fleur en petits bouquets de 3 cm environ, avec les tiges tendres en petits morceaux."
+        },
+        {
+          "title": "Précuire jusqu'à tendreté",
+          "text": "Porte une grande casserole d'eau légèrement salée à frémissement. Ajoute les 850 g de patates douces et laisse frémir doucement 7 minutes, puis ajoute les 650 g de fleurettes de chou-fleur et poursuis 5 à 6 minutes. Les 850 g de patates douces doivent être tendres sous la pointe d'un couteau mais encore se tenir, et les 650 g de fleurettes de chou-fleur doivent être faciles à piquer. Si les 850 g de patates douces résistent encore, prolonge 2 minutes : elles doivent vraiment être précuites avant le four. Égoutte soigneusement les 850 g de patates douces précuites et les 650 g de chou-fleur précuit, puis laisse la vapeur s'échapper 2 minutes."
+        },
+        {
+          "title": "Préparer la sauce crémeuse",
+          "text": "Dans une casserole froide, fouette les 350 ml de lait demi-écrémé, les 20 cl de crème légère 15 % et les 18 g de fécule de maïs jusqu'à ce que le mélange soit lisse. Fais chauffer 5 à 6 minutes à feu moyen en remuant, jusqu'à obtenir une sauce nappante mais encore souple. Hors du feu, ajoute les 8 g de moutarde douce, une petite pincée de noix de muscade douce, un peu de sel fin, un peu de poivre doux et 50 g de cheddar doux râpé. Garde les 90 g de cheddar doux râpé restants pour le dessus."
+        },
+        {
+          "title": "Monter le gratin",
+          "text": "Beurre un plat à gratin familial d'environ 28 x 20 cm avec les 10 g de beurre doux. Répartis les 850 g de patates douces précuites et les 650 g de chou-fleur précuit dans le plat. Verse toute la sauce préparée avec les 350 ml de lait demi-écrémé, les 20 cl de crème légère 15 %, les 18 g de fécule de maïs et les 50 g de cheddar doux râpé, puis remue délicatement pour napper les 850 g de patates douces précuites et les 650 g de chou-fleur précuit sans les écraser."
+        },
+        {
+          "title": "Faire gratiner doucement",
+          "text": "Parsème le plat avec les 90 g de cheddar doux râpé restants et, si tu veux un dessus plus croustillant, les 25 g de chapelure fine. Enfourne le gratin garni des 850 g de patates douces précuites, des 650 g de chou-fleur précuit, de la sauce aux 350 ml de lait demi-écrémé et aux 20 cl de crème légère 15 %, puis fais cuire 22 à 25 minutes à 190 °C. Le gratin est prêt quand les bords frémissent doucement, que les 90 g de cheddar doux râpé sont fondus et que les 25 g de chapelure fine sont dorés si tu les as ajoutés. Si le dessus colore trop vite, couvre avec une feuille de papier cuisson."
+        },
+        {
+          "title": "Laisser poser et servir",
+          "text": "Laisse reposer 5 minutes le gratin aux 850 g de patates douces précuites, aux 650 g de chou-fleur précuit, aux 20 cl de crème légère 15 % et aux 140 g de cheddar doux râpé avant de servir. Ce repos aide la sauce à se stabiliser. Pour les jeunes enfants, coupe les demi-rondelles de 850 g de patates douces précuites et les morceaux des 650 g de chou-fleur précuit en petites bouchées, puis laisse tiédir quelques minutes."
+        }
+      ]
+    },
+    {
       "slug": "gratin-polenta-tomates-courgettes-mozzarella",
       "title": "Gratin de polenta crémeuse, tomates et courgettes à la mozzarella",
       "summary": "Le plat de jeudi, c'était un gratin familial végétarien au four : une polenta volontairement souple au lait, des courgettes et des tomates juste revenues pour éviter un rendu aqueux, puis une mozzarella douce qui fond au-dessus. La polenta doit rester crémeuse avant d'entrer au four, car elle se raffermit naturellement pendant la cuisson et le repos.",
@@ -4315,6 +4442,142 @@
       ]
     },
     {
+      "slug": "oeufs-brouilles-champignons-epinards-tartines-comte",
+      "title": "Œufs brouillés aux champignons, épinards et tartines au comté",
+      "summary": "Le plat de vendredi, c'était : œufs brouillés aux champignons, épinards et tartines au comté. Des œufs brouillés très moelleux avec des champignons dorés, des épinards juste tombés et des tartines gratinées au comté. Le dîner reste simple et complet, avec des légumes bien intégrés et assez de pain pour rassasier sans alourdir la fin de semaine. Pour 2 adultes + 2 jeunes enfants   Temps : 10 min préparation + 20 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "total_time_minutes": 30,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "vendredi",
+        "oeufs",
+        "champignons",
+        "epinards",
+        "tartines",
+        "rapide"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2395,
+        "calories_per_serving": 599,
+        "protein_g": 129,
+        "carbs_g": 189,
+        "fat_g": 125
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Œufs",
+          "quantity": "8 moyens",
+          "calories": 576,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "350 g",
+          "calories": 77,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Épinards frais",
+          "quantity": "250 g",
+          "calories": 58,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "12 cl, soit environ 120 g",
+          "calories": 204,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté râpé ou en fines lamelles",
+          "quantity": "120 g",
+          "calories": 488,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "320 g",
+          "calories": 800,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Beurre doux",
+          "quantity": "15 g",
+          "calories": 112,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml, soit environ 9 g",
+          "calories": 80,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ciboulette douce ou persil, facultatif",
+          "quantity": "5 g",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin, poivre doux, noix de muscade facultative",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes et les tartines",
+          "text": "Essuie 350 g de champignons de Paris, puis coupe les 350 g de champignons de Paris en lamelles. Rince et sèche 250 g d'épinards frais. Coupe 320 g de pain de campagne en 6 à 8 tartines. Prépare 120 g de comté râpé ou en fines lamelles : garde 80 g de comté pour les tartines et 40 g de comté pour les œufs brouillés."
+        },
+        {
+          "title": "Faire dorer les champignons",
+          "text": "Dans une grande poêle antiadhésive, chauffe 10 ml d'huile d'olive. Ajoute les 350 g de champignons de Paris et cuis les 350 g de champignons 6 à 8 minutes à feu moyen-vif, jusqu'à ce qu'ils aient rendu leur eau puis commencent à dorer. Sale légèrement les 350 g de champignons seulement en fin de cuisson pour les garder bien dorés."
+        },
+        {
+          "title": "Ajouter les épinards",
+          "text": "Ajoute les 250 g d'épinards frais dans la poêle avec les 350 g de champignons dorés. Cuis les 250 g d'épinards 2 à 3 minutes, juste le temps qu'ils tombent. Si la poêle contient beaucoup d'eau, laisse les 350 g de champignons et les 250 g d'épinards cuire 1 minute de plus pour concentrer le jus, puis baisse le feu."
+        },
+        {
+          "title": "Battre les œufs crémeux",
+          "text": "Dans un saladier, bats 8 œufs moyens avec 12 cl de crème légère 15 %, une petite pincée de sel fin, un peu de poivre doux et une pointe de noix de muscade si tu l'aimes. Le mélange aux 8 œufs moyens et aux 12 cl de crème légère doit être homogène, mais inutile de le faire mousser."
+        },
+        {
+          "title": "Gratiner les tartines au comté",
+          "text": "Pendant que les légumes finissent de cuire, fais griller les 320 g de pain de campagne au grille-pain, au four ou dans une poêle sèche. Répartis 80 g de comté râpé ou en fines lamelles sur les 6 à 8 tartines faites avec les 320 g de pain de campagne, puis repasse les tartines 2 à 3 minutes sous le gril ou dans la poêle couverte, juste le temps que les 80 g de comté fondent."
+        },
+        {
+          "title": "Brouiller doucement les œufs",
+          "text": "Ajoute 15 g de beurre doux dans la poêle avec les 350 g de champignons et les 250 g d'épinards, puis verse le mélange aux 8 œufs moyens et aux 12 cl de crème légère 15 %. Ajoute les 40 g de comté restants. Remue lentement 4 à 6 minutes à feu doux avec une spatule, jusqu'à obtenir des œufs brouillés moelleux, sans partie liquide visible. Pour de jeunes enfants, vise une texture crémeuse mais bien prise."
+        },
+        {
+          "title": "Ajuster la texture",
+          "text": "Si les œufs préparés avec 8 œufs moyens, 12 cl de crème légère, 350 g de champignons, 250 g d'épinards, 15 g de beurre doux et 40 g de comté semblent trop coulants, prolonge la cuisson 30 à 60 secondes à feu doux. S'ils prennent trop vite, retire la poêle du feu et ajoute une cuillère à soupe d'eau chaude ou de crème pour détendre les œufs brouillés."
+        },
+        {
+          "title": "Servir le dîner",
+          "text": "Sers les œufs brouillés aux 8 œufs moyens, 350 g de champignons, 250 g d'épinards, 12 cl de crème légère et 40 g de comté avec les tartines préparées avec 320 g de pain de campagne et 80 g de comté. Ajoute 5 g de ciboulette douce ou de persil seulement si tout le monde en veut. Pour les enfants, coupe les tartines en bâtonnets et sers une portion d'œufs plus petite."
+        }
+      ]
+    },
+    {
       "slug": "oeufs-brouilles-cremeux-courgettes-rapees-tartines-tomate",
       "title": "Œufs brouillés crémeux, courgettes râpées et tartines de tomate",
       "summary": "Le plat de vendredi, c'était : œufs brouillés crémeux, courgettes râpées et tartines de tomate. Des œufs brouillés doux, bien crémeux mais cuits, avec une vraie quantité de courgettes râpées pour alléger l'assiette. Les tartines de pain de campagne, fromage frais et tomates rendent le dîner complet, rapide et facile à adapter aux jeunes enfants. Pour 2 adultes + 2 jeunes enfants Temps : 10 min préparation + 15 min cuisson",
@@ -5253,6 +5516,125 @@
         {
           "title": "Finir doucement",
           "text": "Goûte les pâtes aux 320 g de pâtes courtes sèches, aux 350 g d'épinards hachés surgelés, aux 200 g de petits pois surgelés et aux 250 g de ricotta. Ajoute le zeste finement râpé de 1/2 citron doux et 1 cuillère à café de jus du 1/2 citron doux si tu veux une note plus fraîche, puis sers avec les 10 g de comté râpé restants à part."
+        }
+      ]
+    },
+    {
+      "slug": "pates-cremeuses-poireaux-epinards-ricotta-citronnee",
+      "title": "Pâtes crémeuses aux poireaux, épinards et ricotta citronnée",
+      "summary": "Le plat de lundi soir : des pâtes courtes très crémeuses, avec des poireaux bien fondus, des épinards doux et une sauce à la ricotta juste réveillée par un peu de citron. C'est un dîner végétarien familial, simple, de début d'automne, prêt en environ 35 minutes.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 23,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pates",
+        "poireaux",
+        "epinards",
+        "ricotta",
+        "citron"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2160,
+        "calories_per_serving": 540,
+        "protein_g": 99,
+        "carbs_g": 310,
+        "fat_g": 61
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâtes courtes sèches",
+          "quantity": "330 g",
+          "calories": 1155,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poireaux",
+          "quantity": "400 g parés, soit environ 3 moyens",
+          "calories": 240,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Épinards frais",
+          "quantity": "200 g",
+          "calories": 45,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 435,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Parmesan râpé doux",
+          "quantity": "45 g, dont 30 g pour la sauce et 15 g pour servir",
+          "calories": 195,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml, soit 2 c. à café",
+          "calories": 80,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Citron",
+          "quantity": "1/2 citron, zeste finement râpé et 1 c. à café de jus",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin, poivre doux, muscade",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les légumes",
+          "text": "Coupe les racines et les parties trop vertes de 400 g de poireaux parés, fends les 400 g de poireaux parés en deux dans la longueur, puis rince-les soigneusement pour enlever la terre. Émince finement les 400 g de poireaux parés. Rince 200 g d'épinards frais, essore les 200 g d'épinards frais, puis hache-les grossièrement s'ils sont grands."
+        },
+        {
+          "title": "Cuis les pâtes",
+          "text": "Porte une grande casserole d'eau salée à ébullition. Verse 330 g de pâtes courtes sèches et cuis les 330 g de pâtes courtes sèches selon le temps indiqué sur le paquet, en visant une texture al dente. Avant d'égoutter les 330 g de pâtes courtes sèches, réserve 250 ml d'eau de cuisson."
+        },
+        {
+          "title": "Fais fondre les poireaux",
+          "text": "Pendant la cuisson des 330 g de pâtes courtes sèches, chauffe 10 ml d'huile d'olive dans une grande sauteuse à feu moyen-doux. Ajoute les 400 g de poireaux parés émincés, une petite pincée de sel fin et 60 ml d'eau. Couvre 10 minutes, puis découvre 3 à 4 minutes, jusqu'à ce que les 400 g de poireaux parés émincés soient tendres, brillants et presque compotés."
+        },
+        {
+          "title": "Ajoute les épinards",
+          "text": "Ajoute les 200 g d'épinards frais dans la sauteuse avec les 400 g de poireaux parés émincés. Remue 1 à 2 minutes, juste jusqu'à ce que les 200 g d'épinards frais tombent et restent bien verts. Si les légumes accrochent, ajoute 1 à 2 cuillères à soupe prises dans les 250 ml d'eau de cuisson réservée."
+        },
+        {
+          "title": "Monte la sauce ricotta",
+          "text": "Baisse le feu sous la sauteuse. Ajoute 250 g de ricotta, 30 g de parmesan râpé doux, le zeste finement râpé de 1/2 citron, 1 c. à café de jus de citron, une petite pincée de muscade et 140 ml d'eau de cuisson réservée aux 400 g de poireaux parés émincés et aux 200 g d'épinards frais. Mélange doucement, sans faire bouillir, jusqu'à obtenir une sauce crémeuse et souple; le citron doit rester discret."
+        },
+        {
+          "title": "Enrobe les pâtes",
+          "text": "Ajoute dans la sauteuse les pâtes cuites issues des 330 g de pâtes courtes sèches. Mélange les 330 g de pâtes courtes sèches, les 400 g de poireaux parés émincés, les 200 g d'épinards frais, les 250 g de ricotta et les 30 g de parmesan râpé doux pendant 1 à 2 minutes à feu doux. Si la sauce épaissit, ajoute peu à peu les 110 ml d'eau de cuisson réservée restants pour retrouver une texture nappante."
+        },
+        {
+          "title": "Ajuste et sers",
+          "text": "Goûte les pâtes aux 330 g de pâtes courtes sèches, aux 400 g de poireaux parés émincés, aux 200 g d'épinards frais et aux 250 g de ricotta. Ajoute un peu de sel fin, de poivre doux ou de muscade si nécessaire, puis sers aussitôt avec les 15 g de parmesan râpé doux restants à part."
         }
       ]
     },
@@ -7321,6 +7703,137 @@
       ]
     },
     {
+      "slug": "pizza-blanche-champignons-poireaux-mozzarella",
+      "title": "Pizza blanche aux champignons, poireaux et mozzarella",
+      "summary": "Le plat de samedi, c'était une pizza maison conviviale, végétarienne et douce, garnie d'une base blanche à la ricotta, de champignons dorés, de poireaux bien fondants et de mozzarella. Les poireaux et les champignons sont cuits avant de garnir la pâte pour garder une pizza moelleuse au centre, mais pas détrempée.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pizza",
+        "four",
+        "champignons",
+        "poireaux",
+        "mozzarella"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2515,
+        "calories_per_serving": 629,
+        "protein_g": 118,
+        "carbs_g": 279,
+        "fat_g": 109
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâte à pizza",
+          "quantity": "400 g",
+          "calories": 1040,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "350 g",
+          "calories": 77,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poireaux",
+          "quantity": "350 g préparés",
+          "calories": 214,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "200 g",
+          "calories": 520,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "220 g",
+          "calories": 383,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Parmesan doux ou emmental râpé, facultatif",
+          "quantity": "25 g",
+          "calories": 100,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "18 g",
+          "calories": 162,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "40 ml",
+          "calories": 19,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Farine, pour étaler",
+          "quantity": "10 g",
+          "calories": 36,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Thym doux, sel fin, poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préchauffer le four",
+          "text": "Préchauffe le four à 230 °C, avec une plaque épaisse à l'intérieur si tu en as une. Sors les 400 g de pâte à pizza du réfrigérateur pendant que le four chauffe : une pâte moins froide s'étale plus facilement."
+        },
+        {
+          "title": "Préparer les légumes",
+          "text": "Émince les 350 g de champignons de Paris en lamelles pas trop fines. Coupe les 350 g de poireaux préparés en demi-rondelles fines, puis rince les 350 g de poireaux préparés si nécessaire et égoutte-les soigneusement."
+        },
+        {
+          "title": "Faire tomber les poireaux et sécher les champignons",
+          "text": "Dans une grande poêle, chauffe 12 g d'huile d'olive à feu moyen. Ajoute les 350 g de poireaux préparés, une petite pincée de sel fin et 2 cuillères à soupe d'eau, puis fais cuire 6 à 7 minutes, jusqu'à ce que les 350 g de poireaux préparés soient souples et fondants. Ajoute les 350 g de champignons de Paris et poursuis 6 à 8 minutes à feu un peu plus vif, jusqu'à ce que l'eau rendue par les 350 g de champignons de Paris soit évaporée. La garniture doit être tendre mais presque sèche ; si elle brille encore beaucoup, laisse-la cuire 2 minutes de plus."
+        },
+        {
+          "title": "Préparer la base blanche",
+          "text": "Dans un bol, mélange les 220 g de ricotta avec les 40 ml de lait demi-écrémé, un peu de thym doux, une pincée de sel fin et un peu de poivre doux. La base doit être crémeuse et facile à étaler ; si les 220 g de ricotta restent très compacts, ajoute seulement 1 cuillère à soupe d'eau."
+        },
+        {
+          "title": "Garnir la pizza",
+          "text": "Sur une feuille de papier cuisson légèrement farinée avec les 10 g de farine, étale les 400 g de pâte à pizza en grand rectangle ou en grand ovale. Étale la base aux 220 g de ricotta et aux 40 ml de lait demi-écrémé sur les 400 g de pâte à pizza, en gardant 1 à 2 cm de bord libre. Répartis les 350 g de poireaux préparés cuits et les 350 g de champignons de Paris cuits, puis ajoute les 200 g de mozzarella en morceaux. Parsème avec les 25 g de parmesan doux ou d'emmental râpé si tu veux une surface plus gratinée, puis arrose avec les 6 g d'huile d'olive restants."
+        },
+        {
+          "title": "Cuire jusqu'à ce que la pâte soit dorée",
+          "text": "Fais glisser la pizza garnie des 400 g de pâte à pizza, des 220 g de ricotta, des 350 g de poireaux préparés cuits, des 350 g de champignons de Paris cuits et des 200 g de mozzarella sur la plaque chaude. Enfourne 12 à 15 minutes à 230 °C, jusqu'à ce que les bords soient gonflés et dorés, que les 200 g de mozzarella soient fondus et que le dessous de la pâte se tienne quand tu soulèves un coin."
+        },
+        {
+          "title": "Laisser poser et servir",
+          "text": "Laisse reposer 3 minutes la pizza aux 350 g de champignons de Paris, aux 350 g de poireaux préparés, aux 220 g de ricotta et aux 200 g de mozzarella avant de la couper. Pour les jeunes enfants, coupe les parts en petits rectangles et laisse tiédir la mozzarella fondue quelques minutes."
+        }
+      ]
+    },
+    {
       "slug": "pizza-blanche-courgettes-tomates-cerises-chevre-frais",
       "title": "Pizza blanche courgettes, tomates cerises et chèvre frais",
       "summary": "Le plat de samedi, c'était : pizza blanche courgettes, tomates cerises et chèvre frais. Une pizza blanche familiale et végétarienne, pensée pour une pâte prête à étaler : une crème au chèvre frais, des courgettes précuites et bien épongées, quelques tomates cerises posées côté coupé vers le haut, puis de la mozzarella fondante. Le résultat reste doux, convivial et moins humide qu'une pizza aux légumes crus. Pour 2 adultes + 2 jeunes enfants. Temps : 18 min de préparation + 22 min de cuisson, soit 40 min environ.",
@@ -8175,6 +8688,147 @@
       ]
     },
     {
+      "slug": "quinoa-risotto-champignons-courge-parmesan-doux",
+      "title": "Quinoa façon risotto aux champignons, courge et parmesan doux",
+      "summary": "Le plat de mardi, c'est un quinoa façon risotto, doux et crémeux, avec des champignons dorés, des cubes de courge fondants et du parmesan ajouté hors du feu. La texture doit rester souple, entre un pilaf moelleux et un risotto familial facile à servir aux enfants. Pour 2 adultes + 2 jeunes enfants. Temps : 15 min de préparation + 30 min de cuisson, soit 45 min environ.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "quinoa",
+        "champignons",
+        "courge"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2110,
+        "calories_per_serving": 528,
+        "protein_g": 97,
+        "carbs_g": 265,
+        "fat_g": 75
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Quinoa sec",
+          "quantity": "260 g",
+          "calories": 957,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "500 g",
+          "calories": 110,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Courge butternut ou musquée",
+          "quantity": "600 g net utile, soit environ 750 g brut",
+          "calories": 270,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Parmesan doux râpé",
+          "quantity": "80 g, dont 60 g dans le plat et 20 g au service",
+          "calories": 344,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fromage frais nature",
+          "quantity": "120 g",
+          "calories": 180,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 ml",
+          "calories": 162,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Beurre doux",
+          "quantity": "10 g",
+          "calories": 75,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Bouillon de légumes doux en cube",
+          "quantity": "5 g",
+          "calories": 10,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Thym séché",
+          "quantity": "1 g",
+          "calories": 2,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Muscade moulue",
+          "quantity": "0,3 g, facultatif",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin",
+          "quantity": "1 g maximum, à ajuster",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivre doux",
+          "quantity": "0,2 g, facultatif",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare la courge, les champignons et le bouillon",
+          "text": "Épluche environ 750 g de courge butternut ou musquée, retire les graines puis pèse 600 g de chair nette. Coupe ces 600 g de courge en cubes de 1,5 cm pour qu'ils deviennent fondants sans se défaire. Nettoie et émince 500 g de champignons de Paris. Rince 260 g de quinoa sec dans une passoire fine jusqu'à ce que l'eau soit claire. Dissous 5 g de cube de bouillon de légumes doux dans 750 ml d'eau bien chaude. Râpe 80 g de parmesan doux et garde 20 g de parmesan doux à part pour le service."
+        },
+        {
+          "title": "Dore la courge",
+          "text": "Chauffe 20 ml d'huile d'olive avec 10 g de beurre doux dans une grande sauteuse de 28 à 30 cm. Ajoute les 600 g de cubes de courge, 1 g de thym séché et une petite pincée prise sur les 1 g de sel fin maximum. Fais revenir les 600 g de courge 8 minutes à feu moyen-vif, en remuant souvent, jusqu'à ce que les bords commencent à dorer. Si les cubes accrochent trop vite, ajoute 30 ml d'eau et baisse légèrement le feu."
+        },
+        {
+          "title": "Ajoute les champignons",
+          "text": "Ajoute les 500 g de champignons émincés dans la sauteuse avec les 600 g de courge dorée. Cuis les 500 g de champignons et les 600 g de courge 7 minutes à feu assez vif, sans couvrir, pour que les champignons rendent leur eau puis commencent à colorer. Les cubes de courge doivent être presque tendres à l'extérieur mais encore un peu fermes au centre."
+        },
+        {
+          "title": "Fais nacrer le quinoa",
+          "text": "Ajoute les 260 g de quinoa sec rincé aux 500 g de champignons et aux 600 g de courge. Mélange 1 minute pour enrober les 260 g de quinoa avec les 20 ml d'huile d'olive, les 10 g de beurre doux et le jus des légumes. Ajoute la muscade moulue facultative de 0,3 g si tu veux une note plus douce."
+        },
+        {
+          "title": "Cuis façon risotto",
+          "text": "Verse 650 ml du bouillon chaud préparé avec 5 g de cube sur les 260 g de quinoa, les 500 g de champignons et les 600 g de courge. Laisse frémir 15 à 17 minutes à feu moyen-doux, en remuant régulièrement. Ajoute les 100 ml de bouillon chaud restants petit à petit si la sauteuse sèche avant que les 260 g de quinoa soient tendres. Le quinoa doit montrer son petit germe blanc, les 600 g de courge doivent s'écraser facilement à la fourchette et le fond doit rester légèrement crémeux."
+        },
+        {
+          "title": "Lie hors du feu",
+          "text": "Coupe le feu puis incorpore 120 g de fromage frais nature et 60 g de parmesan doux râpé dans les 260 g de quinoa cuit avec les 500 g de champignons et les 600 g de courge. Mélange 1 minute, jusqu'à obtenir une texture souple. Si le quinoa devient compact, ajoute 30 à 60 ml d'eau chaude et mélange encore. Goûte avant d'ajouter le reste des 1 g de sel fin, car les 5 g de bouillon et les 80 g de parmesan doux salent déjà le plat."
+        },
+        {
+          "title": "Sers moelleux",
+          "text": "Laisse reposer 3 minutes le quinoa façon risotto avec les 120 g de fromage frais nature et les 60 g de parmesan doux déjà incorporés. Sers avec les 20 g de parmesan doux restants à table et propose les 0,2 g de poivre doux à part pour les adultes. Pour les enfants, écrase quelques cubes de courge dans leur portion si une texture plus crémeuse les aide."
+        }
+      ]
+    },
+    {
       "slug": "ravioles-courgettes-creme-douce",
       "title": "Ravioles courgettes et crème douce",
       "summary": "Le plat de mercredi, c'était : Ravioles courgettes et crème douce. Un dîner végétarien très simple pour le mercredi soir : des courgettes fondantes, des ravioles cuites directement dans une crème légère, un peu d'emmental doux et du basilic ajouté à la fin. La cuisson reste douce et on remue le moins possible pour ne pas casser les ravioles. Pour 2 adultes + 2 jeunes enfants   Temps : 10 min préparation + 15 min cuisson",
@@ -8415,6 +9069,127 @@
         {
           "title": "Sers doux et crémeux",
           "text": "Goûte le risotto avec les 260 g de petit épeautre, les 600 g d'aubergines, les 350 g de tomates cerises et les 60 g de fromage déjà incorporés. Ajuste avec un peu de sel fin et de poivre doux si besoin, puis sers avec les 20 g restants de parmesan ou de fromage doux râpé à part pour que chacun dose son assiette."
+        }
+      ]
+    },
+    {
+      "slug": "riz-cremeux-petits-pois-oeufs-durs",
+      "title": "Riz crémeux aux petits pois et œufs durs",
+      "summary": "Le plat de mercredi, c'était : riz crémeux aux petits pois et œufs durs. Un dîner végétarien très simple et réconfortant : du riz tendre, des petits pois doux, une sauce au fromage frais détendue avec un peu d'eau de cuisson, puis des œufs durs coupés en quartiers. Les carottes râpées restent à côté pour apporter du croquant et de la fraîcheur sans compliquer le repas. Pour 2 adultes + 2 jeunes enfants   Temps : 10 min préparation + 20 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "total_time_minutes": 30,
+      "difficulty": "tres facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "riz",
+        "petits-pois",
+        "oeufs",
+        "diner",
+        "mercredi"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2530,
+        "calories_per_serving": 633,
+        "protein_g": 113,
+        "carbs_g": 327,
+        "fat_g": 84
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Riz blanc long ou basmati",
+          "quantity": "300 g",
+          "calories": 1065,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Petits pois surgelés",
+          "quantity": "300 g",
+          "calories": 240,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Œufs",
+          "quantity": "6 moyens",
+          "calories": 432,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fromage frais nature",
+          "quantity": "200 g",
+          "calories": 320,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Emmental doux râpé",
+          "quantity": "70 g",
+          "calories": 266,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes râpées",
+          "quantity": "400 g",
+          "calories": 164,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "5 ml, soit 1 c. à café",
+          "calories": 40,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron doux",
+          "quantity": "1 c. à soupe, facultatif",
+          "calories": 3,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cuire les œufs",
+          "text": "Dépose 6 œufs moyens dans une petite casserole, couvre les 6 œufs moyens d'eau froide, puis porte à frémissement. Quand l'eau frémit, cuis les 6 œufs moyens 9 à 10 minutes. Rafraîchis les 6 œufs moyens sous l'eau froide pour pouvoir les écaler facilement."
+        },
+        {
+          "title": "Cuire le riz et les petits pois",
+          "text": "Pendant la cuisson des 6 œufs moyens, porte une grande casserole d'eau salée à ébullition. Verse 300 g de riz blanc long ou basmati et cuis les 300 g de riz selon le temps indiqué sur le paquet, souvent 10 à 12 minutes. Ajoute 300 g de petits pois surgelés dans la même casserole pendant les 3 dernières minutes de cuisson des 300 g de riz."
+        },
+        {
+          "title": "Garder de quoi détendre la sauce",
+          "text": "Avant d'égoutter, prélève 200 ml d'eau de cuisson du mélange aux 300 g de riz et aux 300 g de petits pois surgelés. Égoutte ensuite les 300 g de riz et les 300 g de petits pois surgelés, puis remets-les dans la casserole hors du feu."
+        },
+        {
+          "title": "Rendre le riz crémeux",
+          "text": "Ajoute 200 g de fromage frais nature, 50 g d'emmental doux râpé et 120 ml d'eau de cuisson réservée dans la casserole avec les 300 g de riz et les 300 g de petits pois surgelés. Mélange doucement 1 à 2 minutes, hors du feu ou à feu très doux, jusqu'à ce que les 200 g de fromage frais nature enrobent le riz sans bouillir. Si le riz épaissit trop, ajoute encore 30 à 80 ml d'eau de cuisson réservée pour retrouver une texture souple."
+        },
+        {
+          "title": "Préparer l'accompagnement rapide",
+          "text": "Dans un saladier, mélange 400 g de carottes râpées avec 5 ml d'huile d'olive, 1 c. à soupe de jus de citron doux facultatif et une petite pincée de sel fin. Garde les 400 g de carottes râpées à côté du riz pour que chacun dose selon son envie."
+        },
+        {
+          "title": "Ajouter les œufs et servir",
+          "text": "Écale les 6 œufs moyens, coupe les 6 œufs moyens en quartiers, puis dispose les quartiers sur le riz crémeux aux 300 g de riz, 300 g de petits pois surgelés, 200 g de fromage frais nature et 50 g d'emmental doux râpé. Parsème les 20 g d'emmental doux râpé restants à table. Sers aussitôt avec les 400 g de carottes râpées ; pour les jeunes enfants, coupe les quartiers d'œufs en morceaux plus petits."
         }
       ]
     },
@@ -9532,6 +10307,155 @@
         {
           "title": "Servir avec les œufs",
           "text": "Répartis les 4 œufs moyens coupés sur la salade de 800 g de pommes de terre et 450 g de haricots verts. Sers tiède, ou laisse refroidir la salade 15 à 20 minutes au frais. Pour les jeunes enfants, coupe les 450 g de haricots verts les plus longs et les quartiers des 4 œufs moyens en morceaux faciles à attraper."
+        }
+      ]
+    },
+    {
+      "slug": "salade-quinoa-carottes-pomme-pois-chiches-feta",
+      "title": "Salade de quinoa, carottes, pomme, pois chiches et feta douce",
+      "summary": "Le déjeuner de samedi, c'était une salade de quinoa simple, douce et flexible, avec des carottes finement râpées, de la pomme, des pois chiches et de la feta douce. Elle se prépare en environ 25 minutes, peut être faite à l'avance, et reste adaptée aux jeunes enfants grâce aux textures tendres et aux crudités râpées très finement.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "quinoa",
+        "pois-chiches",
+        "salade",
+        "rapide"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1960,
+        "calories_per_serving": 490,
+        "protein_g": 74,
+        "carbs_g": 269,
+        "fat_g": 70
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Quinoa sec",
+          "quantity": "200 g",
+          "calories": 736,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Eau pour cuisson",
+          "quantity": "400 ml",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pois chiches cuits égouttés",
+          "quantity": "240 g",
+          "calories": 394,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "300 g, râpées finement",
+          "calories": 123,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pomme",
+          "quantity": "200 g, soit 1 grosse pomme",
+          "calories": 104,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Feta douce",
+          "quantity": "150 g",
+          "calories": 396,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 ml, soit environ 4 c. à café",
+          "calories": 160,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "30 ml, soit environ 2 c. à soupe",
+          "calories": 9,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Vinaigre de cidre",
+          "quantity": "10 ml, soit 2 c. à café",
+          "calories": 2,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Miel doux",
+          "quantity": "10 g, soit 1 c. à café bombée",
+          "calories": 30,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "5 g, soit 1 c. à café rase",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Persil plat",
+          "quantity": "10 g, optionnel",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cuire le quinoa",
+          "text": "Rince 200 g de quinoa sec dans une passoire fine. Mets les 200 g de quinoa sec rincés dans une casserole avec 400 ml d'eau et une petite pincée de sel fin. Porte à frémissement, couvre, puis cuis les 200 g de quinoa sec environ 12 minutes, jusqu'à ce que les grains soient tendres et que les 400 ml d'eau soient absorbés. Coupe le feu et laisse reposer les 200 g de quinoa cuit 3 minutes à couvert."
+        },
+        {
+          "title": "Refroidir le quinoa",
+          "text": "Étale le quinoa cuit obtenu avec les 200 g de quinoa sec dans un grand plat ou un saladier large. Aère les grains à la fourchette pendant 2 minutes pour qu'ils tiédissent plus vite. Si le déjeuner doit attendre, laisse le quinoa cuit issu des 200 g de quinoa sec refroidir complètement avant d'ajouter la feta."
+        },
+        {
+          "title": "Préparer les légumes et la pomme",
+          "text": "Épluche ou brosse 300 g de carottes, puis râpe très finement les 300 g de carottes pour une texture plus facile pour les enfants. Lave 200 g de pomme, retire le cœur et les pépins, puis coupe les 200 g de pomme en petits dés ou râpe-les grossièrement."
+        },
+        {
+          "title": "Préparer les pois chiches et la feta",
+          "text": "Rince et égoutte 240 g de pois chiches cuits. Émiette 150 g de feta douce en morceaux pas trop gros. Si tu utilises le persil, hache finement 10 g de persil plat et garde les 10 g de persil plat à part pour pouvoir le doser dans les assiettes."
+        },
+        {
+          "title": "Faire la sauce douce",
+          "text": "Dans un bol, fouette 20 ml d'huile d'olive, 30 ml de jus de citron, 10 ml de vinaigre de cidre, 10 g de miel doux, 5 g de moutarde douce, une petite pincée de sel fin et un peu de poivre doux. La sauce doit être légèrement acidulée mais pas piquante ; si les enfants préfèrent très doux, ajoute 1 cuillère à soupe d'eau froide aux 20 ml d'huile d'olive, 30 ml de jus de citron, 10 ml de vinaigre de cidre, 10 g de miel doux et 5 g de moutarde douce."
+        },
+        {
+          "title": "Assembler la salade",
+          "text": "Dans un grand saladier, mélange le quinoa cuit issu des 200 g de quinoa sec, les 300 g de carottes râpées finement, les 200 g de pomme, les 240 g de pois chiches cuits égouttés et la sauce préparée avec 20 ml d'huile d'olive, 30 ml de jus de citron, 10 ml de vinaigre de cidre, 10 g de miel doux et 5 g de moutarde douce. Mélange doucement pour enrober les grains sans écraser les 240 g de pois chiches cuits."
+        },
+        {
+          "title": "Ajouter la feta et servir",
+          "text": "Ajoute 150 g de feta douce sur la salade de quinoa, carottes, pomme et pois chiches, puis parsème avec 10 g de persil plat si tu l'utilises. Pour les jeunes enfants, sers une part avec un peu moins de feta parmi les 150 g de feta douce si elle paraît trop salée, et vérifie que les 300 g de carottes râpées sont bien réparties en petites bouchées."
         }
       ]
     },
@@ -11973,6 +12897,127 @@
       ]
     },
     {
+      "slug": "tartines-ricotta-carottes-rapees-pomme-salade",
+      "title": "Tartines ricotta, carottes râpées, pomme et salade douce",
+      "summary": "Le déjeuner de mercredi, c'était des tartines très simples à la ricotta, aux carottes râpées et à la pomme, servies avec une salade douce. Tout se prépare en 20 minutes, sans ail cru, oignon cru ni échalote crue, avec une texture fraîche et facile à adapter aux jeunes enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 20,
+      "difficulty": "tres facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "tartines",
+        "salade",
+        "sans-cuisson"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1830,
+        "calories_per_serving": 458,
+        "protein_g": 69,
+        "carbs_g": 252,
+        "fat_g": 74
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pain de campagne",
+          "quantity": "360 g",
+          "calories": 900,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 375,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes râpées",
+          "quantity": "300 g",
+          "calories": 123,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pomme",
+          "quantity": "200 g",
+          "calories": 104,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Salade douce",
+          "quantity": "120 g",
+          "calories": 20,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Graines de tournesol, optionnelles",
+          "quantity": "20 g",
+          "calories": 117,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "20 g",
+          "calories": 180,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "30 ml",
+          "calories": 9,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Assouplir la ricotta",
+          "text": "Dans un bol, mélange 250 g de ricotta avec 10 ml de jus de citron, 5 g d'huile d'olive, une petite pincée de sel fin et un peu de poivre doux. La ricotta doit être souple et facile à étaler ; si les 250 g de ricotta paraissent trop fermes, ajoute 1 cuillère à café d'eau froide et mélange encore."
+        },
+        {
+          "title": "Préparer les carottes et la pomme",
+          "text": "Mets 300 g de carottes râpées dans un saladier. Lave 200 g de pomme, enlève le cœur et les pépins, puis râpe ou coupe les 200 g de pomme en très petits bâtonnets. Ajoute aussitôt 10 ml de jus de citron aux 300 g de carottes râpées et aux 200 g de pomme, puis mélange pour garder une saveur fraîche et limiter le brunissement."
+        },
+        {
+          "title": "Assaisonner la salade douce",
+          "text": "Rince et essore 120 g de salade douce. Dans un petit bol, fouette les 10 g d'huile d'olive restants avec les 10 ml de jus de citron restants, une petite pincée de sel fin et un peu de poivre doux. Verse cette sauce sur les 120 g de salade douce juste avant de servir pour qu'elle reste tendre mais pas flétrie."
+        },
+        {
+          "title": "Préparer le pain",
+          "text": "Dispose 360 g de pain de campagne, soit 6 grandes tranches ou 8 tranches moyennes, sur une planche. Garde les 360 g de pain de campagne tels quels pour une version fraîche et moelleuse, ou passe les 6 à 8 tranches très brièvement au grille-pain si tu préfères des bords tièdes et croustillants."
+        },
+        {
+          "title": "Monter les tartines",
+          "text": "Répartis toute la ricotta assouplie, soit 250 g de ricotta avec 10 ml de jus de citron et 5 g d'huile d'olive, sur les 360 g de pain de campagne. Ajoute par-dessus le mélange de 300 g de carottes râpées et de 200 g de pomme, en gardant les morceaux les plus fins pour les tartines des enfants."
+        },
+        {
+          "title": "Finir et servir",
+          "text": "Parsème les tartines avec 20 g de graines de tournesol si tu les utilises, ou garde ces 20 g de graines de tournesol dans un petit bol à part pour les adultes. Sers les tartines préparées avec 360 g de pain de campagne, 250 g de ricotta, 300 g de carottes râpées et 200 g de pomme avec les 120 g de salade douce assaisonnée. Coupe les tartines des enfants en bandes ou en carrés faciles à tenir."
+        }
+      ]
+    },
+    {
       "slug": "tartines-ricotta-tomates-concombre",
       "title": "Tartines ricotta, tomates cerises et concombre",
       "summary": "Déjeuner du mercredi très rapide, frais et doux : de grandes tartines de pain complet ou de campagne, une ricotta citronnée, des tomates cerises, du concombre croquant et du basilic. Les enfants peuvent avoir les tartines coupées en petites bandes faciles à tenir.",
@@ -13422,6 +14467,144 @@
       ]
     },
     {
+      "slug": "veloute-poireaux-pommes-terre-pois-chiches-tartines-ricotta",
+      "title": "Velouté de poireaux, pommes de terre et pois chiches, tartines ricotta",
+      "summary": "Le plat de dimanche, c'est un velouté doux de poireaux, pommes de terre et pois chiches, mixé très lisse avec un peu de lait et de ricotta, puis servi avec des tartines de pain de campagne à la ricotta. Les pois chiches restent discrets dans la texture mais complètent les protéines du dîner, et les tartines se servent à part pour ajuster facilement les portions des enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 28,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "dimanche",
+        "veloute",
+        "tartines",
+        "poireaux",
+        "pois-chiches"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2440,
+        "calories_per_serving": 610,
+        "protein_g": 102,
+        "carbs_g": 363,
+        "fat_g": 62
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Poireaux",
+          "quantity": "650 g préparés",
+          "calories": 200,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pommes de terre",
+          "quantity": "500 g",
+          "calories": 385,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pois chiches cuits",
+          "quantity": "240 g égouttés",
+          "calories": 395,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Bouillon doux de légumes ou eau",
+          "quantity": "800 ml",
+          "calories": 15,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "250 ml",
+          "calories": 120,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "300 g",
+          "calories": 750,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 435,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 g",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "10 ml",
+          "calories": 3,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Persil plat",
+          "quantity": "10 g",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Muscade douce, sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes et les pois chiches",
+          "text": "Coupe les racines et les parties trop foncées des poireaux, puis rince très soigneusement les 650 g de poireaux préparés avant de les émincer finement. Épluche les 500 g de pommes de terre, puis coupe les 500 g de pommes de terre en dés de 1 à 2 cm. Rince et égoutte les 240 g de pois chiches cuits pour adoucir leur goût."
+        },
+        {
+          "title": "Faire fondre les poireaux",
+          "text": "Dans une grande casserole, chauffe 10 g d'huile d'olive à feu moyen. Ajoute les 650 g de poireaux préparés, une petite pincée de sel fin et 1 petite pincée de muscade douce. Fais cuire les 650 g de poireaux préparés pendant 5 à 6 minutes, en remuant souvent, jusqu'à ce qu'ils deviennent souples sans colorer."
+        },
+        {
+          "title": "Cuire la base du velouté",
+          "text": "Ajoute les 500 g de pommes de terre et les 240 g de pois chiches cuits dans la casserole avec les 650 g de poireaux préparés. Verse les 800 ml de bouillon doux de légumes ou d'eau, couvre à moitié et laisse frémir 18 à 20 minutes, jusqu'à ce que les 500 g de pommes de terre s'écrasent facilement contre la paroi de la casserole."
+        },
+        {
+          "title": "Préparer la ricotta des tartines",
+          "text": "Pendant la cuisson du velouté, mélange 190 g de ricotta avec les 5 g d'huile d'olive restants, 10 ml de jus de citron, 10 g de persil plat, une petite pincée de sel fin et un peu de poivre doux. Garde les 60 g de ricotta restants pour mixer dans le velouté."
+        },
+        {
+          "title": "Griller le pain",
+          "text": "Fais griller les 300 g de pain de campagne, soit environ 6 tranches, au grille-pain ou sous le gril pendant 3 à 5 minutes. Les 300 g de pain de campagne doivent être croustillants sur les bords mais rester faciles à croquer pour les enfants. Tartine ensuite les 6 tranches de pain de campagne avec la préparation aux 190 g de ricotta."
+        },
+        {
+          "title": "Mixer très lisse",
+          "text": "Hors du feu, ajoute les 250 ml de lait demi-écrémé et les 60 g de ricotta dans la casserole avec les 650 g de poireaux préparés, les 500 g de pommes de terre, les 240 g de pois chiches cuits et les 800 ml de bouillon doux de légumes ou d'eau. Mixe longuement, jusqu'à obtenir une texture vraiment lisse. Si le velouté paraît trop épais, ajoute 50 à 150 ml d'eau chaude, petit à petit, puis mixe encore quelques secondes."
+        },
+        {
+          "title": "Servir avec les tartines",
+          "text": "Goûte le velouté préparé avec les 650 g de poireaux préparés, les 500 g de pommes de terre, les 240 g de pois chiches cuits, les 250 ml de lait demi-écrémé et les 60 g de ricotta, puis ajuste le sel fin et le poivre doux si besoin. Sers le velouté dans des bols avec les tartines aux 300 g de pain de campagne et 190 g de ricotta à côté. Pour les jeunes enfants, laisse tiédir le velouté quelques minutes et coupe les tartines en bâtonnets."
+        }
+      ]
+    },
+    {
       "slug": "veloute-potimarron-carottes-lentilles-corail-tartines-comte",
       "title": "Velouté de potimarron, carottes et lentilles corail, tartines au comté",
       "summary": "Le plat de dimanche, c'est un velouté doux de potimarron, carottes et lentilles corail, accompagné de tartines au comté gratiné. Les lentilles cuisent directement avec les légumes et les tartines se préparent pendant que la soupe mijote. Pour 2 adultes + 2 jeunes enfants. Temps : 12 min de préparation + 23 min de cuisson et finition, soit environ 35 min, en préparant les tartines pendant la cuisson du velouté. Prévoir quelques minutes de plus si les légumes ne sont pas encore fondants.",
@@ -14031,6 +15214,139 @@
         {
           "title": "Servir frais",
           "text": "Sers les 4 wraps fromage frais, carottes râpées, maïs et œuf dur tout de suite, avec les éventuels restes de 300 g de carottes râpées ou de 220 g de maïs doux égoutté à côté. Si le déjeuner doit attendre, emballe les 4 wraps garnis dans du papier cuisson et garde-les au frais jusqu'à 30 minutes pour préserver les 240 g de wraps de blé souples."
+        }
+      ]
+    },
+    {
+      "slug": "wraps-houmous-betterave-pomme-feta",
+      "title": "Wraps houmous doux, betterave, pomme et feta",
+      "summary": "Le déjeuner de dimanche, c'était : wraps houmous doux, betterave, pomme et feta. Un déjeuner végétarien léger, très facile et quasiment sans cuisine avant le dîner du dimanche : des wraps souples au houmous doux sans ail cru, betterave cuite, pomme croquante, feta et salade douce. Les saveurs restent rondes et légèrement sucrées, adaptées aux jeunes enfants, avec une garniture qui se roule vite et peut aussi se servir en assiette si un wrap est trop rempli. Pour 2 adultes + 2 jeunes enfants   Temps : 20 min préparation + 0 min cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 20,
+      "difficulty": "tres facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "dimanche",
+        "rapide",
+        "wraps",
+        "sans-cuisson"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1780,
+        "calories_per_serving": 445,
+        "protein_g": 62,
+        "carbs_g": 223,
+        "fat_g": 74
+      },
+      "used_in_weeks": [
+        "2026-W40"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Grands wraps de blé",
+          "quantity": "240 g, soit 4 wraps",
+          "calories": 745,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Houmous doux sans ail cru",
+          "quantity": "220 g",
+          "calories": 370,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Betterave cuite prête à l'emploi",
+          "quantity": "300 g",
+          "calories": 130,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pomme",
+          "quantity": "200 g, soit 1 grosse pomme",
+          "calories": 104,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Feta",
+          "quantity": "120 g",
+          "calories": 317,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Salade douce",
+          "quantity": "120 g",
+          "calories": 18,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g, soit environ 1 cuillère à soupe",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Vinaigre de cidre",
+          "quantity": "10 ml, soit environ 2 cuillères à café",
+          "calories": 2,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "10 ml, soit environ 2 cuillères à café",
+          "calories": 3,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Persil plat ou ciboulette",
+          "quantity": "5 g, facultatif",
+          "calories": 1,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Assouplir les wraps",
+          "text": "Pose les 4 grands wraps de blé, soit 240 g, sur une planche. Si les 4 grands wraps de blé paraissent un peu secs, couvre-les 2 minutes avec un torchon propre légèrement humide pour qu'ils se roulent sans casser."
+        },
+        {
+          "title": "Préparer la betterave, la pomme et la salade",
+          "text": "Égoutte 300 g de betterave cuite prête à l'emploi, puis coupe les 300 g de betterave cuite en fins bâtonnets ou en petits dés. Rince 200 g de pomme, retire le cœur, puis coupe les 200 g de pomme en lamelles fines. Rince et essore 120 g de salade douce."
+        },
+        {
+          "title": "Assaisonner sans détremper",
+          "text": "Dans un saladier, mélange délicatement 120 g de salade douce avec 10 g d'huile d'olive, 10 ml de vinaigre de cidre, une petite pincée de sel fin et un peu de poivre doux. Arrose les 200 g de pomme avec 10 ml de jus de citron pour garder les lamelles claires et fraîches. Si tu utilises 5 g de persil plat ou de ciboulette, cisèle les 5 g de persil plat ou de ciboulette."
+        },
+        {
+          "title": "Tartiner le houmous",
+          "text": "Répartis 220 g de houmous doux sans ail cru sur les 4 grands wraps de blé, soit environ 55 g de houmous doux sans ail cru par wrap, en laissant 2 cm libres sur les bords. Le houmous doit former une couche souple qui aide la garniture à tenir."
+        },
+        {
+          "title": "Garnir les wraps",
+          "text": "Ajoute sur les 4 wraps tartinés de 220 g de houmous doux sans ail cru les 300 g de betterave cuite, les 200 g de pomme citronnée, les 120 g de feta émiettée et environ les deux tiers des 120 g de salade douce assaisonnée. Garde le reste des 120 g de salade douce assaisonnée pour servir à côté, surtout si les wraps des enfants doivent être moins garnis."
+        },
+        {
+          "title": "Rouler et servir",
+          "text": "Replie les côtés, puis roule les 4 wraps garnis de 220 g de houmous doux sans ail cru, 300 g de betterave cuite, 200 g de pomme, 120 g de feta et 120 g de salade douce en serrant doucement. Coupe les 4 wraps en deux pour les adultes et en tronçons plus courts pour les jeunes enfants. Sers tout de suite avec le reste des 120 g de salade douce assaisonnée."
         }
       ]
     },
