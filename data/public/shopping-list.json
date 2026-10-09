@@ -1,6 +1,6 @@
 {
-  "week": "2026-W40",
-  "title": "Liste de courses 2026-W40",
+  "week": "2026-W41",
+  "title": "Liste de courses 2026-W41",
   "status": "planned",
   "pantry_basics_included": true,
   "sections": [
@@ -8,56 +8,60 @@
       "name": "Fruits et légumes",
       "items": [
         {
-          "name": "Herbes fraîches douces",
-          "quantity": "30 g environ, facultatif"
+          "name": "Persil plat",
+          "quantity": "5 g, facultatif"
         },
         {
           "name": "Salade douce",
-          "quantity": "240 g"
+          "quantity": "420 g + 120 g facultatifs"
         },
         {
-          "name": "Betterave cuite",
-          "quantity": "300 g"
-        },
-        {
-          "name": "Carottes",
-          "quantity": "1 kg environ"
-        },
-        {
-          "name": "Champignons de Paris",
-          "quantity": "1,2 kg"
-        },
-        {
-          "name": "Chou-fleur",
-          "quantity": "650 g de fleurettes"
-        },
-        {
-          "name": "Courge butternut ou musquée",
-          "quantity": "750 g brut environ"
-        },
-        {
-          "name": "Épinards frais",
-          "quantity": "450 g"
-        },
-        {
-          "name": "Poireaux",
-          "quantity": "1,8 kg environ, pour 1,4 kg préparés"
-        },
-        {
-          "name": "Patates douces",
-          "quantity": "850 g"
-        },
-        {
-          "name": "Pommes de terre",
+          "name": "Brocoli",
           "quantity": "500 g"
         },
         {
-          "name": "Pommes",
-          "quantity": "3 grosses, environ 600 g"
+          "name": "Carottes",
+          "quantity": "2,3 kg environ"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "800 g"
+        },
+        {
+          "name": "Chou-fleur",
+          "quantity": "600 g"
+        },
+        {
+          "name": "Courge butternut",
+          "quantity": "650 g brut environ"
+        },
+        {
+          "name": "Navets doux",
+          "quantity": "450 g brut environ"
+        },
+        {
+          "name": "Panais",
+          "quantity": "750 g brut environ"
+        },
+        {
+          "name": "Poireaux",
+          "quantity": "750 g brut environ"
+        },
+        {
+          "name": "Pommes de terre",
+          "quantity": "750 g"
+        },
+        {
+          "name": "Pommes douces",
+          "quantity": "300 g, soit 2 moyennes"
+        },
+        {
+          "name": "Poires",
+          "quantity": "300 g, soit 2 moyennes"
         },
         {
           "name": "Citrons",
-          "quantity": "4 moyens"
+          "quantity": "3 moyens, dont plusieurs facultatifs"
         }
       ]
     },
@@ -66,15 +70,7 @@
       "items": [
         {
           "name": "Pain de campagne",
-          "quantity": "980 g environ"
-        },
-        {
-          "name": "Pâte à pizza",
-          "quantity": "400 g"
-        },
-        {
-          "name": "Grands wraps de blé",
-          "quantity": "4 wraps, environ 240 g"
+          "quantity": "560 g environ"
         }
       ]
     },
@@ -86,32 +82,40 @@
           "quantity": "330 g"
         },
         {
-          "name": "Quinoa sec",
-          "quantity": "460 g"
+          "name": "Boulgour sec",
+          "quantity": "260 g"
         },
         {
-          "name": "Riz blanc long ou basmati",
-          "quantity": "300 g"
+          "name": "Semoule de couscous moyenne précuite",
+          "quantity": "250 g"
+        },
+        {
+          "name": "Lentilles corail sèches",
+          "quantity": "160 g"
+        },
+        {
+          "name": "Haricots blancs cuits",
+          "quantity": "400 g égouttés"
+        },
+        {
+          "name": "Lentilles blondes cuites",
+          "quantity": "500 g égouttées"
         },
         {
           "name": "Pois chiches cuits",
-          "quantity": "480 g égouttés, soit environ 2 boîtes"
+          "quantity": "300 g égouttés"
         },
         {
           "name": "Bouillon de légumes doux",
-          "quantity": "2 cubes ou poudre pour 1 L"
+          "quantity": "2 cubes ou poudre pour 1,7 l"
         },
         {
           "name": "Chapelure fine",
-          "quantity": "25 g, facultative"
-        },
-        {
-          "name": "Graines de tournesol",
-          "quantity": "20 g, facultatives"
+          "quantity": "45 g"
         },
         {
           "name": "Huile d'olive",
-          "quantity": "150 ml environ"
+          "quantity": "160 ml environ"
         },
         {
           "name": "Moutarde douce",
@@ -119,11 +123,19 @@
         },
         {
           "name": "Vinaigre de cidre",
-          "quantity": "20 ml"
+          "quantity": "35 ml"
         },
         {
           "name": "Miel doux",
           "quantity": "10 g"
+        },
+        {
+          "name": "Noix",
+          "quantity": "50 g, facultatives et à part"
+        },
+        {
+          "name": "Raisins secs",
+          "quantity": "60 g"
         }
       ]
     },
@@ -131,8 +143,12 @@
       "name": "Surgelé",
       "items": [
         {
+          "name": "Épinards frais ou surgelés",
+          "quantity": "450 g"
+        },
+        {
           "name": "Petits pois surgelés",
-          "quantity": "300 g"
+          "quantity": "430 g"
         }
       ]
     },
@@ -141,55 +157,55 @@
       "items": [
         {
           "name": "Œufs moyens",
-          "quantity": "14"
+          "quantity": "10"
         },
         {
           "name": "Beurre doux",
-          "quantity": "35 g"
+          "quantity": "30 g"
         },
         {
           "name": "Crème légère 15 %",
-          "quantity": "320 ml"
+          "quantity": "580 ml environ"
         },
         {
           "name": "Lait demi-écrémé",
-          "quantity": "640 ml"
+          "quantity": "470 ml"
         },
         {
-          "name": "Cheddar doux râpé",
-          "quantity": "140 g"
+          "name": "Yaourt nature",
+          "quantity": "300 g"
+        },
+        {
+          "name": "Chèvre frais doux",
+          "quantity": "330 g"
         },
         {
           "name": "Comté",
-          "quantity": "120 g"
-        },
-        {
-          "name": "Emmental doux râpé",
-          "quantity": "70 g"
+          "quantity": "250 g"
         },
         {
           "name": "Feta douce",
-          "quantity": "270 g"
-        },
-        {
-          "name": "Fromage frais nature",
-          "quantity": "320 g"
-        },
-        {
-          "name": "Houmous doux sans ail cru",
-          "quantity": "220 g"
-        },
-        {
-          "name": "Mozzarella",
-          "quantity": "200 g"
-        },
-        {
-          "name": "Parmesan doux râpé",
           "quantity": "150 g"
         },
         {
+          "name": "Mozzarella",
+          "quantity": "350 g"
+        },
+        {
+          "name": "Parmesan doux râpé",
+          "quantity": "50 g"
+        },
+        {
           "name": "Ricotta",
-          "quantity": "970 g"
+          "quantity": "450 g"
+        },
+        {
+          "name": "Ravioles fraîches végétariennes",
+          "quantity": "480 g"
+        },
+        {
+          "name": "Pâte feuilletée ou pâte à tarte",
+          "quantity": "1 rouleau, environ 280 g"
         }
       ]
     },
@@ -197,12 +213,8 @@
       "name": "Basiques et épices",
       "items": [
         {
-          "name": "Farine de blé",
-          "quantity": "10 g"
-        },
-        {
           "name": "Fécule de maïs",
-          "quantity": "18 g"
+          "quantity": "12 g"
         },
         {
           "name": "Sel fin",

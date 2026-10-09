@@ -156,6 +156,19 @@
 - [[wraps-houmous-betterave-pomme-feta|Wraps houmous doux, betterave, pomme et feta]]
 - [[veloute-poireaux-pommes-terre-pois-chiches-tartines-ricotta|Velouté de poireaux, pommes de terre et pois chiches, tartines ricotta]]
 
+## Semaine 2026-W41
+
+- [[pates-cremeuses-brocoli-petits-pois-chevre-frais|Pâtes crémeuses au brocoli, petits pois et chèvre frais]]
+- [[pilaf-boulgour-champignons-panais-rotis-feta-douce|Pilaf de boulgour aux champignons, panais rôtis et feta douce]]
+- [[semoule-express-pois-chiches-carottes-raisins-yaourt-doux|Semoule express pois chiches, carottes râpées, raisins et yaourt doux]]
+- [[ravioles-epinards-creme-douce-carottes-rapees|Ravioles aux épinards, crème douce et carottes râpées]]
+- [[gratin-pommes-terre-precuites-poireaux-haricots-blancs-comte|Gratin de pommes de terre précuites, poireaux et haricots blancs au comté]]
+- [[frittata-chou-fleur-petits-pois-mozzarella-douce|Frittata chou-fleur, petits pois et mozzarella douce]]
+- [[bol-tiede-lentilles-blondes-pommes-carottes-roties-chevre-frais|Bol tiède de lentilles blondes, pommes, carottes rôties et chèvre frais]]
+- [[tarte-fine-butternut-champignons-mozzarella|Tarte fine butternut, champignons et mozzarella]]
+- [[tartines-comte-poire-noix-salade-douce|Tartines comté, poire, noix et salade douce]]
+- [[veloute-carottes-navets-lentilles-corail-tartines-ricotta|Velouté de carottes, navets doux et lentilles corail, tartines ricotta]]
+
 ## Variantes remplacées dans la semaine 2026-W38
 
 - [[gratin-brocoli-carottes-haricots-blancs-ricotta-comte|Gratin de brocoli, carottes, haricots blancs, ricotta et comté]]

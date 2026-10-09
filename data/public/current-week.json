@@ -1,109 +1,109 @@
 {
-  "week": "2026-W40",
-  "title": "Semaine 2026-W40",
-  "start_date": "2026-09-28",
-  "end_date": "2026-10-04",
+  "week": "2026-W41",
+  "title": "Semaine 2026-W41",
+  "start_date": "2026-10-05",
+  "end_date": "2026-10-11",
   "status": "planned",
   "days": [
     {
-      "label": "Lundi 2026-09-28",
-      "date": "2026-09-28",
+      "label": "Lundi 2026-10-05",
+      "date": "2026-10-05",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "pates-cremeuses-poireaux-epinards-ricotta-citronnee",
-          "recipe_title": "Pâtes crémeuses aux poireaux, épinards et ricotta citronnée"
+          "recipe_slug": "pates-cremeuses-brocoli-petits-pois-chevre-frais",
+          "recipe_title": "Pâtes crémeuses au brocoli, petits pois et chèvre frais"
         }
       ]
     },
     {
-      "label": "Mardi 2026-09-29",
-      "date": "2026-09-29",
+      "label": "Mardi 2026-10-06",
+      "date": "2026-10-06",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "quinoa-risotto-champignons-courge-parmesan-doux",
-          "recipe_title": "Quinoa façon risotto aux champignons, courge et parmesan doux"
+          "recipe_slug": "pilaf-boulgour-champignons-panais-rotis-feta-douce",
+          "recipe_title": "Pilaf de boulgour aux champignons, panais rôtis et feta douce"
         }
       ]
     },
     {
-      "label": "Mercredi 2026-09-30",
-      "date": "2026-09-30",
+      "label": "Mercredi 2026-10-07",
+      "date": "2026-10-07",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "tartines-ricotta-carottes-rapees-pomme-salade",
-          "recipe_title": "Tartines ricotta, carottes râpées, pomme et salade douce"
+          "recipe_slug": "semoule-express-pois-chiches-carottes-raisins-yaourt-doux",
+          "recipe_title": "Semoule express pois chiches, carottes râpées, raisins et yaourt doux"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "riz-cremeux-petits-pois-oeufs-durs",
-          "recipe_title": "Riz crémeux aux petits pois et œufs durs"
+          "recipe_slug": "ravioles-epinards-creme-douce-carottes-rapees",
+          "recipe_title": "Ravioles aux épinards, crème douce et carottes râpées"
         }
       ]
     },
     {
-      "label": "Jeudi 2026-10-01",
-      "date": "2026-10-01",
+      "label": "Jeudi 2026-10-08",
+      "date": "2026-10-08",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "gratin-patates-douces-precuites-chou-fleur-cheddar-doux",
-          "recipe_title": "Gratin de patates douces précuites, chou-fleur et cheddar doux"
+          "recipe_slug": "gratin-pommes-terre-precuites-poireaux-haricots-blancs-comte",
+          "recipe_title": "Gratin de pommes de terre précuites, poireaux et haricots blancs au comté"
         }
       ]
     },
     {
-      "label": "Vendredi 2026-10-02",
-      "date": "2026-10-02",
+      "label": "Vendredi 2026-10-09",
+      "date": "2026-10-09",
       "meals": [
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "oeufs-brouilles-champignons-epinards-tartines-comte",
-          "recipe_title": "Œufs brouillés aux champignons, épinards et tartines au comté"
+          "recipe_slug": "frittata-chou-fleur-petits-pois-mozzarella-douce",
+          "recipe_title": "Frittata chou-fleur, petits pois et mozzarella douce"
         }
       ]
     },
     {
-      "label": "Samedi 2026-10-03",
-      "date": "2026-10-03",
+      "label": "Samedi 2026-10-10",
+      "date": "2026-10-10",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "salade-quinoa-carottes-pomme-pois-chiches-feta",
-          "recipe_title": "Salade de quinoa, carottes, pomme, pois chiches et feta douce"
+          "recipe_slug": "bol-tiede-lentilles-blondes-pommes-carottes-roties-chevre-frais",
+          "recipe_title": "Bol tiède de lentilles blondes, pommes, carottes rôties et chèvre frais"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "pizza-blanche-champignons-poireaux-mozzarella",
-          "recipe_title": "Pizza blanche aux champignons, poireaux et mozzarella"
+          "recipe_slug": "tarte-fine-butternut-champignons-mozzarella",
+          "recipe_title": "Tarte fine butternut, champignons et mozzarella"
         }
       ]
     },
     {
-      "label": "Dimanche 2026-10-04",
-      "date": "2026-10-04",
+      "label": "Dimanche 2026-10-11",
+      "date": "2026-10-11",
       "meals": [
         {
           "type": "lunch",
           "type_label": "Déjeuner",
-          "recipe_slug": "wraps-houmous-betterave-pomme-feta",
-          "recipe_title": "Wraps houmous doux, betterave, pomme et feta"
+          "recipe_slug": "tartines-comte-poire-noix-salade-douce",
+          "recipe_title": "Tartines comté, poire, noix et salade douce"
         },
         {
           "type": "dinner",
           "type_label": "Dîner",
-          "recipe_slug": "veloute-poireaux-pommes-terre-pois-chiches-tartines-ricotta",
-          "recipe_title": "Velouté de poireaux, pommes de terre et pois chiches, tartines ricotta"
+          "recipe_slug": "veloute-carottes-navets-lentilles-corail-tartines-ricotta",
+          "recipe_title": "Velouté de carottes, navets doux et lentilles corail, tartines ricotta"
         }
       ]
     }
