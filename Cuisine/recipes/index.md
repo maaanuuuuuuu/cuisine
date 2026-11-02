@@ -169,6 +169,19 @@
 - [[tartines-comte-poire-noix-salade-douce|Tartines comté, poire, noix et salade douce]]
 - [[veloute-carottes-navets-lentilles-corail-tartines-ricotta|Velouté de carottes, navets doux et lentilles corail, tartines ricotta]]
 
+## Semaine 2026-W45
+
+- [[pates-cremeuses-epinards-haricots-blancs-parmesan-doux|Pâtes crémeuses aux épinards, haricots blancs et parmesan doux]]
+- [[blesotto-champignons-carottes-roties-parmesan-doux|Blésotto aux champignons, carottes rôties et parmesan doux]]
+- [[wraps-houmous-doux-carottes-oeufs-mais|Wraps de houmous doux, carottes râpées, œufs durs et maïs]]
+- [[gnocchis-sauce-tomate-douce-epinards-mozzarella-fondante|Gnocchis sauce tomate douce, épinards et mozzarella fondante]]
+- [[gratin-pommes-terre-precuites-blettes-ricotta-comte|Gratin de pommes de terre précuites, blettes, ricotta et comté]]
+- [[frittata-poireaux-epinards-feta-douce|Frittata aux poireaux fondants, épinards et feta douce]]
+- [[salade-boulgour-betterave-pomme-pois-chiches-feta|Salade de boulgour, betterave, pomme, pois chiches et feta]]
+- [[pizza-brocoli-champignons-mozzarella|Pizza maison au brocoli, champignons et mozzarella]]
+- [[tartines-houmous-doux-carottes-oeufs-durs|Tartines de houmous doux, carottes râpées et œufs durs]]
+- [[veloute-poireaux-carottes-lentilles-corail-tartines-comte|Velouté de poireaux, carottes et lentilles corail, tartines au comté]]
+
 ## Variantes remplacées dans la semaine 2026-W38
 
 - [[gratin-brocoli-carottes-haricots-blancs-ricotta-comte|Gratin de brocoli, carottes, haricots blancs, ricotta et comté]]
