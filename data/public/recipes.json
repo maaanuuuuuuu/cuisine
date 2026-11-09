@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02",
+  "updated_at": "2026-11-09",
   "recipes": [
     {
       "slug": "assiettes-melon-mozzarella-tomates-pain-grille",
@@ -1462,6 +1462,114 @@
       ]
     },
     {
+      "slug": "croques-epinards-mozzarella-carottes-rapees",
+      "title": "Croques moelleux aux épinards, mozzarella et carottes râpées",
+      "summary": "Des croques très rapides, garnis d’épinards fondants et de mozzarella douce, avec des carottes râpées qui restent légèrement croquantes. Ils se réchauffent facilement à la poêle douce ou au four.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 12,
+      "cook_time_minutes": 8,
+      "total_time_minutes": 20,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "express",
+        "dejeuner"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1785,
+        "calories_per_serving": 446,
+        "protein_g": 78,
+        "carbs_g": 185,
+        "fat_g": 78
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pain de mie complet",
+          "quantity": "8 grandes tranches (environ 360 g)",
+          "calories": 900,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "250 g",
+          "calories": 625,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Épinards frais",
+          "quantity": "300 g",
+          "calories": 70,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "500 g",
+          "calories": 200,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fromage frais nature",
+          "quantity": "120 g",
+          "calories": 210,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Beurre doux ou huile d’olive",
+          "quantity": "15 g",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "10 g",
+          "calories": 15,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin et poivre doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Prépare les légumes",
+          "text": "Râpe les 500 g de carottes. Lave les 300 g d’épinards frais, puis essore-les soigneusement. Une bonne poignée pressée dans un torchon propre évite que les croques ne détrempent."
+        },
+        {
+          "title": "Fais tomber les épinards",
+          "text": "Chauffe 5 g de beurre doux ou d’huile d’olive dans une grande poêle sur feu moyen. Ajoute les 300 g d’épinards et une petite pincée de sel, puis fais-les cuire 2 à 3 minutes, juste jusqu’à ce qu’ils soient fondants. Laisse-les tiédir 2 minutes et presse l’excédent d’eau avec une spatule."
+        },
+        {
+          "title": "Garnis les croques",
+          "text": "Étale les 120 g de fromage frais et les 10 g de moutarde douce sur 4 tranches de pain de mie complet. Répartis les épinards essorés, les 250 g de mozzarella déchirée en petits morceaux et la moitié des 500 g de carottes râpées. Poivre doucement, puis ferme avec les 4 autres tranches de pain."
+        },
+        {
+          "title": "Dore doucement",
+          "text": "Fais fondre les 10 g de beurre doux ou d’huile d’olive restants dans une grande poêle sur feu moyen-doux. Fais cuire les 4 croques 3 à 4 minutes de chaque côté, avec un couvercle les 2 dernières minutes pour faire fondre les 250 g de mozzarella sans brûler le pain. Si la poêle est petite, cuis-les en deux fournées."
+        },
+        {
+          "title": "Sers sans attendre",
+          "text": "Coupe les croques en deux triangles et accompagne-les du reste des 500 g de carottes râpées. Pour les enfants, laisse les triangles refroidir 2 minutes : la mozzarella sera moins brûlante et plus facile à manger."
+        }
+      ]
+    },
+    {
       "slug": "croques-tomate-mozzarella-salade-concombre",
       "title": "Croques tomate, mozzarella et salade de concombre",
       "summary": "Le plat de mercredi, c'était des croques tomate-mozzarella tout doux, servis avec une salade de concombre au yaourt citronné. Tout reste volontairement simple pour un dîner végétarien de milieu de semaine : du pain doré, de la mozzarella fondante, des tomates, et une salade fraîche facile à adapter aux jeunes enfants.",
@@ -1826,6 +1934,114 @@
         {
           "title": "Servir en morceaux faciles",
           "text": "Laisse reposer les 4 flatbreads poivrons, maïs et mozzarella pendant 2 minutes, puis coupe les 4 flatbreads en quartiers. Pour les jeunes enfants, choisis les morceaux avec des 450 g de poivrons bien tendres et laisse tiédir les 250 g de mozzarella avant de servir."
+        }
+      ]
+    },
+    {
+      "slug": "frittata-carottes-rapees-petits-pois-mozzarella",
+      "title": "Frittata aux carottes râpées, petits pois et mozzarella",
+      "summary": "Le plat du vendredi, c'est une frittata douce et complète : les carottes fondent avec les petits pois, tandis que la mozzarella garde le centre moelleux. Les pommes de terre déjà cuites accélèrent le repas.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 20,
+      "total_time_minutes": 35,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "oeufs",
+        "rapide"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2455,
+        "calories_per_serving": 614,
+        "protein_g": 132,
+        "carbs_g": 226,
+        "fat_g": 116
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pommes de terre à chair ferme",
+          "quantity": "700 g",
+          "calories": 525,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Œufs moyens",
+          "quantity": "12",
+          "calories": 840,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "500 g",
+          "calories": 205,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Petits pois surgelés",
+          "quantity": "300 g",
+          "calories": 240,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "250 g",
+          "calories": 625,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "1 c. à soupe (15 ml)",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "100 ml",
+          "calories": 45,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel, poivre doux, paprika doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Précuire les pommes de terre",
+          "text": "Coupe 700 g de pommes de terre en petits dés de 1,5 cm. Fais-les cuire 8 à 10 minutes dans une grande casserole d'eau frémissante légèrement salée : elles doivent être presque tendres sans se défaire. Égoutte les 700 g de dés de pommes de terre."
+        },
+        {
+          "title": "Attendrir les légumes",
+          "text": "Chauffe 1 c. à soupe (15 ml) d'huile d'olive dans une grande poêle allant au four. Fais revenir 500 g de carottes finement râpées pendant 4 minutes, puis ajoute 300 g de petits pois surgelés et les 700 g de pommes de terre précuites. Cuits encore 3 minutes à feu moyen avec une pincée de sel, du poivre doux et un peu de paprika doux."
+        },
+        {
+          "title": "Préparer les œufs",
+          "text": "Bats 12 œufs moyens avec 100 ml de lait demi-écrémé, une petite pincée de sel et du poivre doux. Coupe 250 g de mozzarella en petits morceaux afin qu'elle fonde régulièrement."
+        },
+        {
+          "title": "Cuire la frittata",
+          "text": "Répartis les légumes dans la poêle, verse les 12 œufs battus, puis parsème les 250 g de mozzarella. Laisse prendre 5 minutes à feu doux, sans remuer, jusqu'à ce que les bords soient fermes."
+        },
+        {
+          "title": "Finir doucement",
+          "text": "Passe la poêle 8 à 10 minutes sous le gril du four doux ou dans un four préchauffé à 190 °C, jusqu'à ce que le centre ne tremble presque plus et que les 250 g de mozzarella soient fondants. Laisse reposer 3 minutes avant de couper : si le dessus colore trop vite, couvre simplement la poêle d'une feuille de papier cuisson."
         }
       ]
     },
@@ -4327,6 +4543,114 @@
       ]
     },
     {
+      "slug": "gratin-pommes-terre-precuites-chou-fleur-cheddar-doux",
+      "title": "Gratin de pommes de terre précuites, chou-fleur et cheddar doux",
+      "summary": "Un gratin très doux pour le jeudi : les pommes de terre sont précuites pour être vraiment fondantes, tandis que le chou-fleur garde une texture tendre sous une sauce légère au cheddar.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "total_time_minutes": 55,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "gratin",
+        "automne"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 3300,
+        "calories_per_serving": 825,
+        "protein_g": 120,
+        "carbs_g": 365,
+        "fat_g": 142
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pommes de terre à chair ferme",
+          "quantity": "1,2 kg",
+          "calories": 920,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chou-fleur",
+          "quantity": "900 g",
+          "calories": 225,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Cheddar doux râpé",
+          "quantity": "250 g",
+          "calories": 1000,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "500 ml",
+          "calories": 235,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Fécule de maïs",
+          "quantity": "30 g",
+          "calories": 115,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Beurre doux",
+          "quantity": "20 g",
+          "calories": 145,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Muscade moulue, sel et poivre doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Précuis les pommes de terre",
+          "text": "Préchauffe le four à 190 °C. Épluche 1,2 kg de pommes de terre et coupe-les en rondelles fines de 3 à 4 mm. Fais-les cuire 12 minutes dans une grande casserole d'eau frémissante légèrement salée : elles doivent commencer à s'attendrir sans se casser. Égoutte délicatement les 1,2 kg de pommes de terre."
+        },
+        {
+          "title": "Attendris le chou-fleur",
+          "text": "Détaille 900 g de chou-fleur en très petits bouquets. Fais cuire les 900 g de chou-fleur 6 minutes dans de l'eau frémissante ou à la vapeur, puis égoutte-le bien. Les bouquets doivent pouvoir être écrasés facilement par une fourchette, sans devenir en purée."
+        },
+        {
+          "title": "Prépare la sauce douce",
+          "text": "Dans une casserole, délaye 30 g de fécule de maïs avec 100 ml des 500 ml de lait demi-écrémé froid. Ajoute les 400 ml de lait restants, 15 g des 20 g de beurre doux, une pincée de muscade, peu de sel et du poivre doux. Chauffe en fouettant 4 à 5 minutes, jusqu'à obtenir une sauce nappante. Coupe le feu et incorpore 150 g des 250 g de cheddar doux râpé."
+        },
+        {
+          "title": "Monte le gratin",
+          "text": "Huile un grand plat avec les 15 ml d'huile d'olive. Répartis la moitié des 1,2 kg de pommes de terre précuites, les 900 g de chou-fleur, puis le reste des pommes de terre. Verse la sauce au lait et au cheddar doucement pour qu'elle passe entre les couches. Parsème les 100 g de cheddar doux râpé restants et les 5 g de beurre doux restants en petites noisettes."
+        },
+        {
+          "title": "Fais gratiner et sers",
+          "text": "Enfourne le plat 25 à 30 minutes à 190 °C, jusqu'à ce que le dessus soit doré et que la pointe d'un couteau traverse les pommes de terre sans résistance. Laisse reposer le gratin 5 minutes : il se découpera mieux et restera moelleux pour les enfants."
+        }
+      ]
+    },
+    {
       "slug": "gratin-pommes-de-terre-precuites-epinards-comte",
       "title": "Gratin de pommes de terre précuites, épinards et comté",
       "summary": "Le plat de jeudi, c'était un gratin familial végétarien : des pommes de terre coupées finement puis précuites, des épinards bien égouttés, une crème douce au lait et au comté, puis une fine couche gratinée. La précuisson des pommes de terre évite les rondelles encore fermes au milieu du plat.",
@@ -5903,6 +6227,115 @@
       ]
     },
     {
+      "slug": "orzotto-champignons-panais-rotis-comte-doux",
+      "title": "Orzotto aux champignons, panais rôtis et comté doux",
+      "summary": "Un dîner de mardi crémeux, sans geste délicat : les panais rôtissent pendant que l'orzo cuit doucement avec les champignons. Le comté doux est ajouté hors du feu pour une texture souple et appréciée des enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "orzo",
+        "champignons",
+        "panais"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 3100,
+        "calories_per_serving": 775,
+        "protein_g": 103,
+        "carbs_g": 415,
+        "fat_g": 115
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Orzo sec",
+          "quantity": "360 g",
+          "calories": 1260,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Champignons de Paris",
+          "quantity": "500 g",
+          "calories": 110,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Panais",
+          "quantity": "600 g",
+          "calories": 450,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Crème légère semi-épaisse",
+          "quantity": "200 ml",
+          "calories": 600,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté doux râpé",
+          "quantity": "100 g",
+          "calories": 410,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "2 c. à soupe (30 ml)",
+          "calories": 240,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Bouillon de légumes doux",
+          "quantity": "900 ml",
+          "calories": 30,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Thym séché, poivre doux, sel",
+          "quantity": "selon le goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Lance les panais rôtis",
+          "text": "Préchauffe le four à 200 °C. Épluche les 600 g de panais, coupe-les en petits bâtonnets ou en dés de 1,5 cm, puis mélange-les avec 1 c. à soupe (15 ml) d'huile d'olive, un peu de thym et de poivre doux. Étale les 600 g de panais sur une plaque et enfourne-les 25 à 30 minutes ; retourne-les à mi-cuisson pour qu'ils deviennent bien tendres et légèrement dorés."
+        },
+        {
+          "title": "Fais revenir les champignons",
+          "text": "Pendant ce temps, essuie puis émince les 500 g de champignons de Paris. Chauffe 1 c. à soupe (15 ml) d'huile d'olive dans une grande sauteuse et cuis les 500 g de champignons 7 à 8 minutes à feu moyen-vif, jusqu'à ce que leur eau se soit évaporée et qu'ils commencent à dorer. Cette coloration donne beaucoup de goût, sans ail, oignon ni échalote."
+        },
+        {
+          "title": "Fais cuire l'orzo",
+          "text": "Ajoute les 360 g d'orzo sec aux 500 g de champignons et remue 1 minute. Verse ensuite les 900 ml de bouillon de légumes doux chaud, en trois fois, en remuant régulièrement. Laisse mijoter 10 à 12 minutes à feu moyen : les 360 g d'orzo doivent être tendres, avec un peu de liquide crémeux au fond de la sauteuse. Ajoute un trait d'eau chaude si l'orzo absorbe tout avant d'être cuit."
+        },
+        {
+          "title": "Rends le plat crémeux",
+          "text": "Quand les 360 g d'orzo sont cuits, baisse le feu et incorpore les 200 ml de crème légère. Laisse épaissir 2 minutes en remuant doucement ; la sauce doit napper l'orzo sans le dessécher."
+        },
+        {
+          "title": "Ajoute le fromage et les légumes",
+          "text": "Coupe le feu, ajoute 80 g de comté doux râpé aux 360 g d'orzo et mélange jusqu'à ce qu'il fonde. Incorpore les 600 g de panais rôtis, en en gardant quelques morceaux de côté si les enfants préfèrent les éléments séparés. Répartis les 20 g de comté doux râpé restants sur les assiettes et sers aussitôt."
+        }
+      ]
+    },
+    {
       "slug": "orzotto-orge-perle-poivrons-tomates-feta",
       "title": "Orzotto d'orge perlé aux poivrons, tomates et feta",
       "summary": "Le plat de mardi, c'était un orzotto familial d'orge perlé, mijoté doucement avec des poivrons, des tomates et un bouillon doux. La feta est ajoutée en fin de cuisson pour apporter du fondant et du relief sans rendre le plat trop fort pour les enfants. L'orge doit rester tendre avec une légère mâche, dans une texture crémeuse et souple comme un risotto.",
@@ -6228,6 +6661,121 @@
         {
           "title": "Ajuste et sers",
           "text": "Ajoute peu à peu les 100 ml d'eau de cuisson réservée restants si la sauce devient trop épaisse : elle doit napper les 330 g de pâtes courtes sèches sans former un bloc. Goûte, puis ajoute du sel fin, du poivre doux ou une pincée de muscade selon goût. Ajoute éventuellement 1 c. à café de jus de citron et un peu de zeste du 1/2 citron doux facultatif dans les assiettes qui aiment une note plus fraîche."
+        }
+      ]
+    },
+    {
+      "slug": "pates-cremeuses-chou-kale-petits-pois-ricotta",
+      "title": "Pâtes crémeuses au chou kale, petits pois et ricotta",
+      "summary": "Le plat du lundi, c'était : des pâtes courtes très douces, enrobées de ricotta et ponctuées de chou kale bien tendre et de petits pois. Les tiges du kale sont retirées pour une texture simple à manger par les enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "total_time_minutes": 30,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "pates",
+        "kale",
+        "rapide"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2867,
+        "calories_per_serving": 717,
+        "protein_g": 119,
+        "carbs_g": 413,
+        "fat_g": 76
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâtes courtes semi-complètes",
+          "quantity": "400 g",
+          "calories": 1440,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chou kale",
+          "quantity": "250 g",
+          "calories": 125,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Petits pois surgelés",
+          "quantity": "300 g",
+          "calories": 240,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "350 g",
+          "calories": 595,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lait demi-écrémé",
+          "quantity": "150 ml",
+          "calories": 70,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Parmesan doux râpé",
+          "quantity": "60 g",
+          "calories": 258,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "1 c. à soupe (15 ml)",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "1 c. à soupe (15 ml)",
+          "calories": 4,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Noix de muscade, sel et poivre doux",
+          "quantity": "selon le goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer le kale et cuire les pâtes",
+          "text": "Retire les grosses tiges des 250 g de chou kale, lave les feuilles et émince-les finement. Fais cuire 400 g de pâtes courtes dans une grande casserole d'eau frémissante selon le temps indiqué. Réserve 200 ml d'eau de cuisson avant d'égoutter les 400 g de pâtes."
+        },
+        {
+          "title": "Attendrir les légumes",
+          "text": "Dans une grande sauteuse, chauffe 1 c. à soupe (15 ml) d'huile d'olive à feu moyen. Ajoute les 250 g de chou kale émincé avec 100 ml d'eau de cuisson réservée, couvre et laisse fondre 4 minutes. Ajoute les 300 g de petits pois surgelés et cuis encore 4 minutes : le kale doit être tendre, sans morceaux de tige fermes."
+        },
+        {
+          "title": "Faire la sauce douce",
+          "text": "Baisse sur feu doux et mélange dans la sauteuse les 350 g de ricotta, les 150 ml de lait demi-écrémé, 1 c. à soupe (15 ml) de jus de citron et une pincée de muscade. Détends avec les 100 ml d'eau de cuisson restants si nécessaire : la sauce doit devenir souple, sans bouillir fort."
+        },
+        {
+          "title": "Enrober les pâtes",
+          "text": "Ajoute les 400 g de pâtes cuites et 45 g de parmesan doux râpé dans la sauteuse. Mélange pendant 1 à 2 minutes pour que les pâtes soient bien enrobées des 250 g de kale, des 300 g de petits pois et de la ricotta. Goûte avant de saler et ajoute seulement un peu de poivre doux si besoin."
+        },
+        {
+          "title": "Servir",
+          "text": "Répartis les pâtes crémeuses dans les assiettes et propose les 15 g de parmesan doux râpé restants à part. Si la sauce a épaissi, ajoute une cuillère d'eau chaude et mélange : elle doit rester brillante et facile à attraper à la fourchette."
         }
       ]
     },
@@ -8270,6 +8818,115 @@
       ]
     },
     {
+      "slug": "pitas-houmous-doux-betterave-feta-pomme",
+      "title": "Pitas au houmous doux, betterave, feta et pomme",
+      "summary": "Un déjeuner du samedi prêt en un quart d'heure : des pitas souples, une garniture douce et colorée, et la feta servie à part si les enfants la préfèrent ainsi. Choisir un houmous explicitement sans ail cru.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 15,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "rapide",
+        "pitas"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 1829,
+        "calories_per_serving": 457,
+        "protein_g": 63,
+        "carbs_g": 217,
+        "fat_g": 76
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pains pitas",
+          "quantity": "240 g, soit 4 pains moyens",
+          "calories": 660,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Houmous doux sans ail cru",
+          "quantity": "260 g",
+          "calories": 430,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Betteraves cuites",
+          "quantity": "300 g",
+          "calories": 130,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Feta douce",
+          "quantity": "160 g",
+          "calories": 424,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pommes croquantes",
+          "quantity": "300 g, soit 2 pommes",
+          "calories": 156,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jeunes pousses d'épinards",
+          "quantity": "100 g",
+          "calories": 23,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Jus de citron",
+          "quantity": "20 ml",
+          "calories": 6,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poivre doux",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les garnitures",
+          "text": "Égoutte soigneusement 300 g de betteraves cuites, puis coupe les 300 g de betteraves cuites en tout petits dés. Rince 100 g de jeunes pousses d'épinards et essore-les bien. Coupe les 300 g de pommes, soit 2 pommes, en fins bâtonnets juste avant de servir pour qu'elles restent croquantes."
+        },
+        {
+          "title": "Assaisonner la betterave",
+          "text": "Mélange les 300 g de betteraves cuites avec 20 ml de jus de citron et un peu de poivre doux. Cette petite touche de citron réveille les 300 g de betteraves cuites sans rendre la garniture forte pour les enfants."
+        },
+        {
+          "title": "Assouplir les pitas",
+          "text": "Réchauffe les 4 pains pitas moyens, soit 240 g, pendant 30 secondes à 1 minute dans une poêle sèche ou au grille-pain, juste pour que les 240 g de pains pitas deviennent souples. Ouvre délicatement les 4 pains pitas en deux sans les déchirer."
+        },
+        {
+          "title": "Garnir les pitas",
+          "text": "Répartis les 260 g de houmous doux sans ail cru dans les 4 pains pitas, soit environ 65 g de houmous par pita. Ajoute les 100 g de jeunes pousses d'épinards, les 300 g de betteraves cuites assaisonnées et les 300 g de pomme. Émiette les 160 g de feta douce sur les pitas, ou présente une partie des 160 g de feta douce à côté pour les enfants."
+        },
+        {
+          "title": "Servir tout de suite",
+          "text": "Coupe les 4 pitas garnis de 260 g de houmous, 300 g de betteraves, 160 g de feta, 300 g de pomme et 100 g de jeunes pousses en deux. Pour les plus jeunes, sers une demi-pita avec une partie des 300 g de pomme et des 160 g de feta douce séparément afin qu'ils puissent composer leur bouchée."
+        }
+      ]
+    },
+    {
       "slug": "pitas-chevre-frais-carottes-concombre-haricots-blancs",
       "title": "Pitas chèvre frais, carottes râpées, concombre et haricots blancs",
       "summary": "Déjeuner léger du dimanche, prêt sans cuisson avant un dîner plus travaillé : des pains pita souples garnis de chèvre frais, carottes râpées, concombre croquant et haricots blancs bien rincés. L'assaisonnement reste doux, citronné et sans ail cru, oignon cru ni échalote crue, avec des crudités coupées finement pour les jeunes enfants.",
@@ -10114,6 +10771,122 @@
       ]
     },
     {
+      "slug": "ravioles-epinards-creme-douce-brocoli",
+      "title": "Ravioles aux épinards, crème douce et brocoli",
+      "summary": "Le plat de mercredi, c'était : ravioles aux épinards, crème douce et brocoli. Un dîner très rapide où les ravioles cuisent doucement dans une sauce crémeuse aux épinards, pendant que de petits bouquets de brocoli deviennent bien tendres. Les saveurs restent douces et les éléments peuvent être servis côte à côte aux enfants. Pour 2 adultes + 2 jeunes enfants   Temps : 10 min de préparation + 15 min de cuisson",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 25,
+      "difficulty": "tres facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "mercredi",
+        "tres-simple",
+        "ravioles",
+        "epinards",
+        "brocoli"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2185,
+        "calories_per_serving": 546,
+        "protein_g": 96,
+        "carbs_g": 205,
+        "fat_g": 108
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Ravioles fraîches végétariennes",
+          "quantity": "480 g",
+          "calories": 1370,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Brocoli",
+          "quantity": "400 g",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Épinards frais ou surgelés",
+          "quantity": "250 g",
+          "calories": 58,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Crème légère 15 %",
+          "quantity": "200 ml",
+          "calories": 325,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Parmesan doux râpé",
+          "quantity": "50 g",
+          "calories": 216,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 ml",
+          "calories": 80,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Eau chaude",
+          "quantity": "120 ml, puis 2 à 3 c. à soupe si besoin",
+          "calories": 0,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel fin, poivre doux et muscade",
+          "quantity": "selon goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer le brocoli",
+          "text": "Coupe 400 g de brocoli en très petits bouquets et rince-les. Fais cuire les 400 g de brocoli 6 à 7 minutes dans de l'eau frémissante ou à la vapeur, jusqu'à ce qu'une pointe de couteau les traverse facilement. Égoutte les 400 g de brocoli et réserve-les."
+        },
+        {
+          "title": "Faire fondre les épinards",
+          "text": "Chauffe 10 ml d'huile d'olive dans une grande sauteuse à feu moyen. Ajoute 250 g d'épinards frais ou surgelés avec une petite pincée de sel, puis fais cuire les 250 g d'épinards 4 à 6 minutes, jusqu'à ce qu'ils soient fondants et qu'ils aient perdu leur excès d'eau."
+        },
+        {
+          "title": "Préparer la sauce douce",
+          "text": "Verse 200 ml de crème légère 15 % et 120 ml d'eau chaude sur les 250 g d'épinards. Ajoute un peu de poivre doux et une très petite pincée de muscade, puis mélange les 200 ml de crème légère, les 120 ml d'eau chaude et les 250 g d'épinards à feu doux."
+        },
+        {
+          "title": "Cuire les ravioles sans les casser",
+          "text": "Sépare délicatement 480 g de ravioles fraîches végétariennes en plaques ou en larges bandes. Glisse les 480 g de ravioles fraîches dans la sauce aux 250 g d'épinards, aux 200 ml de crème légère et aux 120 ml d'eau chaude. Couvre et laisse frémir les 480 g de ravioles 2 à 3 minutes à feu doux, en secouant légèrement la sauteuse plutôt qu'en remuant vivement."
+        },
+        {
+          "title": "Ajouter le brocoli et le fromage",
+          "text": "Ajoute les 400 g de brocoli tendres et répartis 50 g de parmesan doux râpé sur les 480 g de ravioles. Couvre encore 1 minute, juste le temps que les 50 g de parmesan doux râpé fondent. Si la sauce devient trop épaisse, ajoute 2 à 3 c. à soupe d'eau chaude autour des 480 g de ravioles."
+        },
+        {
+          "title": "Servir tout de suite",
+          "text": "Laisse reposer les 480 g de ravioles, les 400 g de brocoli, les 250 g d'épinards, les 200 ml de crème légère et les 50 g de parmesan doux râpé pendant 1 minute hors du feu. Sers sans attendre ; pour les jeunes enfants, coupe les plaques de ravioles et présente une partie des 400 g de brocoli à côté si cela les aide."
+        }
+      ]
+    },
+    {
       "slug": "ravioles-epinards-creme-douce-carottes-rapees",
       "title": "Ravioles aux épinards, crème douce et carottes râpées",
       "summary": "Le plat de mercredi, c'était : ravioles aux épinards, crème douce et carottes râpées. Un dîner végétarien très simple pour le mercredi soir : des ravioles fraîches cuites doucement dans une crème aux épinards, un peu de parmesan doux pour lier, et des carottes râpées servies à côté pour apporter de la fraîcheur. La cuisson reste courte et délicate pour garder les ravioles entières. Pour 2 adultes + 2 jeunes enfants   Temps : 10 min préparation + 15 min cuisson",
@@ -11450,6 +12223,120 @@
         {
           "title": "Servir avec le pain",
           "text": "Découpe 220 g de pain complet en tranches ou en petits morceaux adaptés aux enfants. Répartis la salade en deux portions adultes et deux portions plus petites, puis sers le pain à côté. Pour commencer, compte environ 75 g de pain par adulte et 35 g par enfant, à ajuster selon l'appétit."
+        }
+      ]
+    },
+    {
+      "slug": "salade-lentilles-carottes-roties-pomme-chevre-frais",
+      "title": "Salade de lentilles, carottes rôties, pomme et chèvre frais",
+      "summary": "Un déjeuner de dimanche doux et léger, mais suffisamment rassasiant grâce aux lentilles et au chèvre frais. Les éléments peuvent être présentés séparément aux enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "lunch"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 40,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "dejeuner",
+        "automne"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2460,
+        "calories_per_serving": 615,
+        "protein_g": 87,
+        "carbs_g": 315,
+        "fat_g": 106
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Lentilles vertes sèches",
+          "quantity": "250 g",
+          "calories": 845,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "600 g",
+          "calories": 246,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "25 ml",
+          "calories": 221,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pommes croquantes",
+          "quantity": "300 g",
+          "calories": 156,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Chèvre frais",
+          "quantity": "180 g",
+          "calories": 500,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Mâche",
+          "quantity": "100 g",
+          "calories": 20,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Noix",
+          "quantity": "70 g",
+          "calories": 458,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "15 g",
+          "calories": 10,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Vinaigre de cidre",
+          "quantity": "20 ml",
+          "calories": 4,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Cuire les lentilles",
+          "text": "Rince 250 g de lentilles vertes, couvre-les largement d'eau froide non salée et fais-les cuire 22 à 25 minutes à petits frémissements. Elles doivent être tendres tout en restant entières. Égoutte les 250 g de lentilles vertes et laisse-les tiédir dans un grand saladier."
+        },
+        {
+          "title": "Rôtir les carottes",
+          "text": "Préchauffe le four à 200 °C. Épluche 600 g de carottes, coupe-les en demi-rondelles fines, puis mélange-les sur une plaque avec 15 ml d'huile d'olive, du sel et du poivre. Fais rôtir les 600 g de carottes pendant 20 à 25 minutes, jusqu'à ce qu'elles soient fondantes et légèrement dorées."
+        },
+        {
+          "title": "Préparer la garniture",
+          "text": "Lave 100 g de mâche. Coupe 300 g de pommes en petits dés juste avant le service et émiette 180 g de chèvre frais. Concasse 70 g de noix ; pour les jeunes enfants, propose les 70 g de noix très finement concassées ou à part."
+        },
+        {
+          "title": "Assaisonner",
+          "text": "Dans un petit bol, fouette 10 ml d'huile d'olive, 15 g de moutarde douce et 20 ml de vinaigre de cidre avec une pincée de sel. Verse cette vinaigrette sur les 250 g de lentilles tièdes, puis mélange pour les enrober sans les écraser."
+        },
+        {
+          "title": "Assembler doucement",
+          "text": "Attends que les 600 g de carottes rôties soient tièdes, puis ajoute-les aux lentilles avec les 100 g de mâche, les 300 g de pommes, les 180 g de chèvre frais et les 70 g de noix. Mélange délicatement ou dispose les éléments séparément dans les assiettes pour un service plus facile aux enfants."
         }
       ]
     },
@@ -13397,6 +14284,120 @@
         {
           "title": "Servir frais ou tiède",
           "text": "Goûte le taboulé avec les 260 g de semoule de couscous moyenne, les 240 g de pois chiches cuits égouttés, les 400 g d'abricots frais, les 300 g de concombre, les 150 g de feta, les 25 ml d'huile d'olive et les 30 ml de jus de citron. Ajuste avec un peu de sel fin seulement si nécessaire, car les 150 g de feta apportent déjà du sel. Sers frais, ou tiède si la semoule vient juste d'être préparée."
+        }
+      ]
+    },
+    {
+      "slug": "tarte-fine-poireaux-fondants-ricotta-mozzarella",
+      "title": "Tarte fine aux poireaux fondants, ricotta et mozzarella",
+      "summary": "Une tarte du samedi à partager, avec des poireaux très fondants et une garniture douce. La ricotta garde l'ensemble moelleux tandis que la mozzarella dore juste assez pour plaire aux enfants.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "tarte",
+        "samedi"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2630,
+        "calories_per_serving": 658,
+        "protein_g": 91,
+        "carbs_g": 207,
+        "fat_g": 160
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Pâte feuilletée pur beurre",
+          "quantity": "280 g",
+          "calories": 1120,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Poireaux",
+          "quantity": "600 g",
+          "calories": 185,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Ricotta",
+          "quantity": "250 g",
+          "calories": 430,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Mozzarella",
+          "quantity": "200 g",
+          "calories": 500,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Crème légère",
+          "quantity": "100 ml",
+          "calories": 150,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Moutarde douce",
+          "quantity": "20 g",
+          "calories": 30,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "15 ml",
+          "calories": 135,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Thym séché",
+          "quantity": "1 c. à café",
+          "calories": 5,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Sel et poivre doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préchauffer et préparer la pâte",
+          "text": "Préchauffe le four à 200 °C. Déroule 280 g de pâte feuilletée sur une plaque avec son papier cuisson, pique-la avec une fourchette et réserve-la au frais le temps de préparer les poireaux."
+        },
+        {
+          "title": "Faire fondre les poireaux",
+          "text": "Lave soigneusement puis émince finement 600 g de poireaux. Fais-les cuire à couvert dans une grande poêle avec 15 ml d'huile d'olive, une pincée de sel et 1 c. à café de thym séché pendant 12 à 15 minutes. Ajoute 100 ml de crème légère en fin de cuisson et poursuis 2 minutes, jusqu'à ce que les poireaux soient très tendres et qu'il ne reste presque plus de liquide. Laisse tiédir quelques minutes : cette étape évite de détremper la pâte."
+        },
+        {
+          "title": "Garnir la tarte",
+          "text": "Étale 20 g de moutarde douce sur les 280 g de pâte feuilletée, en laissant un bord de 2 cm. Répartis 250 g de ricotta en petites cuillerées, puis les 600 g de poireaux fondants. Déchire 200 g de mozzarella sur la garniture et ajoute un peu de poivre doux."
+        },
+        {
+          "title": "Cuire jusqu'à coloration",
+          "text": "Replie légèrement le bord des 280 g de pâte feuilletée et enfourne la tarte à 200 °C pendant 22 à 25 minutes. La pâte doit être dorée dessous et le fromage juste gratiné. Si le dessus colore trop vite, couvre la tarte d'une feuille de papier cuisson en fin de cuisson."
+        },
+        {
+          "title": "Servir",
+          "text": "Laisse reposer la tarte fine 5 minutes avant de la couper en parts. Propose une crudité ou une petite salade à côté pour les adultes ; les enfants peuvent recevoir une part avec les poireaux bien fondants et une croûte facile à manger."
         }
       ]
     },
@@ -15981,6 +16982,121 @@
         {
           "title": "Servir doucement",
           "text": "Goûte le velouté préparé avec 700 g de courgettes, 250 g de petits pois, 350 g de pommes de terre, 150 ml de lait demi-écrémé et 10 ml de jus de citron, puis ajuste le sel et le poivre doux. Sers le velouté avec les 6 tartines de pain de campagne au comté ; coupe les tartines des enfants en bandes et laisse le velouté tiédir quelques minutes dans leurs bols."
+        }
+      ]
+    },
+    {
+      "slug": "veloute-butternut-carottes-lentilles-corail-tartines-comte",
+      "title": "Velouté de butternut, carottes et lentilles corail, tartines au comté",
+      "summary": "Le plat de dimanche, c'est un velouté très doux et bien lisse, enrichi de lentilles corail pour en faire un vrai repas. Les tartines au comté se servent à part : une façon simple de laisser chaque enfant doser ce qu'il aime. Pour 2 adultes + 2 jeunes enfants. Temps : 15 min de préparation + 30 min de cuisson, soit environ 45 min.",
+      "servings": "2 adultes + 2 jeunes enfants",
+      "vegetarian": true,
+      "meal_types": [
+        "dinner"
+      ],
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 45,
+      "difficulty": "facile",
+      "tags": [
+        "famille",
+        "vegetarien",
+        "diner",
+        "veloute",
+        "butternut",
+        "lentilles-corail",
+        "tartines"
+      ],
+      "raw_alliums": {
+        "garlic": false,
+        "onion": false,
+        "shallot": false
+      },
+      "nutrition": {
+        "calories_total": 2436,
+        "calories_per_serving": 609,
+        "protein_g": 104,
+        "carbs_g": 355,
+        "fat_g": 78
+      },
+      "used_in_weeks": [
+        "2026-W46"
+      ],
+      "status": "active",
+      "ingredients": [
+        {
+          "name": "Courge butternut",
+          "quantity": "750 g nets, prévoir environ 1 kg à l'achat",
+          "calories": 338,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Carottes",
+          "quantity": "300 g",
+          "calories": 123,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Lentilles corail sèches",
+          "quantity": "150 g",
+          "calories": 525,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Bouillon de légumes doux",
+          "quantity": "1 l",
+          "calories": 20,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Pain de campagne",
+          "quantity": "280 g, soit environ 8 tranches",
+          "calories": 700,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Comté doux râpé",
+          "quantity": "160 g",
+          "calories": 640,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Huile d'olive",
+          "quantity": "10 g, soit 1 cuillère à soupe",
+          "calories": 90,
+          "section": "Ingrédients"
+        },
+        {
+          "name": "Muscade douce, sel fin, poivre doux",
+          "quantity": "au goût",
+          "calories": 0,
+          "section": "Ingrédients"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Préparer les légumes",
+          "text": "Épluche environ 1 kg de courge butternut, retire les graines puis coupe 750 g nets de butternut en petits dés. Épluche et coupe 300 g de carottes en fines rondelles. Rince 150 g de lentilles corail sèches dans une passoire fine jusqu'à ce que l'eau soit presque claire."
+        },
+        {
+          "title": "Démarrer le velouté",
+          "text": "Chauffe 10 g d'huile d'olive dans une grande casserole à feu moyen. Ajoute les 750 g de butternut, les 300 g de carottes, les 150 g de lentilles corail rincées, une pincée de muscade douce, de sel fin et de poivre doux. Remue les légumes et les lentilles pendant 2 minutes avec les 10 g d'huile d'olive, sans les laisser colorer."
+        },
+        {
+          "title": "Cuire doucement",
+          "text": "Verse 1 l de bouillon de légumes doux sur les 750 g de butternut, les 300 g de carottes et les 150 g de lentilles corail. Porte à petit frémissement, couvre à moitié et cuis 22 à 25 minutes. Les dés de butternut et les rondelles de carottes doivent s'écraser facilement, et les 150 g de lentilles corail doivent être très tendres."
+        },
+        {
+          "title": "Gratiner les tartines",
+          "text": "Pendant la cuisson, dispose les 280 g de pain de campagne, soit environ 8 tranches, sur une plaque. Répartis les 160 g de comté doux râpé sur les 8 tranches de pain, puis enfourne 6 à 8 minutes à 190 °C, jusqu'à ce que les 160 g de comté soient fondus et légèrement dorés. Laisse tiédir les tartines des enfants."
+        },
+        {
+          "title": "Mixer très lisse",
+          "text": "Hors du feu, mixe les 750 g de butternut, les 300 g de carottes, les 150 g de lentilles corail et le 1 l de bouillon jusqu'à obtenir un velouté parfaitement lisse. Ajoute 50 à 150 ml d'eau chaude si le velouté paraît trop épais, puis mixe encore ; ajuste avec un peu de sel ou de muscade douce."
+        },
+        {
+          "title": "Servir séparément",
+          "text": "Répartis le velouté de 750 g de butternut, 300 g de carottes et 150 g de lentilles corail dans deux grands bols et deux petits bols. Sers les 8 tartines au comté à côté : deux tranches par adulte et une tranche par enfant, avec les deux tartines restantes à partager selon l'appétit."
         }
       ]
     },

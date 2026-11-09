@@ -1,5 +1,16 @@
 {
-  "week": null,
-  "status": "empty",
-  "days": []
+  "week": "2026-W45",
+  "title": "Semaine 2026-W45",
+  "start_date": "2026-11-02",
+  "end_date": "2026-11-08",
+  "status": "planned",
+  "days": [
+    {"label":"Lundi 2026-11-02","date":"2026-11-02","meals":[{"type":"dinner","type_label":"Dîner","recipe_slug":"pates-cremeuses-epinards-haricots-blancs-parmesan-doux","recipe_title":"Pâtes crémeuses aux épinards, haricots blancs et parmesan doux"}]},
+    {"label":"Mardi 2026-11-03","date":"2026-11-03","meals":[{"type":"dinner","type_label":"Dîner","recipe_slug":"blesotto-champignons-carottes-roties-parmesan-doux","recipe_title":"Blésotto aux champignons, carottes rôties et parmesan doux"}]},
+    {"label":"Mercredi 2026-11-04","date":"2026-11-04","meals":[{"type":"lunch","type_label":"Déjeuner","recipe_slug":"wraps-houmous-doux-carottes-oeufs-mais","recipe_title":"Wraps de houmous doux, carottes râpées, œufs durs et maïs"},{"type":"dinner","type_label":"Dîner","recipe_slug":"gnocchis-sauce-tomate-douce-epinards-mozzarella-fondante","recipe_title":"Gnocchis sauce tomate douce, épinards et mozzarella fondante"}]},
+    {"label":"Jeudi 2026-11-05","date":"2026-11-05","meals":[{"type":"dinner","type_label":"Dîner","recipe_slug":"gratin-pommes-terre-precuites-blettes-ricotta-comte","recipe_title":"Gratin de pommes de terre précuites, blettes, ricotta et comté"}]},
+    {"label":"Vendredi 2026-11-06","date":"2026-11-06","meals":[{"type":"dinner","type_label":"Dîner","recipe_slug":"frittata-poireaux-epinards-feta-douce","recipe_title":"Frittata aux poireaux fondants, épinards et feta douce"}]},
+    {"label":"Samedi 2026-11-07","date":"2026-11-07","meals":[{"type":"lunch","type_label":"Déjeuner","recipe_slug":"salade-boulgour-betterave-pomme-pois-chiches-feta","recipe_title":"Salade de boulgour, betterave, pomme, pois chiches et feta"},{"type":"dinner","type_label":"Dîner","recipe_slug":"pizza-brocoli-champignons-mozzarella","recipe_title":"Pizza maison au brocoli, champignons et mozzarella"}]},
+    {"label":"Dimanche 2026-11-08","date":"2026-11-08","meals":[{"type":"lunch","type_label":"Déjeuner","recipe_slug":"tartines-houmous-doux-carottes-oeufs-durs","recipe_title":"Tartines de houmous doux, carottes râpées et œufs durs"},{"type":"dinner","type_label":"Dîner","recipe_slug":"veloute-poireaux-carottes-lentilles-corail-tartines-comte","recipe_title":"Velouté de poireaux, carottes et lentilles corail, tartines au comté"}]}
+  ]
 }

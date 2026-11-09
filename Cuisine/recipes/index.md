@@ -1,5 +1,18 @@
 # Index des recettes
 
+## Semaine 2026-W46
+
+- [[croques-epinards-mozzarella-carottes-rapees|Croques moelleux aux épinards, mozzarella et carottes râpées]]
+- [[frittata-carottes-rapees-petits-pois-mozzarella|Frittata aux carottes râpées, petits pois et mozzarella]]
+- [[gratin-pommes-terre-precuites-chou-fleur-cheddar-doux|Gratin de pommes de terre précuites, chou-fleur et cheddar doux]]
+- [[orzotto-champignons-panais-rotis-comte-doux|Orzotto aux champignons, panais rôtis et comté doux]]
+- [[pates-cremeuses-chou-kale-petits-pois-ricotta|Pâtes crémeuses au chou kale, petits pois et ricotta]]
+- [[pitas-houmous-doux-betterave-feta-pomme|Pitas au houmous doux, betterave, feta et pomme]]
+- [[ravioles-epinards-creme-douce-brocoli|Ravioles aux épinards, crème douce et brocoli]]
+- [[salade-lentilles-carottes-roties-pomme-chevre-frais|Salade de lentilles, carottes rôties, pomme et chèvre frais]]
+- [[tarte-fine-poireaux-fondants-ricotta-mozzarella|Tarte fine aux poireaux fondants, ricotta et mozzarella]]
+- [[veloute-butternut-carottes-lentilles-corail-tartines-comte|Velouté de butternut, carottes et lentilles corail, tartines au comté]]
+
 ## Semaine 2026-W25
 
 - [[frittata-petits-pois-pommes-de-terre-tomates|Frittata petits pois, pommes de terre et tomates]]

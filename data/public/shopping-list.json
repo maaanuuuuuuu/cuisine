@@ -1,10 +1,14 @@
 {
-  "week":"2026-W45", "title":"Liste de courses 2026-W45", "status":"planned", "pantry_basics_included":true,
-  "sections":[
-    {"name":"Fruits et légumes","items":[{"name":"Carottes","quantity":"2,1 kg"},{"name":"Poireaux","quantity":"1,1 kg"},{"name":"Épinards","quantity":"800 g"},{"name":"Blettes","quantity":"600 g"},{"name":"Brocoli","quantity":"900 g"},{"name":"Champignons de Paris","quantity":"700 g"},{"name":"Betteraves cuites","quantity":"500 g"},{"name":"Pommes","quantity":"300 g"},{"name":"Pommes de terre","quantity":"1,4 kg"}]},
-    {"name":"Boulangerie","items":[{"name":"Pain de campagne ou complet","quantity":"1,1 kg"},{"name":"Pâte à pizza","quantity":"500 g"},{"name":"Tortillas de blé","quantity":"8 grandes"}]},
-    {"name":"Épicerie salée","items":[{"name":"Pâtes courtes sèches","quantity":"330 g"},{"name":"Blé précuit","quantity":"320 g"},{"name":"Boulgour sec","quantity":"280 g"},{"name":"Gnocchis","quantity":"800 g"},{"name":"Passata nature","quantity":"850 g"},{"name":"Haricots blancs cuits égouttés","quantity":"400 g"},{"name":"Pois chiches cuits égouttés","quantity":"800 g"},{"name":"Lentilles corail sèches","quantity":"200 g"},{"name":"Maïs doux","quantity":"1 petite boîte"},{"name":"Houmous doux sans ail cru","quantity":"560 g"}]},
-    {"name":"Frais","items":[{"name":"Œufs moyens","quantity":"20"},{"name":"Mozzarella","quantity":"700 g"},{"name":"Ricotta","quantity":"350 g"},{"name":"Comté râpé","quantity":"430 g"},{"name":"Parmesan doux râpé","quantity":"160 g"},{"name":"Feta douce","quantity":"360 g"}]},
-    {"name":"Basiques et épices","items":[{"name":"Sel fin","quantity":""},{"name":"Poivre doux","quantity":""},{"name":"Muscade","quantity":""},{"name":"Origan séché","quantity":""}]}
+  "week": "2026-W46",
+  "title": "Liste de courses 2026-W46",
+  "status": "planned",
+  "pantry_basics_included": true,
+  "sections": [
+    {"name":"Fruits et légumes","items":[{"name":"Chou kale","quantity":"250 g"},{"name":"Épinards frais","quantity":"650 g"},{"name":"Jeunes pousses d'épinards","quantity":"100 g"},{"name":"Mâche","quantity":"100 g"},{"name":"Brocoli","quantity":"400 g"},{"name":"Carottes","quantity":"1,9 kg"},{"name":"Champignons de Paris","quantity":"500 g"},{"name":"Chou-fleur","quantity":"900 g"},{"name":"Panais","quantity":"600 g"},{"name":"Poireaux","quantity":"600 g"},{"name":"Pommes de terre à chair ferme","quantity":"1,9 kg"},{"name":"Courge butternut","quantity":"1 kg"},{"name":"Betteraves cuites","quantity":"300 g"},{"name":"Pommes croquantes","quantity":"600 g"},{"name":"Citron","quantity":"1"}]},
+    {"name":"Boulangerie","items":[{"name":"Pain de mie complet","quantity":"8 grandes tranches"},{"name":"Pains pitas","quantity":"4 moyens"},{"name":"Pain de campagne","quantity":"8 tranches"}]},
+    {"name":"Épicerie salée","items":[{"name":"Pâtes courtes semi-complètes","quantity":"400 g"},{"name":"Orzo sec","quantity":"360 g"},{"name":"Lentilles vertes sèches","quantity":"250 g"},{"name":"Lentilles corail sèches","quantity":"150 g"},{"name":"Houmous doux sans ail cru","quantity":"260 g"},{"name":"Pâte feuilletée pur beurre","quantity":"280 g"},{"name":"Fécule de maïs","quantity":"30 g"},{"name":"Bouillon de légumes doux","quantity":"1,9 l"},{"name":"Moutarde douce","quantity":"45 g"},{"name":"Vinaigre de cidre","quantity":"20 ml"},{"name":"Noix","quantity":"70 g"},{"name":"Huile d'olive","quantity":"100 ml"}]},
+    {"name":"Surgelé","items":[{"name":"Petits pois surgelés","quantity":"600 g"}]},
+    {"name":"Frais","items":[{"name":"Ravioles fraîches végétariennes","quantity":"480 g"},{"name":"Œufs moyens","quantity":"12"},{"name":"Lait demi-écrémé","quantity":"750 ml"},{"name":"Crème légère","quantity":"500 ml"},{"name":"Ricotta","quantity":"600 g"},{"name":"Mozzarella","quantity":"700 g"},{"name":"Fromage frais nature","quantity":"120 g"},{"name":"Cheddar doux râpé","quantity":"250 g"},{"name":"Comté doux râpé","quantity":"260 g"},{"name":"Parmesan doux râpé","quantity":"110 g"},{"name":"Feta douce","quantity":"160 g"},{"name":"Chèvre frais","quantity":"180 g"},{"name":"Beurre doux","quantity":"35 g"}]},
+    {"name":"Basiques et épices","items":[{"name":"Sel fin","quantity":""},{"name":"Poivre doux","quantity":""},{"name":"Muscade moulue","quantity":""},{"name":"Thym séché","quantity":""},{"name":"Paprika doux","quantity":""}]}
   ]
 }
